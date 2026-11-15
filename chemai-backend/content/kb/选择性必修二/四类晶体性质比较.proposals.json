@@ -1,0 +1,52 @@
+{
+  "doc": "四类晶体性质比较.md",
+  "kp": "M4-T3-KP07",
+  "edges": [
+    {
+      "edge_type": "prerequisite",
+      "from_kp": "M4-T3-KP04",
+      "to_kp": "M4-T3-KP07",
+      "reason": "共价晶体是四类之一"
+    },
+    {
+      "edge_type": "prerequisite",
+      "from_kp": "M4-T3-KP05",
+      "to_kp": "M4-T3-KP07",
+      "reason": "金属晶体是四类之一"
+    },
+    {
+      "edge_type": "prerequisite",
+      "from_kp": "M4-T3-KP06",
+      "to_kp": "M4-T3-KP07",
+      "reason": "离子晶体是四类之一"
+    },
+    {
+      "edge_type": "relates_to",
+      "kp": "M4-T3-KP07",
+      "substance": "二氧化硅",
+      "formula": "SiO2",
+      "role": "共价晶体排序代表"
+    },
+    {
+      "edge_type": "relates_to",
+      "kp": "M4-T3-KP07",
+      "substance": "氯化钠",
+      "formula": "NaCl",
+      "role": "离子晶体排序代表"
+    },
+    {
+      "edge_type": "relates_to",
+      "kp": "M4-T3-KP07",
+      "substance": "钠",
+      "formula": "Na",
+      "role": "金属晶体排序代表"
+    },
+    {
+      "edge_type": "relates_to",
+      "kp": "M4-T3-KP07",
+      "substance": "二氧化碳",
+      "formula": "CO2",
+      "role": "分子晶体排序代表"
+    }
+  ]
+}

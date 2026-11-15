@@ -1,0 +1,14 @@
+{
+  "doc": "煤、石油和天然气的综合利用.md",
+  "kp": "M2-T5-KP03",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP04", "to_kp": "M2-T5-KP03",
+     "reason": "石油裂解的产品是乙烯、丙烯，先认识烯烃"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP05", "to_kp": "M2-T5-KP03",
+     "reason": "煤焦油中含苯等芳香烃，先认识苯"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP03", "substance": "甲烷", "formula": "CH4", "role": "天然气主要成分"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP03", "substance": "一氧化碳", "formula": "CO", "role": "水煤气成分"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP03", "substance": "氢气", "formula": "H2", "role": "水煤气/甲烷转化产物"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP03", "substance": "辛烷", "formula": "C8H18", "role": "裂化产物，汽油成分"}
+  ]
+}

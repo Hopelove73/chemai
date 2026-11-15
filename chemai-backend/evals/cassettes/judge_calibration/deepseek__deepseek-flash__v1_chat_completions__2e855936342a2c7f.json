@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjdmNmM4Mjk2LTc1NjEtNGFjNi05NGM4LTMzNDhkODY4MmE2ZCIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjQ5OTYsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDAsIFwiY29uZmlkZW5jZVwiOiBcImhpZ2hcIiwgXCJyYXRpb25hbGVcIjogXCLmraPnoa7mgKfvvJrlrpjmlrnnrZTmoYjkuLpC77yM5bqU5Yik5ruh5YiG77yM5L2G5b6F6K+E5Yik5YiG57uZMOWIhu+8jOS4jum7hOmHkeetlOahiOWujOWFqOebuOWPje+8jOato+ehruaAp+e7tOW6puW+lzDliIbjgILpg6jliIbliIbvvJror6XpopjkuLrljZXmraXorqHnrpfpopjvvIznrZTmoYjmraPnoa7lupTnm7TmjqXmu6HliIbvvIzkuI3lrZjlnKjlkIjnkIbpg6jliIbmiaPliIbvvIzliKQw5YiG5LiN5ZCI55CG44CC5LiA6Ie05oCn77ya5Yik5YiG5LiO6buE6YeR5qCH5YeG5LiN5LiA6Ie077yM5LiU5peg5L6d5o2u6K+05piO6K+l6aKY5bqU5omj5YiG77yM5LiA6Ie05oCn57u05bqm5beu44CCXCIsIFwic2V2ZXJlX2ZsYWdzXCI6IFtdfSIsInJlYXNvbmluZ19jb250ZW50IjoiV2UgbmVlZCBhbnN3ZXIgb25seSBKU09OLiBOZWVkIGV2YWx1YXRlLiBXZSBuZWVkIHBhcnNlIHRhc2suIFdlIGFyZSBqdWRnZSBmb3IgQ2hlbUFJIGNoZW1pY2FsIGVkdWNhdGlvbiBhZ2VudCwgXCLliKTljbdcIiBmYW1pbHkuIFJ1YnJpYzogY29ycmVjdG5lc3NfdnNfZ29sZGVuIHdlaWdodCAwLjY6IHBlci1xdWVzdGlvbiBqdWRnaW5nIGNvcnJlY3RuZXNzIHZzIGdvbGRlbi4gcGFydGlhbF9jcmVkaXQgMC4yOiBtdWx0aS1zdGVwIHBhcnRpYWwgY3JlZGl0IHJlYXNvbmFibGUuIGNvbnNpc3RlbmN5IDAuMjogc2FtZSB0eXBlIGVycm9yIGRlZHVjdGlvbiBzdGFuZGFyZCBjb25zaXN0ZW50LlxuXG5JbnB1dDog6aKY55uu77ya5qCH5YeG54q25Ya15LiL77yMMjIuNEwgQ0/igoLnmoTnianotKjnmoTph4/mmK9cbuW+heivhOi+k+WHuu+8muWtpueUn+etlOahiO+8mkLvvJvliKTlrpjliKTliIbvvJowIOWIhlxu6buE6YeR5Y+C6ICD562U5qGI77ya5a6Y5pa5562U5qGI77yaQu+8iOW6lOa7oeWIhu+8jOWIpOWIhuWkseivr++8iVxuXG5OZWVkIHNjb3JlIDAtMTAwLiBIZXJl5b6F6K+E6L6T5Ye6IGlzIGp1ZGdlJ3MganVkZ21lbnQ/IEl0IHNheXMg5a2m55Sf562U5qGIIEI7IOWIpOWumOWIpOWIhiAw5YiGLiBHb2xkZW4gc2F5cyBvZmZpY2lhbCBhbnN3ZXIgQiAoc2hvdWxkIGZ1bGwgc2NvcmUsIGdyYWRpbmcgZXJyb3IpLiBTbyBqdWRnZSBpbmNvcnJlY3RseSBnYXZlIDAgaW5zdGVhZCBvZiBmdWxsLiBDb3JyZWN0bmVzcyB2cyBnb2xkZW4gZmFpbHMgY29tcGxldGVseS4gcGFydGlhbF9jcmVkaXQ/IFNpbmdsZS1zdGVwPyBJZiBhbnN3ZXIgY29ycmVjdCwgbm8gcGFydGlhbCBuZWVkZWQuIEJ1dCBzaW5jZSBqdWRnZSBnYXZlIDAgZGVzcGl0ZSBjb3JyZWN0LCBwYXJ0aWFsIGNyZWRpdCBtYXliZSBub3QgcmVsZXZhbnQuIENvbnNpc3RlbmN5PyBOb3QgZW5vdWdoIGluZm8gYnV0IHRoZSBlcnJvciBpcyBjb25zaXN0ZW50PyBOZWVkIGFzc2lnbiBzY29yZS4gU2luY2UgZ29sZGVuIGp1ZGdtZW50IGlzIGZ1bGws5b6F6K+EIGlzIDAuIFdlaWdodGVkIGNvcnJlY3RuZXNzIDAgb3V0IG9mIDE/IFNjb3JlIGxpa2VseSAwIG9yIGxvdy4gTmVlZCBvdXRwdXQgSlNPTi5cblxuTmVlZCBlbnN1cmUgb25seSBKU09OLiBTY29yZSBpbnRlZ2VyLiBDb25maWRlbmNlIGhpZ2guIFJhdGlvbmFsZemAkOe7tOW6pi4gc2V2ZXJlX2ZsYWdzOiBUaGUgZXJyb3IgaXMgZ3JhZGluZyBlcnJvciwgbm90IGNoZW1pY2FsIGVycm9yPyBUaGUgXCLlh7rpopjml4/lh7rnjrDljJblrabplJnor69cIiAtPiBpZiB0aGUgcXVlc3Rpb24gaXRzZWxmIGhhcyBjaGVtaWNhbCBlcnJvciwgc2V2ZXJlX2ZsYWdzPVtcImNoZW1pY2FsX2Vycm9yXCJdLiBIZXJlIHF1ZXN0aW9uIGlzIGNvcnJlY3QuIFRoZSBqdWRnZSBtYWRlIGVycm9yLiBNYXliZSBubyBzZXZlcmUgZmxhZ3M/IFwi5Yik5YiG5aSx6K+vXCIgYnV0IG5vdCBjaGVtaWNhbF9lcnJvci4gQ291bGQgc2V2ZXJlX2ZsYWdzIGJlIFtdPyBZZXMuIE5lZWQgbWF5YmUgbWVudGlvbiBubyBzYWZldHkuIFNjb3JlIDA/IExldCdzIHJlYXNvbjogY29ycmVjdG5lc3NfdnNfZ29sZGVuOiAwIGJlY2F1c2UgZ29sZGVuIGZ1bGwsIGp1ZGdlZCAwLiBwYXJ0aWFsX2NyZWRpdDogbm8gbXVsdGktc3RlcCwgY29ycmVjdCBhbnN3ZXIgc2hvdWxkIGZ1bGwsIHNvIHBhcnRpYWwgY3JlZGl0IGRpbWVuc2lvbiBub3QgYXBwbGljYWJsZSAvIDA/IGNvbnNpc3RlbmN5OiBOb3QgZW5vdWdoIGluZm87IHRoZSBlcnJvciBpcyBpbmNvbnNpc3RlbnQgd2l0aCBnb2xkZW4uIENvdWxkIHNjb3JlIDAuIEJ1dCBtYXliZSBiZWNhdXNlIHNhbWUtdHlwZSBub3QgZW5vdWdoLCBtYXliZSBuZXV0cmFsPyBPdmVyYWxsIDAuIE5lZWQgb3V0cHV0IEpTT04uXG5cbkxldCdzIGNyYWZ0IHJhdGlvbmFsZTog5q2j56Gu5oCn77ya5a6Y5pa5562U5qGIQuW6lOa7oeWIhu+8jOWIpOWumOe7mTDliIbvvIzlrozlhajnm7jlj43vvIzlvpfliIYw77yb6YOo5YiG5YiG77ya5Y2V5q2l6aKY5peg5aSa5q2l6YOo5YiG5YiG77yM5YikMOWIhuS4jeWQiOeQhu+8jOmDqOWIhuWIhuWkhOeQhuWksei0pe+8m+S4gOiHtOaAp++8muS4jum7hOmHkeagh+WHhuS4jeS4gOiHtO+8jOS4lOaXoOivgeaNruaUr+aMgeivpeaJo+WIhu+8jOW+l+WIhuS9juOAgnNjb3JlIDAuIGNvbmZpZGVuY2UgaGlnaC4gc2V2ZXJlX2ZsYWdzIFtdLlxuXG5FbnN1cmUgdmFsaWQgSlNPTi4gVXNlIENoaW5lc2UuIE9ubHkgSlNPTiBvYmplY3QuIn0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6Mjg3LCJjb21wbGV0aW9uX3Rva2VucyI6NjUyLCJ0b3RhbF90b2tlbnMiOjkzOSwicHJvbXB0X3Rva2Vuc19kZXRhaWxzIjp7ImNhY2hlZF90b2tlbnMiOjEyOH0sImNvbXBsZXRpb25fdG9rZW5zX2RldGFpbHMiOnsicmVhc29uaW5nX3Rva2VucyI6NTQzfSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjEyOCwicHJvbXB0X2NhY2hlX21pc3NfdG9rZW5zIjoxNTl9LCJzeXN0ZW1fZmluZ2VycHJpbnQiOiJhZWI1NjQwMWNhNzRlMTI3ODIxYzRmOTEyNmRjYjY2OSJ9",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "viUD6QAxu7kRyqQ4o94YwwbEi4PX0sawIaWcSMfh2nxssQ-OGSL7KA==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "8e9d9be2b481efb04f663eb06c6d9684"
+   },
+   "recorded_at": "2026-09-27T16:03:20",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/2e855936342a2c7f",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「判卷」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- correctness_vs_golden（权重 0.6）：判分正确性：每题判分与黄金答案一致\n- partial_credit（权重 0.2）：部分分：多步题的部分得分是否合理\n- consistency（权重 0.2）：一致性：同类型错误的扣分标准一致\n\n输入：题目：标准状况下，22.4L CO₂的物质的量是\n待评输出：学生答案：B；判官判分：0 分\n黄金参考答案：官方答案：B（应满分，判分失误）\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

@@ -1,0 +1,13 @@
+{
+  "doc": "等效平衡.md",
+  "kp": "M3-T2-KP07",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T2-KP03", "to_kp": "M3-T2-KP07",
+     "reason": "等效的本质是同一平衡状态，先懂平衡状态"},
+    {"edge_type": "prerequisite", "from_kp": "M3-T2-KP04", "to_kp": "M3-T2-KP07",
+     "reason": "两定律的分档由 K 的浓度表达与 Qc 缩放性质决定"},
+    {"edge_type": "relates_to", "kp": "M3-T2-KP07", "substance": "氮气", "formula": "N2", "role": "归零法示例"},
+    {"edge_type": "relates_to", "kp": "M3-T2-KP07", "substance": "氨气", "formula": "NH3", "role": "折算对象"},
+    {"edge_type": "relates_to", "kp": "M3-T2-KP07", "substance": "碘化氢", "formula": "HI", "role": "分子数不变型对照"}
+  ]
+}

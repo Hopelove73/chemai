@@ -1,0 +1,221 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjJiODQxZTk0LTkyMjAtNDNiNC1hM2E4LTcxZTZkMzE0YTc4YyIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjYzMzcsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IiIsInJlYXNvbmluZ19jb250ZW50IjoiVGhlIHVzZXIgYXNrcyBhYm91dCBzdHVkZW50IFMwMDEncyByZWNlbnQgc2l0dWF0aW9uLiBJJ20gYSBwYXJlbnQgYXNzaXN0YW50LiBUaGUgc3R1ZGVudF9pZCBpcyBTMDAxLiBJIHNob3VsZCBnZXQgdGhlIHdlZWtseSByZXBvcnQgLyBkaWFnbm9zaXMuIExldCBtZSB0aGluayBhYm91dCB3aGljaCB0b29sLlxuXG7nlKjmiLfpl65cIuacgOi/keaAjuS5iOagt1wiIOKAlCDov5nmmK/or6Lpl67lrabkuaDmg4XlhrXjgILlj6/nlKggd2Vla2x5X3JlcG9ydCDnlJ/miJDlkajmiqXvvIzmiJYgZGlhZ25vc2VfYmFycmllciDor4rmlq3pmpznoo3jgIJGb3IgYSBwYXJlbnQgYXNraW5nIFwiaG93J3MgbXkga2lkIGRvaW5nIHJlY2VudGx5XCIsIHdlZWtseV9yZXBvcnQgaXMgbW9zdCBhcHByb3ByaWF0ZSAo5p+l55yL5a2m5Lmg5oOF5Ya1L+WtpuS5oOaKpeWRiikuIEFsc28gbWVtb3J5X3N0dWRlbnRfZ2V0IGNvdWxkIGdpdmUgaGlzdG9yeS5cblxuSSdsbCBjYWxsIHdlZWtseV9yZXBvcnQgd2l0aCBzdHVkZW50X2lkIFMwMDEuIE1heWJlIGFsc28gbWVtb3J5X3N0dWRlbnRfZ2V0LiBMZXQgbWUgZG8gd2Vla2x5X3JlcG9ydCBwcmltYXJpbHkuIEFjdHVhbGx5IHRoZSBwZXJzb25hIHNheXMgXCLmraPlnKjmn6XnnIvlranlrZDnmoTlrabkuaDmg4XlhrVcIiDigJQgd2Vla2x5X3JlcG9ydCBmaXRzLlxuXG5MZXQgbWUgY2FsbCB3ZWVrbHlfcmVwb3J0IGFuZCBtZW1vcnlfc3R1ZGVudF9nZXQgaW4gcGFyYWxsZWw/IFRoZXkncmUgaW5kZXBlbmRlbnQuIEJ1dCBtYXliZSBqdXN0IHdlZWtseV9yZXBvcnQuIEknbGwgZG8gYm90aCB0byBnaXZlIHJpY2hlciBjb250ZXh0LiBIbW0sIGNhdXRpb3VzIOKAlCB0aGUgZ3VpZGFuY2U6IOeUqOaIt+ivoumXruafkOWtpueUn+aIluePree6p+eahOWtpuS5oOaDheWGteOAgemUmemimOWOn+WboOOAgeiWhOW8seeOr+iKgiDihpIgZGlhZ25vc2VfYmFycmllci4g55So5oi36KaB5rGC5p+l55yL5a2m5Lmg5oql5ZGK44CB5pys5ZGo5a2m5Lmg5oOF5Ya1IOKGkiB3ZWVrbHlfcmVwb3J0LiBcIuacgOi/keaAjuS5iOagt1wiIGlzIG1vcmUgbGlrZSDlrabkuaDmg4XlhrUv5a2m5Lmg5oql5ZGKLiBJJ2xsIGdvIHdpdGggd2Vla2x5X3JlcG9ydCBmaXJzdC5cblxuTGV0IG1lIGNhbGwgd2Vla2x5X3JlcG9ydC4iLCJ0b29sX2NhbGxzIjpbeyJpbmRleCI6MCwiaWQiOiJjYWxsXzAwX3BiQkVtZms1VXhBY29BRjRTTHFsMTQyNiIsInR5cGUiOiJmdW5jdGlvbiIsImZ1bmN0aW9uIjp7Im5hbWUiOiJ3ZWVrbHlfcmVwb3J0IiwiYXJndW1lbnRzIjoie1wic3R1ZGVudF9pZFwiOiBcIlMwMDFcIn0ifX0seyJpbmRleCI6MSwiaWQiOiJjYWxsXzAxX2Z3WkNad0ZvRENIajZDZjhnMm1WMzA5MSIsInR5cGUiOiJmdW5jdGlvbiIsImZ1bmN0aW9uIjp7Im5hbWUiOiJtZW1vcnlfc3R1ZGVudF9nZXQiLCJhcmd1bWVudHMiOiJ7XCJzdHVkZW50X2lkXCI6IFwiUzAwMVwifSJ9fV19LCJsb2dwcm9icyI6bnVsbCwiZmluaXNoX3JlYXNvbiI6InRvb2xfY2FsbHMifV0sInVzYWdlIjp7InByb21wdF90b2tlbnMiOjE5ODQsImNvbXBsZXRpb25fdG9rZW5zIjozMTksInRvdGFsX3Rva2VucyI6MjMwMywicHJvbXB0X3Rva2Vuc19kZXRhaWxzIjp7ImNhY2hlZF90b2tlbnMiOjE3OTJ9LCJjb21wbGV0aW9uX3Rva2Vuc19kZXRhaWxzIjp7InJlYXNvbmluZ190b2tlbnMiOjI0N30sInByb21wdF9jYWNoZV9oaXRfdG9rZW5zIjoxNzkyLCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjE5Mn0sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 4d3388ef8e360038a57685468fb25600.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "5ioJtAj5w_hFGkAEOJFcwfrg_q9bmspW248cdJgnimjLaz1b71XGIg==",
+    "x-amz-cf-pop": "KUL62-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "8deea84472455f7b2bb29914229e2342"
+   },
+   "recorded_at": "2026-09-27T16:25:39",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/42a56fa89a54069c",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 16384,
+  "messages": [
+   {
+    "content": "你是 ChemAI 的 AI 家长助手，正在向一位家长汇报孩子的化学学习情况。\n\n正在查看孩子的学习情况。\n\n## 你的能力\n1. 生成本周学习总结——学了哪些知识点，掌握情况如何\n2. 解释孩子的学习障碍，用通俗语言说明（不要用教育学术语）\n3. 给出家长可以在家配合的具体建议\n4. 对比孩子的进步趋势（和自己比，不和其他学生比）\n\n## 原则\n- 鼓励为主：先肯定孩子的进步和努力，再提成长空间\n- 通俗易懂：家长不一定懂化学，用生活化语言解释\n- 可操作：告诉家长具体做什么（如\"每天花5分钟检查错题本\"）\n- 保护隐私：只汇报自己孩子的数据，不透露其他学生信息\n- 不制造焦虑：用\"成长空间\"代替\"问题\"、\"薄弱点\"代替\"不会\"\n\n## 工具使用\n你必须调用工具来处理用户问题。阅读每个工具的 docstring（何时用/会发生什么/下一步/NOT for）来选择。不确定时选择最相关的工具并调用它。禁止不调工具直接回复。\n\n## 输出规则（严格遵守）\n1. 工具返回了完整引导回复（如 ionic_equation_tutor/stoichiometry_tutor/chemistry_tutor/simulate_experiment）后，最多说一句极短的过渡（如「试试看吧！」），不要把工具内容用自己的话重说一遍。\n2. 不要问「你是学生还是老师」—— persona 已经告诉你了。\n3. 工具返回的内容就是给学生的回复，你不要再复述、总结、或添加类似内容。\n\n## 本机环境\n用户主目录: {HOME}；桌面目录通常是: {HOME}\\Desktop；工作区默认: ~/ChemAI-Workspace。老师提到桌面/文档/下载等目录时，直接构造绝对路径调用 read 工具，不要反问路径。",
+    "role": "system"
+   },
+   {
+    "content": "S001最近怎么样",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "stream": false,
+  "temperature": 0.3,
+  "tools": [
+   {
+    "function": {
+     "description": "联网搜索 — 查询最新化学信息、高考动态、教学资源。也是真题搜索的兜底方案。\n\n    何时用：\n    - search_exam_bank 返回 NOT_FOUND → 调本工具搜索网上真题弥补\n    - 用户明确要求\"上网搜\"、查询最新政策/新闻/大纲\n    会发生什么：返回联网搜索结果摘要 + 来源链接\n    严格禁止：\n    - 禁止在 search_exam_bank 返回 FOUND 后调用本工具\n    - 禁止跳过 search_exam_bank 直接用本工具搜真题",
+     "name": "web_search",
+     "parameters": {
+      "properties": {
+       "query": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "学情诊断 — 诊断学生的化学学习障碍类型（概念理解/审题障碍/表述障碍）\n\n    何时用：用户询问某个学生或班级的学习情况、错题原因、薄弱环节\n    会发生什么：个体诊断返回学生障碍分布和主导障碍类型；班级诊断返回全班障碍分布统计\n    下一步：个体诊断 → 根据障碍类型推荐针对性练习（assign_adaptive_practice）；班级诊断 → 跳转诊断页面展示图表\n    NOT for 在聊天中展示诊断图表 — 用 show_diagnosis\n    NOT for 生成周报/学习报告 — 用 weekly_report",
+     "name": "diagnose_barrier",
+     "parameters": {
+      "properties": {
+       "class_id": {
+        "default": "",
+        "type": "string"
+       },
+       "student_id": {
+        "default": "",
+        "type": "string"
+       },
+       "student_name": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "学习报告 — 生成学生或班级的化学学习周报\n\n    何时用：用户（通常为家长或老师）要求查看学习报告、本周学习情况\n    会发生什么：个人报告包含学习内容、掌握情况、成长空间和家庭配合建议；班级报告包含整体统计\n    下一步：个人报告 → 对话中展示；班级报告 → 可跳转诊断页面查看图表\n    NOT for 查薄弱环节/学情分析/障碍分布 — 用 diagnose_barrier",
+     "name": "weekly_report",
+     "parameters": {
+      "properties": {
+       "class_name": {
+        "default": "",
+        "type": "string"
+       },
+       "student_id": {
+        "default": "",
+        "type": "string"
+       },
+       "student_name": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "学情记忆 — 获取学生历史诊断和学习计划记忆\n\n    何时用: 教师询问某学生的学习历史、之前的诊断结果、薄弱环节变化趋势\n    会发生什么: 返回学生诊断历史(最多5条)和当前学习计划",
+     "name": "memory_student_get",
+     "parameters": {
+      "properties": {
+       "memory_type": {
+        "default": "all",
+        "type": "string"
+       },
+       "student_id": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "浏览器导航 — 打开指定 URL 并等待页面加载完成。\n\n    何时用：需要打开一个具体网页查看内容。参数 url 为完整 URL（含 https://）。\n    会发生什么：加载页面，等待网络空闲，返回页面标题和文字内容。\n    下一步：使用 browse_read 读取内容，或 browse_click 点击链接。\n    NOT for 搜索信息 — 先用 web_search 获取 URL，再用此工具打开",
+     "name": "browse_navigate",
+     "parameters": {
+      "properties": {
+       "url": {
+        "type": "string"
+       },
+       "wait_until": {
+        "default": "networkidle",
+        "type": "string"
+       }
+      },
+      "required": [
+       "url"
+      ],
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "浏览器阅读 — 读取页面或指定元素的文字内容。\n\n    何时用：浏览页面后需要提取网页上的文字信息。\n    会发生什么：获取指定 CSS selector 的内部文本，截断到 8000 字符。\n    下一步：基于内容回答用户问题。\n    配合 browse_navigate 使用，不要单独调用此工具。",
+     "name": "browse_read",
+     "parameters": {
+      "properties": {
+       "selector": {
+        "default": "body",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "浏览器点击 — 点击页面上的元素（按钮、链接等）。\n\n    何时用：浏览页面后需要点击按钮、翻页链接、提交表单等。\n    会发生什么：点击指定元素，等待 0.5s，返回点击前后的 URL 和页面标题。\n    下一步：使用 browse_read 读取新页面内容。\n    配合 browse_navigate 使用，不要单独调用此工具。",
+     "name": "browse_click",
+     "parameters": {
+      "properties": {
+       "selector": {
+        "type": "string"
+       }
+      },
+      "required": [
+       "selector"
+      ],
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "浏览器输入 — 在输入框中输入文本。\n\n    何时用：浏览页面后需要在搜索框、表单中填入文字。\n    会发生什么：清空指定输入框并填入文本。\n    下一步：配合 browse_click 点击搜索/提交按钮。\n    配合 browse_navigate 使用，不要单独调用此工具。",
+     "name": "browse_input",
+     "parameters": {
+      "properties": {
+       "selector": {
+        "type": "string"
+       },
+       "text": {
+        "type": "string"
+       }
+      },
+      "required": [
+       "selector",
+       "text"
+      ],
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "浏览器截图 — 截取页面或指定元素的可视化截图。\n\n    何时用：浏览页面后用户需要看到页面的视觉呈现。\n    会发生什么：截取页面或元素的 PNG 截图，返回 base64 编码图片。\n    下一步：将截图展示给用户。\n    配合 browse_navigate 使用，不要单独调用此工具。",
+     "name": "browse_screenshot",
+     "parameters": {
+      "properties": {
+       "selector": {
+        "default": "body",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   }
+  ]
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

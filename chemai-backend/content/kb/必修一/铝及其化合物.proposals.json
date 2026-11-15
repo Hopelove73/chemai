@@ -1,0 +1,15 @@
+{
+  "doc": "铝及其化合物.md",
+  "kp": "M1-T2-KP25",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP06", "to_kp": "M1-T2-KP25",
+     "reason": "铝与酸、碱反应的电子转移都要用氧化还原框架"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP17", "to_kp": "M1-T2-KP25",
+     "reason": "钝化现象以铁为先行样本，铝对照学习"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP25", "substance": "铝", "formula": "Al", "role": "本篇主角，两性单质"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP25", "substance": "氧化铝", "formula": "Al2O3", "role": "两性氧化物"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP25", "substance": "氢氧化铝", "formula": "Al(OH)3", "role": "两性氢氧化物"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP25", "substance": "偏铝酸钠", "formula": "NaAlO2", "role": "与强碱反应产物"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP25", "substance": "明矾", "formula": "KAl(SO4)2·12H2O", "role": "净水剂"}
+  ]
+}

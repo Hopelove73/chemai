@@ -1,0 +1,13 @@
+{
+  "doc": "同分异构现象.md",
+  "kp": "M2-T4-KP02",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP01", "to_kp": "M2-T4-KP02",
+     "reason": "碳四价与碳链成键是产生同分异构的结构前提"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP02", "substance": "正丁烷", "formula": "C4H10", "role": "碳链异构直链体"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP02", "substance": "异丁烷", "formula": "C4H10", "role": "碳链异构支链体"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP02", "substance": "乙醇", "formula": "C2H5OH", "role": "官能团异构体（醇）"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP02", "substance": "二甲醚", "formula": "CH3OCH3", "role": "官能团异构体（醚）"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP02", "substance": "1-丁烯", "formula": "C4H8", "role": "位置异构体"}
+  ]
+}

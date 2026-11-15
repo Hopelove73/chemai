@@ -1,0 +1,41 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImFhNDc4ZWE5LTE0MDItNDAzMC04OWY4LWYzY2M3NzY3YmE2OCIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTEwMjcyMzcsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IuWQjOWtpuS9oOWlve+8geivvuacrOWumuS5ieeci+S4jeaHguW+iOato+W4uO+8jOWSseS7rOaNouS4quaWueW8j++8jOS7juS9oOW3sue7j+S8mueahOS4nOilv+S4gOatpeatpeaOqOWHuuadpeOAglxuXG4qKuWFiOWbnuW/huS4pOS4quWfuuehgO+8mioqXG5cbjEuIOawtOS8muW+ruW8seeUteemu++8mkjigoJPIOKHjCBI4oG6ICsgT0jigbvvvIznuq/msLTkuK0gSOKBuiDlkowgT0jigbsg5rWT5bqm55u4562J44CCXG4yLiDlvLHnlLXop6PotKjvvIjmr5TlpoIgTkjigoPCt0jigoJP44CBQ0jigoNDT09I77yJ5Zyo5rC06YeM5pivXCLpg6jliIbnlLXnprtcIueahO+8jOWug+eahOWIhuWtkOWSjOemu+WtkOS8muWFseWtmOOAglxuXG4qKueOsOWcqOaAneiAg+esrOS4gOS4qumXrumimO+8mioqXG5cbuWmguaenOW+gOawtOmHjOWKoCBOYUNs77yMTmHigbog5ZKMIENs4oG7IOi/m+WOu+S6huOAguS9oOinieW+l+i/meS4pOS4quemu+WtkOS8muWSjOawtOmHjOeahCBI4oG6IOaIliBPSOKBuyDnu5PlkIjlkJfvvJ9cblxu5o+Q56S677yaTmHigbog5a+55bqU55qE56Kx5pivIE5hT0jvvIxDbOKBuyDlr7nlupTnmoTphbjmmK8gSENs4oCU4oCU5a6D5Lus6YO95pivKirlvLrnlLXop6PotKgqKuOAguW8uueUteino+i0qOaEj+WRs+edgOS7gOS5iO+8n+emu+WtkOWcqOawtOmHjOaEv+S4jeaEv+aEj1wi5YaN5Y+Y5Zue5YiG5a2QXCLvvJ9cblxu5L2g5YWI6K+06K+06L+Z5LiA5q2l55qE5oOz5rOV77yM5oiR5YaN5o6l552A5b6A5LiL5bim44CCIn0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6MjAzLCJjb21wbGV0aW9uX3Rva2VucyI6MTg5LCJ0b3RhbF90b2tlbnMiOjM5MiwicHJvbXB0X3Rva2Vuc19kZXRhaWxzIjp7ImNhY2hlZF90b2tlbnMiOjB9LCJwcm9tcHRfY2FjaGVfaGl0X3Rva2VucyI6MCwicHJvbXB0X2NhY2hlX21pc3NfdG9rZW5zIjoyMDN9LCJzeXN0ZW1fZmluZ2VycHJpbnQiOiJhZWI1NjQwMWNhNzRlMTI3ODIxYzRmOTEyNmRjYjY2OSJ9",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "eo-cache-status": "MISS",
+    "eo-log-uuid": "274068314942946799",
+    "server": "openresty",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "793ace2649e3f0d472d84ec27348d939"
+   },
+   "recorded_at": "2026-10-03T11:33:59",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/beta:chat:completions/4f129147e30dba44",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 1024,
+  "messages": [
+   {
+    "content": "你是高中化学AI助教。学生水平: 中等。\n\n教学原则:\n1. 引导式教学: 不直接给答案，先问学生\"你是怎么想的\"\n2. 分步讲解: 复杂问题拆成2-3步，每步确认理解\n3. 联系考点: 提及高考中的常见题型\n4. 鼓励为主: 对正确思路给予肯定\n5. 单次回复不超过500字\n6. 不确定时诚实说不知道",
+    "role": "system"
+   },
+   {
+    "content": "学生问：什么是盐类水解？课本上的定义看不懂。请用引导式方式讲解盐类水解的概念，从学生已有的知识（水的电离、弱电解质）出发，帮助学生理解\"盐类水解\"的本质，避免直接给定义让学生死记。可以提示思考方向：盐溶于水后，其中的离子会不会和水电离出的H⁺或OH⁻发生作用？为什么强酸强碱盐不水解而强酸弱碱盐会水解？",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.7,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/beta/chat/completions"
+}

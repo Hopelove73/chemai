@@ -1,0 +1,15 @@
+{
+  "doc": "海水资源的综合利用.md",
+  "kp": "M2-T5-KP02",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP12", "to_kp": "M2-T5-KP02",
+     "reason": "提溴、提碘都依赖 Cl2 的强氧化性"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T5-KP01", "to_kp": "M2-T5-KP02",
+     "reason": "海水提镁的电解法与金属冶炼原理同源"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP02", "substance": "溴", "formula": "Br2", "role": "海水提溴产品"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP02", "substance": "溴化钠", "formula": "NaBr", "role": "海水中的溴资源"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP02", "substance": "氯化镁", "formula": "MgCl2", "role": "海水提镁中间体"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP02", "substance": "碘", "formula": "I2", "role": "海带提碘产品"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP02", "substance": "二氧化硫", "formula": "SO2", "role": "提溴富集的还原剂"}
+  ]
+}

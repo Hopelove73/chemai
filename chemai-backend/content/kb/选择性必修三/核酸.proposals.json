@@ -1,0 +1,12 @@
+{
+  "doc": "核酸.md",
+  "kp": "M5-T3-KP03",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M5-T3-KP02", "to_kp": "M5-T3-KP03",
+     "reason": "中心法则的蛋白质端先建立，核酸是信息端"},
+    {"edge_type": "prerequisite", "from_kp": "M4-T2-KP06", "to_kp": "M5-T3-KP03",
+     "reason": "碱基配对靠氢键，先懂氢键的方向性与强度"},
+    {"edge_type": "relates_to", "kp": "M5-T3-KP03", "substance": "脱氧核糖核酸", "formula": "DNA", "role": "遗传信息载体"},
+    {"edge_type": "relates_to", "kp": "M5-T3-KP03", "substance": "核糖核酸", "formula": "RNA", "role": "单链工作件"}
+  ]
+}

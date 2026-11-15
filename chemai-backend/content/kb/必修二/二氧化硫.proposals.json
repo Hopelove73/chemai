@@ -1,0 +1,15 @@
+{
+  "doc": "二氧化硫.md",
+  "kp": "M2-T2-KP02",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP01", "to_kp": "M2-T2-KP02",
+     "reason": "先有酸性氧化物、酸酐的分类框架，才能把 SO2 与碱、水的反应归位"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP06", "to_kp": "M2-T2-KP02",
+     "reason": "+4 价居中的双重性是本点还原性与氧化性的解释骨架"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP02", "substance": "二氧化硫", "formula": "SO2", "role": "本篇主角，+4 价硫"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP02", "substance": "亚硫酸", "formula": "H2SO3", "role": "与水反应产物，弱酸"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP02", "substance": "三氧化硫", "formula": "SO3", "role": "催化氧化产物，+6 价"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP02", "substance": "硫化氢", "formula": "H2S", "role": "还原剂，与 SO2 发生归中"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP02", "substance": "硫酸", "formula": "H2SO4", "role": "SO2 被氯水氧化后的产物"}
+  ]
+}

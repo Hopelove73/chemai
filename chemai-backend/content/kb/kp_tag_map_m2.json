@@ -1,0 +1,211 @@
+{
+  "version": "reviewed-1",
+  "note": "必修二标签映射（KB2c）：从 M1 映射表 future 桶转正硫氮/硅/有机/能量/工艺标签 → 必修二词典 38 条。三类：mapped=映射进词典（出题/归档/错误率聚合用）；generic=考核技能/泛化标签（沿用 M1，不重复计入）；future=仍未覆盖的标签（平衡/水解/电化学深化/反应热计算/铝/过氧化氢/溶度积，留 M3）。tag_count 为题库实例行计数（与 M1 同口径）；内容级去重后的题目数见 stats。审定口径：家族标签（硫/氮/硅/有机化合物）按 M1 先例映射到该族第一篇主文档，错误率按族聚合；原电池虽有 M2 条目（M2-T3-KP02），但按二期定案『电化学留 M3』暂不转正，M3 词典建成后随电解池一起归属。",
+  "generated_at": "2026-10-27",
+  "mapped": {
+    "_comment": "confidence: high=同名或教科书级对应；medium=家族标签映射到族内主篇；low=判断性归并，老师终审重点过",
+    "硫及其化合物": {
+      "kp": "M2-T2-KP01",
+      "confidence": "medium",
+      "tag_count": 778,
+      "note": "家族标签，覆盖 KP01-KP04；按 M1 先例映射族内首篇",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-27"
+    },
+    "氮及其化合物": {
+      "kp": "M2-T2-KP05",
+      "confidence": "medium",
+      "tag_count": 695,
+      "note": "家族标签，覆盖 KP05-KP10；按 M1 先例映射族内首篇",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-27"
+    },
+    "硝酸的性质": {
+      "kp": "M2-T2-KP09",
+      "confidence": "high",
+      "tag_count": 3,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-27"
+    },
+    "氨的性质": {
+      "kp": "M2-T2-KP07",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-27"
+    },
+    "硅及其化合物": {
+      "kp": "M2-T2-KP11",
+      "confidence": "medium",
+      "tag_count": 929,
+      "note": "家族标签，覆盖 KP11-KP12",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-27"
+    },
+    "化学反应热": {
+      "kp": "M2-T3-KP01",
+      "confidence": "high",
+      "tag_count": 1233,
+      "note": "必修口径的放热/吸热与键能解释；盖斯定律仍留 M3",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-27"
+    },
+    "有机化合物": {
+      "kp": "M2-T4-KP01",
+      "confidence": "medium",
+      "tag_count": 1698,
+      "note": "家族标签，覆盖 KP01-KP12；按 M1 先例映射族内首篇",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-27"
+    },
+    "官能团": {
+      "kp": "M2-T4-KP12",
+      "confidence": "high",
+      "tag_count": 811,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-27"
+    },
+    "同分异构体": {
+      "kp": "M2-T4-KP02",
+      "confidence": "high",
+      "tag_count": 231,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-27"
+    },
+    "有机推断": {
+      "kp": "M2-T4-KP12",
+      "confidence": "low",
+      "tag_count": 137,
+      "note": "推断题跨官能团转化，必修深度归入官能团与反应类型篇；选必三深度题后续由 M3 细粒度条目接管",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-27"
+    },
+    "酯的水解": {
+      "kp": "M2-T4-KP08",
+      "confidence": "high",
+      "tag_count": 3,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-27"
+    },
+    "苯的结构与性质": {
+      "kp": "M2-T4-KP05",
+      "confidence": "high",
+      "tag_count": 3,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-27"
+    },
+    "化学工艺": {
+      "kp": "M2-T5-KP06",
+      "confidence": "medium",
+      "tag_count": 787,
+      "note": "工艺流程题通法；题面知识点跨册，按方法篇归属",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-27"
+    },
+    "磷及其化合物": {
+      "kp": "M2-T2-KP13",
+      "confidence": "high",
+      "tag_count": 0,
+      "note": "KB4c-A 转正：374 清单覆盖度审计 gap 家族落点",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    }
+  },
+  "generic": {
+    "_comment": "沿用 M1 泛化标签清单（不重复计入合计）；本文件不新增 generic",
+    "count": 18
+  },
+  "future": {
+    "_comment": "仍未覆盖：M3（平衡/水解/电化学深化/盖斯定律/溶度积）+ M1 补漏（铝/过氧化氢）；M3 词典建成后再转正",
+    "化学平衡类": [
+      "化学平衡",
+      "平衡图像",
+      "平衡常数",
+      "勒夏特列原理",
+      "等效平衡",
+      "平衡常数计算",
+      "化学平衡常数计算",
+      "化学平衡常数",
+      "平衡移动",
+      "化学平衡移动",
+      "压强对化学平衡的影响",
+      "浓度对化学平衡的影响",
+      "恒温恒压条件下化学平衡移动",
+      "平衡状态判断",
+      "平衡状态的判断",
+      "合成氨",
+      "优先反应",
+      "反应方向判断",
+      "化学平衡状态的判断"
+    ],
+    "离子平衡类": [
+      "盐类水解",
+      "沉淀溶解平衡",
+      "水的电离",
+      "水溶液中的离子平衡",
+      "弱电解质电离",
+      "弱电解质稀释",
+      "电离平衡",
+      "电离平衡移动",
+      "电离常数",
+      "同离子效应",
+      "滴定",
+      "离子浓度比较",
+      "离子浓度",
+      "弱电解质的电离平衡"
+    ],
+    "电化学类": [
+      "原电池",
+      "电解池",
+      "电化学",
+      "二次电池",
+      "电极反应式",
+      "电化学计算",
+      "电极反应式书写",
+      "离子迁移",
+      "铁的腐蚀"
+    ],
+    "反应热类": [
+      "盖斯定律"
+    ],
+    "M1补漏或其它": [
+      "铝及其化合物",
+      "铝的化合物",
+      "过氧化氢"
+    ],
+    "工艺类": [
+      "溶度积"
+    ]
+  },
+  "stats": {
+    "generated_at": "2026-10-27",
+    "tag_kinds_total": 163,
+    "tag_kinds_mapped_m1": 85,
+    "tag_kinds_mapped_m2": 13,
+    "tag_kinds_mapped_total": 98,
+    "tag_kinds_generic": 18,
+    "tag_kinds_future": 47,
+    "contents_total": 307,
+    "contents_by_bucket_dedup": {
+      "mapped": 219,
+      "generic": 52,
+      "future": 92
+    },
+    "contents_in_multiple_buckets": 55,
+    "note": "内容级去重口径（KB2a）：questions 表 32625 实例行 → 307 个独立题目内容；一题命中多桶会在各桶各计一次（跨桶 55 题），跨桶求和会超过 307。tag_count 仍是实例计数。"
+  }
+}

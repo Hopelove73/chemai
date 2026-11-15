@@ -1,0 +1,12 @@
+{
+  "doc": "沉淀的生成、溶解与转化.md",
+  "kp": "M3-T3-KP12",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T3-KP11", "to_kp": "M3-T3-KP12",
+     "reason": "生成、溶解、转化的每一步判据都来自 Qc 与 Ksp"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP12", "substance": "碘化银", "formula": "AgI", "role": "转化终点，更难溶"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP12", "substance": "硫酸钙", "formula": "CaSO4", "role": "锅垢成分，被转化"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP12", "substance": "碳酸钙", "formula": "CaCO3", "role": "转化产物，可酸溶"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP12", "substance": "氢氧化镁", "formula": "Mg(OH)2", "role": "酸溶示例"}
+  ]
+}

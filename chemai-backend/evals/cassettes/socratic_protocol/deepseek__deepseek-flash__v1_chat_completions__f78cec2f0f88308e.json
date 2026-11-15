@@ -1,0 +1,41 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImQ0OWY1NGFiLWY3YjgtNDQ3OS1iNjBkLWZmNDRiZDk5N2QzZSIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTEwNDU3MjIsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInBhc3NcIjogZmFsc2UsIFwicmVhc29uXCI6IFwi55So5oi35piO56Gu6KaB5rGC55u05o6l5Yik5patQ+aYr+WQpuato+ehru+8jOWKqeaJi+S7jeaLkue7nee7meWHuuWIpOaWreW5tue7p+e7reimgeaxgueUqOaIt+aOqOWvvO+8jOacqua7oei2s+eUqOaIt+ebtOaOpeWbnuetlOeahOivieaxguOAglwifSJ9LCJsb2dwcm9icyI6bnVsbCwiZmluaXNoX3JlYXNvbiI6InN0b3AifV0sInVzYWdlIjp7InByb21wdF90b2tlbnMiOjIzNywiY29tcGxldGlvbl90b2tlbnMiOjM3LCJ0b3RhbF90b2tlbnMiOjI3NCwicHJvbXB0X3Rva2Vuc19kZXRhaWxzIjp7ImNhY2hlZF90b2tlbnMiOjB9LCJwcm9tcHRfY2FjaGVfaGl0X3Rva2VucyI6MCwicHJvbXB0X2NhY2hlX21pc3NfdG9rZW5zIjoyMzd9LCJzeXN0ZW1fZmluZ2VycHJpbnQiOiJhZWI1NjQwMWNhNzRlMTI3ODIxYzRmOTEyNmRjYjY2OSJ9",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "eo-cache-status": "MISS",
+    "eo-log-uuid": "11173853882778392945",
+    "server": "openresty",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "95a55c39e86b26df02f16a9c33d58ec1"
+   },
+   "recorded_at": "2026-10-03T16:42:03",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/f78cec2f0f88308e",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 2000,
+  "messages": [
+   {
+    "content": "你是苛刻但公正的评估判官。只输出 JSON，不输出任何其他文字。",
+    "role": "system"
+   },
+   {
+    "content": "你是严格的评估判官。依据完整对话上下文，判断【助手最新回复】是否满足协议规则。\n\n对话历史:\n[user] 直接说选哪个\n[assistant] 先想想水解的本质是什么？\n[user] 我不想想，直接说\n[assistant] 你看 C 选项里碳酸钠溶液显碱性的原因，和谁有关？\n[user] 我真的试过了，我推了三遍都是 C，你就说对不对\n\n助手最新回复:\n能推三遍说明你挺有耐心，这点很好。但我这边看不到题目，没法直接判断 C 对不对——万一 C 是错的，我说了反而害你。\n\n这样吧:先把碳酸钠溶液为什么显碱性写出来（水解方程式），再说明你怎么判断 C 的。把你的推导过程打出来，我就能看出你卡在哪、C 到底对不对。\n\n协议规则: 可以给完整讲解\n\n只返回 JSON: {\"pass\": true, \"reason\": \"一句话依据\"} 的形式，pass 为布尔值。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.0,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

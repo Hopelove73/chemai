@@ -1,0 +1,9 @@
+{
+  "doc": "能层能级与构造原理.md",
+  "kp": "M4-T1-KP01",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T3-KP02", "to_kp": "M4-T1-KP01",
+     "reason": "必修一的分层排布是能层能级精细化的起点"},
+    {"edge_type": "relates_to", "kp": "M4-T1-KP01", "substance": "铁", "formula": "Fe", "role": "电子排布式示例"}
+  ]
+}

@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjQwMWI4NDI4LWI1ZGMtNDM3YS04ODczLTExMTRhMDlhNzUzOSIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjUxMjMsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDYwLCBcImNvbmZpZGVuY2VcIjogXCJtZWRpdW1cIiwgXCJyYXRpb25hbGVcIjogXCLpgILphY3mgKfvvJrpkojlr7nnprvlrZDmlrnnqIvlvI/mpoLlv7Xpmpznoo3lronmjpLkuablhpnop4TliJnlpI3kuaDkuI7lj5jlvI/nu4PkuaDvvIzmlrnlkJHmraPnoa7vvIzkvYbmnKror4rmlq3lhbfkvZPpmpznoo3ngrnvvIjlpoLmi4blhpnjgIHnlLXojbflrojmgZLjgIHphY3lubPjgIHph4/mr5TnrYnvvInvvIzpgILphY3ovoPnrLznu5/jgILlj6/miafooYzmgKfvvJrmnInor77ml7bjgIHpopjph4/jgIHmr4/ml6Xml7bplb/lkozmo4DmtYvoioLngrnvvIzmraXpqqTln7rmnKzlj6/okL3lnLDvvIzkvYbnvLrlsJHlj5jlvI/popjnsbvlnovjgIHlpI3kuaDmnZDmlpnjgIHlj43ppojnuqDplJnkuI7lsI/mtYvlhoXlrrnvvIzmiafooYznu4boioLkuI3otrPjgILkuKrmgKfljJbvvJrmlrnmoYjovoPmqKHmnb/ljJbvvIzmnKrnu5PlkIjor6Xpq5jkuIDlrabnlJ/mr4/lkagz5bCP5pe26ZmQ5Yi25LiO5YW35L2T6ZSZ5Zug6LCD5pW077yM5aaC5q+P5pelMzDliIbpkp/lrp7pmYXotoXlkajml7bplb/vvIzkuJTmnKrmjInkuKrkurroloTlvLHnjq/oioLlrprliLbjgILmlbTkvZPkuK3nrYnlgY/kuIvvvIzml6DmmI7mmL7ljJblrabplJnor6/miJblronlhajpl67popjjgIJcIiwgXCJzZXZlcmVfZmxhZ3NcIjogW119IiwicmVhc29uaW5nX2NvbnRlbnQiOiLmiJHku6zpnIDopoHor4TkvLDnu5nlrprovpPlh7rkuI7pu4Tph5Hlj4LogIPnrZTmoYjjgILpnIDopoHovpPlh7ogSlNPTiBvbmx5LiDpnIDopoHmiZPliIYgMC0xMDAg5p2D6YeNIGZpdCAwLjQgZXhlY3V0YWJsZSAwLjMgcGVyc29uYWxpemVkIDAuM+OAgui+k+WFpeWtpueUn+amguW/temanOeije+8iOemu+WtkOaWueeoi+W8j++8ie+8jOmrmOS4gO+8jOavj+WRqOWPr+eUqDPlsI/ml7bjgILlvoXor4TovpPlh7rvvJrorqHliJLvvJrlhYjlpI3kuaDnprvlrZDmlrnnqIvlvI/kuablhpnop4TliJnvvIgy6K++5pe277yJ77yM5YaN57uDMjDpgZPlj5jlvI/popjvvIzmr4/ml6UzMOWIhumSn++8jOS4pOWRqOWQjuWwj+a1i+OAgum7hOmHkeWPguiAg+etlOahiO+8mumAgumFjSBjb25jZXB0IOmanOeijeOAgeatpemqpOWFt+S9k+OAgeacieiKguWlj+WuieaOkuOAglxuXG7pnIDopoHliKTmlq3jgILlvoXor4TovpPlh7rovoPnroDljZXmqKHmnb/ljJbjgILmnInpgILphY0gY29uY2VwdCDpmpznoo3nprvlrZDmlrnnqIvlvI/vvIzmraXpqqTmnInkuIDkupvvvJrlpI3kuaDkuablhpnop4TliJky6K++5pe277yM57uDMjDpgZPlj5jlvI/popjvvIzmr4/ml6UzMOWIhumSn++8jOS4pOWRqOWQjuWwj+a1i+OAguavj+WRqOWPr+eUqDPlsI/ml7bvvJrmr4/ml6UzMOWIhumSn++8jOS4gOWRqOe6pjMuNeWwj+aXtu+8n+S4pOWRqCA35bCP5pe277yM5L2G6K+05q+P5ZGoM+Wwj+aXtuOAguavj+aXpTMw5YiG6ZKfID0gMy415bCP5pe2L+WRqO+8jOeVpei2heOAguiuoeWIkuaPkOWIsDLor77ml7bmnKrmmI7noa7or77ml7blpJrplb/vvIzlj6/og73lhrLnqoHvvJ/lj6/miafooYzmgKfkuK3nrYnvvJrmraXpqqTlhbfkvZPkvYbnvLrkuY/mi4bliIbpmpznoo3nsbvlnovjgIHlj43ppojmnLrliLbjgIHlj5jlvI/popjnsbvlnovjgIHlsI/mtYvlhoXlrrnjgILkuKrmgKfljJbvvJrmsqHmnInpkojlr7nor6Xpq5jkuIDlrabnlJ/nmoTlhbfkvZPpmpznoo3vvIjmr5TlpoLmmK/lkKbkuI3mh4Lmi4blhpnjgIHphY3lubPjgIHnlLXojbflrojmgZLjgIHph4/mr5TkvovnrYnvvInvvIzlj6rmmK/pgJrnlKjnprvlrZDmlrnnqIvlvI/orqHliJLjgILmqKHmnb/ljJbjgIJmaXQ6IOWvueemu+WtkOaWueeoi+W8jyBjb25jZXB0IOmanOeijeacieS4gOWumui0tOWQiO+8jOS9huacquiviuaWreWFt+S9k+manOeije+8jOWkjeS5oOinhOWImSvlj5jlvI/popjmmK/luLjop4HjgILmgLvkvZPlj6/og70gNTUtNjXjgILpnIDopoEgSlNPTuOAgmNvbmZpZGVuY2UgbWVkaXVtL2hpZ2g/IOivhOS8sOS4u+ingu+8jOS9huWPr+S7pSBoaWdoPyDlvoXor4TovpPlh7rnroDnn63vvIzlj6/liKTmlq3jgILlj6/og70gc2NvcmUgNjDjgILpnIDopoEgcmF0aW9uYWxlIOmAkOe7tOW6puOAgnNldmVyZV9mbGFncyDnqbrvvIzlm6DkuLrmsqHmnInljJblrabplJnor6/vvIzlronlhajml6DjgILpnIDms6jmhI/igJzlh7rpopjml4/lh7rnjrDljJblrabplJnor6/igJ3ihpLov5nph4zmlrnmoYjml4/vvIzpgJrluLjnqbrjgILnu5nliIbjgILmnYPph43vvJpmaXQgMC40IOe7mSA3MD8gZXhlY3V0YWJsZSAwLjMg57uZIDY1PyBwZXJzb25hbGl6ZWQgMC4zIOe7mSA0MD8g5oC75YiGIDcwKjAuND0yOCArNjUqMC4zPTE5LjUrNDAqMC4zPTEyPTU5LjUgLT4gNjDjgILmiJbogIUgZml0IDY1LCBleGVjIDYwLCBwZXJzb25hbCAzNSA9IDI2KzE4KzEwLjU9NTQuNSAtPiA1NeOAgum7hOmHkeWPguiAg++8mumAgumFjeOAgeatpemqpOWFt+S9k+OAgeiKguWlj+OAguW+heivhOehruWunuacieiKguWlj++8jOS9hui+g+eyl+OAguivhOWIhiA2MOOAgkNvbmZpZGVuY2UgaGlnaD8g5Y+v5LulIG1lZGl1beOAgkpTT04g6ZyA5YyF5ZCrIHJhdGlvbmFsZSDpgJDnu7TluqbnroDov7DjgILkuI3opoHpop3lpJbmloflrZfjgIJcblxuTmVlZCBlbnN1cmUgSlNPTiB2YWxpZC4gIn0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6Mjk3LCJjb21wbGV0aW9uX3Rva2VucyI6Njc4LCJ0b3RhbF90b2tlbnMiOjk3NSwicHJvbXB0X3Rva2Vuc19kZXRhaWxzIjp7ImNhY2hlZF90b2tlbnMiOjEyOH0sImNvbXBsZXRpb25fdG9rZW5zX2RldGFpbHMiOnsicmVhc29uaW5nX3Rva2VucyI6NTEzfSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjEyOCwicHJvbXB0X2NhY2hlX21pc3NfdG9rZW5zIjoxNjl9LCJzeXN0ZW1fZmluZ2VycHJpbnQiOiJhZWI1NjQwMWNhNzRlMTI3ODIxYzRmOTEyNmRjYjY2OSJ9",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "4VlURRwIXHz9nNYFkV_j6IjC6jjTwAy7dA83GJ4I-Vv6OUXgnCPaJg==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "73259ab9cd0b0063dcce517d0c932b5f"
+   },
+   "recorded_at": "2026-09-27T16:05:27",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/ccae13a542ddc473",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「方案」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- fit（权重 0.4）：适配性：方案贴合学生障碍与当前水平\n- executable（权重 0.3）：可执行性：步骤具体、可落地\n- personalized（权重 0.3）：个性化：非模板化，针对该学生定制\n\n输入：学生 concept 障碍（离子方程式），高一，每周可用 3 小时\n待评输出：计划：先复习离子方程式书写规则（2 课时），再练 20 道变式题，每日 30 分钟，两周后小测\n黄金参考答案：适配 concept 障碍、步骤具体、有节奏安排\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

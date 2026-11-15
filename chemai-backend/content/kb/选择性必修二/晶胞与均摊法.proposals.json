@@ -1,0 +1,11 @@
+{
+  "doc": "晶胞与均摊法.md",
+  "kp": "M4-T3-KP02",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M4-T3-KP01", "to_kp": "M4-T3-KP02",
+     "reason": "晶胞是晶体周期性的最小重复单元，先懂晶体"},
+    {"edge_type": "relates_to", "kp": "M4-T3-KP02", "substance": "氯化钠", "formula": "NaCl", "role": "均摊法标准案例"},
+    {"edge_type": "relates_to", "kp": "M4-T3-KP02", "substance": "氯化铯", "formula": "CsCl", "role": "体心结构对照"},
+    {"edge_type": "relates_to", "kp": "M4-T3-KP02", "substance": "二氧化碳", "formula": "CO2", "role": "分子晶体晶胞示例"}
+  ]
+}

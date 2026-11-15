@@ -1,0 +1,13 @@
+{
+  "doc": "盖斯定律与反应热的计算.md",
+  "kp": "M3-T1-KP04",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T1-KP01", "to_kp": "M3-T1-KP04",
+     "reason": "焓变的符号与单位语义是加减运算的前提"},
+    {"edge_type": "prerequisite", "from_kp": "M3-T1-KP02", "to_kp": "M3-T1-KP04",
+     "reason": "方程式必须写成规范热化学形式才能与 ΔH 同步加减"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP04", "substance": "碳", "formula": "C", "role": "间接求算示例"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP04", "substance": "一氧化碳", "formula": "CO", "role": "测不到直接反应热的目标产物"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP04", "substance": "二氧化碳", "formula": "CO2", "role": "闭合路径的终点"}
+  ]
+}

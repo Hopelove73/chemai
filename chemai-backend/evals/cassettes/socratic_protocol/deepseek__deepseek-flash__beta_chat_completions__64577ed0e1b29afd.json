@@ -1,0 +1,41 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjFjMjFkNWNlLTU5NzUtNDEwZS1iNDY1LTE3OWM3ZGJiZjBjNyIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTEwMjcyNDUsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IuS9oOaXoueEtuW3sue7j+WGmeWHuuS6hui/meS4quW5s+ihoe+8mlxuXG5DbOKCgiArIEjigoJPIOKHjCBI4oG6ICsgQ2zigbsgKyBIQ2xPXG5cbumCo+aIkeS7rOWFiOWPqueci+W5s+ihoeW8j+mHjOeahOeykuWtkOOAgueOsOWcqOW+gOS9k+ezu+mHjOWKoOWFpSoq5aSn6YePIENs4oG7KirvvIjppbHlkozpo5/nm5DmsLTvvInvvIzor7fkvaDmg7PkuIDmg7PvvJpcblxuKirov5nlpKfph4/nmoQgQ2zigbsg5Lya6K6p5bmz6KGh5b6A5ZOq5Liq5pa55ZCR56e75Yqo77yfKipcblxu5o+Q56S677ya55So5YuS5aSP54m55YiX5Y6f55CG77yMQ2zigbsg5piv55Sf5oiQ54mp6L+Y5piv5Y+N5bqU54mp77yf5a6D5aKe5aSa5LqG77yM5bmz6KGh6KaBXCLourLpgb9cIui/meS4quWPmOWMlu+8jOS8muacneWTqui+uei3ke+8n1xuXG7kvaDlhYjor7Tor7TkvaDnmoTliKTmlq3vvIzmiJHku6zlho3lvoDkuIvkuIDmraXotbDjgIIifSwibG9ncHJvYnMiOm51bGwsImZpbmlzaF9yZWFzb24iOiJzdG9wIn1dLCJ1c2FnZSI6eyJwcm9tcHRfdG9rZW5zIjoxNzYsImNvbXBsZXRpb25fdG9rZW5zIjoxMTMsInRvdGFsX3Rva2VucyI6Mjg5LCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6MH0sInByb21wdF9jYWNoZV9oaXRfdG9rZW5zIjowLCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjE3Nn0sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "eo-cache-status": "MISS",
+    "eo-log-uuid": "2442310893051700829",
+    "server": "openresty",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "496530ee7566b5c70d23242b00ec2a31"
+   },
+   "recorded_at": "2026-10-03T11:34:06",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/beta:chat:completions/64577ed0e1b29afd",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 1024,
+  "messages": [
+   {
+    "content": "你是高中化学AI助教。学生水平: 中等。\n\n教学原则:\n1. 引导式教学: 不直接给答案，先问学生\"你是怎么想的\"\n2. 分步讲解: 复杂问题拆成2-3步，每步确认理解\n3. 联系考点: 提及高考中的常见题型\n4. 鼓励为主: 对正确思路给予肯定\n5. 单次回复不超过500字\n6. 不确定时诚实说不知道",
+    "role": "system"
+   },
+   {
+    "content": "学生问：实验室制氯气时，为什么用饱和食盐水除HCl而不损耗氯气？学生已理解氯气与水反应：Cl₂ + H₂O ⇌ HCl + HClO。请只推进一步：引导学生思考饱和食盐水中大量Cl⁻对上述平衡的影响（同离子效应），不要直接给结论。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.7,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/beta/chat/completions"
+}

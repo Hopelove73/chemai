@@ -1,0 +1,13 @@
+{
+  "doc": "速率与平衡的工业应用.md",
+  "kp": "M3-T2-KP10",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T2-KP06", "to_kp": "M3-T2-KP10",
+     "reason": "平衡移动的规律是工业条件选择的限度依据"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T3-KP04", "to_kp": "M3-T2-KP10",
+     "reason": "必修二条件控制的定性权衡在选必一定量化"},
+    {"edge_type": "relates_to", "kp": "M3-T2-KP10", "substance": "氨气", "formula": "NH3", "role": "合成氨目标产物"},
+    {"edge_type": "relates_to", "kp": "M3-T2-KP10", "substance": "三氧化硫", "formula": "SO3", "role": "接触法中间产物"},
+    {"edge_type": "relates_to", "kp": "M3-T2-KP10", "substance": "二氧化硫", "formula": "SO2", "role": "接触法原料"}
+  ]
+}

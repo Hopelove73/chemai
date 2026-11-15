@@ -1,0 +1,8 @@
+{
+  "doc": "化学实验安全与基本操作.md",
+  "kp": "M1-T1-KP02",
+  "edges": [
+    {"edge_type": "relates_to", "kp": "M1-T1-KP02", "substance": "浓硫酸", "formula": "H2SO4", "role": "稀释安全案例"},
+    {"edge_type": "relates_to", "kp": "M1-T1-KP02", "substance": "酒精", "formula": "C2H5OH", "role": "火灾处理案例"}
+  ]
+}

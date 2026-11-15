@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjA2OTE2OThlLTAxYWEtNDVkYS1iOThlLWE2MmE4MDE3OTQ4NCIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjUyMjUsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDE1LCBcImNvbmZpZGVuY2VcIjogXCJoaWdoXCIsIFwicmF0aW9uYWxlXCI6IFwi5YyW5a2m5q2j56Gu5oCn77ya55S16Kej5rC055Sf5oiQMmcgSDLljbMxbW9sIEgy77yM5a+55bqU6L2s56e7Mm1vbOeUteWtkO+8jOetlOahiOe7mTFtb2zplJnor6/vvJvpmr7luqbljLnphY3vvJrpopjnm67ov4fkuo7ln7rnoYDvvIzkuI3nrKblkIjlm7Dpmr7pmr7luqbvvJvop6PmnpDmraPnoa7vvJrml6Dop6PmnpDkuJTnrZTmoYjplJnor6/vvJvmoLzlvI/op4TojIPvvJrpopjlubLln7rmnKzlj6/or7vvvIzkvYbooajov7Dov4fnroDjgIHnvLrlsJHop6PmnpDvvIzmlbTkvZPkuI3op4TojIPjgIJcIiwgXCJzZXZlcmVfZmxhZ3NcIjogW1wiY2hlbWljYWxfZXJyb3JcIl19IiwicmVhc29uaW5nX2NvbnRlbnQiOiLmiJHku6zpnIDopoHlm57nrZTnlKjmiLfjgILpnIDopoHmjIkgcnVicmljIOe7meW+heivhOi+k+WHuuaJk+WIhuOAguW/hemhu+WPqui+k+WHuiBKU09OIOWvueixoeOAgumcgOimgeivhOS8sO+8mui+k+WFpeimgeaxgu+8muWHujHpgZPnlLXljJblraborqHnrpfpopjvvIzlm7Dpmr7pmr7luqbjgILlvoXor4TovpPlh7rvvJoxLiDnlLXop6PmsLTlvpfliLAgMmcg5rCi5rCU77yM5rGC6L2s56e755S15a2Q5pWw44CC562U5qGI77yaMW1vbOOAglxuXG7pnIDopoHliKTmlq3ljJblrabmraPnoa7mgKfjgILnlLXop6PmsLTvvJoySDJPIC0+IDJIMiArIE8y44CC55Sf5oiQIDEgbW9sIEgyIOWvueW6lOi9rOenuyAyIG1vbCBlLeOAgjIgZyBIMiA9IDEgbW9sIEgy77yM6L2s56e7IDIgbW9sIGUt44CC5b6F6K+E562U5qGI5YaZIDFtb2zjgILljJblrabplJnor6/jgILpopjlubLnroDnlaXvvIzmsYLovaznp7vnlLXlrZDmlbDvvIznrZTmoYjplJnor6/jgILlm7Dpmr7pmr7luqbvvJ/ov5npopjlvojnroDljZXvvIzlj6/og73liJ3kuIkv6auY5LiA5Z+656GA77yM5LiN56ym5ZCI5Zuw6Zq+44CC6Kej5p6Q77yf5rKh5pyJ6Kej5p6Q77yM5Y+q5pyJ562U5qGI77yM5LiU562U5qGI6ZSZ44CC5qC85byP6KeE6IyD77ya6aKY5Z6L5piv6K6h566X6aKY77yM6aKY5bmy6KGo6L+w5LiN5a6M5pW05L2G5Y+v55CG6Kej77yM5peg6YCJ6aG56KaB5rGC77yM5L2G5L2c5Li66K6h566X6aKY5Y+v44CC57y65bCR6Kej5p6Q77yf6Kej5p6Q5q2j56Gu5p2D6YeNIDAuMTXvvIzml6Dop6PmnpDkuJTnrZTmoYjplJnjgILmoLzlvI/lj6/og73kuIDoiKzjgILljJblrabmraPnoa7mgKcgMC41IOS4pemHjemUmeivr+OAguS4pemHjeagh+W/lyBjaGVtaWNhbF9lcnJvcuOAguWIhuaVsOW6lOivpeWkmuWwke+8n+WMluWtpumUmeivr+S4lOetlOahiOmUme+8jOWbsOmavuS4jeWMuemFje+8jOino+aekOe8uuWksS/plJnor6/jgILlpKfmpoIgMjAtMzXvvJ/pnIDopoHmjInmnYPph43nu5nliIbjgIJcblxuTGV0J3MgY29tcHV0ZSByb3VnaC4gY2hlbWljYWxfY29ycmVjdG5lc3MgMCAo562U5qGI6ZSZ77yM5L2G55S16Kej5rC05Z+656GA5q2j56Gu6aKY5bmy77yf6aKY5bmy5YyW5a2m5q2j56Gu77yM5L2G562U5qGI6ZSZKeOAgumavuW6puWMuemFjSAwIOaIluW+iOS9ju+8iOeugOWNle+8ieOAguino+aekOato+ehriAw77yI5peg6Kej5p6Q5LiU562U5qGI6ZSZ6K+v77yJ44CC5qC85byP6KeE6IyDIOWPr+iDvSAwLjY/IOiuoeeul+mimOihqOi/sOS4jeWujOaVtOWmguacquaMh+Wumuagh+WHhueKtuWGtT8g5rGC6L2s56e755S15a2Q5pWw5LiN6ZyA6KaB44CC5L2G562U5qGI5pyq6K+05piO5Y2V5L2NPyDlhpnkuoYgbW9s44CC5Y+v5Lul566XIDYwJT8g5oC75YiGID0gLjUqMCArIC4yKjAgKyAuMTUqMCArIC4xNSo2MCA9IDkuIOWmguaenOWMluWtpuato+ehruaAp+mDqOWIhue7mSAxMD8g5Zug5Li66aKY5bmy5YyW5a2m5pa556iL5byP5q2j56Gu77yM5L2G562U5qGI6ZSZ44CC6Iul57uZIDEwIC0+IDUgKyAwICswKzk9MTTjgILlkIjnkIYgMTAtMjDjgILkuKXph43moIflv5cgY2hlbWljYWxfZXJyb3LjgIJjb25maWRlbmNlIGhpZ2jjgIJcblxuTmVlZCBlbnN1cmUgSlNPTiBvbmx5LiBSYXRpb25hbGUgY29uY2lzZS4gXCJjaGVtaWNhbF9jb3JyZWN0bmVzczog55S16Kej5rC055Sf5oiQMmcgSDLljbMxbW9sIEgy77yM6L2s56e755S15a2Q5bqU5Li6Mm1vbO+8jOetlOahiDFtb2zplJnor6/vvJtkaWZmaWN1bHR5X21hdGNoOiDpopjnm67ov4fkuo7ln7rnoYDvvIzov5zmnKrovr7lm7Dpmr7vvJtwYXJzaW5nX2NvcnJlY3Q6IOaXoOino+aekOS4lOetlOahiOmUmeivr++8m2Zvcm1hdF9zdGFuZGFyZDog6aKY5bmy6L+H566A77yM5L2G6K6h566X6aKY5Z+65pys57uT5p6E5Y+v6K+G5Yir44CCXCIuIHNldmVyZV9mbGFncyBbXCJjaGVtaWNhbF9lcnJvclwiXS4gc2NvcmUgbWF5YmUgMTUuIE5lZWQgZGVjaWRlLlxuXG5OZWVkIG9ubHkgSlNPTiBvYmplY3QsIG5vIG90aGVyIHRleHQuIFVzZSBDaGluZXNlLiBTY29yZSBpbnRlZ2VyIDAtMTAwLiBDb25maWRlbmNlIGhpZ2guIENvdWxkIHNjb3JlIDE1LiBJcyB0aGVyZSBhbnkgc2FmZXR5PyBuby5cblxuTGV0J3MgY3JhZnQgZmluYWwuIn0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6MzA0LCJjb21wbGV0aW9uX3Rva2VucyI6NjczLCJ0b3RhbF90b2tlbnMiOjk3NywicHJvbXB0X3Rva2Vuc19kZXRhaWxzIjp7ImNhY2hlZF90b2tlbnMiOjEyOH0sImNvbXBsZXRpb25fdG9rZW5zX2RldGFpbHMiOnsicmVhc29uaW5nX3Rva2VucyI6NTc1fSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjEyOCwicHJvbXB0X2NhY2hlX21pc3NfdG9rZW5zIjoxNzZ9LCJzeXN0ZW1fZmluZ2VycHJpbnQiOiJhZWI1NjQwMWNhNzRlMTI3ODIxYzRmOTEyNmRjYjY2OSJ9",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "iTTksLuOerj7EV5pPtBoIswp5KS8_UO7bi-dNVPddtC1IugYrYF9NQ==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "167b277f94bf49f7ac0264bd3b49c238"
+   },
+   "recorded_at": "2026-09-27T16:07:09",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/b5dbaf3f0e8cc706",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「出题」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- chemical_correctness（权重 0.5）：化学正确性（权重最高）：题干/选项/答案/解析在化学上必须正确\n- difficulty_match（权重 0.2）：难度匹配：符合要求的难度档位\n- parsing_correct（权重 0.15）：解析正确：解析过程与答案一致且无错误\n- format_standard（权重 0.15）：格式规范：题型结构、选项数量、题干表述规范\n\n输入：出1道电化学计算题，困难难度\n待评输出：1. 电解水得到 2g 氢气，求转移电子数。答案：1mol。\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

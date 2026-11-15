@@ -1,0 +1,11 @@
+{
+  "doc": "烷烃与系统命名法.md",
+  "kp": "M5-T2-KP01",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP03", "to_kp": "M5-T2-KP01",
+     "reason": "甲烷的取代与烷烃通式是命名的对象基础"},
+    {"edge_type": "prerequisite", "from_kp": "M5-T1-KP01", "to_kp": "M5-T2-KP01",
+     "reason": "同分异构体众多才有唯一命名的必要"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP01", "substance": "戊烷", "formula": "C5H12", "role": "主链命名示例"}
+  ]
+}

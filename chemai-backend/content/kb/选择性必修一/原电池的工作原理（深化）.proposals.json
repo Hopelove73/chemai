@@ -1,0 +1,13 @@
+{
+  "doc": "原电池的工作原理（深化）.md",
+  "kp": "M3-T1-KP05",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T3-KP02", "to_kp": "M3-T1-KP05",
+     "reason": "单液电池的正负极与电子流向是双液深化的起点"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP05", "substance": "锌", "formula": "Zn", "role": "负极，氧化"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP05", "substance": "铜", "formula": "Cu", "role": "正极材料"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP05", "substance": "氯化钾", "formula": "KCl", "role": "盐桥电解质"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP05", "substance": "硫酸锌", "formula": "ZnSO4", "role": "负极区电解液"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP05", "substance": "硫酸铜", "formula": "CuSO4", "role": "正极区电解液"}
+  ]
+}

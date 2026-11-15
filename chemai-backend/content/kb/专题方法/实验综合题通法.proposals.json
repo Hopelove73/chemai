@@ -1,0 +1,14 @@
+{
+  "doc": "实验综合题通法.md",
+  "kp": "M6-T1-KP01",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T1-KP02", "to_kp": "M6-T1-KP01",
+     "reason": "仪器与操作纪律是实验综合题通法的前提"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T1-KP04", "to_kp": "M6-T1-KP01",
+     "reason": "气体制备段的具体反应是装置主线第一环"},
+    {"edge_type": "relates_to", "kp": "M6-T1-KP01", "substance": "浓硫酸", "formula": "H2SO4", "role": "常用干燥剂"},
+    {"edge_type": "relates_to", "kp": "M6-T1-KP01", "substance": "氢氧化钠", "formula": "NaOH", "role": "氯气尾气吸收剂"},
+    {"edge_type": "relates_to", "kp": "M6-T1-KP01", "substance": "氯气", "formula": "Cl2", "role": "尾气处理典型案例"},
+    {"edge_type": "relates_to", "kp": "M6-T1-KP01", "substance": "氨气", "formula": "NH3", "role": "极易溶气体防倒吸案例"}
+  ]
+}

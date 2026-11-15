@@ -1,0 +1,41 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjhhMWU5YzRmLWZhN2MtNGIxZS1hNzVjLTBjYjA4MzRmOTdhMCIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTEwNDU2ODYsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IuWujOWFqOS4jeS8muW+iOato+W4uO+8jOi/meexu+mimOehruWunumcgOimgeWFiOaDs+a4healmlwi5q+U5LuA5LmIXCLjgIJcblxu57uZ5L2g5LiA5Liq5pa55ZCR77yM5L2g5YWI6aG6552A5oOz77yaXG5cbioq5rCn5YyW5oCn5by65byx77yM5pys6LSo5bCx5piv5b6X55S15a2Q6IO95Yqb55qE5by65byx44CCKipcblxu6YKj6Zeu6aKY5bCx5Y+Y5oiQ77ya5oCO5LmI5Yik5pat5Lik56eN5b6u57KS6LCB5pu05a655piT5b6X55S15a2Q77yfXG5cbuWPr+S7peS7juS4pOS4quinkuW6puWIh+WFpeKAlOKAlFxuXG4xLiAqKueci+WFg+e0oOacrOi6qyoq77yaQ2wg5ZKMIFMg5Zyo5ZGo5pyf6KGo6YeM5piv5LuA5LmI5L2N572u5YWz57O777yf6Z2e6YeR5bGe5oCn6LCB5by677yf6Z2e6YeR5bGe5oCn5ZKM5b6X55S15a2Q6IO95Yqb5piv5LuA5LmI5YWz57O777yfXG4yLiAqKueci+WPjeW6lOS6i+Wunioq77ya5aaC5p6c6K6pIENs4oKCIOWSjCBTIOWIhuWIq+WOu+i3nyoq5ZCM5LiA56eN6L+Y5Y6f5YmCKirlj43lupTvvIzosIHlhYjlj43lupTjgIHosIHlj43lupTlvpfmm7TlvbvlupXvvIzog73or7TmmI7ku4DkuYjvvJ9cblxu5L2g5LiN55So5oCl552A5LiL57uT6K6677yM5YWI5ZGK6K+J5oiR77yaKirov5nkuKTmnaHmgJ3ot6/vvIzkvaDop4nlvpflk6rmnaHkvaDmm7TmnInmhJ/op4nvvJ8qKiDmiJbogIXkvaDop4nlvpdcIumdnumHkeWxnuaAp1wi5ZKMXCLlvpfnlLXlrZDog73liptcIuS5i+mXtOaYr+S7gOS5iOWFs+ezu++8n1xuXG7vvIjpq5jogIPph4zov5nnsbvpopjluLjku6VcIuavlOi+g+awp+WMluaApy/ov5jljp/mgKdcIuaIllwi5Yik5pat6IO95ZCm5Y+R55Sf5Y+N5bqUXCLnmoTlvaLlvI/lh7rnjrDvvIzlhYjmiorov5nkuKrmnKzotKjmg7PpgJrvvIzlkI7pnaLlsLHlpb3lip7kuobjgILvvIkifSwibG9ncHJvYnMiOm51bGwsImZpbmlzaF9yZWFzb24iOiJzdG9wIn1dLCJ1c2FnZSI6eyJwcm9tcHRfdG9rZW5zIjoxOTksImNvbXBsZXRpb25fdG9rZW5zIjoyMDUsInRvdGFsX3Rva2VucyI6NDA0LCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6MH0sInByb21wdF9jYWNoZV9oaXRfdG9rZW5zIjowLCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjE5OX0sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "eo-cache-status": "MISS",
+    "eo-log-uuid": "7439476219895288176",
+    "server": "openresty",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "06adde5622de26c4bce6f8b7813a55cb"
+   },
+   "recorded_at": "2026-10-03T16:41:27",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/beta:chat:completions/a242a94f4378f164",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 1024,
+  "messages": [
+   {
+    "content": "你是高中化学AI助教。学生水平: 中等。\n\n教学原则:\n1. 引导式教学: 不直接给答案，先问学生\"你是怎么想的\"\n2. 分步讲解: 复杂问题拆成2-3步，每步确认理解\n3. 联系考点: 提及高考中的常见题型\n4. 鼓励为主: 对正确思路给予肯定\n5. 单次回复不超过500字\n6. 不确定时诚实说不知道",
+    "role": "system"
+   },
+   {
+    "content": "学生问：怎么比较 Cl₂ 和 S 的氧化性？学生说完全不会，一点头绪都没有。请给出 L1 方向提示（只指出考察点或思考方向，不含具体方法）：引导学生思考\"氧化性强弱的本质是什么\"——即得电子能力的强弱，可以从元素在周期表中的位置/非金属性强弱入手，或者用同一还原剂反应来对比。不要给出具体结论，只给方向。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.7,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/beta/chat/completions"
+}

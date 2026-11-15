@@ -1,0 +1,14 @@
+{
+  "doc": "硫酸与浓硫酸的性质.md",
+  "kp": "M2-T2-KP03",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T2-KP02", "to_kp": "M2-T2-KP03",
+     "reason": "浓硫酸与铜、碳反应的还原产物是 SO2，先认识 SO2 才能判断产物"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP07", "to_kp": "M2-T2-KP03",
+     "reason": "稀硫酸的氧化剂是 H+、浓硫酸是 +6 价硫，要靠氧化剂强弱区分产物"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP03", "substance": "硫酸", "formula": "H2SO4", "role": "本篇主角，稀/浓两种性质"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP03", "substance": "二氧化硫", "formula": "SO2", "role": "浓硫酸被还原的产物"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP03", "substance": "硫酸铜", "formula": "CuSO4", "role": "与铜反应产物，溶液显蓝色"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP03", "substance": "硫酸钡", "formula": "BaSO4", "role": "硫酸根检验的特征沉淀"}
+  ]
+}

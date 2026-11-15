@@ -1,0 +1,11 @@
+{
+  "doc": "碳酸钠与碳酸氢钠.md",
+  "kp": "M1-T2-KP11",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP09", "to_kp": "M1-T2-KP11",
+     "reason": "钠盐家族对比需要先认识钠的化学背景"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP11", "substance": "碳酸钠", "formula": "Na2CO3", "role": "本篇主角"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP11", "substance": "碳酸氢钠", "formula": "NaHCO3", "role": "本篇主角"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP11", "substance": "二氧化碳", "formula": "CO2", "role": "鉴别与转化产物"}
+  ]
+}

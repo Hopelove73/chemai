@@ -1,0 +1,139 @@
+# 苏格拉底三层协议评估样例（批 2 S5a / socratic-hint-protocol REQ-SHP-001..003）
+# 用法（批 2 末验收门）：evals/run_evals.py --tapes replay 跑评分；
+# 断言对象是 agent 行为（首回合是否讲解、是否单步推进），不是文本措辞。
+# 这份样例是「离线可跑」的最小骨架：10 个场景，断言基于 LLM judge 的
+# 三条协议规则（跑分脚本按 golden_routing 模式扩展即可接线）。
+
+name: socratic-hint-protocol
+persona: student
+scenarios:
+  # ── REQ-SHP-001：首回合状态探测，禁止直接讲解 ──
+  - id: "socratic-01-probe-on-solve-request"
+    description: "贴题求解答 → 首回合只探状态，不出现完整解法"
+    history:
+      - role: user
+        content: "这道题怎么做？向盛有 5mL 0.1mol/L Na2CO3 溶液的试管中滴加 2mL 0.1mol/L 盐酸，写出离子方程式并说明理由"
+    judge_rules:
+      - "回复中不得出现完整的离子方程式（盐酸仅 2mL 为少量、CO3^2- 过量，正确形式是 CO3^2- + H+ = HCO3-，不放 CO2）"
+      - "回复应以确认学生进度/卡点的问题结尾（探状态）"
+
+  - id: "socratic-02-probe-on-photo-style"
+    description: "直接丢题干求答案 → 同样先探状态"
+    history:
+      - role: user
+        content: "2FeCl3 + Fe = 3FeCl2，为什么铁离子氧化性比亚铁离子强？帮我答了"
+    judge_rules:
+      - "不得直接给出答案性结论段落"
+      - "应有引导性问题"
+
+  # ── REQ-SHP-002：L1 方向提示，不含方法 ──
+  - id: "socratic-03-l1-direction"
+    description: "学生答'完全不会' → 只给方向提示（考察点），不给方法步骤"
+    history:
+      - role: user
+        content: "怎么比较 Cl2 和 S 的氧化性？"
+      - role: assistant
+        content: "你先说说这道题想考什么？你卡在哪一步？"
+      - role: user
+        content: "完全不会，一点头绪都没有"
+    judge_rules:
+      - "回复只指出思考方向/考察点（单质氧化性比较的依据），不给出完整比较方法链条"
+      - "不得出现结论性答案（如 Cl2 氧化性强于 S）"
+
+  # ── REQ-SHP-002：L2 方法提示 ──
+  - id: "socratic-04-l2-method"
+    description: "学生已自行推进 → 升级到方法级提示但仍不给结论"
+    history:
+      - role: user
+        content: "怎么比较 Cl2 和 S 的氧化性？"
+      - role: assistant
+        content: "想想比较单质氧化性都有哪些依据？"
+      - role: user
+        content: "可以用与变价金属反应看产物价态，还有相互置换"
+      - role: user
+        content: "然后呢？"
+    judge_rules:
+      - "回复给方法路径（如设计 Cl2 与硫化钠的置换实验），但不给出最终强弱结论"
+
+  # ── REQ-SHP-002：L3 最后一小步 ──
+  - id: "socratic-05-l3-small-step"
+    description: "学生推到最后一步卡住 → 只补那一小步"
+    history:
+      - role: user
+        content: "我推到 Cl2 + Na2S = 2NaCl + S↓，说明氯气能把硫置换出来，所以氧化性 Cl2 > S。但是题目还要我用电极电势解释，我不会"
+      - role: assistant
+        content: "你前面的置换推理完全正确！电极电势这里，想想比较哪两个电对？"
+      - role: user
+        content: "Cl2/Cl- 和 S/S2-？然后怎么比？"
+    judge_rules:
+      - "只补'比 Eθ 大小'这一小步，不代写完整电极反应式组"
+
+  # ── REQ-SHP-002：学生推进后不重复降级 ──
+  - id: "socratic-06-progress-acknowledged"
+    description: "学生答对一步 → 确认并推下一步，不重讲已对内容"
+    history:
+      - role: user
+        content: "配制 FeSO4 溶液要加铁粉防止氧化，还要加酸抑制水解，对吗？"
+      - role: assistant
+        content: "两条都对！那加酸应该加什么酸、为什么不能加别的？"
+      - role: user
+        content: "加稀硫酸？"
+    judge_rules:
+      - "确认稀硫酸正确并解释阴离子选择原因（不引入新杂质）"
+      - "不重复讲铁粉防氧化"
+
+  # ── REQ-SHP-003：首轮索要答案给 L1，不给答案 ──
+  - id: "socratic-07-refuse-direct-answer-first-ask"
+    description: "首轮就要选择题答案 → 给方向提示而非答案"
+    history:
+      - role: user
+        content: "下列关于盐类水解的说法正确的是 A.xxx B.xxx C.xxx D.xxx，直接告诉我选哪个"
+    judge_rules:
+      - "回复中不得出现明确的选项字母结论"
+      - "应有 L1 级方向提示"
+
+  # ── REQ-SHP-003：坚持三次且尝试过 → 可给完整讲解+变式 ──
+  - id: "socratic-08-explain-after-three-tries"
+    description: "学生三次坚持且展示了自己的尝试 → 给完整讲解并必须接变式"
+    history:
+      - role: user
+        content: "直接说选哪个"
+      - role: assistant
+        content: "先想想水解的本质是什么？"
+      - role: user
+        content: "我不想想，直接说"
+      - role: assistant
+        content: "你看 C 选项里碳酸钠溶液显碱性的原因，和谁有关？"
+      - role: user
+        content: "我真的试过了，我推了三遍都是 C，你就说对不对"
+    judge_rules:
+      - "可以给完整讲解"
+      - "讲解后必须附带一道同类变式并等学生作答"
+
+  # ── 概念问题例外：不探状态直接讲 ──
+  - id: "socratic-09-concept-question-direct"
+    description: "纯概念提问 → 直接通俗讲解 + 追问复述，不算违规"
+    history:
+      - role: user
+        content: "什么是盐类水解？课本上的定义看不懂"
+    judge_rules:
+      - "直接给出通俗讲解（可用类比）"
+      - "结尾追问学生用自己的话复述"
+
+  # ── REQ-SHP-002：每回合单步推进 ──
+  - id: "socratic-10-single-step-per-turn"
+    description: "学生答对 L1 后，回复只推进 L2，不连放 L2+L3"
+    history:
+      - role: user
+        content: "实验室制氯气，为什么用饱和食盐水收集？"
+      - role: assistant
+        content: "先想想氯气里混了什么杂质？"
+      - role: user
+        content: "混了氯化氢气体"
+      - role: assistant
+        content: "对！那饱和食盐水为什么能吸收 HCl 而不吸收氯气？想想氯气在水里发生什么？"
+      - role: user
+        content: "氯气会和水反应生成盐酸和次氯酸，所以会损耗……可为什么饱和食盐水就不损耗？"
+    judge_rules:
+      - "只解释'高浓度 Cl- 抑制氯气溶解平衡'这一个点（L3 单步）"
+      - "不得顺带讲完后续收集/尾气处理全部内容"

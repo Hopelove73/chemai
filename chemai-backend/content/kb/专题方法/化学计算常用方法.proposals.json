@@ -1,0 +1,12 @@
+{
+  "doc": "化学计算常用方法.md",
+  "kp": "M6-T2-KP01",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP14", "to_kp": "M6-T2-KP01",
+     "reason": "物质的量四量换算是全部化学计算的地基"},
+    {"edge_type": "relates_to", "kp": "M6-T2-KP01", "substance": "氧化铁", "formula": "Fe2O3", "role": "差量法案例"},
+    {"edge_type": "relates_to", "kp": "M6-T2-KP01", "substance": "一氧化碳", "formula": "CO", "role": "差量法还原剂"},
+    {"edge_type": "relates_to", "kp": "M6-T2-KP01", "substance": "铝", "formula": "Al", "role": "关系式/物料守恒案例"},
+    {"edge_type": "relates_to", "kp": "M6-T2-KP01", "substance": "偏铝酸钠", "formula": "NaAlO2", "role": "铝土法中间产物"}
+  ]
+}

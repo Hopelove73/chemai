@@ -1,0 +1,14 @@
+{
+  "doc": "金属的腐蚀与防护.md",
+  "kp": "M3-T1-KP10",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T1-KP05", "to_kp": "M3-T1-KP10",
+     "reason": "电化学腐蚀就是自发的原电池反应，先有电池模型"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP17", "to_kp": "M3-T1-KP10",
+     "reason": "铁的化学性质与钝化是钢铁腐蚀案例的基础"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP10", "substance": "铁", "formula": "Fe", "role": "腐蚀主角，负极被氧化"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP10", "substance": "氧气", "formula": "O2", "role": "吸氧腐蚀正极反应物"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP10", "substance": "锌", "formula": "Zn", "role": "牺牲阳极的牺牲者"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP10", "substance": "氢氧化亚铁", "formula": "Fe(OH)2", "role": "腐蚀中间产物"}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "doc": "物质的分类与转化.md",
+  "kp": "M1-T2-KP01",
+  "edges": [
+    {"edge_type": "relates_to", "kp": "M1-T2-KP01", "substance": "氧化钙", "formula": "CaO", "role": "碱性氧化物代表"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP01", "substance": "碳酸钙", "formula": "CaCO3", "role": "转化关系示例"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP01", "substance": "二氧化碳", "formula": "CO2", "role": "酸性氧化物代表"}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "doc": "次氯酸与漂白粉.md",
+  "kp": "M1-T2-KP13",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP12", "to_kp": "M1-T2-KP13",
+     "reason": "HClO 来自氯水成分，漂白粉制备沿用氯气与碱反应母版"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP13", "substance": "次氯酸", "formula": "HClO", "role": "本篇主角"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP13", "substance": "次氯酸钙", "formula": "Ca(ClO)2", "role": "漂白粉有效成分"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP13", "substance": "碳酸钙", "formula": "CaCO3", "role": "沉淀推动产物"}
+  ]
+}

@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjA5MTQ4ZDU5LWY2NmMtNDhjNS04YjZkLThiNmY1MDk3NjA2MyIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjQ5NTMsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDAsIFwiY29uZmlkZW5jZVwiOiBcImhpZ2hcIiwgXCJyYXRpb25hbGVcIjogXCLmraPnoa7mgKfvvJrlrabnlJ/nrZTmoYggQiDkuI7lrpjmlrnnrZTmoYggQiDkuIDoh7TvvIzlupTliKTmu6HliIbvvIzkvYbliKTlrpjliKTkuLogMCDliIbvvIzliKTliIblrozlhajplJnor6/vvIzmraPnoa7mgKfnu7TluqbkuLogMOOAgumDqOWIhuWIhu+8muivpemimOS4uumAieaLqemimO+8jOaXoOWkmuatpemDqOWIhuWIhu+8jOWIpCAwIOWIhuS4jeWQiOeQhu+8jOmDqOWIhuWIhue7tOW6puS4uiAw44CC5LiA6Ie05oCn77ya5LuF5Yet5q2k5L6L5peg5rOV5L2T546w5ZCM57G75Z6L6ZSZ6K+v5omj5YiG5qCH5YeG5LiA6Ie077yM5LiU5pys5qyh5Yik5YiG5LiO6buE6YeR5qCH5YeG5Yay56qB77yM5LiA6Ie05oCn57u05bqm5Li6IDDjgIJcIiwgXCJzZXZlcmVfZmxhZ3NcIjogW119IiwicmVhc29uaW5nX2NvbnRlbnQiOiLmiJHku6zpnIDopoHlm57nrZTnlKjmiLfjgILpnIDopoHmjIkgcnVicmljIOWIpOWIhuOAgumcgOimgeWPqui+k+WHuiBKU09O44CC5oiR5Lus6KaB6K+E5Lyw5b6F6K+E6L6T5Ye677ya6aKY55uu77ya5LiL5YiX5YWz5LqO55uQ57G75rC06Kej6K+05rOV5q2j56Gu55qE5piv44CC5b6F6K+E6L6T5Ye677ya5a2m55Sf562U5qGI77yaQu+8m+WIpOWumOWIpOWIhu+8mjAg5YiG44CC6buE6YeR5Y+C6ICD562U5qGI77ya5a6Y5pa5562U5qGI77yaQu+8iOW6lOa7oeWIhu+8jOWIpOWIhuWkseivr++8ieOAglxuXG7kuZ/lsLHmmK/or7TliKTlrpjliKTliIbplJnor6/vvIzlrabnlJ/nrZTmoYjkuI7lrpjmlrnnrZTmoYjkuIDoh7TvvIzlupTmu6HliIbjgILlvoXor4TovpPlh7rmmK/liKTlrpjliKTliIYw5YiG77yM5LiO6buE6YeR5Y+C6ICD562U5qGI5LiN5LiA6Ie044CCcnVicmljOiBjb3JyZWN0bmVzc192c19nb2xkZW4g5p2D6YeNMC4277ya5q+P6aKY5Yik5YiG5LiO6buE6YeR562U5qGI5LiA6Ie044CC6L+Z6YeM5Yik5YiG6ZSZ6K+v77yMMOWIhiB2cyDlupTmu6HliIbjgILmiYDku6UgY29ycmVjdG5lc3NfdnNfZ29sZGVuIDDliIY/IHBhcnRpYWxfY3JlZGl0IDAuMu+8muWkmuatpemimOmDqOWIhuW+l+WIhuWQiOeQhuOAguatpOmimOeci+S8vOmAieaLqemimO+8jOS4jeaYr+Wkmuatpe+8jOaXoOmDqOWIhuWIhu+8jOWIpDDlrozlhajplJnor6/vvIzmiYDku6UgcGFydGlhbF9jcmVkaXQgMD8gY29uc2lzdGVuY3kgMC4y77ya5ZCM57G75Z6L6ZSZ6K+v5omj5YiG5qCH5YeG5LiA6Ie044CC5L2G5Y+q5pyJ5LiA5Liq5qC35L6L77yM5peg5rOV6K+E5Lu35LiA6Ie05oCn77yf5Y+v6IO96buY6K6k77yf6ZyA6KaB57uZ5oC75YiG44CC5oC75L2T5Yik5YiG5Lil6YeN6ZSZ6K+v77yM5L2G5Lmf6K645LiO6buE6YeR5a6M5YWo55u45Y+N44CC5Zug5q2kIHNjb3JlIOS9ju+8jOWPr+iDvTDjgIJjb25maWRlbmNlIGhpZ2jjgIJyYXRpb25hbGXnroDov7DvvJrlrabnlJ/nrZTmoYhC5LiO5a6Y5pa5QuS4gOiHtO+8jOW6lOa7oeWIhu+8m+WIpOWumOWIpDDliIbvvIzmraPnoa7mgKfnu7TluqbplJnor6/vvJvpgInmi6npopjml6Dpg6jliIbliIbvvJvkuIDoh7TmgKfml6Dms5Xpqozor4HmiJbmnKrkvZPnjrDjgIJzZXZlcmVfZmxhZ3PvvJ/lh7rpopjml4/lh7rnjrDljJblrabplJnor6/vvJ/ov5nph4zkuI3mmK/lh7rpopjml4/ljJblrabplJnor6/vvIzogIzmmK/liKTliIblpLHor6/jgILpopjnm67lhbPkuo7nm5DnsbvmsLTop6PvvIzml6DljJblrabplJnor6/vvJ/lvoXor4TovpPlh7rliKTlrpjliKTliIbplJnor6/vvIzkuI3mmK/ljJblrabplJnor6/jgILlronlhajml6DjgIJzZXZlcmVfZmxhZ3MgW13jgILpnIDopoHovpPlh7ogSlNPTiDlr7nosaHjgIJzY29yZeaVtOaVsDAtMTAw44CC5aaC5p6c5a6M5YWo6ZSZ6K+v77yM57uZMOaIluW+iOS9juOAguagueaNruadg+mHje+8jGNvcnJlY3RuZXNzIDA7IHBhcnRpYWxfY3JlZGl0IDA7IGNvbnNpc3RlbmN5IG1heWJlIDA/IOiLpeaXoOazlemqjOivge+8jOWPr+iDvee7mTA/IOe7vOWQiCAw44CC5L2GIGNvbmZpZGVuY2UgaGlnaOOAgnJhdGlvbmFsZeS4reaWh+OAguehruS/neWPqui+k+WHuiBKU09O44CCIn0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6MjgwLCJjb21wbGV0aW9uX3Rva2VucyI6NTIyLCJ0b3RhbF90b2tlbnMiOjgwMiwicHJvbXB0X3Rva2Vuc19kZXRhaWxzIjp7ImNhY2hlZF90b2tlbnMiOjEyOH0sImNvbXBsZXRpb25fdG9rZW5zX2RldGFpbHMiOnsicmVhc29uaW5nX3Rva2VucyI6Mzk3fSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjEyOCwicHJvbXB0X2NhY2hlX21pc3NfdG9rZW5zIjoxNTJ9LCJzeXN0ZW1fZmluZ2VycHJpbnQiOiJhZWI1NjQwMWNhNzRlMTI3ODIxYzRmOTEyNmRjYjY2OSJ9",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "bfNUZ4M2kDGLolDYzNh5HFo9jTVf_nQFerNz5YEO5yw8A-VeHpXs5A==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "9db5dc8032588832cad187d4b29372cd"
+   },
+   "recorded_at": "2026-09-27T16:02:36",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/61a29ecefb58af81",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「判卷」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- correctness_vs_golden（权重 0.6）：判分正确性：每题判分与黄金答案一致\n- partial_credit（权重 0.2）：部分分：多步题的部分得分是否合理\n- consistency（权重 0.2）：一致性：同类型错误的扣分标准一致\n\n输入：题目：下列关于盐类水解的说法，正确的是\n待评输出：学生答案：B；判官判分：0 分\n黄金参考答案：官方答案：B（应满分，判分失误）\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

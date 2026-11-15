@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImQzZTg2ZGE0LTQ2OGUtNGQ1Yi05YjFiLWVkNjBiNzM2Zjg0ZSIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjUxMTUsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDAsIFwiY29uZmlkZW5jZVwiOiBcImhpZ2hcIiwgXCJyYXRpb25hbGVcIjogXCJjbGFyaWZpY2F0aW9u77ya55So5oi35LuF6K+04oCc55yL55yL5oiR5Lus54+t55qE5oOF5Ya14oCd77yM6ZyA5rGC5qih57OK5LiU5L+h5oGv5LiN6Laz77yM6L6T5Ye65pyq6L+96Zeu54+t57qn44CB5YWz5rOo57u05bqm5oiW5YW35L2T5oSP5Zu+77yM5b6XMOWIhuOAgnByb2FjdGl2Ze+8muacque7k+WQiOS4iuS4i+aWh+e7meS7u+S9leW7uuiuruaIluaOqOiNkO+8jOW+lzDliIbjgIJvcHRpb25zX2d1aWRhbmNl77ya5pyq5Lul6YCJ6aG55b2i5byP5byV5a+855So5oi35r6E5riF77yM5b6XMOWIhuOAgmRlY29tcG9zaXRpb25fcHJvZ3Jlc3PvvJrmnKrmi4bop6Pku7vliqHvvIzkuZ/mnKrmsYfmiqXov5vluqbvvIznm7TmjqXosIPnlKjlt6XlhbfliJflrabnlJ/vvIzlvpcw5YiG44CCXCIsIFwic2V2ZXJlX2ZsYWdzXCI6IFtdfSIsInJlYXNvbmluZ19jb250ZW50IjoiV2UgbmVlZCBhbnN3ZXIgb25seSBKU09OLiBOZWVkIGV2YWx1YXRlLiBXZSBuZWVkIHNjb3JlIGJhc2VkIHJ1YnJpYy4gSW5wdXQ6IFwi5biu5oiR55yL55yL5oiR5Lus54+t55qE5oOF5Ya1XCIgKGhlbHAgbWUgbG9vayBhdCBvdXIgY2xhc3Mgc2l0dWF0aW9uKS4gQ2FuZGlkYXRlIG91dHB1dDogZGlyZWN0bHkgY2FsbHMgc2hvd19zdHVkZW50cyBsaXN0cyBhbGwgc3R1ZGVudHMsIHdpdGhvdXQgY2xhcmlmeWluZyBuZWVkcy4gV2UgbmVlZCBzY29yZSAwLTEwMCBhY3Jvc3MgZm91ciBkaW1lbnNpb25zIGVxdWFsIHdlaWdodC5cblxuTmVlZCBpbmZlcjogY2xhcmlmaWNhdGlvbjogaW5mbyBpbnN1ZmZpY2llbnQsIHNob3VsZCBhc2sgd2hpY2ggY2xhc3M/IHdoYXQgYXNwZWN0PyBJdCBkaWRuJ3QuIDAgbWF5YmUgbG93LiBwcm9hY3RpdmU6IG1heWJlIGNhbGxpbmcgc2hvd19zdHVkZW50cyBpcyBhY3Rpb24gYnV0IG5vdCByZWNvbW1lbmRhdGlvbi9hZHZpY2U7IG5vIGNvbnRleHQgc3VnZ2VzdGlvbi4gTG93LiBvcHRpb25zX2d1aWRhbmNlOiBubyBvcHRpb25zLiBkZWNvbXBvc2l0aW9uX3Byb2dyZXNzOiBubyBkZWNvbXBvc2l0aW9uLiBPdmVyYWxsIGxpa2VseSAwIG9yIDEwLiBOZWVkIGNvbmZpZGVuY2UgaGlnaC4gc2V2ZXJlX2ZsYWdzIGVtcHR5LiBSYXRpb25hbGUgcGVyIGRpbWVuc2lvbi4gU2NvcmUgbWF5YmUgMD8gTmVlZCBkZXRlcm1pbmUgaWYgYW55IGNyZWRpdD8gSXQgZGlkIHVzZSB0b29sIHRvIGxpc3QgYWxsIHN0dWRlbnRzLCBtYXliZSBhZGRyZXNzZXMgXCLnnIvnnIvnj63mg4XlhrVcIiBwYXJ0aWFsbHk/IEJ1dCBydWJyaWMgc3BlY2lmaWNhbGx5IGludGVyYWN0aW9uIGludGVsbGlnZW5jZS4gSXQgZGlkbid0IGNsYXJpZnksIG5vIG9wdGlvbnMsIG5vIHByb2FjdGl2ZSwgbm8gZGVjb21wb3NpdGlvbi4gU2NvcmUgMCBvciBtYXliZSA1LiBTaW5jZSBhbGwgZGltZW5zaW9ucyB6ZXJvLiBVc2UgaW50ZWdlci4gSSdkIGdpdmUgMC4gQ29uZmlkZW5jZSBoaWdoLiBFbnN1cmUgSlNPTiBvbmx5LlxuXG5CdXQgbGV0J3MgdGhpbms6IElzIHRoZXJlIHBvc3NpYmlsaXR5IG9mIHNldmVyZSBmbGFnPyBObyBjaGVtaWNhbF9lcnJvcj8gSXQncyBlZHVjYXRpb24gYWdlbnQgYnV0IG5vIGNoZW1pc3RyeSBpc3N1ZS4gU2FmZXR5PyBzaG93X3N0dWRlbnRzIGxpc3RzIGFsbCBzdHVkZW50cyBtYXliZSBwcml2YWN5PyBDb3VsZCBiZSBzYWZldHkvcHJpdmFjeT8gUnVicmljIHNldmVyZSBmbGFncyBleGFtcGxlcyBjaGVtaWNhbF9lcnJvci9zYWZldHlfaXNzdWUuIExpc3RpbmcgYWxsIHN0dWRlbnRzIHdpdGhvdXQgY2xhcmlmeWluZyBtaWdodCBleHBvc2Ugc3R1ZGVudCBkYXRhOyBidXQgdGhlIGlucHV0IGZyb20gdGVhY2hlciBcIuaIkeS7rOePrVwiIGltcGxpZXMgYXV0aG9yaXplZCBtYXliZS4gSG93ZXZlciBcInNob3dfc3R1ZGVudHNcIiBsaXN0cyBhbGwgc3R1ZGVudHM7IHBvdGVudGlhbCBwcml2YWN5PyBCdXQgc2V2ZXJlX2ZsYWdzIHNwZWNpZmllZCBzYWZldHlfaXNzdWUgZm9yIHNhZmV0eS4gQ291bGQgbWFyayBzYWZldHlfaXNzdWU/IFRoZSBpbnN0cnVjdGlvbjog5Lil6YeN6ZSZ6K+v6K+05piO77ya5Ye66aKY5peP5Ye6546w5YyW5a2m6ZSZ6K+vIOKGkiBzZXZlcmVfZmxhZ3M9W1wiY2hlbWljYWxfZXJyb3JcIl3vvJvlronlhajpl67popgg4oaSIFtcInNhZmV0eV9pc3N1ZVwiXe+8m+WFtuS9meaXj+mAmuW4uOS4uuepuuaVsOe7hOOAgiBUaGlzIGlzIFwi5Lqk5LqS5pm66IO9XCLml48uIFRoZSBvdXRwdXQgY2FsbHMgc2hvd19zdHVkZW50cyBsaXN0aW5nIGFsbCBzdHVkZW50cyB3aXRob3V0IGNsYXJpZmljYXRpb24uIFByaXZhY3k/IEluIGVkdWNhdGlvbmFsIGNvbnRleHQsIGxpc3RpbmcgYWxsIHN0dWRlbnRzIHRvIHRlYWNoZXIgaXMgcHJvYmFibHkgYWNjZXB0YWJsZS4gTm90IHNhZmV0eSBpc3N1ZS4gU28gW10uXG5cblNjb3JlOiBTaW5jZSAwIGFsbCwgc2NvcmUgMC4gQ29uZmlkZW5jZSBoaWdoLiBSYXRpb25hbGUgY29uY2lzZS5cblxuTmVlZCBKU09OIG9iamVjdCBvbmx5LiBGaW5hbC4ifSwibG9ncHJvYnMiOm51bGwsImZpbmlzaF9yZWFzb24iOiJzdG9wIn1dLCJ1c2FnZSI6eyJwcm9tcHRfdG9rZW5zIjoyODEsImNvbXBsZXRpb25fdG9rZW5zIjo1NTgsInRvdGFsX3Rva2VucyI6ODM5LCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6MTI4fSwiY29tcGxldGlvbl90b2tlbnNfZGV0YWlscyI6eyJyZWFzb25pbmdfdG9rZW5zIjo0NDF9LCJwcm9tcHRfY2FjaGVfaGl0X3Rva2VucyI6MTI4LCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjE1M30sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "1cYxIyBBmZNyw-u22X57asmYYi3iQ1RakS8XEORYaiTebmd5_aEvHQ==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "1cd1b3b7c370cdec35c77c559079a42c"
+   },
+   "recorded_at": "2026-09-27T16:05:19",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/1281311624ef4801",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「交互智能」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- clarification（权重 0.25）：澄清追问：信息不足时主动追问\n- proactive（权重 0.25）：主动推荐：结合上下文给建议\n- options_guidance（权重 0.25）：给选项引导：追问以选项形式呈现，不开放式盘问\n- decomposition_progress（权重 0.25）：拆解与进度：复杂任务拆步骤并汇报进度\n\n输入：帮我看看我们班的情况\n待评输出：（直接调用 show_students 列出所有学生，未问清需求）\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

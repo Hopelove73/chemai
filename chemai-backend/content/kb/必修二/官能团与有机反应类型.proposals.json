@@ -1,0 +1,16 @@
+{
+  "doc": "官能团与有机反应类型.md",
+  "kp": "M2-T4-KP12",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP06", "to_kp": "M2-T4-KP12",
+     "reason": "羟基的置换、氧化、酯化是反应类型表的支柱之一"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP07", "to_kp": "M2-T4-KP12",
+     "reason": "羧基的酸性与酯化是取代反应的关键样本"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP08", "to_kp": "M2-T4-KP12",
+     "reason": "酯基水解是水解反应的必修样本"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP12", "substance": "乙烯", "formula": "C2H4", "role": "加成反应代表"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP12", "substance": "乙醇", "formula": "C2H5OH", "role": "羟基氧化代表"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP12", "substance": "乙酸乙酯", "formula": "CH3COOC2H5", "role": "酯基水解代表"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP12", "substance": "苯", "formula": "C6H6", "role": "苯环取代代表"}
+  ]
+}

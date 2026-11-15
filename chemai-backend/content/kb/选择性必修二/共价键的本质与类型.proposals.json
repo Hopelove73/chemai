@@ -1,0 +1,12 @@
+{
+  "doc": "共价键的本质与类型.md",
+  "kp": "M4-T2-KP01",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M4-T1-KP02", "to_kp": "M4-T2-KP01",
+     "reason": "轨道重叠成键的前提是知道轨道形状与取向"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T3-KP07", "to_kp": "M4-T2-KP01",
+     "reason": "必修一的共用电子对是 σ/π 细化的起点"},
+    {"edge_type": "relates_to", "kp": "M4-T2-KP01", "substance": "氮气", "formula": "N2", "role": "三键示例，一σ两π"},
+    {"edge_type": "relates_to", "kp": "M4-T2-KP01", "substance": "乙烯", "formula": "C2H4", "role": "双键示例，π 键活泼"}
+  ]
+}

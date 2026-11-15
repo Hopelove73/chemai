@@ -1,0 +1,16 @@
+{
+  "doc": "常见气体的实验室制备（硫氮）.md",
+  "kp": "M2-T1-KP01",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T1-KP04", "to_kp": "M2-T1-KP01",
+     "reason": "发生、净化、收集、尾气四步法是本篇的装置设计框架"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T2-KP02", "to_kp": "M2-T1-KP01",
+     "reason": "SO2 的溶解性与密度决定收集方法，必须先知道其性质"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T2-KP07", "to_kp": "M2-T1-KP01",
+     "reason": "NH3 极易溶于水、密度小于空气，决定向下排空气与防倒吸设计"},
+    {"edge_type": "relates_to", "kp": "M2-T1-KP01", "substance": "二氧化硫", "formula": "SO2", "role": "向上排空气收集，碱液吸收尾气"},
+    {"edge_type": "relates_to", "kp": "M2-T1-KP01", "substance": "氨气", "formula": "NH3", "role": "向下排空气收集，碱石灰干燥"},
+    {"edge_type": "relates_to", "kp": "M2-T1-KP01", "substance": "一氧化氮", "formula": "NO", "role": "排水法收集"},
+    {"edge_type": "relates_to", "kp": "M2-T1-KP01", "substance": "二氧化氮", "formula": "NO2", "role": "向上排空气收集，碱液吸收"}
+  ]
+}

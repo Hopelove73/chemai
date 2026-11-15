@@ -1,0 +1,13 @@
+{
+  "doc": "酯与油脂.md",
+  "kp": "M2-T4-KP08",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP07", "to_kp": "M2-T4-KP08",
+     "reason": "酯的结构与酯化反应是理解酯水解的前提"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP08", "substance": "乙酸乙酯", "formula": "CH3COOC2H5", "role": "最简单的酯，水解样本"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP08", "substance": "硬脂酸甘油酯", "formula": "(C17H35COO)3C3H5", "role": "油脂代表，皂化反应底物"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP08", "substance": "硬脂酸钠", "formula": "C17H35COONa", "role": "肥皂主要成分"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP08", "substance": "甘油", "formula": "C3H5(OH)3", "role": "皂化反应副产物"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP08", "substance": "氢氧化钠", "formula": "NaOH", "role": "皂化反应所用碱"}
+  ]
+}

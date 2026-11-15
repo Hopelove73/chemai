@@ -1,0 +1,13 @@
+{
+  "doc": "铁的氧化物与氢氧化物.md",
+  "kp": "M1-T2-KP18",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP17", "to_kp": "M1-T2-KP18",
+     "reason": "+2/+3 价态框架由铁单质与不同氧化剂的反应建立"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP08", "to_kp": "M1-T2-KP18",
+     "reason": "Fe(OH)2 氧化方程式的配平需要电子原子双守恒"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP18", "substance": "氧化铁", "formula": "Fe2O3", "role": "铁红"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP18", "substance": "氢氧化亚铁", "formula": "Fe(OH)2", "role": "白色沉淀"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP18", "substance": "氢氧化铁", "formula": "Fe(OH)3", "role": "红褐色沉淀"}
+  ]
+}

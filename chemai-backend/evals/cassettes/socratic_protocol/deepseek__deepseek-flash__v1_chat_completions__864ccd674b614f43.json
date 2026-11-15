@@ -1,0 +1,41 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjAzOGFkYzdjLTJiMzAtNDcxNC1iZmY2LTM3YzMyN2E2YjEyNSIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTEwMjcyMDUsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInBhc3NcIjogdHJ1ZSwgXCJyZWFzb25cIjogXCLlm57lpI3ku4XlvJXlr7znlKjmiLfoh6rooYzkuablhpnlj43lupTvvIzmnKrnu5nlh7pDbDLkuI5T5rCn5YyW5oCn5by65byx55qE5pyA57uI57uT6K6677yM56ym5ZCI5Y2P6K6u44CCXCJ9In0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6MTc1LCJjb21wbGV0aW9uX3Rva2VucyI6MzMsInRvdGFsX3Rva2VucyI6MjA4LCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6MH0sInByb21wdF9jYWNoZV9oaXRfdG9rZW5zIjowLCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjE3NX0sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "eo-cache-status": "MISS",
+    "eo-log-uuid": "4551112537341650986",
+    "server": "openresty",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "2b9d7b067c35bf9908a3ab3ed300a50e"
+   },
+   "recorded_at": "2026-10-03T11:33:26",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/864ccd674b614f43",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 2000,
+  "messages": [
+   {
+    "content": "你是苛刻但公正的评估判官。只输出 JSON，不输出任何其他文字。",
+    "role": "system"
+   },
+   {
+    "content": "你是严格的评估判官。依据完整对话上下文，判断【助手最新回复】是否满足协议规则。\n\n对话历史:\n[user] 怎么比较 Cl2 和 S 的氧化性？\n[assistant] 想想比较单质氧化性都有哪些依据？\n[user] 可以用与变价金属反应看产物价态，还有相互置换\n[user] 然后呢？\n\n助手最新回复:\n试试写一下，哪个反应你更有把握就先写哪个～\n\n协议规则: 回复给方法路径（如设计 Cl2 与硫化钠的置换实验），但不给出最终强弱结论\n\n只返回 JSON: {\"pass\": true, \"reason\": \"一句话依据\"} 的形式，pass 为布尔值。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.0,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

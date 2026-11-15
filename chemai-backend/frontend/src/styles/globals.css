@@ -1,0 +1,238 @@
+@import 'tailwindcss';
+@import './tokens.css';
+@import './mobile-themes.css';
+
+/* Tailwind v4 主题映射（与 tokens.css 同一套值，供工具类使用；utilities 引用 var，
+   data-theme 作用域覆盖变量即整端换肤） */
+@theme {
+  --color-primary: #002147;
+  --color-primary-hover: #001a38;
+  --color-primary-soft: #e8eef5;
+  --color-on-primary: #ffffff;
+  --color-teal: #0d7377;
+  --color-teal-hover: #0a5c5f;
+  --color-teal-soft: #e6f2f2;
+  --color-teal-bright: #2dd4bf;
+  --color-accent: #5e6ad2;
+  --color-accent-hover: #828fff;
+  --color-accent-subtle: #eceefe;
+  --color-accent-interactive: #5e6ad2;
+  --color-accent-interactive-hover: #828fff;
+  --color-accent-interactive-subtle: #eceefe;
+  --color-bg: #f2f6fb;
+  --color-surface: #ffffff;
+  --color-surface-muted: #f5f6f6;
+  --color-border: #e5e7eb;
+  --color-border-strong: #d1d5db;
+  --color-ink: #111318;
+  --color-ink-secondary: #5b616e;
+  --color-ink-muted: #9aa0ab;
+  --color-success: #2c6e49;
+  --color-success-soft: #e7f2ec;
+  --color-warning: #b45309;
+  --color-warning-soft: #fdf3e3;
+  --color-error: #b43c28;
+  --color-error-soft: #fbeae7;
+  --color-error-bright: #f3727f;
+  --color-link: #5e6ad2;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --shadow-sm: 0 1px 2px rgb(15 23 42 / 0.05);
+  --shadow-md: 0 4px 12px rgb(15 23 42 / 0.08);
+  --shadow-lg: 0 12px 32px rgb(15 23 42 / 0.12);
+  --font-sans: 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', -apple-system,
+    BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-display: 'Inter', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  --font-mono: 'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+/* ── 语义样式层（总册 R-K1）：容器与字阶的唯一出口 ──
+   值只引令牌；data-theme 翻转变量即整端换肤。NEVER 再写第三种卡片配方。 */
+@layer components {
+  .surface-card {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    box-shadow: var(--shadow-sm);
+  }
+  .hairline {
+    border: 1px solid var(--color-border);
+  }
+  /* 触感原语（R-I6 皮肤）：按压下沉 + 键盘焦点环 */
+  .press-target {
+    transition:
+      transform var(--duration-fast) var(--ease-out),
+      box-shadow var(--duration-fast) var(--ease-out),
+      background-color var(--duration-fast) var(--ease-out);
+  }
+  .press-target:active {
+    transform: scale(0.97);
+  }
+  .press-target:focus-visible {
+    outline: 2px solid var(--color-accent-interactive);
+    outline-offset: 2px;
+  }
+  /* 六档字阶（总册 R-T3；端值见 tokens/themes 的 --text-*） */
+  .text-display {
+    font-family: var(--font-display);
+    font-size: var(--text-display);
+    font-weight: 900;
+    line-height: var(--leading-snug);
+    letter-spacing: -0.02em;
+  }
+  .text-title {
+    font-size: var(--text-title);
+    font-weight: 700;
+    line-height: var(--leading-snug);
+    letter-spacing: -0.01em;
+  }
+  .text-body {
+    font-size: var(--text-body);
+    line-height: var(--leading-body);
+  }
+  .text-sub {
+    font-size: var(--text-sub);
+    line-height: 1.6;
+  }
+  .text-caption {
+    font-size: var(--text-caption);
+    line-height: 1.5;
+  }
+  .text-micro {
+    font-size: var(--text-micro);
+    line-height: 1.5;
+  }
+  /* 数字律（R-T1）：等宽 + 表格数字，随 .text-* 叠加 */
+  .tnum {
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+body {
+  margin: 0;
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-sans);
+  font-size: 14px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* 化学式等宽（H₂SO₄ 上下标对齐） */
+.chem-mono {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+}
+
+/* KPI 大数字：等宽 + 表格数字（教师端分册 R-T-L3，对齐不跳动） */
+.kpi-number {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.02em;
+}
+
+/* antd 按钮渐变覆写（登录页等 antd 表单按钮） */
+.btn-gradient-antd {
+  background: var(--gradient-primary) !important;
+  border: none !important;
+  box-shadow: 0 2px 10px rgb(13 115 119 / 0.28) !important;
+}
+.btn-gradient-antd:hover {
+  background: var(--gradient-primary-hover) !important;
+}
+
+/* 主操作渐变按钮（GAP-02 复活：学术青 → 靛蓝） */
+.btn-gradient {
+  background: var(--gradient-primary);
+  color: #ffffff;
+}
+.btn-gradient:hover {
+  background: var(--gradient-primary-hover);
+}
+
+/* display 标题（Inter/Noto Black 子集，负字距纪律） */
+.font-display {
+  font-family: var(--font-display);
+  letter-spacing: -0.02em;
+}
+
+/* 通用滚动条（WebKit 细滚动条） */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-border-strong);
+  border-radius: var(--radius-full);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-text-muted);
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* 动效基线：页面/卡片入场 */
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.animate-fade-in-up {
+  animation: fade-in-up var(--duration-normal) var(--ease-out) both;
+}
+
+/* 旧版 live-timer 跳动动画（Agent 思考计时器） */
+.live-timer.ticking {
+  animation: timer-pulse 2s ease-in-out infinite;
+}
+@keyframes timer-pulse {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+
+/* reduced-motion（R-M1 配套）：MotionConfig 管不到的 CSS 动效在此一刀切 */
+@media (prefers-reduced-motion: reduce) {
+  .animate-fade-in-up,
+  .animate-pulse,
+  .animate-bounce,
+  .animate-spin,
+  .live-timer.ticking,
+  .molecule-drift {
+    animation: none !important;
+  }
+  .press-target,
+  .press-target:active {
+    transition: none !important;
+    transform: none !important;
+  }
+}
+
+/* 背景分子层极慢漂移（P-21）：让装饰像活的，而不是死线框 */
+.molecule-drift {
+  animation: molecule-drift 90s ease-in-out infinite alternate;
+  transform-origin: center;
+}
+@keyframes molecule-drift {
+  from { transform: translate3d(-1.2%, -0.8%, 0) rotate(0.4deg); }
+  to { transform: translate3d(1.2%, 0.8%, 0) rotate(-0.4deg); }
+}

@@ -1,0 +1,8 @@
+{
+  "doc": "原子结构.md",
+  "kp": "M1-T3-KP01",
+  "edges": [
+    {"edge_type": "relates_to", "kp": "M1-T3-KP01", "substance": "碳", "formula": "C", "role": "同位素与质量数基准"},
+    {"edge_type": "relates_to", "kp": "M1-T3-KP01", "substance": "氢气", "formula": "H2", "role": "氕氘氚同位素案例"}
+  ]
+}

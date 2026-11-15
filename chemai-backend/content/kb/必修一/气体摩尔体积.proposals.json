@@ -1,0 +1,11 @@
+{
+  "doc": "气体摩尔体积.md",
+  "kp": "M1-T2-KP15",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP14", "to_kp": "M1-T2-KP15",
+     "reason": "n=V/Vm 的换算以物质的量为枢纽"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP15", "substance": "二氧化碳", "formula": "CO2", "role": "换算示例"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP15", "substance": "氢气", "formula": "H2", "role": "体积比示例"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP15", "substance": "氯气", "formula": "Cl2", "role": "体积比示例"}
+  ]
+}

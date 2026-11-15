@@ -1,0 +1,10 @@
+{
+  "doc": "化学反应的限度.md",
+  "kp": "M1-T3-KP08",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T3-KP02", "to_kp": "M1-T3-KP08",
+     "reason": "结构稳定性的思想迁移到平衡稳定性"},
+    {"edge_type": "relates_to", "kp": "M1-T3-KP08", "substance": "氯气", "formula": "Cl2", "role": "氯水平衡第一现场"},
+    {"edge_type": "relates_to", "kp": "M1-T3-KP08", "substance": "氨", "formula": "NH3", "role": "合成氨工业案例"}
+  ]
+}

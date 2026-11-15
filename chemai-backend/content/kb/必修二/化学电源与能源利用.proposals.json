@@ -1,0 +1,15 @@
+{
+  "doc": "化学电源与能源利用.md",
+  "kp": "M2-T3-KP03",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T3-KP02", "to_kp": "M2-T3-KP03",
+     "reason": "一次/二次/燃料电池都是原电池原理的具体形态"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T3-KP01", "to_kp": "M2-T3-KP03",
+     "reason": "能量转化与能源结构的基本观点先建立"},
+    {"edge_type": "relates_to", "kp": "M2-T3-KP03", "substance": "铅", "formula": "Pb", "role": "铅蓄电池负极"},
+    {"edge_type": "relates_to", "kp": "M2-T3-KP03", "substance": "二氧化铅", "formula": "PbO2", "role": "铅蓄电池正极"},
+    {"edge_type": "relates_to", "kp": "M2-T3-KP03", "substance": "硫酸", "formula": "H2SO4", "role": "铅蓄电池电解液"},
+    {"edge_type": "relates_to", "kp": "M2-T3-KP03", "substance": "氢气", "formula": "H2", "role": "氢氧燃料电池燃料"},
+    {"edge_type": "relates_to", "kp": "M2-T3-KP03", "substance": "甲烷", "formula": "CH4", "role": "甲烷燃料电池燃料"}
+  ]
+}

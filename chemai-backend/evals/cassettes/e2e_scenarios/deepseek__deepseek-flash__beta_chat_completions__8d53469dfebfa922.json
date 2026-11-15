@@ -1,0 +1,39 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6Ijc0YzFmYjM4LWNiODEtNGFmOS04NjU2LTMxZmZkNjRiOWI2YSIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjY0NTcsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcbiAgXCJnb2FsXCI6IFwi5Zyo5bel5L2c55uu5b2V5a6M5oiQIGNoYWluLXRlc3QudHh0IOeahOWGmeWFpeOAgeS/ruaUueOAgeaQnOe0ouS4juaWh+S7tuWIl+S4vuaTjeS9nO+8jOW5tuivu+WPluahjOmdouS4iueahCBTa2lsbOWVhuWfjuS6p+WTgeaWueahiC3lj4LogIN2MS4wLm1kXCIsXG4gIFwic3RlcHNcIjogW1xuICAgIHtcbiAgICAgIFwic3RlcFwiOiAxLFxuICAgICAgXCJza2lsbFwiOiBcIndyaXRlXCIsXG4gICAgICBcImFyZ3NcIjoge1xuICAgICAgICBcInBhdGhcIjogXCJjaGFpbi10ZXN0LnR4dFwiLFxuICAgICAgICBcImNvbnRlbnRcIjogXCJjaGFpbiB0ZXN0XCJcbiAgICAgIH0sXG4gICAgICBcImRlcGVuZHNfb25cIjogW10sXG4gICAgICBcImRlc2NyaXB0aW9uXCI6IFwi5Zyo5bel5L2c55uu5b2V5Yib5bu65bm25YaZ5YWlIGNoYWluLXRlc3QudHh0IOaWh+S7tlwiXG4gICAgfSxcbiAgICB7XG4gICAgICBcInN0ZXBcIjogMixcbiAgICAgIFwic2tpbGxcIjogXCJlZGl0XCIsXG4gICAgICBcImFyZ3NcIjoge1xuICAgICAgICBcInBhdGhcIjogXCJjaGFpbi10ZXN0LnR4dFwiLFxuICAgICAgICBcIm9sZF9zdHJpbmdcIjogXCJjaGFpbiB0ZXN0XCIsXG4gICAgICAgIFwibmV3X3N0cmluZ1wiOiBcImNoYWluIHRlc3QgbW9kaWZpZWRcIlxuICAgICAgfSxcbiAgICAgIFwiZGVwZW5kc19vblwiOiBbMV0sXG4gICAgICBcImRlc2NyaXB0aW9uXCI6IFwi5L+u5pS5IGNoYWluLXRlc3QudHh0IOaWh+S7tuWGheWuuVwiXG4gICAgfSxcbiAgICB7XG4gICAgICBcInN0ZXBcIjogMyxcbiAgICAgIFwic2tpbGxcIjogXCJncmVwXCIsXG4gICAgICBcImFyZ3NcIjoge1xuICAgICAgICBcInBhdHRlcm5cIjogXCJjaGFpblwiLFxuICAgICAgICBcInBhdGhcIjogXCJjaGFpbi10ZXN0LnR4dFwiXG4gICAgICB9LFxuICAgICAgXCJkZXBlbmRzX29uXCI6IFsyXSxcbiAgICAgIFwiZGVzY3JpcHRpb25cIjogXCLlnKggY2hhaW4tdGVzdC50eHQg5Lit5pCc57Si5YWz6ZSu5a2XIGNoYWluXCJcbiAgICB9LFxuICAgIHtcbiAgICAgIFwic3RlcFwiOiA0LFxuICAgICAgXCJza2lsbFwiOiBcImJhc2hcIixcbiAgICAgIFwiYXJnc1wiOiB7XG4gICAgICAgIFwiY29tbWFuZFwiOiBcImxzIC1sYVwiXG4gICAgICB9LFxuICAgICAgXCJkZXBlbmRzX29uXCI6IFszXSxcbiAgICAgIFwiZGVzY3JpcHRpb25cIjogXCLliJfkuL7lt6XkvZznm67lvZXkuIvnmoTmlofku7ZcIlxuICAgIH0sXG4gICAge1xuICAgICAgXCJzdGVwXCI6IDUsXG4gICAgICBcInNraWxsXCI6IFwicmVhZFwiLFxuICAgICAgXCJhcmdzXCI6IHtcbiAgICAgICAgXCJwYXRoXCI6IFwifi9EZXNrdG9wL1NraWxs5ZWG5Z+O5Lqn5ZOB5pa55qGILeWPguiAg3YxLjAubWRcIlxuICAgICAgfSxcbiAgICAgIFwiZGVwZW5kc19vblwiOiBbXSxcbiAgICAgIFwiZGVzY3JpcHRpb25cIjogXCLor7vlj5bmoYzpnaLkuIrnmoQgU2tpbGzllYbln47kuqflk4HmlrnmoYgt5Y+C6ICDdjEuMC5tZCDmlofku7ZcIlxuICAgIH1cbiAgXVxufSJ9LCJsb2dwcm9icyI6bnVsbCwiZmluaXNoX3JlYXNvbiI6InN0b3AifV0sInVzYWdlIjp7InByb21wdF90b2tlbnMiOjY0MiwiY29tcGxldGlvbl90b2tlbnMiOjM4MiwidG90YWxfdG9rZW5zIjoxMDI0LCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6Mzg0fSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjM4NCwicHJvbXB0X2NhY2hlX21pc3NfdG9rZW5zIjoyNTh9LCJzeXN0ZW1fZmluZ2VycHJpbnQiOiJhZWI1NjQwMWNhNzRlMTI3ODIxYzRmOTEyNmRjYjY2OSJ9",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 a88c82d600267965655f75e3c000895a.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "5t8AxJBmP9lrLhexWStJlqtzevoqLb_5PXz3a6S-uQ99UyFwLqwx4A==",
+    "x-amz-cf-pop": "KUL62-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "404341c4268968b746ea0cc05a8749b5"
+   },
+   "recorded_at": "2026-09-27T16:27:38",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/beta:chat:completions/8d53469dfebfa922",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 1024,
+  "messages": [
+   {
+    "content": "你是化学教研助手的目标拆解器。将用户的复杂目标拆解为结构化执行步骤。\n\n可用技能：\n  - assign_adaptive_practice\n  - balance_equation\n  - bash\n  - check_parser_services\n  - chemistry_tutor\n  - confirm_exam_grades\n  - delete_bank\n  - diagnose_barrier\n  - edit\n  - equilibrium_tutor\n  - find\n  - generate_learning_plan\n  - generate_parent_report\n  - generate_questions\n  - grade_answer_sheets\n  - grep\n  - import_question_bank\n  - ionic_equation_tutor\n  - list_banks\n  - list_teacher_exams\n  - memory_student_get\n  - memory_teacher_get\n  - organic_tutor\n  - parse_chemistry_document\n  - periodic_law_tutor\n  - plan_task\n  - query_assignment_progress\n  - query_batch_grades\n  - query_grading_queue\n  - query_ocr_progress\n  - read\n  - redox_tutor\n  - revise_learning_plan\n  - save_grading_results\n  - save_to_bank\n  - search_exam_bank\n  - send_learning_plan\n  - send_report_to_parent\n  - show_diagnosis\n  - show_exam_workbench\n  - show_students\n  - simulate_experiment\n  - stoichiometry_tutor\n  - web_search\n  - weekly_report\n  - write\n\n已知学生（学号 → 姓名）：\n（无）\n\n返回 JSON（只返回 JSON，不要其他文字）：\n{{\n  \"goal\": \"原始目标（复述）\",\n  \"steps\": [\n    {{\n      \"step\": 1,\n      \"skill\": \"技能名\",\n      \"args\": {{\"参数名\": \"参数值\"}},\n      \"depends_on\": [],\n      \"description\": \"中文步骤描述\"\n    }}\n  ]\n}}\n\n规则：\n- 最多 8 个步骤\n- 计划必须覆盖用户目标中的**全部**结果，不得遗漏：提到「家长/父母/同步/告知家长」\n  必须包含 generate_parent_report（生成家长报告）与 send_report_to_parent（发送给家长）步骤；\n  提到「发送给学生」必须包含 send_learning_plan 步骤\n- depends_on 引用前序步骤编号（如 [1, 2]）\n- 需要前序步骤输出时，使用 ${{step_N.field}} 引用（如 \"${{step_1.question_ids}}\"）\n- 禁止循环依赖\n- 如果不需要拆解，返回单步 Plan\n- 步骤描述用学生姓名（如「陈湘旻」），不要只写学号；名称未知时先安排查找学生的步骤\n\n用户目标: 在工作目录完成 chain-test.txt 的写入、修改、搜索与文件列举操作，并读取桌面上的 Skill商城产品方案-参考v1.0.md\n\nJSON:",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.1,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/beta/chat/completions"
+}

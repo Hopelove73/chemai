@@ -1,0 +1,12 @@
+{
+  "doc": "常见离子的检验.md",
+  "kp": "M1-T1-KP03",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T1-KP02", "to_kp": "M1-T1-KP03",
+     "reason": "操作规范（取样/滴加/加热）是检验流程的前提"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP04", "to_kp": "M1-T1-KP03",
+     "reason": "特征反应的实质都是离子反应"},
+    {"edge_type": "relates_to", "kp": "M1-T1-KP03", "substance": "氯化银", "formula": "AgCl", "role": "Cl- 检验证据"},
+    {"edge_type": "relates_to", "kp": "M1-T1-KP03", "substance": "硫酸钡", "formula": "BaSO4", "role": "SO42- 检验证据"}
+  ]
+}

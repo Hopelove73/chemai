@@ -1,0 +1,9 @@
+{
+  "doc": "电子云与原子轨道.md",
+  "kp": "M4-T1-KP02",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M4-T1-KP01", "to_kp": "M4-T1-KP02",
+     "reason": "轨道从属于能级，先有能级概念再谈轨道形状"},
+    {"edge_type": "relates_to", "kp": "M4-T1-KP02", "substance": "氮", "formula": "N", "role": "p 轨道三分占示例"}
+  ]
+}

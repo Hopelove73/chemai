@@ -1,0 +1,14 @@
+{
+  "doc": "氯气的性质.md",
+  "kp": "M1-T2-KP12",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP07", "to_kp": "M1-T2-KP12",
+     "reason": "Cl2 的强氧化性在常见氧化剂清单首位，先有强弱概念再学具体反应"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP06", "to_kp": "M1-T2-KP12",
+     "reason": "四类反应全部要标电子转移与双线桥"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP12", "substance": "氯气", "formula": "Cl2", "role": "本篇主角，强氧化剂"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP12", "substance": "次氯酸", "formula": "HClO", "role": "漂白实质"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP12", "substance": "氯化钠", "formula": "NaCl", "role": "与碱反应产物"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP12", "substance": "氯化铁", "formula": "FeCl3", "role": "变价金属氧化到高价案例"}
+  ]
+}

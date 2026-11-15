@@ -1,0 +1,14 @@
+{
+  "doc": "电解池的工作原理.md",
+  "kp": "M3-T1-KP08",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T1-KP05", "to_kp": "M3-T1-KP08",
+     "reason": "电解池与原电池互为对照，先有原电池的氧化还原分工"},
+    {"edge_type": "prerequisite", "from_kp": "M3-T1-KP06", "to_kp": "M3-T1-KP08",
+     "reason": "阴阳极反应都要写成半反应，电极反应式是工具"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP08", "substance": "氯气", "formula": "Cl2", "role": "阳极产物"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP08", "substance": "氢气", "formula": "H2", "role": "阴极产物"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP08", "substance": "氢氧化钠", "formula": "NaOH", "role": "氯碱工业阴极区产物"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP08", "substance": "氯化钠", "formula": "NaCl", "role": "氯碱工业原料"}
+  ]
+}

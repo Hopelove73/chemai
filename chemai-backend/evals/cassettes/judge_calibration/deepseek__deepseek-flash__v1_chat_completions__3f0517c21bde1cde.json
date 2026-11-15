@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImJiNjNkZDMwLTQ0YWEtNGE2Mi04ZTI3LWQ0MGM2ZjhhNmViZSIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjQ4ODAsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDYwLCBcImNvbmZpZGVuY2VcIjogXCJoaWdoXCIsIFwicmF0aW9uYWxlXCI6IFwiYmFycmllcl90eXBlX2NvcnJlY3TvvJrmraPnoa7liKTmlq3kuLogZXhwcmVzc2lvbu+8jOW+l+a7oeWIhuadg+mHje+8m2V2aWRlbmNlX3VzYWdl77ya5pyq5byV55So6ZSZ6aKY5oiW5pWw5o2u5pSv5pKR77yM5b6XIDAg5YiG77ybZXhwbGFuYXRpb27vvJrml6Dor4rmlq3nkIbnlLHkuI7lj6/miafooYzlu7rorq7vvIzlvpcgMCDliIbjgILnu7zlkIjlvpfliIYgNjDjgIJcIiwgXCJzZXZlcmVfZmxhZ3NcIjogW119IiwicmVhc29uaW5nX2NvbnRlbnQiOiJXZSBuZWVkIGFuc3dlciBldmFsdWF0ZS4gTmVlZCBwcm9kdWNlIEpTT04gb25seS4gTmVlZCBhc3Nlc3MuIFdlIGhhdmUgc3R1ZGVudCBXYW5nIEppYXlpIHJlY2VudCBtYW55IHdyb25nIHF1ZXN0aW9ucywgZGlhZ25vc2UgbGVhcm5pbmcgYmFycmllci4gQ2FuZGlkYXRlIG91dHB1dDogZGlhZ25vc2lzIGV4cHJlc3Npb24uIEdvbGQ6IGhpc3RvcmljYWwgbGFiZWwgZG9taW5hbnQgYmFycmllcjogZXhwcmVzc2lvbi4gTmVlZCBzY29yZS4gRGltZW5zaW9uczogYmFycmllcl90eXBlX2NvcnJlY3Qgd2VpZ2h0IC42OiBleHByZXNzaW9uIGNvcnJlY3QuIGV2aWRlbmNlX3VzYWdlIHdlaWdodCAuMjogZGlhZ25vc3RpYyBoYXMgbm8gd3JvbmcgcXVlc3Rpb24vZGF0YSBzdXBwb3J0LCBqdXN0IGxhYmVsLiBleHBsYW5hdGlvbiAuMjogbm8gZXhwbGFuYXRpb24sIG5vdCBjbGVhciBleGVjdXRhYmxlLiBTbyBtYXliZSBzY29yZTogLjYqMTAwICsgLjIqMCArIC4yKjAgPSA2MC4gQnV0IG1heWJlIGV2aWRlbmNlX3VzYWdlIHBhcnRpYWw/IENhbmRpZGF0ZSBvbmx5IHNheXMgZGlhZ25vc2lzIGV4cHJlc3Npb24sIG5vIGV2aWRlbmNlLiBFeHBsYW5hdGlvbiBhYnNlbnQuIENvbmZpZGVuY2U/IFNpbmNlIHR5cGUgY29ycmVjdCBidXQgdW5zdXBwb3J0ZWQuIFNjb3JlIGludGVnZXIgNjAuIHNldmVyZV9mbGFncyBbXSBubyBjaGVtaWNhbC9zYWZldHkuIFJhdGlvbmFsZSBjb25jaXNlLiBOZWVkIEpTT04gb25seS4gRW5zdXJlIHZhbGlkLiBcbkZpbmFsLiJ9LCJsb2dwcm9icyI6bnVsbCwiZmluaXNoX3JlYXNvbiI6InN0b3AifV0sInVzYWdlIjp7InByb21wdF90b2tlbnMiOjI3MSwiY29tcGxldGlvbl90b2tlbnMiOjI0OCwidG90YWxfdG9rZW5zIjo1MTksInByb21wdF90b2tlbnNfZGV0YWlscyI6eyJjYWNoZWRfdG9rZW5zIjoxMjh9LCJjb21wbGV0aW9uX3Rva2Vuc19kZXRhaWxzIjp7InJlYXNvbmluZ190b2tlbnMiOjE2Nn0sInByb21wdF9jYWNoZV9oaXRfdG9rZW5zIjoxMjgsInByb21wdF9jYWNoZV9taXNzX3Rva2VucyI6MTQzfSwic3lzdGVtX2ZpbmdlcnByaW50IjoiYWViNTY0MDFjYTc0ZTEyNzgyMWM0ZjkxMjZkY2I2NjkifQ==",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "80tMVqDIFrxGgocM8aSfAo7VVKGmmL6qnKE9cr1gfpWApyILUG9WXg==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "6df1e6acf0b98f5f70ec99217ec3f63a"
+   },
+   "recorded_at": "2026-09-27T16:01:21",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/3f0517c21bde1cde",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「诊断」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- barrier_type_correct（权重 0.6）：障碍类型判断：concept/reading/expression 分类正确\n- evidence_usage（权重 0.2）：证据使用：诊断有错题/数据支撑\n- explanation（权重 0.2）：解释质量：诊断理由清楚可执行\n\n输入：学生王佳怡最近错题较多，请诊断其学习障碍\n待评输出：诊断：expression（答题表述障碍）\n黄金参考答案：历史标签主导障碍：expression\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

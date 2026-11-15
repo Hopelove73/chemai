@@ -1,0 +1,41 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6Ijc1YWI4ZDk4LTVlZmEtNDkyNS1hMTEzLWUyNjAxNGEzYWJiNCIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTEwNDU3MDUsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IuS9oOeahOaAnei3r+WfuuacrOato+ehru+8geWKoOmTgeeyiemYsuawp+WMluOAgeWKoOmFuOaKkeWItuawtOino++8jOi/meS4pOS4quaWueWQkemDveWvueOAguS4jei/h+WKoOmFuOS4uuS7gOS5iOW/hemhu+aYr+eogOehq+mFuO+8jOaIkeS7rOS4gOatpeatpeadpeeci+OAglxuXG4qKuesrOS4gOatpe+8muWFiOWGmSBGZcKy4oG6IOawtOino+eahOemu+WtkOaWueeoi+W8jyoqXG5cbkZlwrLigbog5rC06Kej5Lya55Sf5oiQ5LuA5LmI77yf5L2g5p2l6K+V552A5YaZ5LiA5LiL77yaXG5cbkZlwrLigbogKyAySOKCgk8g4oeMIO+8n1xuXG7lhpnlrozlkI7miJHku6zlho3orqjorrrliqDphbjmmK/mgI7kuYhcIuaKkeWItlwi5a6D55qE44CCXG5cbioq56ys5LqM5q2l77ya5oCd6ICDXCLliqDphbhcIueahOS9nOeUqCoqXG5cbuWmguaenOWQkea6tua2sumHjOWKoOWFpSBI4oG677yM5qC55o2u5YuS5aSP54m55YiX5Y6f55CG77yM5bmz6KGh5Lya5b6A5ZOq6L6556e75Yqo77yf6L+Z5bCx5pivXCLmipHliLbmsLTop6NcIueahOWOn+eQhuKAlOKAlOS9oOaDs+aDs+eci+OAglxuXG4qKuesrOS4ieatpe+8iOWFs+mUru+8ie+8muS4uuS7gOS5iOS4jeiDveWKoOebkOmFuOaIluehnemFuO+8nyoqXG5cbui/memHjOacieS4pOS4qumZt+mYse+8jOS9oOWPr+S7peWFiOiHquW3seeMnOS4gOeMnO+8mlxuXG4tIOWKoCAqKuebkOmFuCoqIOS8muW8leWFpeS7gOS5iOemu+WtkO+8n+i/meS4quemu+WtkOS8muS4jeS8muWSjCBGZcKy4oG6IOWPkeeUn+S7gOS5iOWPjeW6lO+8jOaIluiAheW9seWTjeWQjue7reWunumqjO+8n1xuLSDliqAgKirnoZ3phbgqKiDmnInku4DkuYjnibnmrormgKfotKjvvJ/lm57lv4bkuIDkuIsgSE5P4oKDIOeahOW8uuawp+WMluaAp+KApuKAplxuXG7lhYjlm57nrZTmiJHvvJpGZcKy4oG6IOawtOino+aWueeoi+W8j+S9oOWGmeWHuuadpeS6huWQl++8n+WKoOmFuOWQjuW5s+ihoeW+gOWTquenu+WKqO+8n+aKiui/meS4pOatpeaDs+a4healmu+8jOaIkeS7rOWGjeaUu+WFi1wi5Li65LuA5LmI5Y+q6IO956iA56Gr6YW4XCLjgIJcblxu77yI5o+Q56S677ya5oOz5oOzIEZlU0/igoQg5rq25ray6YWN5aW95LmL5ZCO6YCa5bi46KaB5YGa5LuA5LmI5a6e6aqM77yM5aaC5p6c5re36L+b5LqGIENs4oG7IOS8muaAjuagt++8n++8iSJ9LCJsb2dwcm9icyI6bnVsbCwiZmluaXNoX3JlYXNvbiI6InN0b3AifV0sInVzYWdlIjp7InByb21wdF90b2tlbnMiOjE2OSwiY29tcGxldGlvbl90b2tlbnMiOjI3NSwidG90YWxfdG9rZW5zIjo0NDQsInByb21wdF90b2tlbnNfZGV0YWlscyI6eyJjYWNoZWRfdG9rZW5zIjowfSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjAsInByb21wdF9jYWNoZV9taXNzX3Rva2VucyI6MTY5fSwic3lzdGVtX2ZpbmdlcnByaW50IjoiYWViNTY0MDFjYTc0ZTEyNzgyMWM0ZjkxMjZkY2I2NjkifQ==",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "eo-cache-status": "MISS",
+    "eo-log-uuid": "4119123379038501643",
+    "server": "openresty",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "5a552476622c49f3232d810512867567"
+   },
+   "recorded_at": "2026-10-03T16:41:47",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/beta:chat:completions/65195fc14d445bc0",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 1024,
+  "messages": [
+   {
+    "content": "你是高中化学AI助教。学生水平: 中等。\n\n教学原则:\n1. 引导式教学: 不直接给答案，先问学生\"你是怎么想的\"\n2. 分步讲解: 复杂问题拆成2-3步，每步确认理解\n3. 联系考点: 提及高考中的常见题型\n4. 鼓励为主: 对正确思路给予肯定\n5. 单次回复不超过500字\n6. 不确定时诚实说不知道",
+    "role": "system"
+   },
+   {
+    "content": "学生问：配制 FeSO4 溶液时，加铁粉防止氧化、加酸抑制水解，对吗？学生确认加酸用稀硫酸。请引导：为什么加酸要选稀硫酸而不能加盐酸或硝酸？用 Fe2+ 水解的离子方程式说明抑制水解的原理。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.7,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/beta/chat/completions"
+}

@@ -1,0 +1,10 @@
+{
+  "doc": "电离常数.md",
+  "kp": "M3-T3-KP02",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T3-KP01", "to_kp": "M3-T3-KP02",
+     "reason": "Ka 是电离平衡的定量化，先有平衡本体"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP02", "substance": "醋酸", "formula": "CH3COOH", "role": "Ka 代表物"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP02", "substance": "碳酸", "formula": "H2CO3", "role": "多元分步电离示例"}
+  ]
+}

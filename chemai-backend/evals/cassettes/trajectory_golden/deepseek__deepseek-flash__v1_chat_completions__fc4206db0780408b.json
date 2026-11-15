@@ -1,0 +1,43 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImNiN2I4MjA2LTE2YjktNGZiZS05MjgyLWQzZWEyZjA3N2I3YSIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjU1MDUsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IjIwMjXlubTpq5jogIPljJblrabmlrDpq5jogIPmlLnpnanlhbPplK7kv6Hmga/vvJpcblxuMS4gKirmqKHlvI8qKu+8muWunuihjOKAnDMrMSsy4oCd5qih5byP77yM5Y+W5raI5paH55CG5YiG56eR44CC5YyW5a2m5bGe6YCJ5oup5oCn6ICD6K+V56eR55uu77yM6ICD55Sf6ZyA5Zyo54mp55CGL+WOhuWPsumAiTHpl6jlkI7vvIzku47ljJblrabnrYk056eR5Lit6YCJMumXqOOAglxuMi4gKirlkb3popjkvp3mja4qKu+8muivlemimOS+neaNrumrmOagoemAieaLlOimgeaxguWSjOmrmOS4reivvueoi+agh+WHhuWRveWItu+8jOehruS/neWGheWuueS4jei2heiMg+WbtOOAgea3seW6puS4jei2heimgeaxgu+8jOW8leWvvOaVmeWtpuWbnuW9kuivvuagh+OAglxuMy4gKirogIPor5XlronmjpIqKu+8muiAg+eUn+mcgOaPkOWJjeaguOWvueiAg+ivleaXtumXtOOAgeiAg+eCueetieS/oeaBr++8jOWQiOeQhuWuieaOkuWHuuihjOOAglxuNC4gKirmlLnpnanojIPlm7QqKu+8muWFq+ecgeS7veWFrOW4g+aWsOaWueahiO+8jDIwMjXlubTotbflrp7mlr3vvIzmgLvkvZPmoYbmnrbkuI7igJwzKzPigJ3mqKHlvI/lubbooYzmjqjov5vjgIIifSwibG9ncHJvYnMiOm51bGwsImZpbmlzaF9yZWFzb24iOiJzdG9wIn1dLCJ1c2FnZSI6eyJwcm9tcHRfdG9rZW5zIjozMzYsImNvbXBsZXRpb25fdG9rZW5zIjoxNDQsInRvdGFsX3Rva2VucyI6NDgwLCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6MH0sInByb21wdF9jYWNoZV9oaXRfdG9rZW5zIjowLCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjMzNn0sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 47d1f5199074a6387aec46d021ce694c.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "F5EywcZtLqlE8x_Bv5iqlqvEnJ4i7NsXIroJxPKClqTYOya_iwFRMA==",
+    "x-amz-cf-pop": "KUL50-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "ce2b0300313dc2c4e5bf0ec5a555a512"
+   },
+   "recorded_at": "2026-09-27T16:11:46",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/fc4206db0780408b",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 1024,
+  "messages": [
+   {
+    "content": "用简洁中文总结以下搜索结果，列出关键信息。不超过400字。",
+    "role": "system"
+   },
+   {
+    "content": "搜索词: 2025高考化学 新高考改革 试卷结构调整 考试说明\n\n搜索结果:\n1. 八省份公布新高考方案：2025年起取消文理分科\n选择性考试科目由考生根据高校选科要求，结合自身特长兴趣，首先在物理或历史中选择1门，再从思想政治、地理、化学、生物学中选择2门，即“3+1+2”模式。\n\n2. ​2025年高考有何特殊之处\n从目前的五批高考改革省份公布的各省高考综合改革方案看，总体框架是一致的，考试科目及安排上大致可分为两种模式：“3+3”或“3+1+2”，第一批和第二批改革 ...\n\n3. 高考综合改革\n2025年起，我省普通高校招生考试实行“3+1+2”模式，包括3门普通高等学校招生全国统一考试（以下简称全国统考）科目和3门普通高中学业水平选择性考试（以下简称选择性考试） ...\n\n4. 高考试题变了，高中教学怎样改\n教育部教育考试院表示，2025年高考试题依据高校人才选拔要求和高中课程标准命制，准确把握课程标准理念，确保“内容不超范围，深度不超要求”，引导教学回归 ...\n\n5. 专题_聚焦2025年全国高考- 中华人民共和国 ...\n考前，请考生认真阅读、仔细核对考试时间、考点信息、考生须知等内容。特别是要牢记考试时间、考点位置、考场编号，同时结合考点考场位置、天气及交通等情况，合理安排 ...",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.3,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

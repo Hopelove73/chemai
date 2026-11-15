@@ -1,0 +1,14 @@
+{
+  "doc": "甲烷与烷烃.md",
+  "kp": "M2-T4-KP03",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP01", "to_kp": "M2-T4-KP03",
+     "reason": "碳四价与正四面体是甲烷结构的直接来源"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP02", "to_kp": "M2-T4-KP03",
+     "reason": "丁烷等同分异构体是烷烃家族的必然现象"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP03", "substance": "甲烷", "formula": "CH4", "role": "本篇主角，正四面体饱和烃"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP03", "substance": "一氯甲烷", "formula": "CH3Cl", "role": "取代第一步产物"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP03", "substance": "四氯化碳", "formula": "CCl4", "role": "取代最终产物，有机溶剂"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP03", "substance": "氯化氢", "formula": "HCl", "role": "取代反应副产物"}
+  ]
+}

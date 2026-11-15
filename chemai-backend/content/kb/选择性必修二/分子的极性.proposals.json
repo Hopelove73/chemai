@@ -1,0 +1,13 @@
+{
+  "doc": "分子的极性.md",
+  "kp": "M4-T2-KP05",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M4-T2-KP03", "to_kp": "M4-T2-KP05",
+     "reason": "先定构型对称性才能判分子极性"},
+    {"edge_type": "prerequisite", "from_kp": "M4-T1-KP05", "to_kp": "M4-T2-KP05",
+     "reason": "键的极性来自电负性差"},
+    {"edge_type": "relates_to", "kp": "M4-T2-KP05", "substance": "二氧化碳", "formula": "CO2", "role": "对称抵消非极性代表"},
+    {"edge_type": "relates_to", "kp": "M4-T2-KP05", "substance": "水", "formula": "H2O", "role": "V 形极性代表"},
+    {"edge_type": "relates_to", "kp": "M4-T2-KP05", "substance": "一氯甲烷", "formula": "CH3Cl", "role": "键不同致极性示例"}
+  ]
+}

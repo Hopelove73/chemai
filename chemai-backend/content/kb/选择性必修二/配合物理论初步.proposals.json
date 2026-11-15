@@ -1,0 +1,11 @@
+{
+  "doc": "配合物理论初步.md",
+  "kp": "M4-T2-KP08",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M4-T2-KP05", "to_kp": "M4-T2-KP08",
+     "reason": "配体的孤对电子与分子极性同源于电性分布"},
+    {"edge_type": "relates_to", "kp": "M4-T2-KP08", "substance": "铜氨配合离子", "formula": "[Cu(NH3)4]2+", "role": "深蓝色代表配合离子"},
+    {"edge_type": "relates_to", "kp": "M4-T2-KP08", "substance": "硫氰化铁", "formula": "Fe(SCN)3", "role": "血红色检验配合物"},
+    {"edge_type": "relates_to", "kp": "M4-T2-KP08", "substance": "氨气", "formula": "NH3", "role": "典型配体"}
+  ]
+}

@@ -1,0 +1,41 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjM0MDA3ZTQxLWFiMWYtNDVlYy04NzE0LTE4ODI1NGJlMTc2OCIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTEwNDU3MjksIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInBhc3NcIjogZmFsc2UsIFwicmVhc29uXCI6IFwi5Zue5aSN5LuF6KaB5rGC5a2m55Sf5Zue562U5bCP6Zeu6aKY77yM5pyq6K6p5a2m55Sf55So6Ieq5bex55qE6K+d5aSN6L+w55uQ57G75rC06Kej55qE5a6a5LmJ44CCXCJ9In0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6MTE1LCJjb21wbGV0aW9uX3Rva2VucyI6MjgsInRvdGFsX3Rva2VucyI6MTQzLCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6MH0sInByb21wdF9jYWNoZV9oaXRfdG9rZW5zIjowLCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjExNX0sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "eo-cache-status": "MISS",
+    "eo-log-uuid": "13844725300318688508",
+    "server": "openresty",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "a3adc6f17422aba6575c1529855d008b"
+   },
+   "recorded_at": "2026-10-03T16:42:10",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/853f8d91efca98d9",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 2000,
+  "messages": [
+   {
+    "content": "你是苛刻但公正的评估判官。只输出 JSON，不输出任何其他文字。",
+    "role": "system"
+   },
+   {
+    "content": "你是严格的评估判官。依据完整对话上下文，判断【助手最新回复】是否满足协议规则。\n\n对话历史:\n[user] 什么是盐类水解？课本上的定义看不懂\n\n助手最新回复:\n试试看，先回答上面两个小问题吧！\n\n协议规则: 结尾追问学生用自己的话复述\n\n只返回 JSON: {\"pass\": true, \"reason\": \"一句话依据\"} 的形式，pass 为布尔值。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.0,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

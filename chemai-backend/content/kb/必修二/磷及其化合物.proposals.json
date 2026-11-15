@@ -1,0 +1,14 @@
+{
+  "doc": "磷及其化合物.md",
+  "kp": "M2-T2-KP13",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP06", "to_kp": "M2-T2-KP13",
+     "reason": "磷与氯气/氧气的量比产物与价态分析依赖氧化还原"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP01", "to_kp": "M2-T2-KP13",
+     "reason": "同素异形体概念承接物质的分类（碳氧同素异形体）"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP13", "substance": "白磷", "formula": "P4", "role": "剧毒、水中切割、6 共价键陷阱"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP13", "substance": "红磷", "formula": "P", "role": "稳定同素异形体，火柴原料"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP13", "substance": "五氧化二磷", "formula": "P2O5", "role": "酸性干燥剂"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP13", "substance": "磷酸", "formula": "H3PO4", "role": "三元中强酸无氧化性"}
+  ]
+}

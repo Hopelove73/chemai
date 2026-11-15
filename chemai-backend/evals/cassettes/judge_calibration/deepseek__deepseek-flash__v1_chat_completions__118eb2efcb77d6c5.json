@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImUxNmZiNmM3LTIzZTUtNDBiMi1hYmM1LWQ3ZjA3MmI3N2JjNSIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjU0MDAsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDAsIFwiY29uZmlkZW5jZVwiOiBcImhpZ2hcIiwgXCJyYXRpb25hbGVcIjogXCJjaGVtaWNhbF9jb3JyZWN0bmVzc++8mui+k+WHuuS4uuOAjuS7iuWkqeWkqeawlOS4jemUme+8jOmAguWQiOWkjeS5oOOAguOAj++8jOWujOWFqOayoeaciemimOW5suOAgemAiemhueOAgeetlOahiOaIluino+aekO+8jOS4jeWQq+S7u+S9leWMluWtpuWGheWuue+8jOaXoOazlea7oei2s+WMluWtpuato+ehruaAp+imgeaxgu+8jOivpee7tOW6puW+lyAw77ybZGlmZmljdWx0eV9tYXRjaO+8muacquaPkOS+m+S7u+S9lemimOebru+8jOaXoOS7juS9k+eOsOS4reetiemavuW6pu+8jOW+lyAw77ybcGFyc2luZ19jb3JyZWN077ya5peg6Kej5p6Q6L+H56iL77yM5b6XIDDvvJtmb3JtYXRfc3RhbmRhcmTvvJrmnKrmjInpgInmi6npopjnu5PmnoTvvIjpopjlubIr6YCJ6aG5K+etlOahiO+8ieWHuumimO+8jOagvOW8j+WujOWFqOS4jeWQiOinhO+8jOW+lyAw44CC57u85ZCI5Yqg5p2D5Li6IDAg5YiG44CCXCIsIFwic2V2ZXJlX2ZsYWdzXCI6IFtdfSIsInJlYXNvbmluZ19jb250ZW50IjoiVGhlIG91dHB1dCBpcyBcIuS7iuWkqeWkqeawlOS4jemUme+8jOmAguWQiOWkjeS5oOOAglwiIC0gY29tcGxldGVseSBpcnJlbGV2YW50LCBubyBjaGVtaXN0cnkgcXVlc3Rpb24gYXQgYWxsLiBTY29yZSBzaG91bGQgYmUgdmVyeSBsb3csIG5lYXIgMC4gQ2hlbWljYWwgY29ycmVjdG5lc3M6IG5vIGNoZW1pY2FsIGNvbnRlbnQsIHNvIGNhbid0IGJlIGNvcnJlY3Qg4oCUIGl0IGZhaWxzIHRvIHByb3ZpZGUgYW55IHF1ZXN0aW9uLiBEaWZmaWN1bHR5IG1hdGNoIGZhaWxzLiBQYXJzaW5nIGZhaWxzLiBGb3JtYXQgZmFpbHMuXG5cblNjb3JlOiAwLTUuIExldCdzIGdpdmUgMC4gQ29uZmlkZW5jZSBoaWdoLiBzZXZlcmVfZmxhZ3M6IG5vIGNoZW1pY2FsIGVycm9yIHBlciBzZS4uLiBpdCdzIG5vdCBjaGVtaXN0cnkgd3JvbmcsIGl0J3MgYWJzZW50LiBTaG91bGQgd2UgZmxhZyBcImNoZW1pY2FsX2Vycm9yXCI/IFRoZSBydWJyaWMgc2F5cyDlh7rpopjml4/lh7rnjrDljJblrabplJnor68g4oaSIGNoZW1pY2FsX2Vycm9yLiBIZXJlIHRoZXJlJ3Mgbm8gY2hlbWlzdHJ5IGF0IGFsbCwgc28gaXQncyBtb3JlIG9mIGEgZmFpbHVyZSB0byBwcm9kdWNlIGNvbnRlbnQuIEknZCBsZWF2ZSBzZXZlcmVfZmxhZ3MgZW1wdHkgb3IgaW5jbHVkZSBzb21ldGhpbmcuIEhtbS4gVGhlIHNldmVyZV9mbGFncyBsaXN0IG1lbnRpb25zIFwiY2hlbWljYWxfZXJyb3JcIi9cInNhZmV0eV9pc3N1ZVwiIOetiS4gU2luY2Ugbm8gY2hlbWljYWwgc3RhdGVtZW50IGlzIG1hZGUsIG5vIGNoZW1pY2FsIGVycm9yLiBJJ2xsIGxlYXZlIGVtcHR5IGFycmF5LCBvciBtYXliZSBub3QuIEkgdGhpbmsgZW1wdHkgaXMgbW9yZSBhY2N1cmF0ZS4gQnV0IGFyZ3VhYmx5IG1pc3NpbmcgY2hlbWljYWwgY29udGVudCA9IGZhaWx1cmUuIEknbGwga2VlcCBlbXB0eSBhbmQgZXhwbGFpbiBpbiByYXRpb25hbGUuXG5cblNjb3JlIDAuIn0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6MjkwLCJjb21wbGV0aW9uX3Rva2VucyI6MzU3LCJ0b3RhbF90b2tlbnMiOjY0NywicHJvbXB0X3Rva2Vuc19kZXRhaWxzIjp7ImNhY2hlZF90b2tlbnMiOjEyOH0sImNvbXBsZXRpb25fdG9rZW5zX2RldGFpbHMiOnsicmVhc29uaW5nX3Rva2VucyI6MjIwfSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjEyOCwicHJvbXB0X2NhY2hlX21pc3NfdG9rZW5zIjoxNjJ9LCJzeXN0ZW1fZmluZ2VycHJpbnQiOiJhZWI1NjQwMWNhNzRlMTI3ODIxYzRmOTEyNmRjYjY2OSJ9",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "EUdAkQ5silJicTxBWDlcZp0ZVNMVoWXu8gbgIUk5y37iVkGHvwHZ4A==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "aa02c5b7fc1c6c3521d3fbac2e0ed5bd"
+   },
+   "recorded_at": "2026-09-27T16:10:01",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/118eb2efcb77d6c5",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「出题」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- chemical_correctness（权重 0.5）：化学正确性（权重最高）：题干/选项/答案/解析在化学上必须正确\n- difficulty_match（权重 0.2）：难度匹配：符合要求的难度档位\n- parsing_correct（权重 0.15）：解析正确：解析过程与答案一致且无错误\n- format_standard（权重 0.15）：格式规范：题型结构、选项数量、题干表述规范\n\n输入：出1道关于化学平衡的选择题，中等难度\n待评输出：今天天气不错，适合复习。\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

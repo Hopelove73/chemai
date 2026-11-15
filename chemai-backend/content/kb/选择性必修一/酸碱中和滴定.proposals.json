@@ -1,0 +1,13 @@
+{
+  "doc": "酸碱中和滴定.md",
+  "kp": "M3-T3-KP06",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T3-KP04", "to_kp": "M3-T3-KP06",
+     "reason": "指示剂的变色范围决定终点判断"},
+    {"edge_type": "prerequisite", "from_kp": "M3-T3-KP05", "to_kp": "M3-T3-KP06",
+     "reason": "终点附近的 pH 跳变是滴定的定量内核"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP06", "substance": "氢氧化钠", "formula": "NaOH", "role": "标准碱示例"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP06", "substance": "盐酸", "formula": "HCl", "role": "待测酸示例"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP06", "substance": "酚酞", "formula": "C20H14O4", "role": "终点指示剂"}
+  ]
+}

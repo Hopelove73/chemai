@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImZmOGIxNTUzLTQxMWQtNGZmYy04ZmZiLTU4NTViMjE1ZjNjNCIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjUwMDAsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDEwMCwgXCJjb25maWRlbmNlXCI6IFwiaGlnaFwiLCBcInJhdGlvbmFsZVwiOiBcIuWtpueUn+etlOahiELkuI7lrpjmlrnnrZTmoYhC5LiA6Ie077yM5Yik5a6Y57uZ5Ye65ruh5YiG5q2j56Gu77yb5pys6aKY5Li65Y2V5q2l6YCJ5oup6aKY77yM5peg6YOo5YiG5YiG6Zeu6aKY77yb5Yik5YiG5qCH5YeG5LiO6buE6YeR5Y+C6ICD562U5qGI5LiA6Ie077yM5pyq5Y+R546w5LiN5LiA6Ie05oiW5Lil6YeN6ZSZ6K+v44CCXCIsIFwic2V2ZXJlX2ZsYWdzXCI6IFtdfSIsInJlYXNvbmluZ19jb250ZW50IjoiV2UgbmVlZCBhbnN3ZXIgb25seSBKU09OLiBOZWVkIGV2YWx1YXRlLiBXZSBoYXZlIHRhc2s6IGp1ZGdlIHNjb3JlIGZvciBDaGVtQUkgYWdlbnQgXCLliKTljbdcIuaXjy4gSW5wdXQ6IOmimOebru+8muS4i+WIl+acieacuueJqeS4re+8jOiDveS4jk5hSENPM+a6tua2suWPjeW6lOaUvuWHukNPMueahOaYry4g5b6F6K+E6L6T5Ye677ya5a2m55Sf562U5qGI77yaQu+8m+WIpOWumOWIpOWIhu+8mua7oeWIhi4g6buE6YeR5Y+C6ICD562U5qGI77ya5a6Y5pa5562U5qGI77yaQu+8iOWIpOWIhuato+ehru+8iS5cblxuV2UgbmVlZCBzY29yZSAwLTEwMCB3aXRoIHJ1YnJpYzpcbi0gY29ycmVjdG5lc3NfdnNfZ29sZGVuIHdlaWdodCAuNjoganVkZ2luZyBjb3JyZWN0bmVzczogZWFjaCBxdWVzdGlvbiBzY29yZSBjb25zaXN0ZW50IHdpdGggZ29sZGVuLiBIZXJlIGdvbGRlbiBzYXlzIG9mZmljaWFsIGFuc3dlciBCLOWIpOWIhuato+ehri4gVGhlIGV2YWx1YXRlZCBvdXRwdXQgc2F5cyBzdHVkZW50IGFuc3dlciBCOyBqdWRnZSBmdWxsIG1hcmtzLiBTbyBjb3JyZWN0LlxuLSBwYXJ0aWFsX2NyZWRpdCAuMjogbXVsdGktc3RlcCBwYXJ0aWFsPyBUaGlzIGlzIHNpbmdsZS1zZWxlY3Q/IG5vIHBhcnRpYWwuIEZ1bGwgY3JlZGl0IGNvcnJlY3QuIFJlYXNvbmFibGUuXG4tIGNvbnNpc3RlbmN5IC4yOiBzYW1lIHR5cGUgZXJyb3Igc3RhbmRhcmRzPyBOb3QgYXBwbGljYWJsZSBidXQgY29uc2lzdGVudCB3aXRoIGFuc3dlci4gTWF5YmUgaGlnaC5cblxuTmVlZCBvdXRwdXQgSlNPTiB3aXRoIHNjb3JlIGludGVnZXIsIGNvbmZpZGVuY2UsIHJhdGlvbmFsZSwgc2V2ZXJlX2ZsYWdzIGVtcHR5LiBTY29yZSBsaWtlbHkgMTAwLiBOZWVkIGluY2x1ZGUgcmF0aW9uYWxlIENoaW5lc2UgY29uY2lzZS4gRW5zdXJlIHZhbGlkIEpTT04uIE9ubHkgSlNPTi4gRmluYWwuIn0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6MjgzLCJjb21wbGV0aW9uX3Rva2VucyI6MjgzLCJ0b3RhbF90b2tlbnMiOjU2NiwicHJvbXB0X3Rva2Vuc19kZXRhaWxzIjp7ImNhY2hlZF90b2tlbnMiOjEyOH0sImNvbXBsZXRpb25fdG9rZW5zX2RldGFpbHMiOnsicmVhc29uaW5nX3Rva2VucyI6MjE1fSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjEyOCwicHJvbXB0X2NhY2hlX21pc3NfdG9rZW5zIjoxNTV9LCJzeXN0ZW1fZmluZ2VycHJpbnQiOiJhZWI1NjQwMWNhNzRlMTI3ODIxYzRmOTEyNmRjYjY2OSJ9",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "hC5NmFXcjSeHB6kbM7e8l653zSg9BEz1aCQm6OL0gONA0ayRqaGJbA==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "dccb7f7fb083aacc49d9f62e4750d6d1"
+   },
+   "recorded_at": "2026-09-27T16:03:22",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/b4c421fc50d52a40",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「判卷」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- correctness_vs_golden（权重 0.6）：判分正确性：每题判分与黄金答案一致\n- partial_credit（权重 0.2）：部分分：多步题的部分得分是否合理\n- consistency（权重 0.2）：一致性：同类型错误的扣分标准一致\n\n输入：题目：下列有机物中，能与NaHCO₃溶液反应放出CO₂的是\n待评输出：学生答案：B；判官判分：满分\n黄金参考答案：官方答案：B（判分正确）\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

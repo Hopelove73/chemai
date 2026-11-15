@@ -1,0 +1,13 @@
+{
+  "doc": "有机物的结构特点与同分异构.md",
+  "kp": "M5-T1-KP01",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP02", "to_kp": "M5-T1-KP01",
+     "reason": "必修二的三类构造异构是分类树的前半棵"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP01", "to_kp": "M5-T1-KP01",
+     "reason": "碳四价与碳骨架是异构的结构根源"},
+    {"edge_type": "relates_to", "kp": "M5-T1-KP01", "substance": "2-丁烯", "formula": "C4H8", "role": "顺反异构代表"},
+    {"edge_type": "relates_to", "kp": "M5-T1-KP01", "substance": "乳酸", "formula": "C3H6O3", "role": "对映异构代表"},
+    {"edge_type": "relates_to", "kp": "M5-T1-KP01", "substance": "二甲醚", "formula": "CH3OCH3", "role": "官能团异构代表"}
+  ]
+}

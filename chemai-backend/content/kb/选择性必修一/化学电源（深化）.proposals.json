@@ -1,0 +1,14 @@
+{
+  "doc": "化学电源（深化）.md",
+  "kp": "M3-T1-KP07",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T1-KP05", "to_kp": "M3-T1-KP07",
+     "reason": "实用电池是双液原电池原理的产品化"},
+    {"edge_type": "prerequisite", "from_kp": "M3-T1-KP06", "to_kp": "M3-T1-KP07",
+     "reason": "读写电极反应式是分析电池的前提工具"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP07", "substance": "铅", "formula": "Pb", "role": "铅蓄电池负极"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP07", "substance": "二氧化铅", "formula": "PbO2", "role": "铅蓄电池正极"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP07", "substance": "硫酸铅", "formula": "PbSO4", "role": "放电两极共同产物"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP07", "substance": "氢气", "formula": "H2", "role": "燃料电池燃料"}
+  ]
+}

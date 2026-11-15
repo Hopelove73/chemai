@@ -1,0 +1,14 @@
+{
+  "doc": "定量实验与误差分析.md",
+  "kp": "M2-T1-KP03",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T1-KP07", "to_kp": "M2-T1-KP03",
+     "reason": "配制溶液的误差分析提供了『操作→测量量→结果』的分析范式"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T1-KP01", "to_kp": "M2-T1-KP03",
+     "reason": "气体体积法依赖气体制备的气密性、收集与读数操作"},
+    {"edge_type": "relates_to", "kp": "M2-T1-KP03", "substance": "五水硫酸铜", "formula": "CuSO4·5H2O", "role": "结晶水测定的样品"},
+    {"edge_type": "relates_to", "kp": "M2-T1-KP03", "substance": "硫酸铜", "formula": "CuSO4", "role": "加热后无水产物"},
+    {"edge_type": "relates_to", "kp": "M2-T1-KP03", "substance": "碳酸氢钠", "formula": "NaHCO3", "role": "质量差法测纯度的样品"},
+    {"edge_type": "relates_to", "kp": "M2-T1-KP03", "substance": "氢气", "formula": "H2", "role": "气体体积法测定对象"}
+  ]
+}

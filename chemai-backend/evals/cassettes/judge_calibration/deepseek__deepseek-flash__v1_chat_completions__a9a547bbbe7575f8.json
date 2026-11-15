@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjE4YmY3MTIyLTAxZDYtNGUxNi1hODY2LWM0NTkxMjU3MzBhOSIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjQ5NDksIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDEwMCwgXCJjb25maWRlbmNlXCI6IFwiaGlnaFwiLCBcInJhdGlvbmFsZVwiOiBcIuWIpOWIhuS4jum7hOmHkeetlOahiOS4gOiHtO+8mjEgbW9sIENPMiDotKjph4/kuLogNDQgZ++8jOWtpueUn+etlOahiOato+ehru+8jOWIpOWumOe7mSAxMDAg5YiG5ZCI55CG44CC6YOo5YiG5YiG57u05bqm5LiN6YCC55So5L2G5ruh5YiG5ZCI55CG77yb5LiA6Ie05oCn57u05bqm5peg5byC5bi444CCXCIsIFwic2V2ZXJlX2ZsYWdzXCI6IFtdfSIsInJlYXNvbmluZ19jb250ZW50IjoiV2UgbmVlZCBhbnN3ZXIgd2l0aCBKU09OIG9ubHkuIE5lZWQgZXZhbHVhdGUuIE5lZWQgdW5kZXJzdGFuZCB0YXNrLiBXZSBhcmUganVkZ2UgZm9yIENoZW1BSSBjaGVtaWNhbCBlZHVjYXRpb24gYWdlbnQsIFwi5Yik5Y23XCIgZmFtaWx5LiBJbnB1dDog6aKY55uu77ya6K6h566XIDFtb2wgQ08yIOeahOi0qOmHjy4g5b6F6K+E6L6T5Ye677ya5a2m55Sf562U5qGI77yaNDRn77yb5Yik5a6Y5Yik5YiG77yaMTAwLiDpu4Tph5Hlj4LogIPnrZTmoYjvvJo0NGcg5q2j56GuLiBOZWVkIHNjb3JlIDAtMTAwIHBlciBydWJyaWM6XG4tIGNvcnJlY3RuZXNzX3ZzX2dvbGRlbiB3ZWlnaHQgMC42OiBncmFkaW5nIGNvcnJlY3RuZXNzOiBlYWNoIHF1ZXN0aW9uIGdyYWRpbmcgY29uc2lzdGVudCB3aXRoIGdvbGRlbiBhbnN3ZXIuXG4tIHBhcnRpYWxfY3JlZGl0IHdlaWdodCAwLjI6IHBhcnRpYWwgY3JlZGl0OiBtdWx0aS1zdGVwIHBhcnRpYWwgc2NvcmUgcmVhc29uYWJsZS5cbi0gY29uc2lzdGVuY3kgd2VpZ2h0IDAuMjogc2FtZSB0eXBlIGVycm9ycyBkZWR1Y3Rpb24gc3RhbmRhcmQgY29uc2lzdGVudC5cblxuSGVyZSBvdXRwdXQgaXMgXCLlrabnlJ/nrZTmoYjvvJo0NGfvvJvliKTlrpjliKTliIbvvJoxMDBcIi4gR29sZGVuIHNheXMgNDRnIGNvcnJlY3QuIFNvIGdyYWRpbmcgY29ycmVjdC4gUGFydGlhbCBjcmVkaXQ6IHNpbmdsZS1zdGVwPyBJdCdzIGNhbGN1bGF0aW9uIDEgbW9sIENPMiBtYXNzLiBNb2xhciBtYXNzIENPMiA9IDQ0IGcvbW9sLCAxIG1vbCA9IDQ0IGcuIENvcnJlY3QuIEZ1bGwgc2NvcmUgMTAwLiBQYXJ0aWFsIGNyZWRpdCBpcnJlbGV2YW50IGJ1dCByZWFzb25hYmxlLiBDb25zaXN0ZW5jeSBubyBldmlkZW5jZS4gU2NvcmUgMTAwLiBDb25maWRlbmNlIGhpZ2guIFNldmVyZSBmbGFncyBub25lLiBOZWVkIG9ubHkgSlNPTi4gRW5zdXJlIG5vIGV4dHJhLiAifSwibG9ncHJvYnMiOm51bGwsImZpbmlzaF9yZWFzb24iOiJzdG9wIn1dLCJ1c2FnZSI6eyJwcm9tcHRfdG9rZW5zIjoyNzMsImNvbXBsZXRpb25fdG9rZW5zIjozMDksInRvdGFsX3Rva2VucyI6NTgyLCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6MTI4fSwiY29tcGxldGlvbl90b2tlbnNfZGV0YWlscyI6eyJyZWFzb25pbmdfdG9rZW5zIjoyMzh9LCJwcm9tcHRfY2FjaGVfaGl0X3Rva2VucyI6MTI4LCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjE0NX0sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "GPz18zCagDgbG50X8zj-7LQUrdR-pzF-PrAjmhw8mhyaZ-hNjCWnig==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "88504ec25d1a83e9df6435a91c7a6187"
+   },
+   "recorded_at": "2026-09-27T16:02:31",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/a9a547bbbe7575f8",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「判卷」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- correctness_vs_golden（权重 0.6）：判分正确性：每题判分与黄金答案一致\n- partial_credit（权重 0.2）：部分分：多步题的部分得分是否合理\n- consistency（权重 0.2）：一致性：同类型错误的扣分标准一致\n\n输入：题目：计算 1mol CO2 的质量\n待评输出：学生答案：44g；判官判分：100\n黄金参考答案：44g 正确\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

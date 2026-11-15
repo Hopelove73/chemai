@@ -1,0 +1,8 @@
+{
+  "doc": "物质的量.md",
+  "kp": "M1-T2-KP14",
+  "edges": [
+    {"edge_type": "relates_to", "kp": "M1-T2-KP14", "substance": "水", "formula": "H2O", "role": "换算示例"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP14", "substance": "碳酸钠", "formula": "Na2CO3", "role": "等质量对比回连"}
+  ]
+}

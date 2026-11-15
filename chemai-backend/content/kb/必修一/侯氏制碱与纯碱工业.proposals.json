@@ -1,0 +1,13 @@
+{
+  "doc": "侯氏制碱与纯碱工业.md",
+  "kp": "M1-T5-KP02",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP11", "to_kp": "M1-T5-KP02",
+     "reason": "NaHCO3 热分解与溶解度对比是流程的两个原理支点"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T5-KP01", "to_kp": "M1-T5-KP02",
+     "reason": "循环利用思想在侯氏法中的完整落地样本"},
+    {"edge_type": "relates_to", "kp": "M1-T5-KP02", "substance": "碳酸钠", "formula": "Na2CO3", "role": "主产品纯碱"},
+    {"edge_type": "relates_to", "kp": "M1-T5-KP02", "substance": "碳酸氢钠", "formula": "NaHCO3", "role": "中间析晶产物"},
+    {"edge_type": "relates_to", "kp": "M1-T5-KP02", "substance": "氯化铵", "formula": "NH4Cl", "role": "副产氮肥"}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "doc": "物质的分离与提纯.md",
+  "kp": "M1-T1-KP01",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP01", "to_kp": "M1-T1-KP01",
+     "reason": "选分离方法的前提是判断混合物各成分的类别与性质差异"},
+    {"edge_type": "relates_to", "kp": "M1-T1-KP01", "substance": "氯化钠", "formula": "NaCl", "role": "粗盐提纯实例"},
+    {"edge_type": "relates_to", "kp": "M1-T1-KP01", "substance": "碘", "formula": "I2", "role": "萃取实例"},
+    {"edge_type": "relates_to", "kp": "M1-T1-KP01", "substance": "四氯化碳", "formula": "CCl4", "role": "萃取剂"}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "doc": "定量实验与误差分析.md",
+  "kp": "M6-T1-KP03",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T1-KP07", "to_kp": "M6-T1-KP03",
+     "reason": "一定浓度溶液配制是定量实验主线之一"},
+    {"edge_type": "prerequisite", "from_kp": "M6-T1-KP02", "to_kp": "M6-T1-KP03",
+     "reason": "定量实验是方案设计的数值化延伸"},
+    {"edge_type": "relates_to", "kp": "M6-T1-KP03", "substance": "氢氧化钠", "formula": "NaOH", "role": "常用标准液"},
+    {"edge_type": "relates_to", "kp": "M6-T1-KP03", "substance": "醋酸", "formula": "CH3COOH", "role": "弱酸待测液案例"}
+  ]
+}

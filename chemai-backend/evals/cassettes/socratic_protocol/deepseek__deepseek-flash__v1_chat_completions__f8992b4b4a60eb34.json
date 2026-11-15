@@ -1,0 +1,41 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjhhNzA3YjI3LTczNzctNGU5ZC04OWIzLTQzMWYxZTZlNTlkMSIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTEwNDU2NzUsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInBhc3NcIjogdHJ1ZSwgXCJyZWFzb25cIjogXCLlm57lpI3ku4XlvJXlr7zliKTmlq3mi4bliIbnianotKjvvIzmnKrlh7rnjrDku7vkvZXlrozmlbTnprvlrZDmlrnnqIvlvI/vvIznrKblkIjljY/orq7op4TliJnjgIJcIn0ifSwibG9ncHJvYnMiOm51bGwsImZpbmlzaF9yZWFzb24iOiJzdG9wIn1dLCJ1c2FnZSI6eyJwcm9tcHRfdG9rZW5zIjoyNDAsImNvbXBsZXRpb25fdG9rZW5zIjoyOCwidG90YWxfdG9rZW5zIjoyNjgsInByb21wdF90b2tlbnNfZGV0YWlscyI6eyJjYWNoZWRfdG9rZW5zIjowfSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjAsInByb21wdF9jYWNoZV9taXNzX3Rva2VucyI6MjQwfSwic3lzdGVtX2ZpbmdlcnByaW50IjoiYWViNTY0MDFjYTc0ZTEyNzgyMWM0ZjkxMjZkY2I2NjkifQ==",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "eo-cache-status": "MISS",
+    "eo-log-uuid": "11691139225295961163",
+    "server": "openresty",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "907552c9341085ca67eb021bf33e6f7c"
+   },
+   "recorded_at": "2026-10-03T16:41:16",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/f8992b4b4a60eb34",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 2000,
+  "messages": [
+   {
+    "content": "你是苛刻但公正的评估判官。只输出 JSON，不输出任何其他文字。",
+    "role": "system"
+   },
+   {
+    "content": "你是严格的评估判官。依据完整对话上下文，判断【助手最新回复】是否满足协议规则。\n\n对话历史:\n[user] 这道题怎么做？向盛有 5mL 0.1mol/L Na2CO3 溶液的试管中滴加 2mL 0.1mol/L 盐酸，写出离子方程式并说明理由\n\n助手最新回复:\n（先别急着写答案，我们从第一步走起）\n\n**第一步：判断哪些物质可以拆**\n\n先判断反应物和产物中，哪些是可溶性强电解质（能拆成离子形式）？\n- 可拆：强酸、强碱、可溶性盐\n- 不能拆：单质、氧化物、气体、沉淀、弱电解质\n\n请把你认为可以拆的物质写出来：\n\n协议规则: 回复中不得出现完整的离子方程式（含配平系数的 CO3^2- + 2H+ 形式）\n\n只返回 JSON: {\"pass\": true, \"reason\": \"一句话依据\"} 的形式，pass 为布尔值。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.0,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

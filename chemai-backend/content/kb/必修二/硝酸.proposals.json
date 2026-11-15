@@ -1,0 +1,14 @@
+{
+  "doc": "硝酸.md",
+  "kp": "M2-T2-KP09",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T2-KP06", "to_kp": "M2-T2-KP09",
+     "reason": "浓、稀硝酸的还原产物 NO2、NO 的性质要先会判断"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP06", "to_kp": "M2-T2-KP09",
+     "reason": "+5 价氮只能得电子，是硝酸只表现氧化性的价态依据"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP09", "substance": "硝酸", "formula": "HNO3", "role": "本篇主角，+5 价强氧化性酸"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP09", "substance": "二氧化氮", "formula": "NO2", "role": "浓硝酸还原产物"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP09", "substance": "一氧化氮", "formula": "NO", "role": "稀硝酸还原产物"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP09", "substance": "硝酸铜", "formula": "Cu(NO3)2", "role": "与铜反应产物，溶液蓝色"}
+  ]
+}

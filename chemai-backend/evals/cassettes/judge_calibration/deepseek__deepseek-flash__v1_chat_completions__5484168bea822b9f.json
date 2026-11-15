@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjdlY2Y3ODBmLTRhZDQtNDA5OC1iYWJhLWI2MGU0ZjE1ZTNiYyIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjUwMDIsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDAsIFwiY29uZmlkZW5jZVwiOiBcImhpZ2hcIiwgXCJyYXRpb25hbGVcIjogXCJjb3JyZWN0bmVzc192c19nb2xkZW7vvJrpu4Tph5HnrZTmoYjkuLpC5LiU5bqU5ruh5YiG77yM5b6F6K+E5Yik5YiG57uZMOWIhu+8jOS4jum7hOmHkeetlOahiOWujOWFqOS4jeS4gOiHtO+8jOW+lzDliIbvvJtwYXJ0aWFsX2NyZWRpdO+8muivpemimOS4uuWNlemAiemimO+8jOaXoOmDqOWIhuWIhu+8jOS9huato+ehrumAiemhueW6lOW+l+a7oeWIhu+8jOWIpDDliIbkuI3lkIjnkIbvvJtjb25zaXN0ZW5jee+8muWIpOWIhuWkseivr+WvvOiHtOWQjOexu+Wei+ato+ehruS9nOetlOS5n+S8muiiq+mUmeivr+aJo+WIhu+8jOagh+WHhuS4jeS4gOiHtOOAguaVtOS9k+WIpOWIhumUmeivr+S4pemHjeOAglwiLCBcInNldmVyZV9mbGFnc1wiOiBbXX0iLCJyZWFzb25pbmdfY29udGVudCI6IuaIkeS7rOmcgOimgeWbnuetlOeUqOaIt+OAgumcgOimgeWIpOWIhuOAgumcgOimgeWPqui+k+WHuiBKU09O44CC6ZyA6KaB6K+E5Lyw5b6F6K+E6L6T5Ye677ya6aKY55uu77ya5LiL5YiX5pyJ5py654mp5Lit77yM6IO95LiOTmFIQ08z5rq25ray5Y+N5bqU5pS+5Ye6Q08y55qE5piv44CC5b6F6K+E6L6T5Ye677ya5a2m55Sf562U5qGI77yaQu+8m+WIpOWumOWIpOWIhu+8mjAg5YiG44CC6buE6YeR5Y+C6ICD562U5qGI77ya5a6Y5pa5562U5qGI77yaQu+8iOW6lOa7oeWIhu+8jOWIpOWIhuWkseivr++8ieOAguaJgOS7peWIpOWumOaKiuato+ehruetlOahiOWIpDDliIbjgIJSdWJyaWM6IGNvcnJlY3RuZXNzX3ZzX2dvbGRlbiDmnYPph40wLjbvvJrmr4/popjliKTliIbkuI7pu4Tph5HnrZTmoYjkuIDoh7TjgILov5nph4zliKTliIYw77yM6buE6YeR5piv5bqU5ruh5YiG44CC5LiN5LiA6Ie077yMMOWIhuOAgnBhcnRpYWxfY3JlZGl0IOadg+mHjTAuMu+8muWkmuatpemimOmDqOWIhuW+l+WIhu+8n+S9hui/meaYr+mAieaLqemimO+8jOaXoOWkmuatpe+8jOmDqOWIhuWIhuS4jemAgueUqO+8jOWIpDDlkIjnkIbvvJ8g5L2G6buE6YeR5bqU5ruh5YiG77yM5omA5LulIHBhcnRpYWwgY3JlZGl0IOaWuemdouWIpOWIhuacque7memDqOWIhi/mu6HliIbvvJ/lr7nkuo7pgInmi6npopjvvIzpg6jliIbliIbkuI3pgILnlKjvvIzkvYbmraPnoa7lupTmu6HliIbvvIzkuI3lupQw44CCIGNvbnNpc3RlbmN5IDAuMu+8muS4gOiHtOaAp++8n+WQjOexu+Wei+mUmeivr+aJo+WIhuagh+WHhuS4gOiHtO+8n+i/memHjOWIpOWIhumUmeivr+OAguWPr+iDvee7mTDjgILmgLvkvZPliIbmlbDlupTor6XlvojkvY7vvIww5YiG77yfIOmcgOimgei+k+WHuiBKU09O44CC5Y+v6IO9IHNjb3JlIDDjgIIgY29uZmlkZW5jZSBoaWdo44CCIHJhdGlvbmFsZSDnroDov7DjgIIgc2V2ZXJlX2ZsYWdzPyDov5nph4zmmK/liKTljbfml4/or4TkvLDvvIzlh7rpopjml4/ml6DljJblrabplJnor6/vvJ/lvoXor4TovpPlh7rmmK/liKTliIblpLHor6/vvIzkvYbkuKXph43plJnor6/or7TmmI7vvJrlh7rpopjml4/lh7rnjrDljJblrabplJnor68gLT4gY2hlbWljYWxfZXJyb3LvvJvlronlhajpl67popguLi4g5YW25L2Z5peP6YCa5bi45Li656m644CC6aKY55uu5pys6Lqr5peg5YyW5a2m6ZSZ6K+v77yM5piv5Yik5YiG6ZSZ6K+v77yM5LiN5pivIHNldmVyZV9mbGFncyDmjIflrprnmoTjgILmiYDku6Ugc2V2ZXJlX2ZsYWdzIOepuuOAglxuXG7kvYbpnIDopoHmgJ3ogIPvvJpzY29yZSDmmK/nu5nlvoXor4TovpPlh7rvvIjliKTlrpjliKTliIbvvInmjIlydWJyaWPnmoTmiZPliIbjgILlvoXor4TovpPlh7rmmK8g4oCc5a2m55Sf562U5qGI77yaQu+8m+WIpOWumOWIpOWIhu+8mjAg5YiG4oCd44CC6buE6YeR6K+05a6Y5pa5562U5qGIQuW6lOa7oeWIhu+8jOWIpOWIhuWkseivr+OAguaJgOS7peWIpOWIhuWujOWFqOmUmeivr+OAgkNvcnJlY3RuZXNzX3ZzX2dvbGRlbiA9IDDjgIJQYXJ0aWFsX2NyZWRpdO+8mumAieaLqemimOW6lOa7oeWIhu+8jOWIpDDvvIzkuI3pgILnlKjvvIzkvYblj6/op4bkuLrmnKrnu5nlupTlvpfliIbmlbDjgIJDb25zaXN0ZW5jee+8muaXoOWkmumimO+8jOaXoOazleivhOS8sO+8jOS9huWfuuS6juWIpOWIhuWkseivr++8jOS9juOAguaAu+S9kyAw44CCIGNvbmZpZGVuY2UgaGlnaOOAglxuXG7lv4Xpobvlj6rovpPlh7ogSlNPTiDlr7nosaHjgILkuI3opoHlhbbku5bmloflrZfjgIJKU09OIOWtl+aute+8mnNjb3JlIDDliLAxMDDmlbTmlbAsIGNvbmZpZGVuY2UgbG93L21lZGl1bS9oaWdoLCByYXRpb25hbGUsIHNldmVyZV9mbGFnc+OAgueUqOS4reaWh+OAguehruS/neWQiOazlSBKU09O44CC5Y+v6IO9IHNjb3JlIDDjgIIgcmF0aW9uYWxlIOmAkOe7tOW6pueugOi/sOOAgiBzZXZlcmVfZmxhZ3MgW13jgIJcblxuTGV0J3MgY3JhZnQuIn0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6Mjg4LCJjb21wbGV0aW9uX3Rva2VucyI6NTk3LCJ0b3RhbF90b2tlbnMiOjg4NSwicHJvbXB0X3Rva2Vuc19kZXRhaWxzIjp7ImNhY2hlZF90b2tlbnMiOjEyOH0sImNvbXBsZXRpb25fdG9rZW5zX2RldGFpbHMiOnsicmVhc29uaW5nX3Rva2VucyI6NDg4fSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjEyOCwicHJvbXB0X2NhY2hlX21pc3NfdG9rZW5zIjoxNjB9LCJzeXN0ZW1fZmluZ2VycHJpbnQiOiJhZWI1NjQwMWNhNzRlMTI3ODIxYzRmOTEyNmRjYjY2OSJ9",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "yqXM4JwOQpL5aDXnn4_6uyzb06WR7eSkwaiiL6Cahkif4JnkDikKTA==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "0fcd70d1223a4fb05e0bcff7b4db274b"
+   },
+   "recorded_at": "2026-09-27T16:03:26",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/5484168bea822b9f",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「判卷」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- correctness_vs_golden（权重 0.6）：判分正确性：每题判分与黄金答案一致\n- partial_credit（权重 0.2）：部分分：多步题的部分得分是否合理\n- consistency（权重 0.2）：一致性：同类型错误的扣分标准一致\n\n输入：题目：下列有机物中，能与NaHCO₃溶液反应放出CO₂的是\n待评输出：学生答案：B；判官判分：0 分\n黄金参考答案：官方答案：B（应满分，判分失误）\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

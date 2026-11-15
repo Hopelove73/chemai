@@ -1,0 +1,15 @@
+{
+  "doc": "氨与氨水.md",
+  "kp": "M2-T2-KP07",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T2-KP05", "to_kp": "M2-T2-KP07",
+     "reason": "氨来自合成氨，先知道氮的固定与 N2 的稳定"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP03", "to_kp": "M2-T2-KP07",
+     "reason": "氨水显弱碱性的本质是 NH3·H2O 部分电离，要先有弱电解质概念"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP07", "substance": "氨气", "formula": "NH3", "role": "本篇主角，-3 价氮"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP07", "substance": "一水合氨", "formula": "NH3·H2O", "role": "氨水中的弱碱"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP07", "substance": "氯化铵", "formula": "NH4Cl", "role": "与盐酸反应产物，白烟"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP07", "substance": "一氧化氮", "formula": "NO", "role": "催化氧化产物"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP07", "substance": "碳酸氢钠", "formula": "NaHCO3", "role": "侯氏制碱中氨促进 CO2 吸收的产物"}
+  ]
+}

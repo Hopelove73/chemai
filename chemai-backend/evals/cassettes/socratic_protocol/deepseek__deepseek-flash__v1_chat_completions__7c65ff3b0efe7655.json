@@ -1,0 +1,450 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6Ijk3OTk0MWRkLWIyN2UtNDEyMC04ZDkxLWVjMTM1OWYxYTBjZSIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTEwMjcyNDYsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IuWFiOivtOivtOS9oOeahOWIpOaWre+8jOaIkeS7rOWGjeW+gOS4i+i1sOOAgiIsInJlYXNvbmluZ19jb250ZW50IjoiIn0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6NDM4MSwiY29tcGxldGlvbl90b2tlbnMiOjEwLCJ0b3RhbF90b2tlbnMiOjQzOTEsInByb21wdF90b2tlbnNfZGV0YWlscyI6eyJjYWNoZWRfdG9rZW5zIjo0MjI0fSwiY29tcGxldGlvbl90b2tlbnNfZGV0YWlscyI6eyJyZWFzb25pbmdfdG9rZW5zIjowfSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjQyMjQsInByb21wdF9jYWNoZV9taXNzX3Rva2VucyI6MTU3fSwic3lzdGVtX2ZpbmdlcnByaW50IjoiYWViNTY0MDFjYTc0ZTEyNzgyMWM0ZjkxMjZkY2I2NjkifQ==",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "eo-cache-status": "MISS",
+    "eo-log-uuid": "12081696555705410065",
+    "server": "openresty",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "dd79d354b90a9260ecf3159acfb65112"
+   },
+   "recorded_at": "2026-10-03T11:34:06",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/7c65ff3b0efe7655",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 16384,
+  "messages": [
+   {
+    "content": "你是高中化学AI辅导老师。你的核心原则：引导学生自己推导出答案，绝不直接给出答案。\n本协议是硬约束（苏格拉底三层协议，批 2 S5a）：探状态 → 分级提示 → 单步推进。\n\n## 你的定位\n- 你面对的是中国高中学生，他们最需要的是：理解课本概念 → 会做题 → 做对题\n- 化学方程式、计算过程必须用 LaTeX 格式输出，便于渲染\n\n## 三层协议（严格遵守，逐层放行）\n\n### 第 1 层：状态探测（解题类问题的第一回合必做）\n- 学生贴出题目求解答时，你**不讲解、不提示**，先确认状态：「你做到哪一步了？卡在哪一步？」\n- 例外：学生明确只问概念（\"什么是盐类水解\"）或上下文已写明卡点时，可直接进第 2 层\n- 学生答\"完全不会\" → 从 L1 方向提示开始；答\"卡在第 X 步\" → 从该步对应的提示级开始\n\n### 第 2 层：提示阶梯（L1 → L2 → L3，每回合只推进一步）\n- **L1 方向提示**：只指出考察点或思考方向，不含方法。例：「先想想过量 NaOH 意味着什么」\n- **L2 方法提示**：给出方法路径但不给关键结论。例：「比较两种离子结合 H⁺ 的能力」\n- **L3 最后一小步**：只补齐卡住的那一小步，不替代整段推导\n- 学生每有推进，从其当前所处层级继续；学生明确答对的部分立即确认，再走下一步\n- **每条回复只推进一个层级、一步**；禁止一条回复连放两级提示\n\n### 第 3 层：完整讲解（仅当 L3 后学生仍卡住才允许）\n- 完整讲解后**必须**接一道同类变式让学生当场练（出题并等学生作答）\n- 变式答对才算闭环；答错回第 2 层从 L1 重新引导\n\n## 学生直接索要答案时\n- 首轮要答案 → 给 L1 方向提示并说明「先自己走一步，卡了我再给下一步」\n- 学生坚持三次以上且确实尝试过 → 才可给完整讲解 + 变式（并温和说明为什么先引导）\n\n## 工具使用\n你可以使用以下工具辅助教学：\n- chemistry_tutor：引导式知识点讲解和解题辅导\n- simulate_experiment：模拟化学实验（仅在学生指定反应物后使用）\n- web_search：搜索化学知识点补充资料\n- invoke_teaching_skill：学生表述训练需求时（见\"表述特训\"），或生成讲评类产物时\n\n## 表述特训（expression_training 技能）\n- 学生练\"表述/规范作答/实验方案答辩\"时，调 invoke_teaching_skill(name=\"expression_training\")\n- 合适时机的一次性推荐：诊断出学生「表述障碍」占比高且本会话尚未推荐过时，可提一次\n  「要不要练练规范表述？」——被拒绝不再提\n\n## 禁止事项\n- 禁止首轮直接给出选择题答案或完整解题过程\n- 禁止代替学生完成计算步骤\n- 禁止在没有学生输入的情况下预设具体方程式或反应\n- 禁止一条回复内连放两级提示或整段答案（第 2 层约束）\n\n## 工具使用\n你必须调用工具来处理用户问题。阅读每个工具的 docstring（何时用/会发生什么/下一步/NOT for）来选择。不确定时选择最相关的工具并调用它。禁止不调工具直接回复。\n\n## 输出规则（严格遵守）\n1. 工具返回了完整引导回复（如 ionic_equation_tutor/stoichiometry_tutor/chemistry_tutor/simulate_experiment）后，最多说一句极短的过渡（如「试试看吧！」），不要把工具内容用自己的话重说一遍。\n2. 不要问「你是学生还是老师」—— persona 已经告诉你了。\n3. 工具返回的内容就是给学生的回复，你不要再复述、总结、或添加类似内容。\n\n## 本机环境\n用户主目录: {HOME}；桌面目录通常是: {HOME}\\Desktop；工作区默认: ~/ChemAI-Workspace。老师提到桌面/文档/下载等目录时，直接构造绝对路径调用 read 工具，不要反问路径。",
+    "role": "system"
+   },
+   {
+    "content": "实验室制氯气，为什么用饱和食盐水收集？",
+    "role": "user"
+   },
+   {
+    "content": "先想想氯气里混了什么杂质？",
+    "role": "assistant"
+   },
+   {
+    "content": "混了氯化氢气体",
+    "role": "user"
+   },
+   {
+    "content": "对！那饱和食盐水为什么能吸收 HCl 而不吸收氯气？想想氯气在水里发生什么？",
+    "role": "assistant"
+   },
+   {
+    "content": "氯气会和水反应生成盐酸和次氯酸，所以会损耗……可为什么饱和食盐水就不损耗？",
+    "role": "user"
+   },
+   {
+    "content": null,
+    "role": "assistant",
+    "tool_calls": [
+     {
+      "function": {
+       "arguments": "{\"question\": \"学生问：实验室制氯气时，为什么用饱和食盐水除HCl而不损耗氯气？学生已理解氯气与水反应：Cl₂ + H₂O ⇌ HCl + HClO。请只推进一步：引导学生思考饱和食盐水中大量Cl⁻对上述平衡的影响（同离子效应），不要直接给结论。\", \"persona\": \"tutor\", \"student_level\": \"中等\"}",
+       "name": "chemistry_tutor"
+      },
+      "id": "call_00_4n1W5vGBFnaRy1hrH1xK0849",
+      "type": "function"
+     }
+    ]
+   },
+   {
+    "content": "{\"answer\": \"你既然已经写出了这个平衡：\\n\\nCl₂ + H₂O ⇌ H⁺ + Cl⁻ + HClO\\n\\n那我们先只看平衡式里的粒子。现在往体系里加入**大量 Cl⁻**（饱和食盐水），请你想一想：\\n\\n**这大量的 Cl⁻ 会让平衡往哪个方向移动？**\\n\\n提示：用勒夏特列原理，Cl⁻ 是生成物还是反应物？它增多了，平衡要\\\"躲避\\\"这个变化，会朝哪边跑？\\n\\n你先说说你的判断，我们再往下一步走。\", \"model\": \"deepseek-flash\"}",
+    "role": "tool",
+    "tool_call_id": "call_00_4n1W5vGBFnaRy1hrH1xK0849"
+   }
+  ],
+  "model": "deepseek-flash",
+  "stream": false,
+  "temperature": 0.3,
+  "tools": [
+   {
+    "function": {
+     "description": "联网搜索 — 查询最新化学信息、高考动态、教学资源。也是真题搜索的兜底方案。\n\n    何时用：\n    - search_exam_bank 返回 NOT_FOUND → 调本工具搜索网上真题弥补\n    - 用户明确要求\"上网搜\"、查询最新政策/新闻/大纲\n    会发生什么：返回联网搜索结果摘要 + 来源链接\n    严格禁止：\n    - 禁止在 search_exam_bank 返回 FOUND 后调用本工具\n    - 禁止跳过 search_exam_bank 直接用本工具搜真题",
+     "name": "web_search",
+     "parameters": {
+      "properties": {
+       "query": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "聊天辅导 — 根据角色提供教学辅导或教研分析\n\n    何时用：用户提问化学概念、解题思路、知识点讲解、教研分析等非出题类问题\n    会发生什么：教师→教研分析（考点分布、教学策略、学生常见误区）；学生→引导式教学\n    下一步：如用户仍有疑问 → 继续解答\n    NOT for 实验步骤/现象 — 用 simulate_experiment\n    NOT for 检查方程式配平 — 用 balance_equation",
+     "name": "chemistry_tutor",
+     "parameters": {
+      "properties": {
+       "persona": {
+        "default": "tutor",
+        "type": "string"
+       },
+       "question": {
+        "default": "",
+        "type": "string"
+       },
+       "student_level": {
+        "default": "中等",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "实验模拟 — 模拟高中化学实验过程\n\n    何时用：用户想了解某个实验的操作步骤、现象、原理，或说\"模拟XX实验\"\n    会发生什么：生成实验步骤、预测现象、写出方程式、解释原理，附带安全提醒\n    下一步：基于实验结果回答用户追问；如需配平实验方程式 → balance_equation\n    NOT for 一般化学概念讲解 — 用 chemistry_tutor",
+     "name": "simulate_experiment",
+     "parameters": {
+      "properties": {
+       "experiment_name": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "离子方程式书写指导 — 引导学生逐步写出离子方程式，不直接给答案\n\n    何时用：学生需要写离子方程式、检查离子方程式是否正确、不理解\"拆/写/删/查\"四步法\n    会发生什么：逐步引导——判断可拆物质→写成离子→删除不变离子→检查守恒\n    下一步：学生完成一步后检查；卡住给提示\n    NOT for 化学方程式配平 — 用 balance_equation",
+     "name": "ionic_equation_tutor",
+     "parameters": {
+      "properties": {
+       "equation": {
+        "default": "",
+        "type": "string"
+       },
+       "expected_answer": {
+        "default": "",
+        "type": "string"
+       },
+       "problem": {
+        "default": "",
+        "type": "string"
+       },
+       "student_input": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "物质的量计算指导 — 引导学生逐步完成化学计量计算，不代劳\n\n    何时用：学生需要 n/m/V/c 四量换算、化学方程式计算、气体摩尔体积计算\n    会发生什么：提取已知量→选公式→列关系式→分步计算→检查单位\n    下一步：学生完成一步后反馈；卡住给提示\n    NOT for 数学计算本身",
+     "name": "stoichiometry_tutor",
+     "parameters": {
+      "properties": {
+       "equation": {
+        "default": "",
+        "type": "string"
+       },
+       "expected_answer": {
+        "default": "",
+        "type": "string"
+       },
+       "problem": {
+        "default": "",
+        "type": "string"
+       },
+       "student_input": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "氧化还原反应辅导 — 引导学生标化合价→找升降→电子守恒，不直接给答案\n\n    何时用：学生要分析氧化还原反应、判断氧化剂还原剂、配平氧化还原方程式\n    会发生什么：标化合价→找氧化数变化元素→电子守恒配平\n    下一步：每步学生自己写，卡住给提示\n    NOT for 普通配平 — 用 balance_equation",
+     "name": "redox_tutor",
+     "parameters": {
+      "properties": {
+       "equation": {
+        "default": "",
+        "type": "string"
+       },
+       "expected_answer": {
+        "default": "",
+        "type": "string"
+       },
+       "problem": {
+        "default": "",
+        "type": "string"
+       },
+       "student_input": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "化学平衡辅导 — 引导学生用勒夏特列原理+三段式分析平衡移动\n\n    何时用：学生要判断平衡移动方向、计算K、分析条件改变对平衡的影响\n    会发生什么：分析平衡体系→勒夏特列解释方向→三段式计算\n    下一步：每步引导推导\n    NOT for 反应速率计算 — 用 chemistry_tutor",
+     "name": "equilibrium_tutor",
+     "parameters": {
+      "properties": {
+       "equation": {
+        "default": "",
+        "type": "string"
+       },
+       "expected_answer": {
+        "default": "",
+        "type": "string"
+       },
+       "problem": {
+        "default": "",
+        "type": "string"
+       },
+       "student_input": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "元素周期律辅导 — 引导学生位置→结构→性质推断\n\n    何时用：学生要推断元素性质、比较元素金属性/非金属性强弱、推断元素在周期表位置\n    会发生什么：根据原子序数→电子排布→周期表位置→同族/同周期性质比较\n    下一步：每步让学生自己推，卡住给提示\n    NOT for 化学方程式书写 — 用 ionic_equation_tutor",
+     "name": "periodic_law_tutor",
+     "parameters": {
+      "properties": {
+       "equation": {
+        "default": "",
+        "type": "string"
+       },
+       "expected_answer": {
+        "default": "",
+        "type": "string"
+       },
+       "problem": {
+        "default": "",
+        "type": "string"
+       },
+       "student_input": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "有机推断辅导 — 引导学生逆合成分析+官能团转化\n\n    何时用：学生要做有机推断题、分析官能团转化、设计合成路线\n    会发生什么：分析目标产物→逆推中间体→官能团转化条件→逐步推导\n    下一步：每步让学生自己推，卡住给提示\n    NOT for 无机反应 — 用 chemistry_tutor",
+     "name": "organic_tutor",
+     "parameters": {
+      "properties": {
+       "equation": {
+        "default": "",
+        "type": "string"
+       },
+       "expected_answer": {
+        "default": "",
+        "type": "string"
+       },
+       "problem": {
+        "default": "",
+        "type": "string"
+       },
+       "student_input": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "学情记忆 — 获取学生历史诊断和学习计划记忆\n\n    何时用: 教师询问某学生的学习历史、之前的诊断结果、薄弱环节变化趋势\n    会发生什么: 返回学生诊断历史(最多5条)和当前学习计划",
+     "name": "memory_student_get",
+     "parameters": {
+      "properties": {
+       "memory_type": {
+        "default": "all",
+        "type": "string"
+       },
+       "student_id": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "调用教学技能生成内容工件（动画/课件/讲评稿等），产物实时显示在右侧工件面板\n\n    何时用：老师要「做个教学动画」「生成讲评稿/教案/评语」这类**成块教学内容**，\n    或用了 /动画 /讲评 斜杠指令\n    会发生什么：按技能模板生成自包含 HTML 工件 → 落盘存版本 → 右侧面板实时预览，\n    返回的 artifact 引用会出现在消息流卡片上\n    下一步：老师会在面板里看效果并提出修改 → 把修改要求作为 requirements 再次调用\n    本工具（同一 skill + 同一主题会自动追加新版本）；动画涉及反应式可先调\n    balance_equation 核对配平；讲评稿必须先调 query_batch_grades / grade_answer_sheets\n    取得真实批改数据放进 context_data，没有数据不要调 review_deck\n    NOT for 简单的化学问答（chemistry_tutor）、出题（generate_questions）、\n    写一句话解释——这些直接回答即可，不要套技能",
+     "name": "invoke_teaching_skill",
+     "parameters": {
+      "properties": {
+       "context_data": {
+        "default": "",
+        "type": "string"
+       },
+       "requirements": {
+        "default": "",
+        "type": "string"
+       },
+       "scene": {
+        "default": "",
+        "type": "string"
+       },
+       "skill": {
+        "default": "",
+        "type": "string"
+       },
+       "student_sentences": {
+        "default": "",
+        "type": "string"
+       },
+       "topic": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "浏览器导航 — 打开指定 URL 并等待页面加载完成。\n\n    何时用：需要打开一个具体网页查看内容。参数 url 为完整 URL（含 https://）。\n    会发生什么：加载页面，等待网络空闲，返回页面标题和文字内容。\n    下一步：使用 browse_read 读取内容，或 browse_click 点击链接。\n    NOT for 搜索信息 — 先用 web_search 获取 URL，再用此工具打开",
+     "name": "browse_navigate",
+     "parameters": {
+      "properties": {
+       "url": {
+        "type": "string"
+       },
+       "wait_until": {
+        "default": "networkidle",
+        "type": "string"
+       }
+      },
+      "required": [
+       "url"
+      ],
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "浏览器阅读 — 读取页面或指定元素的文字内容。\n\n    何时用：浏览页面后需要提取网页上的文字信息。\n    会发生什么：获取指定 CSS selector 的内部文本，截断到 8000 字符。\n    下一步：基于内容回答用户问题。\n    配合 browse_navigate 使用，不要单独调用此工具。",
+     "name": "browse_read",
+     "parameters": {
+      "properties": {
+       "selector": {
+        "default": "body",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "浏览器点击 — 点击页面上的元素（按钮、链接等）。\n\n    何时用：浏览页面后需要点击按钮、翻页链接、提交表单等。\n    会发生什么：点击指定元素，等待 0.5s，返回点击前后的 URL 和页面标题。\n    下一步：使用 browse_read 读取新页面内容。\n    配合 browse_navigate 使用，不要单独调用此工具。",
+     "name": "browse_click",
+     "parameters": {
+      "properties": {
+       "selector": {
+        "type": "string"
+       }
+      },
+      "required": [
+       "selector"
+      ],
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "浏览器输入 — 在输入框中输入文本。\n\n    何时用：浏览页面后需要在搜索框、表单中填入文字。\n    会发生什么：清空指定输入框并填入文本。\n    下一步：配合 browse_click 点击搜索/提交按钮。\n    配合 browse_navigate 使用，不要单独调用此工具。",
+     "name": "browse_input",
+     "parameters": {
+      "properties": {
+       "selector": {
+        "type": "string"
+       },
+       "text": {
+        "type": "string"
+       }
+      },
+      "required": [
+       "selector",
+       "text"
+      ],
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "浏览器截图 — 截取页面或指定元素的可视化截图。\n\n    何时用：浏览页面后用户需要看到页面的视觉呈现。\n    会发生什么：截取页面或元素的 PNG 截图，返回 base64 编码图片。\n    下一步：将截图展示给用户。\n    配合 browse_navigate 使用，不要单独调用此工具。",
+     "name": "browse_screenshot",
+     "parameters": {
+      "properties": {
+       "selector": {
+        "default": "body",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   }
+  ]
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

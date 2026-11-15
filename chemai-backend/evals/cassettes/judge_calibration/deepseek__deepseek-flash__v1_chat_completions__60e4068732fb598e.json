@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6Ijc1NWY5OTEyLWY4ZjgtNDM3OS1iOTRiLTk3YTNhYWIzNjVmNiIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjQ4NTcsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDAsIFwiY29uZmlkZW5jZVwiOiBcImhpZ2hcIiwgXCJyYXRpb25hbGVcIjogXCJiYXJyaWVyX3R5cGVfY29ycmVjdO+8mumUmeivr++8jOWtpueUn+amguW/temAieaLqemimOWFqOWvue+8jOS7heemu+WtkOaWueeoi+W8j+S5puWGmeWPjeWkjeWHuumUme+8jOW6lOiviuaWreS4uiBleHByZXNzaW9u77yI6KGo6L+w6Zqc56KN77yJ77yM6ICM6Z2eIGNvbmNlcHTvvJtldmlkZW5jZV91c2FnZe+8muacquW8leeUqOS7u+S9lemUmemimOaIluaVsOaNruS9nOS4uuiviuaWreS+neaNru+8m2V4cGxhbmF0aW9u77ya5rKh5pyJ57uZ5Ye66K+K5pat55CG55Sx5oiW5Y+v5omn6KGM6Kej6YeK77yM5peg5rOV5pSv5pKR5Yik5pat44CCXCIsIFwic2V2ZXJlX2ZsYWdzXCI6IFtdfSIsInJlYXNvbmluZ19jb250ZW50IjoiV2UgbmVlZCBhbnN3ZXIgb25seSBKU09OLiBOZWVkIGV2YWx1YXRl5b6F6K+E6L6T5Ye6LiBJbnB1dDogc3R1ZGVudCByZXBlYXRlZGx5IHdyb25nIGlvbiBlcXVhdGlvbiB3cml0aW5nIGJ1dCBjb25jZXB0IG11bHRpcGxlIGNob2ljZSBhbGwgY29ycmVjdC4gT3V0cHV0IGRpYWdub3NpczogY29uY2VwdCAoY29uY2VwdCB1bmRlcnN0YW5kaW5nIG9ic3RhY2xlKS4gR29sZGVuOiBleHByZXNzaW9uICjooajov7Dpmpznoo0pIOKAlCBjb25jZXB0IHVuZGVyc3Rvb2QsIHdyaXRpbmcgZm9ybWF0IHdyb25nLlxuXG5SdWJyaWM6IGJhcnJpZXJfdHlwZV9jb3JyZWN0IHdlaWdodCAuNjogb3V0cHV0IHNheXMgY29uY2VwdCwgYnV0IGNvcnJlY3QgaXMgZXhwcmVzc2lvbi4gU28gd3JvbmcuIEV2aWRlbmNlX3VzYWdlIC4yOiBkaWFnbm9zaXMgaGFzIG5v6ZSZ6aKYL2RhdGEgc3VwcG9ydD8gSXQganVzdCBzYXlzIGNvbmNlcHQuIE5vIGV2aWRlbmNlLiBFeHBsYW5hdGlvbiAuMjogZGlhZ25vc2lz55CG55SxPyBub25lLiBOZWVkIHNjb3JlLiBTaW5jZSBiYXJyaWVyIHR5cGUgd3JvbmcgbWFqb3IsIHByb2JhYmx5IGxvdyBzY29yZS4gTmVlZCBvdXRwdXQgSlNPTiB3aXRoIHNjb3JlIDAtMTAwLCBjb25maWRlbmNlLCByYXRpb25hbGUsIHNldmVyZV9mbGFncy4gTmVlZCBkZWNpZGUgaW50ZWdlci4gSWYgYmFycmllcl90eXBlX2NvcnJlY3QgMC4gRXZpZGVuY2VfdXNhZ2UgbWF5YmUgMC4gRXhwbGFuYXRpb24gMC4gU2NvcmUgMD8gQnV0IG1heWJlIHNvbWUgcGFydGlhbD8gVGhlIG91dHB1dCBvbmx5IFwi6K+K5pat77yaY29uY2VwdFwiIG5vIGV2aWRlbmNlLCBubyBleHBsYW5hdGlvbi4gU2hvdWxkIGJlIDAuIEJ1dCBzY29yaW5nIG1heWJlIHNldmVyZT8gTm8gY2hlbWljYWxfZXJyb3I/IE5vdCBjaGVtaWNhbCBlcnJvci4gU2FmZXR5IG5vLiBDb25maWRlbmNlIGhpZ2g/IFNpbmNlIGNsZWFyIG1pc21hdGNoLiBOZWVkIEpTT04gb25seS4gRW5zdXJlIHJhdGlvbmFsZSBpbiBDaGluZXNlLiBOZWVkIG1lbnRpb24gZGltZW5zaW9ucy4gc2NvcmUgbWF5YmUgMCBvciAxMD8gTGV0J3MgZm9ybXVsYXRlLiBUaGUgcnVicmljOiBiYXJyaWVyX3R5cGVfY29ycmVjdCB3ZWlnaHQgMC42LCBldmlkZW5jZSAuMiwgZXhwbGFuYXRpb24gLjIuIElmIGFsbCBmYWlsLCAwLiBJZiBzb21lPyBJdCBkb2VzIHN0YXRlIGEgZGlhZ25vc2lzIGJ1dCBpbmNvcnJlY3QuIEV2aWRlbmNlIHVzYWdlOiBubyBldmlkZW5jZS4gRXhwbGFuYXRpb246IG5vdCBjbGVhci4gVGh1cyAwLiBDb25maWRlbmNlIGhpZ2guIHNldmVyZV9mbGFncyBbXS4gRmluYWwgSlNPTiBvbmx5LlxuXG5OZWVkIGVuc3VyZSBubyBtYXJrZG93bi4ifSwibG9ncHJvYnMiOm51bGwsImZpbmlzaF9yZWFzb24iOiJzdG9wIn1dLCJ1c2FnZSI6eyJwcm9tcHRfdG9rZW5zIjoyODIsImNvbXBsZXRpb25fdG9rZW5zIjozOTgsInRvdGFsX3Rva2VucyI6NjgwLCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6MTI4fSwiY29tcGxldGlvbl90b2tlbnNfZGV0YWlscyI6eyJyZWFzb25pbmdfdG9rZW5zIjozMDl9LCJwcm9tcHRfY2FjaGVfaGl0X3Rva2VucyI6MTI4LCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjE1NH0sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "AcGFVW71Z0OSqrtu79GlFIhG72vUjhwgo_hNdYZ7yaKPWHVcdEgoYA==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "ac7e9adf630a76320cc6281cffa3b3a6"
+   },
+   "recorded_at": "2026-09-27T16:01:00",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/60e4068732fb598e",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「诊断」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- barrier_type_correct（权重 0.6）：障碍类型判断：concept/reading/expression 分类正确\n- evidence_usage（权重 0.2）：证据使用：诊断有错题/数据支撑\n- explanation（权重 0.2）：解释质量：诊断理由清楚可执行\n\n输入：学生反复错「离子方程式书写」类题目，但概念选择题全对\n待评输出：诊断：concept（概念理解障碍）\n黄金参考答案：应为 expression（表述障碍）— 概念懂、书写格式错\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

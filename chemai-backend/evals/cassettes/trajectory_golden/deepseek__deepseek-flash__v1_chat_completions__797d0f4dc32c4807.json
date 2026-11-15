@@ -1,0 +1,43 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjIzYzVjZjBkLWQ1OTQtNDdlMS1hOGVmLTVjYzVkMzk5ZTUwNyIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjU1MDAsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IuagueaNruaQnOe0oue7k+aenO+8jOWFs+S6jjIwMjXlubTpq5jogIPljJblrabogIPor5XlpKfnurLlj5jljJbjgIHmlrDor77moIflj4rlkb3popjmlrnlkJHnmoTmnInmlYjkv6Hmga/pnZ7luLjmnInpmZDjgILkuLvopoHlj6/lvZLnurPkuLrvvJpcblxuMS4gKirlpI3kuaDkvp3mja4qKu+8muW7uuiuruS7peivvuacrOWSjOKAnOS4pOe6suKAne+8iOiAg+ivleWkp+e6suOAgeaVmeWtpuWkp+e6su+8ieS4uuS+neaJmO+8jOiQveWunuiAg+eCue+8jOeBtea0u+i/kOeUqOefpeivhuOAglxuMi4gKirlkb3popjnu4Tnu4cqKu+8mumDqOWIhuivvueoi+eUsemZouezu+aIluaVmeW4iOS+neaNruaVmeWtpuWkp+e6sue7n+S4gOWRvemimO+8jOaXoOWMluWtpuenkeebruWFt+S9k+ivtOaYjuOAglxuMy4gKirlhbbku5blhoXlrrkqKu+8mua2ieWPiuaUv+W6nOmHh+i0reOAgeacrOenkeivhOS8sOOAgeayu+WuieeuoeeQhuazleetie+8jOS4jumrmOiAg+WMluWtpuaXoOWFs+OAglxuXG4qKue7k+iuuioq77ya5pCc57Si57uT5p6c5pyq5o+Q5L6bMjAyNeW5tOmrmOiAg+WMluWtpuWkp+e6suWPmOWMluaIluWRvemimOaWueWQkeeahOWFt+S9k+S/oeaBr++8jOW7uuiuruafpeivouaVmeiCsumDqOaIluiAg+ivlemZouWumOaWueWPkeW4g+OAgiJ9LCJsb2dwcm9icyI6bnVsbCwiZmluaXNoX3JlYXNvbiI6InN0b3AifV0sInVzYWdlIjp7InByb21wdF90b2tlbnMiOjM1NCwiY29tcGxldGlvbl90b2tlbnMiOjEzNiwidG90YWxfdG9rZW5zIjo0OTAsInByb21wdF90b2tlbnNfZGV0YWlscyI6eyJjYWNoZWRfdG9rZW5zIjowfSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjAsInByb21wdF9jYWNoZV9taXNzX3Rva2VucyI6MzU0fSwic3lzdGVtX2ZpbmdlcnByaW50IjoiYWViNTY0MDFjYTc0ZTEyNzgyMWM0ZjkxMjZkY2I2NjkifQ==",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 47d1f5199074a6387aec46d021ce694c.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "NaDA26dFF1_vgnPnOez1XxACSJGv7rhxXAsRRvaHtIFKJ8RBSf7zfg==",
+    "x-amz-cf-pop": "KUL50-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "ec3c7dcb1ba1fd45deb8282fda5d25f6"
+   },
+   "recorded_at": "2026-09-27T16:11:41",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/797d0f4dc32c4807",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 1024,
+  "messages": [
+   {
+    "content": "用简洁中文总结以下搜索结果，列出关键信息。不超过400字。",
+    "role": "system"
+   },
+   {
+    "content": "搜索词: 2025年高考化学考试大纲变化 新课标 命题方向\n\n搜索结果:\n1. 2025年高考高考理综复习技巧:理综各科学习方法\n根据两纲要求，找到各个考点在课本中的“根”，并落实到位，做到以课本、两纲为依托融会贯通，灵活运用课本知识，并通过知识的实际应用上升到两纲要求必备的 ...\n\n2. 政府采购合同\n2025年11月5日. 2025年11月5日. Page 6. 6. 附件：服务清单. 序号. 服务内容. 1. 课程内容：. 1.数学复习大纲. 阶段. 课次. 课时. 课程内容. 第一阶段：目标是.\n\n3. 目录\n所、中心）根据教学大纲组织统一命题，其他课程可由任课教师依据课程教. 学大纲命题；. （三）除非院系和教师有特别要求，考试命题和答题原则上使用授课语.\n\n4. 普通高等学校本科教育教学审核评估\n教育评价事关教育发展方向和学校办学导向，发挥着评价指挥棒. 的作用。近日，教育部发布了《普通高等学校本科教育教学审核评估. 实施方案（2021-2025 年）》，方案以习近平 ...\n\n5. 政策问答库-仙桃市人民政府\n答：（一）配套实施新法新规。2025年，《中华人民共和国治安管理处罚法》进行了大范围修订，并已于2026年1月1日施行。该法的修订涉及公安执法的方方面面，尤其是处罚额度、 ...",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.3,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjFmZjZlNWFjLWRkZmMtNGRlYS04YzNkLTc1ZGQ2ZmE3ZmU3MyIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjUxODQsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDQ4LCBcImNvbmZpZGVuY2VcIjogXCJtZWRpdW1cIiwgXCJyYXRpb25hbGVcIjogXCJmaXTvvJrmlrnmoYjmtonlj4rmpoLlv7XmorPnkIblkozlj5jlvI/nu4PkuaDvvIzmlrnlkJHkuI7mpoLlv7XnkIbop6Ppmpznoo3nm7jlhbPvvIzkvYbmnKror4rmlq3pu4Tkv4rmnbDlhbfkvZPoloTlvLHmpoLlv7XmiJbliY3mpoLlv7XvvIzkuJTmr4/ml6UzMOWIhumSn+WNs+avj+WRqOe6pjMuNeWwj+aXtu+8jOW3sui2hei/h+avj+WRqDPlsI/ml7blj6/mipXlhaXml7bpl7TvvIzpgILphY3mgKfkuI3otrPjgIJleGVjdXRhYmxl77ya5LiJ6Zi25q615qGG5p625riF5pmw77yM5L2G5qC45b+D5qaC5b+15LiO5piT5re354K55pyq5YiX5Ye677yMMjDpopjlj5jlvI/nu4PkuaDnmoTmnaXmupDjgIHpmr7luqbmoq/luqbjgIHlrozmiJDkuI7mibnmlLnmlrnlvI/jgIHlpI3nm5jmoIflh4blnYfnvLrlpLHvvIzlj6/miafooYzmgKfkuIDoiKzjgIJwZXJzb25hbGl6ZWTvvJrlhoXlrrnpq5jluqbmqKHmnb/ljJbvvIzmnKrnu5PlkIjpu4Tkv4rmnbDpq5jkuIDlhbfkvZPnq6DoioLjgIHmlZnmnZDov5vluqbjgIHplJnpopjnsbvlnovmiJborqTnn6XnibnngrnvvIznvLrlsJHkuKrmgKfljJblrprliLbjgIJcIiwgXCJzZXZlcmVfZmxhZ3NcIjogW119IiwicmVhc29uaW5nX2NvbnRlbnQiOiJXZSBuZWVkIGFuc3dlciBvbmx5IEpTT04uIE5lZWQgZXZhbHVhdGUuIE5lZWQgY29uc2lkZXIgcnVicmljLiBTdHVkZW50IEh1YW5nIEp1bmppZSwgY29uY2VwdCB1bmRlcnN0YW5kaW5nIG9ic3RhY2xlLCBoaWdoIHNjaG9vbCBncmFkZSAxLCBjYW4gaW52ZXN0IDMgaG91cnMvd2Vlay4gT3V0cHV0IHBsYW46XG5TdGFnZTE6IHNvcnQgY29uY2VwdCB1bmRlcnN0YW5kaW5nIHJlbGF0ZWQgY29yZSBjb25jZXB0cyBhbmQgY29uZnVzaW5nIHBvaW50cyAoMiBjbGFzcyBob3Vycyk7IFN0YWdlMjogZGFpbHkgMzAgbWluIHZhcmlhdGlvbiBwcmFjdGljZSAyMCBxdWVzdGlvbnM7IFN0YWdlMzogdHdvIHdlZWtzIGxhdGVyIHF1aXogcmV2aWV3LlxuXG5OZWVkIHNjb3JlIDAtMTAwLiBOZWVkIGZpdCwgZXhlY3V0YWJsZSwgcGVyc29uYWxpemVkLiBUaGlzIGlzIGdlbmVyaWMsIG5vdCBwZXJzb25hbGl6ZWQsIG5vIGRpYWdub3NpcyBvZiBzcGVjaWZpYyBjb25jZXB0cywgbm8gc2NoZWR1bGUgbWF0Y2hpbmcgM2gvd2Vlaz8gTGV0J3MgcGFyc2UuIFN0YWdlMSAy6K++5pe2IGxpa2VseSBtYXliZSAyIGhvdXJzPyBTdGFnZTIgZGFpbHkgMzAgbWluIC0+IDMuNSBob3Vycy93ZWVrLCBleGNlZWRzIDNoLCBwbHVzIHN0YWdlMT8gU3RhZ2UzLiBJdCBkb2Vzbid0IHNwZWNpZnkgd2hpY2ggY29uY2VwdHMuIE5vdCB0YWlsb3JlZC4gRXhlY3V0YWJsZSBzb21ld2hhdDogc3RhZ2VzIHNwZWNpZmljIGJ1dCBcIuaguOW/g+amguW/teS4juaYk+a3t+eCuVwiIHZhZ3VlOyBkYWlseSAzMCBtaW4gMjAgcXVlc3Rpb25zIG1heWJlIHVucmVhc29uYWJsZSBkZXBlbmRpbmcgdHlwZS4gUGVyc29uYWxpemVkIHBvb3IuIEZpdCBtb2RlcmF0ZT8gQ29uY2VwdCB1bmRlcnN0YW5kaW5nIG9ic3RhY2xlOiBwbGFuIGluY2x1ZGVzIGNvcmUgY29uY2VwdHMgYW5kIGNvbmZ1c2luZyBwb2ludHMgYW5kIHZhcmlhdGlvbiBwcmFjdGljZSwgYnV0IG5vIGRpYWdub3N0aWMsIG5vIHN0cmF0ZWd5IGZvciBjb25jZXB0dWFsIGNoYW5nZS4gV2Vla2x5IHRpbWU6IGRhaWx5IDMwIG1pbiA9IDMuNWgsIHBsdXMgY2xhc3MgaG91cnMgYW5kIHF1aXosIGV4Y2VlZHMgM2guIEZpdCBtYXliZSBsb3cuIEV4ZWN1dGFibGUgbW9kZXJhdGUuIFBlcnNvbmFsaXplZCBsb3cuIFNjb3JlIG1heWJlIDQ1LTU1LiBOZWVkIGNvbmZpZGVuY2UgbWF5YmUgbWVkaXVtLiBzZXZlcmVfZmxhZ3MgZW1wdHkuIE5lZWQgSlNPTiBvbmx5LlxuXG5OZWVkIGVuc3VyZSBubyBleHRyYS4gU2NvcmUgaW50ZWdlci4gTGV0J3MgZm9ybXVsYXRlIHJhdGlvbmFsZSBjb25jaXNlIHBlciBkaW1lbnNpb24uXG5cblBvdGVudGlhbCBzY29yZTogNDU/IExldCdzIHdlaWdoOlxuZml0IDQwOiBtYXliZSA1MCAtPiAyMFxuZXhlY3V0YWJsZSAzMDogNjAgLT4gMThcbnBlcnNvbmFsaXplZCAzMDogMjUgLT4gNy41IHRvdGFsIDQ1LjUuIENvdWxkIGJlIDQ4LiBJZiBleGVjdXRhYmxlIDY1IGFuZCBwZXJzb25hbGl6ZWQgMzAsIGZpdCA0NSA9PiAxOCsxOS41Kzk9NDYuNS4gTGV0J3MgY2hvb3NlIDQ4LiBOZWVkIGNvbmZpZGVuY2UgbWVkaXVtL2hpZ2g/IFNpbmNlIHN0cmFpZ2h0Zm9yd2FyZC4gTWF5YmUgbWVkaXVtLlxuXG5SYXRpb25hbGU6IGZpdDog6ZKI5a+55qaC5b+155CG6Kej6Zqc56KN5pyJ5qaC5b+15qKz55CG5ZKM5Y+Y5byP57uD5Lmg77yM5L2G5pyq6K+G5Yir6buE5L+K5p2w5YW35L2T6JaE5byx5qaC5b+1L+WJjeamguW/te+8jOS4lOavj+aXpTMwbWluw5c3PTMuNWjotoXov4fmr4/lkagzaO+8jOS4juWtpuaDheWSjOaXtumXtOmAgumFjeS4jei2s+OAgiBleGVjdXRhYmxlOiDpmLbmrrXmuIXmmbDvvIzkvYbmoLjlv4PmpoLlv7XkuI7mmJPmt7fngrnmnKrliJflh7rvvIwyMOmimOWPmOW8j+e7g+S5oOeahOadpea6kOOAgemavuW6puair+W6puOAgeWkjeebmOagh+WHhue8uuWkse+8jOiQveWcsOaAp+S4gOiIrOOAgiBwZXJzb25hbGl6ZWQ6IOmrmOW6puaooeadv+WMlu+8jOacque7k+WQiOm7hOS/iuadsOmrmOS4gOaVmeadkOeroOiKguOAgemUmemimOOAgeWtpuagoei/m+W6puaIluiupOefpeeJueeCue+8jOe8uuWwkeS4quaAp+WMluiviuaWreS4juiwg+aVtOOAgiBzZXZlcmUgZmxhZ3MgW10uXG5cbk5lZWQgb3V0cHV0IEpTT04uIEVuc3VyZSB2YWxpZCBKU09OLiJ9LCJsb2dwcm9icyI6bnVsbCwiZmluaXNoX3JlYXNvbiI6InN0b3AifV0sInVzYWdlIjp7InByb21wdF90b2tlbnMiOjI5MSwiY29tcGxldGlvbl90b2tlbnMiOjY4NCwidG90YWxfdG9rZW5zIjo5NzUsInByb21wdF90b2tlbnNfZGV0YWlscyI6eyJjYWNoZWRfdG9rZW5zIjoxMjh9LCJjb21wbGV0aW9uX3Rva2Vuc19kZXRhaWxzIjp7InJlYXNvbmluZ190b2tlbnMiOjUyNn0sInByb21wdF9jYWNoZV9oaXRfdG9rZW5zIjoxMjgsInByb21wdF9jYWNoZV9taXNzX3Rva2VucyI6MTYzfSwic3lzdGVtX2ZpbmdlcnByaW50IjoiYWViNTY0MDFjYTc0ZTEyNzgyMWM0ZjkxMjZkY2I2NjkifQ==",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "WP8jY7eSIOuCE82WPbH2Ho2r7V-TSdoA7ccRO4Lu7zXsfePzrhx69A==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "56ae0e4ff2ad2f94b52ac084a254e19e"
+   },
+   "recorded_at": "2026-09-27T16:06:28",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/e15a675cc2a1e24f",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「方案」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- fit（权重 0.4）：适配性：方案贴合学生障碍与当前水平\n- executable（权重 0.3）：可执行性：步骤具体、可落地\n- personalized（权重 0.3）：个性化：非模板化，针对该学生定制\n\n输入：学生黄俊杰，概念理解障碍，高一，每周可投入 3 小时\n待评输出：第一阶段：梳理概念理解相关核心概念与易混点（2 课时）；第二阶段：每日 30 分钟变式练习 20 题；第三阶段：两周后小测复盘\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

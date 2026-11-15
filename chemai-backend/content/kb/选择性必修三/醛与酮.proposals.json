@@ -1,0 +1,12 @@
+{
+  "doc": "醛与酮.md",
+  "kp": "M5-T2-KP07",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M5-T2-KP05", "to_kp": "M5-T2-KP07",
+     "reason": "醛由伯醇催化氧化制得，醇醛同源"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP07", "substance": "乙醛", "formula": "CH3CHO", "role": "醛代表"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP07", "substance": "甲醛", "formula": "HCHO", "role": "双醛位特例"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP07", "substance": "氧化亚铜", "formula": "Cu2O", "role": "砖红色沉淀"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP07", "substance": "银", "formula": "Ag", "role": "银镜产物"}
+  ]
+}

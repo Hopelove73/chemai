@@ -1,0 +1,43 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImNiNmQ2Y2ZlLTI1NjgtNDg5OC04M2YyLWY2ZTA5ZjYzZjdjNyIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjU3NDYsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IuagueaNruaQnOe0oue7k+aenO+8jOWFs+S6jjIwMjXlubTpq5jogIPljJblrabogIPor5XlpKfnurLnmoTlj5jljJbvvIzlhbPplK7kv6Hmga/lpoLkuIvvvJpcblxuMS4gKirlrpjmlrnlpKfnurLmnKrmm7TmlrAqKu+8muS4reWbveaVmeiCsuiAg+ivlee9keebruWJjeS7heaYvuekujIwMTnlubTniYjogIPor5XlpKfnurLvvIzmnKrlj5HluIMyMDI15bm05YyW5a2m6ICD6K+V5aSn57qy55qE5a6Y5pa55pu05paw44CCXG5cbjIuICoq6K+V6aKY6K+E5p6Q5bey5Y+R5biDKirvvJoyMDI15bm06auY6ICD5YyW5a2m5YWo5Zu95Y236K+V6aKY6K+E5p6Q5bey5LqOMjAyNeW5tDbmnIg45pel5Y+R5biD77yM5Y+v5L6b5Y+C6ICD44CCXG5cbjMuICoq5paw6auY6ICD5qih5byP5b2x5ZONKirvvJoyMDI15bm06auY6ICD6YeH55So4oCcMysxKzLigJ3miJbigJwzKzPigJ3mqKHlvI/vvIzljJblrabkuLrpgInogIPnp5Hnm67kuYvkuIDvvIzogIPor5XlhoXlrrnlkozlvaLlvI/lm6DnnIHku73ogIzlvILjgIJcblxuNC4gKirml6DmmI7noa7lpKfnurLlj5jljJbkv6Hmga8qKu+8muaQnOe0oue7k+aenOS4reacquaPkOWPijIwMjXlubTljJblrabogIPor5XlpKfnurLnmoTlhbfkvZPlj5jljJblhoXlrrnjgIJcblxuKirmgLvnu5MqKu+8muebruWJjeWwmuaXoDIwMjXlubTpq5jogIPljJblrabogIPor5XlpKfnurLlj5jljJbnmoTlrpjmlrnkv6Hmga/vvIzlu7rorq7lhbPms6jkuK3lm73mlZnogrLogIPor5XnvZHlj4rlkITnnIHmlZnogrLogIPor5XpmaLnmoTmnIDmlrDpgJrnn6XjgIIifSwibG9ncHJvYnMiOm51bGwsImZpbmlzaF9yZWFzb24iOiJzdG9wIn1dLCJ1c2FnZSI6eyJwcm9tcHRfdG9rZW5zIjozODYsImNvbXBsZXRpb25fdG9rZW5zIjoxODIsInRvdGFsX3Rva2VucyI6NTY4LCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6MH0sInByb21wdF9jYWNoZV9oaXRfdG9rZW5zIjowLCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjM4Nn0sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 79f6dd76979e6fd058034da83c8a7146.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "iP95FGkDQddyNxsD2azn5_oK-T7sGDn_1kl4WR2L5_AvVCy-N_Z8IA==",
+    "x-amz-cf-pop": "KUL50-P2",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "2d5a3dfa0f70fbe78c2adbc6a6cc64b9"
+   },
+   "recorded_at": "2026-09-27T16:15:47",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/d8da260553cccaaf",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 1024,
+  "messages": [
+   {
+    "content": "用简洁中文总结以下搜索结果，列出关键信息。不超过400字。",
+    "role": "system"
+   },
+   {
+    "content": "搜索词: 2025年高考化学 考试大纲 变化 最新\n\n搜索结果:\n1. 考试大纲- 中国教育考试网\n高考试题评析 · 首页 > 首页 > 考试项目 > 普通高等学校招生全国统一考试 > 考试大纲 · 2019年普通高等学校招生全国统一考试大纲（总纲）2019-01-31; 2019年普通高等学校 ...\n\n2. 化学-高考频道\n2025年高考化学全国卷试题评析. 2025-06-08 ; 2024年高考山东化学试题. 2025-02-12 ; 2024年高考天津化学试题及答案. 2025-02-11 ; 2024年高考广东化学试题及答案. 2024-07-02.\n\n3. 高考真题-历年高考试卷、2025年最新高考笔记和高中高考题库\n高考冲刺必备，历年真题专家！！！************ 高考真题是一款专门为高考学子打造的高考真题、高考资料、高考笔记APP，APP内有历年的全科目高考真题试卷以及答案 ...\n\n4. 2025年全国高考今日开考，今年有这些新变化 - 新闻- 科学网\n对考生来说，语文、数学、外语3门为必考科目；物理、历史设置为首选科目，必选其一且不能兼报；此外再从化学、生物、地理、政治中选考2门。 ... 如，湖北省 ...\n\n5. ​2025年高考有何特殊之处\n从目前的五批高考改革省份公布的各省高考综合改革方案看，总体框架是一致的，考试科目及安排上大致可分为两种模式：“3+3”或“3+1+2”，第一批和第二批改革 ...",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.3,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

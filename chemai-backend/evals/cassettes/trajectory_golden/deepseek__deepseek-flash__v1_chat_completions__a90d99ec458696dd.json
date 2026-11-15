@@ -1,0 +1,43 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjJiNmI4ODQ3LTc0N2UtNGU2Mi04YWYzLWM2MmFiOTVkZDMxNiIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjU0NzcsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInF1ZXN0aW9uc1wiOlt7XCJjb250ZW50XCI6XCLkuIvliJflhbPkuo7msKfljJbov5jljp/lj43lupTnmoTor7Tms5XmraPnoa7nmoTmmK/vvIgg77yJXCIsXCJ0eXBlXCI6XCJjaG9pY2VcIixcIm9wdGlvbnNcIjpbXCJBLiAkMk5hICsgQ2xfMiBcXFxccmlnaHRhcnJvdyAyTmFDbCTlsZ7kuo7msKfljJbov5jljp/lj43lupRcIixcIkIuICROYU9IICsgSENsIFxcXFxyaWdodGFycm93IE5hQ2wgKyBIXzJPJOWxnuS6juawp+WMlui/mOWOn+WPjeW6lFwiLFwiQy4gJENhQ09fMyBcXFxccmlnaHRhcnJvdyBDYU8gKyBDT18yJOWxnuS6juawp+WMlui/mOWOn+WPjeW6lFwiLFwiRC4gJE5IXzRDbCBcXFxccmlnaHRhcnJvdyBOSF8zICsgSENsJOWxnuS6juawp+WMlui/mOWOn+WPjeW6lFwiXSxcImFuc3dlclwiOlwiQVwiLFwia25vd2xlZGdlX3BvaW50c1wiOltcIuawp+WMlui/mOWOn+WPjeW6lFwiXSxcImRpZmZpY3VsdHlcIjpcIm1lZGl1bVwifSx7XCJjb250ZW50XCI6XCLlnKjlj43lupQkTW5PXzIgKyA0SENsKOa1kykgXFxcXHhyaWdodGFycm93e3tcXFxcdHJpYW5nbGV9fSBNbkNsXzIgKyBDbF8yXFxcXHVwYXJyb3cgKyAySF8yTyTkuK3vvIzooqvmsKfljJbnmoQkSENsJOS4juWPguWKoOWPjeW6lOeahCRIQ2wk55qE54mp6LSo55qE6YeP5LmL5q+U5Li677yIIO+8iVwiLFwidHlwZVwiOlwiY2hvaWNlXCIsXCJvcHRpb25zXCI6W1wiQS4gMToxXCIsXCJCLiAxOjJcIixcIkMuIDE6M1wiLFwiRC4gMTo0XCJdLFwiYW5zd2VyXCI6XCJCXCIsXCJrbm93bGVkZ2VfcG9pbnRzXCI6W1wi5rCn5YyW6L+Y5Y6f5Y+N5bqUXCIsXCLmsKfljJbliYLkuI7ov5jljp/liYJcIl0sXCJkaWZmaWN1bHR5XCI6XCJtZWRpdW1cIn0se1wiY29udGVudFwiOlwi5LiL5YiX5Y+N5bqU5Lit77yMJEhfMk8k5Y+q5L2c6L+Y5Y6f5YmC55qE5piv77yIIO+8iVwiLFwidHlwZVwiOlwiY2hvaWNlXCIsXCJvcHRpb25zXCI6W1wiQS4gJDJOYSArIDJIXzJPIFxcXFxyaWdodGFycm93IDJOYU9IICsgSF8yXFxcXHVwYXJyb3ckXCIsXCJCLiAkMkZfMiArIDJIXzJPIFxcXFxyaWdodGFycm93IDRIRiArIE9fMiRcIixcIkMuICRDbF8yICsgSF8yTyBcXFxccmlnaHRsZWZ0aGFycG9vbnMgSENsICsgSENsTyRcIixcIkQuICRDYU8gKyBIXzJPIFxcXFxyaWdodGFycm93IENhKE9IKV8yJFwiXSxcImFuc3dlclwiOlwiQlwiLFwia25vd2xlZGdlX3BvaW50c1wiOltcIuawp+WMlui/mOWOn+WPjeW6lFwiLFwi5rCn5YyW5YmC5LiO6L+Y5Y6f5YmCXCJdLFwiZGlmZmljdWx0eVwiOlwibWVkaXVtXCJ9LHtcImNvbnRlbnRcIjpcIuW3suefpeawp+WMluaAp+mhuuW6j++8miRDbF8yID4gQnJfMiA+IEZlXnszK30gPiBJXzIk44CC5LiL5YiX5Y+N5bqU5LiN6IO95Y+R55Sf55qE5piv77yIIO+8iVwiLFwidHlwZVwiOlwiY2hvaWNlXCIsXCJvcHRpb25zXCI6W1wiQS4gJENsXzIgKyAyTmFCciBcXFxccmlnaHRhcnJvdyAyTmFDbCArIEJyXzIkXCIsXCJCLiAkMkZlXnszK30gKyAySV4tIFxcXFxyaWdodGFycm93IDJGZV57Mit9ICsgSV8yJFwiLFwiQy4gJEJyXzIgKyAyRmVeezIrfSBcXFxccmlnaHRhcnJvdyAyQnJeLSArIDJGZV57Myt9JFwiLFwiRC4gJDJGZV57Myt9ICsgMkJyXi0gXFxcXHJpZ2h0YXJyb3cgMkZlXnsyK30gKyBCcl8yJFwiXSxcImFuc3dlclwiOlwiRFwiLFwia25vd2xlZGdlX3BvaW50c1wiOltcIuawp+WMlui/mOWOn+WPjeW6lFwiLFwi5rCn5YyW5oCn5by65byx5q+U6L6DXCJdLFwiZGlmZmljdWx0eVwiOlwibWVkaXVtXCJ9LHtcImNvbnRlbnRcIjpcIuWFs+S6juWPjeW6lCRLQ2xPXzMgKyA2SENsIFxcXFxyaWdodGFycm93IEtDbCArIDNDbF8yXFxcXHVwYXJyb3cgKyAzSF8yTyTvvIzkuIvliJfor7Tms5XmraPnoa7nmoTmmK/vvIgg77yJXCIsXCJ0eXBlXCI6XCJjaG9pY2VcIixcIm9wdGlvbnNcIjpbXCJBLiAkS0NsT18zJOaYr+i/mOWOn+WJgu+8jCRIQ2wk5piv5rCn5YyW5YmCXCIsXCJCLiDooqvmsKfljJbnmoQkSENsJOWNoOWPguWKoOWPjeW6lCRIQ2wk5oC76YeP55qEJFxcXFxmcmFjezF9ezZ9JFwiLFwiQy4g5q+P55Sf5oiQJDNcXFxcIG1vbFxcXFwgQ2xfMiTvvIzovaznp7vnlLXlrZDmlbDkuLokNk5fQSRcIixcIkQuICRDbF8yJOaXouaYr+awp+WMluS6p+eJqeWPiOaYr+i/mOWOn+S6p+eJqe+8jOS9huawp+WMluS6p+eJqeS4jui/mOWOn+S6p+eJqeeahOeJqei0qOeahOmHj+S5i+avlOS4uiQxOjUkXCJdLFwiYW5zd2VyXCI6XCJEXCIsXCJrbm93bGVkZ2VfcG9pbnRzXCI6W1wi5rCn5YyW6L+Y5Y6f5Y+N5bqUXCIsXCLnlLXlrZDovaznp7vorqHnrpdcIl0sXCJkaWZmaWN1bHR5XCI6XCJtZWRpdW1cIn1dfSJ9LCJsb2dwcm9icyI6bnVsbCwiZmluaXNoX3JlYXNvbiI6InN0b3AifV0sInVzYWdlIjp7InByb21wdF90b2tlbnMiOjk3OCwiY29tcGxldGlvbl90b2tlbnMiOjc0MywidG90YWxfdG9rZW5zIjoxNzIxLCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6NzY4fSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjc2OCwicHJvbXB0X2NhY2hlX21pc3NfdG9rZW5zIjoyMTB9LCJzeXN0ZW1fZmluZ2VycHJpbnQiOiJhZWI1NjQwMWNhNzRlMTI3ODIxYzRmOTEyNmRjYjY2OSJ9",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 1dfbdfc7f90aa6a85f44f7400306e0c0.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "EeI2z797JrhjiI8yhU8AqbI3X4vFK4kfKl7XKnOLZwDypmhEYcTivw==",
+    "x-amz-cf-pop": "KUL62-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "50902bb9f2651425dae643db191cb12b"
+   },
+   "recorded_at": "2026-09-27T16:11:20",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/a90d99ec458696dd",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 2000,
+  "messages": [
+   {
+    "content": "你是资深高中化学教师。\n\n生成: 单选题\n\n格式规范（严格遵循）:\n【单选题】4个选项(A/B/C/D)，有且仅有1个正确选项，标注正确选项。设置1-2个陷阱选项。\nJSON示例: {\"content\":\"下列关于盐类水解的说法正确的是（ ）\",\"type\":\"choice\",\"options\":[\"A. $Na_2CO_3$溶液显碱性是因为$CO_3^{2-}$水解\",\"B. $NaCl$溶液显中性是因为$Na^+$和$Cl^-$都不水解\",\"C. $FeCl_3$溶液显酸性是因为$Fe^{3+}$水解\",\"D. 以上都对\"],\"answer\":\"D\",\"knowledge_points\":[\"盐类水解\"],\"difficulty\":\"medium\"}\n\n⚠️ 化学式格式规范（严格遵循，每道题每条选项都必须遵守）:\n1. 所有化学式/离子/方程式 必须用 $...$ 包裹（LaTeX行内公式）\n2. 下标用 _ 表示，上标用 ^ 表示。元素符号首字母大写\n   正确: $H_2O$ $CO_2$ $Fe_2O_3$ $Fe^{3+}$ $SO_4^{2-}$ $Cl^-$\n   错误: H2O CO2 Fe2O3 Fe3+ SO42-\n3. 化学方程式中箭头必须用 \\rightarrow，可逆用 \\rightleftharpoons\n   正确: $2H_2 + O_2 \\rightarrow 2H_2O$\n   错误: 2H2 + O2 → 2H2O\n4. 单质原子不需下标1: $Fe$ 而非 $Fe_1$\n5. 气体↑用 \\uparrow，沉淀↓用 \\downarrow\n6. 反应条件用 \\xrightarrow{{条件}}，加热用 \\xrightarrow{{\\triangle}}\n   正确: $2KClO_3 \\xrightarrow{{MnO_2}} 2KCl + 3O_2\\uparrow$\n7. 普通中文文字中嵌入的化学式也必须$包裹: 如\"$MnO_2$是催化剂\"\n8. 离子电子用 e^-: $Cu^{2+} + 2e^- \\rightarrow Cu$\n9. 复杂有机结构（苯环/杂环/立体结构等，文字难以表达）用 [SMILES:...] 标记输出，\n   后端会自动渲染成结构图: 如 \"[SMILES:C1=CC=CC=C1]\"（苯）。\n   【有机化学题目强制要求】题干或选项中出现环状/苯环/杂环/立体构型等结构时，\n   必须用 [SMILES:...] 标记给出该结构，例如：\n   - 苯: [SMILES:C1=CC=CC=C1]\n   - 甲苯: [SMILES:Cc1ccccc1]\n   - 乙酸乙酯: [SMILES:CCOC(=O)C]\n   - 乙醇: [SMILES:CCO]\n   至少一处（题干或选项或答案）必须包含 [SMILES:...] 结构标记，禁止用纯文字\n   描述结构代替（如\"苯环\"\"六元环\"）。简单链式分子式/方程式仍用上面的 $...$ 规范。\n\n核心原则:\n1. 科学性100%正确，方程式配平\n2. 选择题带options，非选择题不带options\n3. 非选择题content必须是该题型的真实内容（不能是选择题去掉选项）\n4. 填空题必含___标记。计算题必含分步计算。实验题必含2-3个子问题。\n5. 所有化学式必须用$...$包裹并使用LaTeX下标（见上方化学式格式规范）\n\n返回纯JSON（无markdown代码块）:\n{\"questions\":[{\"content\":\"下列关于氧化还原反应的说法正确的是（ ）\",\"type\":\"choice\",\"options\":[\"A. $2Na + Cl_2 \\rightarrow 2NaCl$属于氧化还原反应\",\"B. $NaOH + HCl \\rightarrow NaCl + H_2O$属于氧化还原反应\",\"C. $CaCO_3 \\rightarrow CaO + CO_2$属于氧化还原反应\",\"D. $NH_4Cl \\rightarrow NH_3 + HCl$属于氧化还原反应\"],\"answer\":\"A\",\"knowledge_points\":[\"氧化还原反应\"],\"difficulty\":\"medium\"}]}",
+    "role": "system"
+   },
+   {
+    "content": "为以下知识点生成5道medium难度的单选题:\n知识点: 氧化还原反应\n类型从 [choice] 中选择。直接返回JSON:",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.7,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

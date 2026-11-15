@@ -1,0 +1,12 @@
+{
+  "doc": "沉淀溶解平衡与溶度积.md",
+  "kp": "M3-T3-KP11",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T3-KP01", "to_kp": "M3-T3-KP11",
+     "reason": "沉淀平衡与电离平衡同用 K 语言与 Qc 判据"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP04", "to_kp": "M3-T3-KP11",
+     "reason": "复分解发生条件『生成沉淀』在选必一定量化为 Ksp"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP11", "substance": "氯化银", "formula": "AgCl", "role": "1:1 型代表沉淀"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP11", "substance": "氢氧化铁", "formula": "Fe(OH)3", "role": "极小 Ksp 代表"}
+  ]
+}

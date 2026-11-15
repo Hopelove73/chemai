@@ -1,0 +1,15 @@
+{
+  "doc": "物质的量在化学方程式计算中的应用.md",
+  "kp": "M1-T2-KP24",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP14", "to_kp": "M1-T2-KP24",
+     "reason": "n 是全部换算的枢纽，四条腿先归一到 n"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP15", "to_kp": "M1-T2-KP24",
+     "reason": "气体体积换算腿 n=V/Vm 条件限定多，是计算的常错点"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP16", "to_kp": "M1-T2-KP24",
+     "reason": "溶液反应按 cV 取 n"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP24", "substance": "锌", "formula": "Zn", "role": "过量判断示例"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP24", "substance": "过氧化钠", "formula": "Na2O2", "role": "关系式示例"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP24", "substance": "盐酸", "formula": "HCl", "role": "溶液计算示例"}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "doc": "原电池原理.md",
+  "kp": "M2-T3-KP02",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP06", "to_kp": "M2-T3-KP02",
+     "reason": "原电池的本质是把氧化还原反应的失电子与得电子分在两极"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T3-KP01", "to_kp": "M2-T3-KP02",
+     "reason": "先有化学能与热能相互转化的能量观，再学化学能转化为电能"},
+    {"edge_type": "relates_to", "kp": "M2-T3-KP02", "substance": "锌", "formula": "Zn", "role": "负极，失电子被氧化"},
+    {"edge_type": "relates_to", "kp": "M2-T3-KP02", "substance": "铜", "formula": "Cu", "role": "正极，H+ 在其表面得电子"},
+    {"edge_type": "relates_to", "kp": "M2-T3-KP02", "substance": "稀硫酸", "formula": "H2SO4", "role": "电解质溶液"},
+    {"edge_type": "relates_to", "kp": "M2-T3-KP02", "substance": "氢气", "formula": "H2", "role": "正极产物"}
+  ]
+}

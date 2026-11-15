@@ -1,0 +1,13 @@
+{
+  "doc": "硅与二氧化硅.md",
+  "kp": "M2-T2-KP11",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP01", "to_kp": "M2-T2-KP11",
+     "reason": "SiO2 是酸性氧化物，先有分类框架才能理解它与碱、水的反应差异"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP11", "substance": "硅", "formula": "Si", "role": "本篇主角，半导体"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP11", "substance": "二氧化硅", "formula": "SiO2", "role": "酸性氧化物，玻璃骨架"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP11", "substance": "硅酸钠", "formula": "Na2SiO3", "role": "与碱反应产物，有黏性"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP11", "substance": "氟化氢", "formula": "HF", "role": "唯一能腐蚀 SiO2 的酸"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP11", "substance": "四氟化硅", "formula": "SiF4", "role": "HF 刻蚀产物，气体"}
+  ]
+}

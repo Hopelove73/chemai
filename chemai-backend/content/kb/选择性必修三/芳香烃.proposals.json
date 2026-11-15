@@ -1,0 +1,11 @@
+{
+  "doc": "芳香烃.md",
+  "kp": "M5-T2-KP03",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP05", "to_kp": "M5-T2-KP03",
+     "reason": "苯的取代与稳定结构是同系物性质差异的参照系"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP03", "substance": "甲苯", "formula": "C7H8", "role": "侧链活化代表"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP03", "substance": "苯甲酸", "formula": "C7H6O2", "role": "侧链氧化产物"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP03", "substance": "三硝基甲苯", "formula": "C7H5N3O6", "role": "TNT，硝化产物"}
+  ]
+}

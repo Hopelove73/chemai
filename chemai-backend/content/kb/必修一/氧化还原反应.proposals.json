@@ -1,0 +1,12 @@
+{
+  "doc": "氧化还原反应.md",
+  "kp": "M1-T2-KP06",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP01", "to_kp": "M1-T2-KP06",
+     "reason": "先建立反应分类视角（四大基本类型），氧化还原作为交叉的第三视角才有对照物"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP06", "substance": "氯气", "formula": "Cl2", "role": "氧化剂"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP06", "substance": "钠", "formula": "Na", "role": "还原剂"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP06", "substance": "铁", "formula": "Fe", "role": "还原剂"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP06", "substance": "二氧化锰", "formula": "MnO2", "role": "氧化剂"}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "doc": "电解的应用.md",
+  "kp": "M3-T1-KP09",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T1-KP08", "to_kp": "M3-T1-KP09",
+     "reason": "放电顺序与阴阳极反应是四大应用的原理底座"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T5-KP01", "to_kp": "M3-T1-KP09",
+     "reason": "电解冶炼是金属冶炼方法谱系中活泼金属的终点"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP09", "substance": "铜", "formula": "Cu", "role": "电解精炼对象"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP09", "substance": "氧化铝", "formula": "Al2O3", "role": "电冶炼铝原料"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP09", "substance": "铝", "formula": "Al", "role": "电冶炼产品"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP09", "substance": "氢氧化钠", "formula": "NaOH", "role": "氯碱工业产品"}
+  ]
+}

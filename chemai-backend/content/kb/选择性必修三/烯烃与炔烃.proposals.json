@@ -1,0 +1,13 @@
+{
+  "doc": "烯烃与炔烃.md",
+  "kp": "M5-T2-KP02",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP04", "to_kp": "M5-T2-KP02",
+     "reason": "乙烯的加成加聚是烯烃炔烃家族的原型"},
+    {"edge_type": "prerequisite", "from_kp": "M4-T2-KP04", "to_kp": "M5-T2-KP02",
+     "reason": "sp/sp² 杂化解释直线形与平面构型"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP02", "substance": "乙炔", "formula": "C2H2", "role": "炔烃代表"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP02", "substance": "电石", "formula": "CaC2", "role": "乙炔制备原料"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP02", "substance": "聚乙烯", "formula": "[-CH2-CH2-]n", "role": "加聚产物"}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "doc": "氮及其化合物的相互转化.md",
+  "kp": "M2-T2-KP10",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T2-KP05", "to_kp": "M2-T2-KP10",
+     "reason": "N2 是网络的 0 价入口，固氮线从它开始"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T2-KP06", "to_kp": "M2-T2-KP10",
+     "reason": "NO、NO2 是 +2、+4 两个中间节点，转化条件靠它们"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T2-KP07", "to_kp": "M2-T2-KP10",
+     "reason": "NH3 是 -3 价枢纽，也是硝酸线的原料"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP10", "substance": "氮气", "formula": "N2", "role": "0 价入口"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP10", "substance": "氨气", "formula": "NH3", "role": "-3 价枢纽"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP10", "substance": "一氧化氮", "formula": "NO", "role": "+2 价中间体"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP10", "substance": "二氧化氮", "formula": "NO2", "role": "+4 价中间体"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP10", "substance": "硝酸铵", "formula": "NH4NO3", "role": "两条线汇合的产物"}
+  ]
+}

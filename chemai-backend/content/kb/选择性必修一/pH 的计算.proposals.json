@@ -1,0 +1,12 @@
+{
+  "doc": "pH 的计算.md",
+  "kp": "M3-T3-KP05",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T3-KP04", "to_kp": "M3-T3-KP05",
+     "reason": "pH 定义与标尺是计算的出发点"},
+    {"edge_type": "prerequisite", "from_kp": "M3-T3-KP03", "to_kp": "M3-T3-KP05",
+     "reason": "强碱换算与稀释极限都依赖 Kw"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP05", "substance": "盐酸", "formula": "HCl", "role": "强酸 pH 计算代表"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP05", "substance": "氢氧化钠", "formula": "NaOH", "role": "强碱 pH 计算代表"}
+  ]
+}

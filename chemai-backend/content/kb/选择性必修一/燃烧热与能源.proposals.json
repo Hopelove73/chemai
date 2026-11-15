@@ -1,0 +1,12 @@
+{
+  "doc": "燃烧热与能源.md",
+  "kp": "M3-T1-KP03",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T1-KP02", "to_kp": "M3-T1-KP03",
+     "reason": "燃烧热方程式必须按热化学方程式规范书写（ΔH + 状态）"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP03", "substance": "碳", "formula": "C", "role": "燃烧热示例，产物 CO2"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP03", "substance": "二氧化碳", "formula": "CO2", "role": "碳的稳定氧化物"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP03", "substance": "氢气", "formula": "H2", "role": "高热值清洁能源"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP03", "substance": "氢氧化钠", "formula": "NaOH", "role": "中和热测定示例碱"}
+  ]
+}

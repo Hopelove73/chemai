@@ -1,0 +1,41 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImNhZjBhOGE1LWJmNDAtNGU3Ny1iZjY4LTNjYmFmYTY0OWYzNCIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTEwMjcyMzAsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IiMg56Kz6YW46ZKg5rq25ray5pi+56Kx5oCn5Y6f5Zug6K6y6KejXG5cbiMjIOWFiOmXruS9oOS4gOS4qumXrumimFxuXG7norPphbjpkqDvvIhOYeKCgkNP4oKD77yJ5pys6Lqr5LiN5ZCrIE9I4oG777yM5Li65LuA5LmI5a6D55qE5rC05rq25ray5Y205pi+56Kx5oCn77yf5L2g5b2T5pe26YCJIEMg55qE5oCd6Lev5piv5LuA5LmI77yf5Y+v5Lul5YWI5Zue5b+G5LiA5LiL44CCXG5cbiMjIOaguOW/g+acrOi0qO+8mkNP4oKDwrLigbsg5rC06KejXG5cbk5h4oKCQ0/igoMg5rq25LqO5rC05ZCO5a6M5YWo55S156a75Ye6IE5h4oG6IOWSjCBDT+KCg8Ky4oG744CC5YW25LitICoqQ0/igoPCsuKBuyDmmK/lvLHphbjmoLkqKu+8jOS8mue7k+WQiOawtOeUteemu+WHuueahCBI4oG677yM5LuO6ICMXCLmiqLotbBcIkjigbrvvIzkvb/msLTnmoTnlLXnprvlubPooaHlj7Pnp7vvvIzmurbmtrLkuK0gT0jigbsg5rWT5bqm5aKe5aSn77yM5omA5Lul5pi+56Kx5oCn44CCXG5cbiMjIOWFs+mUru+8muawtOino+aYr+WIhuatpeeahFxuXG4qKuesrOS4gOatpe+8iOS4uuS4u++8ie+8mioqXG5DT+KCg8Ky4oG7ICsgSOKCgk8g4oeMIEhDT+KCg+KBuyArIE9I4oG7XG5cbioq56ys5LqM5q2l77yI56iL5bqm5b6I5bCP77yJ77yaKipcbkhDT+KCg+KBuyArIEjigoJPIOKHjCBI4oKCQ0/igoMgKyBPSOKBu1xuXG7miYDku6XmraPnoa7or7Tms5XmmK/vvJoqKuS7peesrOS4gOatpeawtOino+S4uuS4uyoq77yM5Lqn54mp5Li76KaB5pivIEhDT+KCg+KBu++8jOS4jeaYr+ebtOaOpeS4gOatpeeUn+aIkCBI4oKCQ0/igoPjgIJcblxuIyMg5LiJ5Liq5bi46KeB6ZSZ6K+vXG5cbjEuICoq5YaZ5oiQ5LiA5q2l55Sf5oiQIEjigoJDT+KCgyoq77ya5b+955Wl5LqG5rC06Kej5YiG5q2l77yM5LiU56ys5LqM5q2l56iL5bqm6L+c5bCP5LqO56ys5LiA5q2l44CCXG4yLiAqKuaKiiDih4wg5YaZ5oiQID0qKu+8muawtOino+aYryoq5Y+v6YCGKirnmoTvvIznqIvluqblsI/vvIzlv4XpobvnlKjlj6/pgIblj7fjgIJcbjMuICoq5rC06Kej5LiO55S156a75re35reGKirvvJpDT+KCg8Ky4oG7IOWcqOatpOaYr1wi5rC06KejXCLvvIjnu5PlkIggSOKBuu+8ie+8jOS4jeaYr+eUteemu++8m0hDT+KCg+KBuyDml6Log73msLTop6Plj4jog73nlLXnprvvvIzopoHms6jmhI/ljLrliIbjgIJcblxuIyMg6auY6ICD6ICD54K55o+Q56S6XG5cbui/meexu+mimOW4uOiAg1wi56a75a2Q5pa556iL5byP5Lmm5YaZ5q2j6K+v5Yik5patXCLvvIzph43ngrnlsLHmn6UqKuWIhuatpeOAgeWPr+mAhuWPt+OAgeeUteiNt+WuiOaBkuOAgeS6p+eJqeaYr+WQpuato+ehrioq44CCXG5cbi0tLVxuXG4jIyDlj5jlvI/nu4PkuaDvvIjlvZPlnLrlgZrvvIzlhYjkuI3nu5nnrZTmoYjvvIlcblxuKirpopjnm67vvJoqKiDkuIvliJflhbPkuo7nm5DmurbmtrLphbjnorHmgKfnmoTliKTmlq3vvIwqKuato+ehrioq55qE5piv77yI44CA44CA77yJXG5cbkEuIE5I4oKEQ2wg5rq25ray5pi+6YW45oCn77yM5piv5Zug5Li6IE5I4oKE4oG6IOeUteemu+WHuiBI4oG6XG5cbkIuIE5hSENP4oKDIOa6tua2suaYvueiseaAp++8jOWFtuawtOino+aWueeoi+W8j+S4uiBIQ0/igoPigbsgKyBI4oKCTyA9IEjigoJDT+KCgyArIE9I4oG7XG5cbkMuIENI4oKDQ09PTmEg5rq25ray5pi+56Kx5oCn77yM5piv5Zug5Li6IENI4oKDQ09P4oG7IOawtOino+e7k+WQiOS6huawtOeUteemu+eahCBI4oG6XG5cbkQuIE5hQ2wg5rq25ray5pi+5Lit5oCn77yM6K+05piOIE5hQ2wg5LiN5Y+R55Sf5Lu75L2V55S156a7XG5cbuivt+mAieWHuuetlOahiO+8jOW5tuivtOaYjioq5YW25LuW6YCJ6aG56ZSZ5Zyo5ZOq6YeMKirjgILor7Tor7TkvaDnmoTliKTmlq3jgIIifSwibG9ncHJvYnMiOm51bGwsImZpbmlzaF9yZWFzb24iOiJzdG9wIn1dLCJ1c2FnZSI6eyJwcm9tcHRfdG9rZW5zIjoyNTMsImNvbXBsZXRpb25fdG9rZW5zIjo1MTksInRvdGFsX3Rva2VucyI6NzcyLCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6MH0sInByb21wdF9jYWNoZV9oaXRfdG9rZW5zIjowLCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjI1M30sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "eo-cache-status": "MISS",
+    "eo-log-uuid": "8923253732247116039",
+    "server": "openresty",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "bc3d936f2d5c182f2a175ef59f8f047d"
+   },
+   "recorded_at": "2026-10-03T11:33:53",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/beta:chat:completions/efb2cbfcd4d4c8f3",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 1024,
+  "messages": [
+   {
+    "content": "你是高中化学AI助教。学生水平: 中等。\n\n教学原则:\n1. 引导式教学: 不直接给答案，先问学生\"你是怎么想的\"\n2. 分步讲解: 复杂问题拆成2-3步，每步确认理解\n3. 联系考点: 提及高考中的常见题型\n4. 鼓励为主: 对正确思路给予肯定\n5. 单次回复不超过500字\n6. 不确定时诚实说不知道",
+    "role": "system"
+   },
+   {
+    "content": "学生在做一道关于\"碳酸钠溶液显碱性原因\"的选择题（盐类水解），选C被质疑。请给出C项涉及知识点的完整讲解：碳酸钠溶液显碱性的本质是CO₃²⁻水解产生OH⁻，且水解是分步的（第一步CO₃²⁻ + H₂O ⇌ HCO₃⁻ + OH⁻为主）。请说明这个解释为什么对，以及常见错误写法（如写成一步产生H₂CO₃、把⇌写成=、或把水解和电离混淆）。讲解完整后，出一道同类变式题（关于某盐溶液显酸碱性原因的判断题）让学生当场练习，只出题不给答案。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.7,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/beta/chat/completions"
+}

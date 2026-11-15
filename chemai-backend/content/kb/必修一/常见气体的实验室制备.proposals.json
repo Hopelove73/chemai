@@ -1,0 +1,12 @@
+{
+  "doc": "常见气体的实验室制备.md",
+  "kp": "M1-T1-KP04",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T1-KP02", "to_kp": "M1-T1-KP04",
+     "reason": "加热/闻气/尾气处理规范是气体制备的安全前提"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP12", "to_kp": "M1-T1-KP04",
+     "reason": "Cl2 制备的反应原理（浓盐酸条件）与有毒尾气吸收"},
+    {"edge_type": "relates_to", "kp": "M1-T1-KP04", "substance": "二氧化锰", "formula": "MnO2", "role": "Cl2 制备催化剂式反应物"},
+    {"edge_type": "relates_to", "kp": "M1-T1-KP04", "substance": "氯气", "formula": "Cl2", "role": "制备目标气体"}
+  ]
+}

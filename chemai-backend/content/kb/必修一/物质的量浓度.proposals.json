@@ -1,0 +1,11 @@
+{
+  "doc": "物质的量浓度.md",
+  "kp": "M1-T2-KP16",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP14", "to_kp": "M1-T2-KP16",
+     "reason": "c=n/V 表达的正是溶质的物质的量"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP16", "substance": "氯化钠", "formula": "NaCl", "role": "定义式示例"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP16", "substance": "碳酸钠", "formula": "Na2CO3", "role": "离子系数示例"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP16", "substance": "五水硫酸铜", "formula": "CuSO4.5H2O", "role": "结晶水案例"}
+  ]
+}

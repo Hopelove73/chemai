@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjVlM2I1MzU4LTBjMzEtNGQxMy04OTk3LTExYTk0MzFmODUyNCIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjQ4OTIsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDYwLCBcImNvbmZpZGVuY2VcIjogXCJoaWdoXCIsIFwicmF0aW9uYWxlXCI6IFwiYmFycmllcl90eXBlX2NvcnJlY3TvvJrovpPlh7rkuLogZXhwcmVzc2lvbu+8jOS4jum7hOmHkeWPguiAg+etlOahiOS4gOiHtO+8jOWIhuexu+ato+ehru+8jOW+l+a7oeWIhuadg+mHjeOAgmV2aWRlbmNlX3VzYWdl77ya5pyq5byV55So5Lu75L2V6ZSZ6aKY5oiW5pWw5o2u5L2c5Li66K+K5pat5L6d5o2u77yM5b6X5YiG5Li6IDDjgIJleHBsYW5hdGlvbu+8muS7hee7meWHuumanOeijeagh+etvu+8jOacquivtOaYjuiviuaWreeQhueUseaIluWPr+aJp+ihjOW7uuiuru+8jOino+mHiui0qOmHj+S4jei2s++8jOW+l+WIhuS4uiAw44CC57u85ZCI5Yqg5p2D5ZCO57qmIDYwIOWIhuOAglwiLCBcInNldmVyZV9mbGFnc1wiOiBbXX0iLCJyZWFzb25pbmdfY29udGVudCI6IldlIG5lZWQgYW5zd2VyIGFzIGp1ZGdlLiBOZWVkIGV2YWx1YXRl5b6F6K+E6L6T5Ye6LiBJbnB1dDog5a2m55Sf6ZmI6Zuo5qGQ5pyA6L+R6ZSZ6aKY6L6D5aSa77yM6K+36K+K5pat5YW25a2m5Lmg6Zqc56KNLiDlvoXor4TovpPlh7o6IOiviuaWre+8mmV4cHJlc3Npb27vvIjnrZTpopjooajov7Dpmpznoo3vvIkuIOm7hOmHkeWPguiAg+etlOahiDog5Y6G5Y+y5qCH562+5Li75a+86Zqc56KN77yaZXhwcmVzc2lvbi4gTmVlZCBzY29yZSBydWJyaWM6IGJhcnJpZXJfdHlwZV9jb3JyZWN0IHdlaWdodCAwLjY6IGNsYXNzaWZpY2F0aW9uIGNvcnJlY3QuIFRoZXkgb3V0cHV0IGV4cHJlc3Npb24uIEdvbGQgZXhwcmVzc2lvbi4gU28gY29ycmVjdC4gZXZpZGVuY2VfdXNhZ2UgMC4yOiBkaWFnbm9zaXMgaGFzIG5vIGV2aWRlbmNlL+mUmemimC/mlbDmja7mlK/mkpEsIGp1c3Qgc2F5cyBleHByZXNzaW9uLiBFeHBsYW5hdGlvbiAwLjI6IG9ubHkgZGlhZ25vc2lzLCBubyByYXRpb25hbGUgY2xlYXIgZXhlY3V0YWJsZS4gTmVlZCBzY29yZS4gU2luY2UgYmFycmllciB0eXBlIGNvcnJlY3QgYnV0IGxhY2tpbmcgZXZpZGVuY2UgYW5kIGV4cGxhbmF0aW9uLiBDb21wdXRlIG1heWJlIDYwPyBXZWlnaHRlZDogMSo2MD02MCwgZXZpZGVuY2UgMCwgZXhwbGFuYXRpb24gbWF5YmUgMC4yPyBBY3R1YWxseSBpZiBubyBleHBsYW5hdGlvbiwgMC4gVG90YWwgNjAuIENvdWxkIGJlIG1heWJlIDYwLiBOZWVkIGNvbmZpZGVuY2U/IGxpa2VseSBoaWdoPyBHaXZlbiBpbnB1dCBtaW5pbWFsLiBPdXRwdXQgY29ycmVjdCB0eXBlIGJ1dCBubyBldmlkZW5jZS9leHBsYW5hdGlvbi4gU2NvcmUgbWF5YmUgNjAuIE5lZWQgSlNPTiBvbmx5LiBFbnN1cmUgc2V2ZXJlX2ZsYWdzIFtdLlxuXG5MZXQncyBjcmFmdCByYXRpb25hbGU6IGJhcnJpZXJfdHlwZV9jb3JyZWN0OiBjb3JyZWN0bHkgZXhwcmVzc2lvbiBtYXRjaGluZyBnb2xkLiBldmlkZW5jZV91c2FnZTogbm/plJnpopgv5pWw5o2uIGNpdGVkLiBleHBsYW5hdGlvbjogb25seSBsYWJlbCwgbm8gZGlhZ25vc3RpYyByZWFzb25pbmcgb3IgYWN0aW9uYWJsZSBleHBsYW5hdGlvbi4gT3ZlcmFsbCA2MC4gQ29uZmlkZW5jZSBoaWdoLiBOZWVkIEpTT04uIn0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6MjcxLCJjb21wbGV0aW9uX3Rva2VucyI6MzY0LCJ0b3RhbF90b2tlbnMiOjYzNSwicHJvbXB0X3Rva2Vuc19kZXRhaWxzIjp7ImNhY2hlZF90b2tlbnMiOjEyOH0sImNvbXBsZXRpb25fdG9rZW5zX2RldGFpbHMiOnsicmVhc29uaW5nX3Rva2VucyI6MjYwfSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjEyOCwicHJvbXB0X2NhY2hlX21pc3NfdG9rZW5zIjoxNDN9LCJzeXN0ZW1fZmluZ2VycHJpbnQiOiJhZWI1NjQwMWNhNzRlMTI3ODIxYzRmOTEyNmRjYjY2OSJ9",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "GHOVKTch57TzmEds9aPWocaMOodR8OYQg7IZtPbfiYmGMfMBPr9WWw==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "af487924d4df2a0aae176937c090b695"
+   },
+   "recorded_at": "2026-09-27T16:01:34",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/b23cc59b8cb200f6",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「诊断」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- barrier_type_correct（权重 0.6）：障碍类型判断：concept/reading/expression 分类正确\n- evidence_usage（权重 0.2）：证据使用：诊断有错题/数据支撑\n- explanation（权重 0.2）：解释质量：诊断理由清楚可执行\n\n输入：学生陈雨桐最近错题较多，请诊断其学习障碍\n待评输出：诊断：expression（答题表述障碍）\n黄金参考答案：历史标签主导障碍：expression\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

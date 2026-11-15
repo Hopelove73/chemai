@@ -1,0 +1,13 @@
+{
+  "doc": "电极反应式的书写.md",
+  "kp": "M3-T1-KP06",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T1-KP05", "to_kp": "M3-T1-KP06",
+     "reason": "先有半电池的正负极分工，才知道写哪一极的反应"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP06", "to_kp": "M3-T1-KP06",
+     "reason": "电子转移守恒是半反应配平的骨架"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP06", "substance": "锌", "formula": "Zn", "role": "负极氧化示例"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP06", "substance": "氧气", "formula": "O2", "role": "吸氧正极反应物"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP06", "substance": "氢离子", "formula": "H+", "role": "酸性介质配平粒子"}
+  ]
+}

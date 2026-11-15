@@ -1,0 +1,12 @@
+{
+  "doc": "过氧化氢.md",
+  "kp": "M1-T2-KP26",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP06", "to_kp": "M1-T2-KP26",
+     "reason": "-1 价居中的氧化性还原性判断依赖价态升降规律"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP26", "substance": "过氧化氢", "formula": "H2O2", "role": "本篇主角，绿色氧化剂"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP26", "substance": "二氧化锰", "formula": "MnO2", "role": "催化分解催化剂"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP26", "substance": "碘化钾", "formula": "KI", "role": "氧化性检验试剂"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP26", "substance": "氯气", "formula": "Cl2", "role": "使 H2O2 显还原性的强氧化剂对照"}
+  ]
+}

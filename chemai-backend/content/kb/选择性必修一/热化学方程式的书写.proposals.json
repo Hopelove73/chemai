@@ -1,0 +1,10 @@
+{
+  "doc": "热化学方程式的书写.md",
+  "kp": "M3-T1-KP02",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T1-KP01", "to_kp": "M3-T1-KP02",
+     "reason": "焓变的符号约定与 kJ/mol 单位含义是书写规范的基础"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP02", "substance": "氢气", "formula": "H2", "role": "书写规范示例反应物"},
+    {"edge_type": "relates_to", "kp": "M3-T1-KP02", "substance": "水", "formula": "H2O", "role": "g/l 两种状态对比的关键物质"}
+  ]
+}

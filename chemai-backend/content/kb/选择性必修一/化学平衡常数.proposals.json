@@ -1,0 +1,11 @@
+{
+  "doc": "化学平衡常数.md",
+  "kp": "M3-T2-KP04",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T2-KP03", "to_kp": "M3-T2-KP04",
+     "reason": "K 是平衡状态的定量刻画，先有平衡概念"},
+    {"edge_type": "relates_to", "kp": "M3-T2-KP04", "substance": "氮气", "formula": "N2", "role": "K 表达式示例"},
+    {"edge_type": "relates_to", "kp": "M3-T2-KP04", "substance": "氨气", "formula": "NH3", "role": "K 表达式示例产物"},
+    {"edge_type": "relates_to", "kp": "M3-T2-KP04", "substance": "碳酸钙", "formula": "CaCO3", "role": "固体不进 K 的示例"}
+  ]
+}

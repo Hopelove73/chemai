@@ -1,0 +1,11 @@
+{
+  "doc": "电离能与原子结构.md",
+  "kp": "M4-T1-KP04",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M4-T1-KP03", "to_kp": "M4-T1-KP04",
+     "reason": "电离能的反常与突变点都要用排布规则解释"},
+    {"edge_type": "relates_to", "kp": "M4-T1-KP04", "substance": "钠", "formula": "Na", "role": "同周期起点对照"},
+    {"edge_type": "relates_to", "kp": "M4-T1-KP04", "substance": "镁", "formula": "Mg", "role": "全满反常示例"},
+    {"edge_type": "relates_to", "kp": "M4-T1-KP04", "substance": "铝", "formula": "Al", "role": "突变点推价电子示例"}
+  ]
+}

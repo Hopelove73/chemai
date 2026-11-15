@@ -1,0 +1,12 @@
+{
+  "doc": "离子共存初步.md",
+  "kp": "M1-T2-KP23",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP04", "to_kp": "M1-T2-KP23",
+     "reason": "共存判断是离子反应三条件的反向使用"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP05", "to_kp": "M1-T2-KP23",
+     "reason": "每条排除结论要能用离子方程式表述依据"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP23", "substance": "硫酸铜", "formula": "CuSO4", "role": "有色离子案例"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP23", "substance": "碳酸氢钠", "formula": "NaHCO3", "role": "酸式根两头受敌案例"}
+  ]
+}

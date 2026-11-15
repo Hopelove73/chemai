@@ -1,0 +1,13 @@
+{
+  "doc": "电子守恒与氧化还原计算.md",
+  "kp": "M1-T2-KP27",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP06", "to_kp": "M1-T2-KP27",
+     "reason": "化合价升降与电子转移概念是电子守恒计算的前提"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP14", "to_kp": "M1-T2-KP27",
+     "reason": "n(e⁻) 的后续换算全部依赖物质的量"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP27", "substance": "高锰酸钾", "formula": "KMnO4", "role": "+7→+2 得 5e⁻ 主案例"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP27", "substance": "二氧化锰", "formula": "MnO2", "role": "部分氧化案例（4HCl 只氧化 2）"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP27", "substance": "过氧化氢", "formula": "H2O2", "role": "歧化每 mol 转移 1 mol e⁻ 易错点"}
+  ]
+}

@@ -1,0 +1,43 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImU5ODJmZmVjLTU4MzYtNGE3MS05MDhmLTdjNDU1NDg4ZTA1MSIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjU2MDgsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IumrmOiAg+WMluWtpueUteWMluWtpuecn+mimOmAieaLqemimOWFs+mUruS/oeaBr+aAu+e7k++8mlxuXG4xLiAqKuiAg+afpeW9ouW8jyoq77ya55S15YyW5a2m5piv6auY6ICD6YeN6KaB55+l6K+G54K577yM5Li76KaB5Lul6YCJ5oup6aKY5b2i5byP5Ye6546w44CCXG4yLiAqKuaguOW/g+iAg+eCuSoq77ya5Y6f55S15rGg5bel5L2c5Y6f55CG44CB55S15p6B5Y+N5bqU5byP5Lmm5YaZ44CB55S16Kej5Lqn54mp5Yik5pat5LiO6K6h566X44CCXG4zLiAqKuefpeivhuiMg+WbtCoq77ya5ra155uW5Y6f55S15rGg5Z+65pys5qaC5b+144CB5YyW5a2m55S15rqQ77yI5LiA5qyh55S15rGg44CB5LqM5qyh55S15rGg44CB54eD5paZ55S15rGg77yJ44CB55S16Kej5rGg5Z+65pys5qaC5b+15Y+K55S15p6B5Y+N5bqU5byP5Lmm5YaZ44CCXG40LiAqKuaLk+WxleWGheWuuSoq77ya55S16Kej5Y6f55CG5bqU55So44CB55S15YyW5a2m6IWQ6JqA5Y+K6YeR5bGe6Ziy5oqk44CCXG41LiAqKuWkh+iAg+i1hOa6kCoq77ya5pyJ5LiT6aKY6K6t57uD44CB5LiA6K++5LiA57uD44CB5b2S57G76K+V6aKY44CB5Y2V5YWD6K+V6aKY5Y+K5Y6G5bm06auY6ICD55yf6aKY5Y+v5L6b57uD5Lmg44CCIn0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6MzY4LCJjb21wbGV0aW9uX3Rva2VucyI6MTMwLCJ0b3RhbF90b2tlbnMiOjQ5OCwicHJvbXB0X3Rva2Vuc19kZXRhaWxzIjp7ImNhY2hlZF90b2tlbnMiOjB9LCJwcm9tcHRfY2FjaGVfaGl0X3Rva2VucyI6MCwicHJvbXB0X2NhY2hlX21pc3NfdG9rZW5zIjozNjh9LCJzeXN0ZW1fZmluZ2VycHJpbnQiOiJhZWI1NjQwMWNhNzRlMTI3ODIxYzRmOTEyNmRjYjY2OSJ9",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 ce0975dbd9e02d51d684d78fec086bea.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "ez0bZUazsaoBiqHuvIzqEizl5Njna6xygssJHxJAY3KoYlHoh75_dA==",
+    "x-amz-cf-pop": "KUL50-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "48e68a0dc52e583933ba4ccaf6472450"
+   },
+   "recorded_at": "2026-09-27T16:13:29",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/3412a83bdcc18c73",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 1024,
+  "messages": [
+   {
+    "content": "用简洁中文总结以下搜索结果，列出关键信息。不超过400字。",
+    "role": "system"
+   },
+   {
+    "content": "搜索词: 高考化学 电化学 真题 原电池 电解池 选择题\n\n搜索结果:\n1. 【高考系统课】电化学基础-高频考查的原电池题型\n... 【选择性必修一】化学电源，【选择性必修一】电解池基本概念，【选择性必修一】原电池基本概念，【选择性必修一】电解池电极反应式书写，【选择性必修一】 ...\n\n2. 高考化学专题训练：电化学\n电化学的内容是历年高考的重要知识点之一，主要以选择题的形式出现。其中有关原电池的工作原理、电极反应式的书写、电解产物的判断和计算是高考命题的 ...\n\n3. 高二化学：化学反应原理—电化学电解池\n... 题班：化学反应原理-电化学-原电池精讲. 高二化学：化学反应原理-电化学-原电池精讲. 有道精品课-高中二年级名师直播在线辅导. 高三政治：同步刷题：2019年新课标2卷真题.\n\n4. 原电池试题\n高中化学关于“原电池”的测试题，包含“原电池专题训练”、“原电池一课一练”、“原电池归类试题”、“原电池单元试题”、“原电池高考试题”。\n\n5. 高中化学/目录/原电池和电解池\n目录 · 1 原电池 · 2 化学电源. 2.1 一次电池; 2.2 二次电池; 2.3 燃料电池 · 3 电解池 · 4 电解原理应用 · 5 电化学腐蚀及其防治. 5.1 金属的电化学腐蚀; 5.2 金属的电化学防护.",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.3,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

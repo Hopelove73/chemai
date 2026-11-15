@@ -1,0 +1,51 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "typecheck": "tsc --noEmit",
+    "test": "node scripts/token-lint.mjs && vitest run",
+    "check": "npm run typecheck && npm test && npm run build",
+    "lint:tokens": "node scripts/token-lint.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@testing-library/jest-dom": "^7.0.1",
+    "@testing-library/react": "^16.3.2",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "@types/three": "^0.187.0",
+    "@vitejs/plugin-react": "^6.0.5",
+    "jsdom": "^29.1.1",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^7.0.2",
+    "vite": "^8.0.14",
+    "vitest": "^4.1.10"
+  },
+  "dependencies": {
+    "@excalidraw/excalidraw": "^0.18.1",
+    "@fontsource/inter": "^5.3.0",
+    "@fontsource/jetbrains-mono": "^5.3.0",
+    "@fontsource/noto-sans-sc": "^5.3.0",
+    "antd": "^6.6.0",
+    "d3-force-3d": "^3.0.6",
+    "echarts": "^6.1.0",
+    "framer-motion": "^14.0.0",
+    "katex": "^0.17.0",
+    "lucide-react": "^1.31.0",
+    "marked": "^18.0.5",
+    "mathlive": "^0.111.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-force-graph-3d": "^1.29.2",
+    "react-router-dom": "^7.18.2",
+    "smiles-drawer": "^2.4.1",
+    "thinking-orbs": "^0.3.1",
+    "three": "^0.187.0"
+  }
+}

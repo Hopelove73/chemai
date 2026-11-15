@@ -1,0 +1,10 @@
+{
+  "doc": "核外电子排布.md",
+  "kp": "M1-T3-KP02",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T3-KP01", "to_kp": "M1-T3-KP02",
+     "reason": "质子数=电子数是排布的总约束，先有原子三微粒"},
+    {"edge_type": "relates_to", "kp": "M1-T3-KP02", "substance": "钠", "formula": "Na", "role": "2,8,1 排布示例"},
+    {"edge_type": "relates_to", "kp": "M1-T3-KP02", "substance": "氯气", "formula": "Cl2", "role": "2,8,7 排布示例"}
+  ]
+}

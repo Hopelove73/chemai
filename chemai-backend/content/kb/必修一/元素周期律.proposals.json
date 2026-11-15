@@ -1,0 +1,12 @@
+{
+  "doc": "元素周期律.md",
+  "kp": "M1-T3-KP04",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T3-KP02", "to_kp": "M1-T3-KP04",
+     "reason": "递变的本质是电子层数不变下核电荷递增对最外层电子吸引增强"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T3-KP03", "to_kp": "M1-T3-KP04",
+     "reason": "同族相似与递变的实验证据链（碱金属/卤素）是周期律的素材"},
+    {"edge_type": "relates_to", "kp": "M1-T3-KP04", "substance": "钠", "formula": "Na", "role": "金属性证据链"},
+    {"edge_type": "relates_to", "kp": "M1-T3-KP04", "substance": "铝", "formula": "Al", "role": "两性分界案例"}
+  ]
+}

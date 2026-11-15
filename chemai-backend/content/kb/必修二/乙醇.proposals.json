@@ -1,0 +1,14 @@
+{
+  "doc": "乙醇.md",
+  "kp": "M2-T4-KP06",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP03", "to_kp": "M2-T4-KP06",
+     "reason": "乙醇可看作乙烷中氢被羟基取代，先有烷烃基础"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP04", "to_kp": "M2-T4-KP06",
+     "reason": "工业上乙烯水化制乙醇，烯烃的加成是来源"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP06", "substance": "乙醇", "formula": "C2H5OH", "role": "本篇主角，含羟基"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP06", "substance": "乙醇钠", "formula": "C2H5ONa", "role": "与钠反应产物"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP06", "substance": "乙醛", "formula": "CH3CHO", "role": "催化氧化产物"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP06", "substance": "钠", "formula": "Na", "role": "置换羟基氢的试剂"}
+  ]
+}

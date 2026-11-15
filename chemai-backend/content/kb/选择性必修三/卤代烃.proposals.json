@@ -1,0 +1,11 @@
+{
+  "doc": "卤代烃.md",
+  "kp": "M5-T2-KP04",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M5-T2-KP02", "to_kp": "M5-T2-KP04",
+     "reason": "卤代烃常由烯烃加成 HX 或 X2 制得"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP04", "substance": "溴乙烷", "formula": "C2H5Br", "role": "取代/消去双路径代表"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP04", "substance": "乙烯", "formula": "C2H4", "role": "消去产物"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP04", "substance": "硝酸银", "formula": "AgNO3", "role": "卤素检验试剂"}
+  ]
+}

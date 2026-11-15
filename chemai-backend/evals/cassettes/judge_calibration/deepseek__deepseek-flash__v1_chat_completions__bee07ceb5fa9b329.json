@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImQwMTdmMWVhLTRhODAtNGYxZS1hODZiLTgzYjUzODA3MzZjMiIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjQ5MzksIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDEwMCwgXCJjb25maWRlbmNlXCI6IFwiaGlnaFwiLCBcInJhdGlvbmFsZVwiOiBcIuWtpueUn+etlOahiCA0RmUgKyAzTzIgPSAyRmUyTzMg6YWN5bmz5q2j56Gu77yM5Y6f5a2Q5pWw5a6I5oGS77yb5Yik5a6Y57uZ5Ye6IDEwMCDliIbkuI7pu4Tph5Hlj4LogIPnrZTmoYjmu6HliIbkuIDoh7TjgILor6Xpopjml6DlpJrmraXpg6jliIbliIblnLrmma/vvIzor4TliIbkuIDoh7TmgKfml6DlhrLnqoHjgIJcIiwgXCJzZXZlcmVfZmxhZ3NcIjogW119IiwicmVhc29uaW5nX2NvbnRlbnQiOiJXZSBuZWVkIGFuc3dlciBKU09OIG9ubHkuIE5lZWQgZXZhbHVhdGUuIFdlIGhhdmUgaW5wdXQ6IHF1ZXN0aW9uIGJhbGFuY2UgRmUgKyBPMiA9IEZlMk8zLiBTdHVkZW50IGFuc3dlciA0RmUgKyAzTzIgPSAyRmUyTzM7IGp1ZGdlIHNjb3JlIDEwMC4gR29sZGVuIHJlZmVyZW5jZTogY29ycmVjdCBiYWxhbmNlZCA0RmUgKyAzTzIgPSAyRmUyTzMsIHNob3VsZCBmdWxsIHNjb3JlLlxuXG5XZSBuZWVkIHNjb3JlIGJhc2VkIG9uIHJ1YnJpYzogY29ycmVjdG5lc3NfdnNfZ29sZGVuIHdlaWdodCAuNiwgcGFydGlhbF9jcmVkaXQgLjIsIGNvbnNpc3RlbmN5IC4yLiBTaW5jZSBqdWRnZSBzY29yZSAxMDAgbWF0Y2hlcyBnb2xkZW4gZnVsbCBzY29yZS4gQ29ycmVjdG5lc3MgeWVzLiBQYXJ0aWFsIGNyZWRpdCBpcnJlbGV2YW50PyBCdXQgbXVsdGktc3RlcD8gVGhpcyBpcyBzaW5nbGUgYmFsYW5jaW5nLiBQYXJ0aWFsIGNyZWRpdCBub3QgYXBwbGljYWJsZSwgbWF5YmUgcmVhc29uYWJsZS4gQ29uc2lzdGVuY3kgbm8gY29tcGFyaXNvbiwgYnV0IGNvbnNpc3RlbnQ/IE5vIGlzc3VlLiBTZXZlcmVfZmxhZ3M/IENoZW1pY2FsIGVycm9yPyBXYWl0IGNoZWNrIGVxdWF0aW9uOiA0RmUgKyAzTzIgPSAyRmUyTzMuIExlZnQgTyA9IDYsIHJpZ2h0IDIqMz02LCBGZSBsZWZ0IDQsIHJpZ2h0IDIqMj00LiBDb3JyZWN0LiBTbyBubyBjaGVtaWNhbF9lcnJvci4gU2FmZXR5IG5vbmUuIE91dHB1dCBKU09OIHdpdGggc2NvcmUgaW50ZWdlciAxMDAsIGNvbmZpZGVuY2UgaGlnaCwgcmF0aW9uYWxlLiBOZWVkIGV4YWN0bHkgSlNPTiBvbmx5LiBFbnN1cmUgcmF0aW9uYWxlIGNvbmNpc2UuICJ9LCJsb2dwcm9icyI6bnVsbCwiZmluaXNoX3JlYXNvbiI6InN0b3AifV0sInVzYWdlIjp7InByb21wdF90b2tlbnMiOjMwNiwiY29tcGxldGlvbl90b2tlbnMiOjMxMiwidG90YWxfdG9rZW5zIjo2MTgsInByb21wdF90b2tlbnNfZGV0YWlscyI6eyJjYWNoZWRfdG9rZW5zIjoxMjh9LCJjb21wbGV0aW9uX3Rva2Vuc19kZXRhaWxzIjp7InJlYXNvbmluZ190b2tlbnMiOjIzMn0sInByb21wdF9jYWNoZV9oaXRfdG9rZW5zIjoxMjgsInByb21wdF9jYWNoZV9taXNzX3Rva2VucyI6MTc4fSwic3lzdGVtX2ZpbmdlcnByaW50IjoiYWViNTY0MDFjYTc0ZTEyNzgyMWM0ZjkxMjZkY2I2NjkifQ==",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "s99-OxdnacxEAyxdWoBSS4vP3vdXg1uAgy-NB4uhi5xYLTGO2DJ74w==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "d7a72d6c48065439b6c0b439db275bb7"
+   },
+   "recorded_at": "2026-09-27T16:02:20",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/bee07ceb5fa9b329",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「判卷」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- correctness_vs_golden（权重 0.6）：判分正确性：每题判分与黄金答案一致\n- partial_credit（权重 0.2）：部分分：多步题的部分得分是否合理\n- consistency（权重 0.2）：一致性：同类型错误的扣分标准一致\n\n输入：题目：配平方程式 Fe + O2 = Fe2O3\n待评输出：学生答案：4Fe + 3O2 = 2Fe2O3；判官判分：100\n黄金参考答案：正确配平 4Fe + 3O2 = 2Fe2O3，应满分\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

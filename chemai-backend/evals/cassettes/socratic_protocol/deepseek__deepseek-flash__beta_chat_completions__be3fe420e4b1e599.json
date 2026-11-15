@@ -1,0 +1,41 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImI1ZGMzYTA5LWIxM2UtNGYxNy1iMTI1LTA0NTJjZjE0OTVmYSIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTEwMjcyMjAsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IuWFiOWIq+aApeedgOimgeetlOahiO+8jOWSseS7rOS4gOi1t+aKilwi5Yik5pat55uQ57G75rC06KejXCLnmoTopoHngrnov4fkuIDpgY3vvIzkvaDoh6rlt7HlsLHog73nrZvlh7rlr7nplJnkuobjgIJcblxuKipMMSDmlrnlkJHmj5DnpLrvvJrliKTmlq3nm5DnsbvmsLTop6PvvIzlhYjpl67kuInkuKrpl67popgqKlxuXG4xLiAqKui/meS4quebkOmHjOacieayoeaciVwi5byxXCLnprvlrZDvvJ8qKlxuICAgLSDlvLHphbjmoLnnprvlrZDvvIjlpoIgQ0/igoPCsuKBu+OAgUhDT+KCg+KBu+OAgUNI4oKDQ09P4oG744CBQ2xP4oG777yJ5Lya5rC06Kej44CCXG4gICAtIOW8seeisemYs+emu+WtkO+8iOWmgiBOSOKChOKBuuOAgUZlwrPigbrjgIFBbMKz4oG677yJ5Lya5rC06Kej44CCXG4gICAtIOW8uumFuOague+8iENs4oG744CBU0/igoTCsuKBu++8ieWSjOW8uueisemYs+emu+WtkO+8iE5h4oG644CBS+KBuu+8iSoq5LiN5rC06KejKirjgIJcblxuMi4gKirmsLTop6Pop4TlvovorrDkvY/kuoblkJfvvJ8qKlxuICAgLSDmnInlvLHmiY3msLTop6PvvIzml6DlvLHkuI3msLTop6PvvJtcbiAgIC0g6LaK5byx6LaK5rC06Kej77ybXG4gICAtIOiwgeW8uuaYvuiwgeaAp++8jOWQjOW8uuaYvuS4reaAp+OAglxuXG4zLiAqKuW4uOingeaYk+mUmeeCuSoq77yI6auY6ICD54ix6ICD77yJ77yaXG4gICAtIOawtOino+aYryoq5b6u5byxKirnmoTvvIzkuIDoiKzkuI3nlKhcIuWujOWFqFwi5o+P6L+w77ybXG4gICAtIOWkmuWFg+W8semFuOaguSoq5YiG5q2lKirmsLTop6PvvIzku6XnrKzkuIDmraXkuLrkuLvvvJtcbiAgIC0g5rip5bqm5Y2H6auY5L+D6L+b5rC06Kej77yM56iA6YeK5Lmf5L+D6L+b5rC06Kej44CCXG5cbueOsOWcqOivt+S9oOWRiuivieaIke+8mlxuLSDov5npgZPpopjnmoTpgInpobnlpKfmpoLmmK/lk6rlh6DkuKrvvJ/vvIjlk6rmgJXlj6rorrDlvpfkuIDkuKTkuKrkuZ/ooYzvvIlcbi0g5L2g6Ieq5bex6KeJ5b6X5ZOq5Liq6YCJ6aG55YOP5a+555qE44CB5ZOq5Liq5YOP6ZSZ55qE77yf5Y2h5Zyo5ZOq5LiA5q2l77yfXG5cbuS9oOWFiOaKiuaDs+azleivtOWHuuadpe+8jOaIkeWGjemZquS9oOS4gOatpeatpeaOkumZpOOAgiJ9LCJsb2dwcm9icyI6bnVsbCwiZmluaXNoX3JlYXNvbiI6InN0b3AifV0sInVzYWdlIjp7InByb21wdF90b2tlbnMiOjIwNywiY29tcGxldGlvbl90b2tlbnMiOjMwNiwidG90YWxfdG9rZW5zIjo1MTMsInByb21wdF90b2tlbnNfZGV0YWlscyI6eyJjYWNoZWRfdG9rZW5zIjowfSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjAsInByb21wdF9jYWNoZV9taXNzX3Rva2VucyI6MjA3fSwic3lzdGVtX2ZpbmdlcnByaW50IjoiYWViNTY0MDFjYTc0ZTEyNzgyMWM0ZjkxMjZkY2I2NjkifQ==",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "eo-cache-status": "MISS",
+    "eo-log-uuid": "9695837922349226543",
+    "server": "openresty",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "ce08c7a54dde7cd70a12a35794fc29e1"
+   },
+   "recorded_at": "2026-10-03T11:33:42",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/beta:chat:completions/be3fe420e4b1e599",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 1024,
+  "messages": [
+   {
+    "content": "你是高中化学AI助教。学生水平: 中等。\n\n教学原则:\n1. 引导式教学: 不直接给答案，先问学生\"你是怎么想的\"\n2. 分步讲解: 复杂问题拆成2-3步，每步确认理解\n3. 联系考点: 提及高考中的常见题型\n4. 鼓励为主: 对正确思路给予肯定\n5. 单次回复不超过500字\n6. 不确定时诚实说不知道",
+    "role": "system"
+   },
+   {
+    "content": "学生问：下列关于盐类水解的说法正确的是（选项内容被学生略写为 xxx）。学生直接要求\"告诉我选哪个\"，没有提供任何自己的判断和卡点。请按苏格拉底三层协议处理：不回答案，先给 L1 方向提示，引导学生自查盐类水解的判断要点（哪些离子会水解、水解规律\"有弱才水解、越弱越水解、谁强显谁性\"等），并请学生说明目前的想法或卡点。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.7,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/beta/chat/completions"
+}

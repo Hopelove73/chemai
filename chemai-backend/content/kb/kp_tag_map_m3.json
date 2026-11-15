@@ -1,0 +1,386 @@
+{
+  "version": "reviewed-1",
+  "note": "M3（选择性必修一·化学反应原理）标签映射（KB3c）：M1/M2 映射表 future 桶的平衡/水解/电化学/盖斯/溶度积标签转正 → M3 词典 32 条。三类：mapped=映射进词典；generic=沿用 M1 清单；future=仍未覆盖（铝及其化合物 694 题/铝的化合物/过氧化氢——属必修一第三章 M1 补漏，不属化学反应原理模块，M1 补条目后再定归属）。tag_count 为题库实例行计数（与前两册同口径）；内容级去重后的题目数见 stats。审定口径：『化学反应热』标签保持 M2-T3-KP01 映射不变（M2 已按必修定性口径转正；M3-T1-KP01 是定量深化，M3 语料入库后若老师认为应上移再改）；『原电池』标签按本期决策随 M3 开工转正（M2-T3-KP02 覆盖必修二初步、M3-T1-KP05 覆盖深化，标签归族内首篇深化条目）。",
+  "generated_at": "2026-10-28",
+  "mapped": {
+    "_comment": "confidence: high=同名或教科书级对应；medium=家族标签映射到族内主篇；low=判断性归并，老师终审重点过",
+    "化学平衡": {
+      "kp": "M3-T2-KP03",
+      "confidence": "medium",
+      "tag_count": 2659,
+      "note": "家族标签，覆盖 KP03-KP08 平衡族",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "平衡图像": {
+      "kp": "M3-T2-KP08",
+      "confidence": "high",
+      "tag_count": 732,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "平衡常数": {
+      "kp": "M3-T2-KP04",
+      "confidence": "high",
+      "tag_count": 643,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "平衡常数计算": {
+      "kp": "M3-T2-KP04",
+      "confidence": "high",
+      "tag_count": 2,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "化学平衡常数": {
+      "kp": "M3-T2-KP04",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "化学平衡常数计算": {
+      "kp": "M3-T2-KP04",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "勒夏特列原理": {
+      "kp": "M3-T2-KP06",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "平衡移动": {
+      "kp": "M3-T2-KP06",
+      "confidence": "high",
+      "tag_count": 2,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "化学平衡移动": {
+      "kp": "M3-T2-KP06",
+      "confidence": "medium",
+      "tag_count": 1,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "压强对化学平衡的影响": {
+      "kp": "M3-T2-KP06",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "浓度对化学平衡的影响": {
+      "kp": "M3-T2-KP06",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "恒温恒压条件下化学平衡移动": {
+      "kp": "M3-T2-KP06",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "等效平衡": {
+      "kp": "M3-T2-KP07",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "平衡状态判断": {
+      "kp": "M3-T2-KP03",
+      "confidence": "high",
+      "tag_count": 2,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "平衡状态的判断": {
+      "kp": "M3-T2-KP03",
+      "confidence": "high",
+      "tag_count": 2,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "化学平衡状态的判断": {
+      "kp": "M3-T2-KP03",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "优先反应": {
+      "kp": "M3-T2-KP06",
+      "confidence": "low",
+      "tag_count": 1,
+      "note": "竞争反应的先后判断，按平衡移动与方向判断的交叉题归平衡移动",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "反应方向判断": {
+      "kp": "M3-T2-KP09",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "合成氨": {
+      "kp": "M3-T2-KP10",
+      "confidence": "high",
+      "tag_count": 1,
+      "note": "速率与平衡的工业综合应用主案例",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "盐类水解": {
+      "kp": "M3-T3-KP08",
+      "confidence": "high",
+      "tag_count": 775,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "沉淀溶解平衡": {
+      "kp": "M3-T3-KP11",
+      "confidence": "high",
+      "tag_count": 632,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "溶度积": {
+      "kp": "M3-T3-KP11",
+      "confidence": "high",
+      "tag_count": 397,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "水的电离": {
+      "kp": "M3-T3-KP03",
+      "confidence": "high",
+      "tag_count": 588,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "水溶液中的离子平衡": {
+      "kp": "M3-T3-KP01",
+      "confidence": "medium",
+      "tag_count": 2,
+      "note": "家族标签，覆盖 T3 全族；按 M1 先例映射族内首篇",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "弱电解质电离": {
+      "kp": "M3-T3-KP01",
+      "confidence": "high",
+      "tag_count": 2,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "弱电解质稀释": {
+      "kp": "M3-T3-KP01",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "弱电解质的电离平衡": {
+      "kp": "M3-T3-KP01",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "电离平衡": {
+      "kp": "M3-T3-KP01",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "电离平衡移动": {
+      "kp": "M3-T3-KP01",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "电离常数": {
+      "kp": "M3-T3-KP02",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "同离子效应": {
+      "kp": "M3-T3-KP01",
+      "confidence": "medium",
+      "tag_count": 1,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "滴定": {
+      "kp": "M3-T3-KP06",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "离子浓度比较": {
+      "kp": "M3-T3-KP10",
+      "confidence": "high",
+      "tag_count": 712,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "离子浓度": {
+      "kp": "M3-T3-KP10",
+      "confidence": "medium",
+      "tag_count": 1,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "原电池": {
+      "kp": "M3-T1-KP05",
+      "confidence": "high",
+      "tag_count": 791,
+      "note": "本期决策：随 M3 开工转正（M2-T3-KP02 为必修初步、M3-T1-KP05 为深化主篇）",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "电解池": {
+      "kp": "M3-T1-KP08",
+      "confidence": "high",
+      "tag_count": 764,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "电化学": {
+      "kp": "M3-T1-KP05",
+      "confidence": "medium",
+      "tag_count": 704,
+      "note": "家族标签，覆盖 T1 电化学族（KP05-KP10）",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "二次电池": {
+      "kp": "M3-T1-KP07",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "电极反应式": {
+      "kp": "M3-T1-KP06",
+      "confidence": "high",
+      "tag_count": 2,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "电极反应式书写": {
+      "kp": "M3-T1-KP06",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "电化学计算": {
+      "kp": "M3-T1-KP09",
+      "confidence": "medium",
+      "tag_count": 1,
+      "note": "电量与物质的量计算归电解应用篇",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "离子迁移": {
+      "kp": "M3-T1-KP05",
+      "confidence": "medium",
+      "tag_count": 1,
+      "note": "原电池/电解池中离子移动方向，归原电池深化篇",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "铁的腐蚀": {
+      "kp": "M3-T1-KP10",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "盖斯定律": {
+      "kp": "M3-T1-KP04",
+      "confidence": "high",
+      "tag_count": 631,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    }
+  },
+  "generic": {
+    "_comment": "沿用 M1 泛化标签清单（不重复计入合计）；本文件不新增 generic",
+    "count": 18
+  },
+  "future": {
+    "_comment": "已清空：铝×2、过氧化氢于 2026-10-28 随 M1 补漏转正（见 kp_tag_map_m1.json）"
+  },
+  "stats": {
+    "generated_at": "2026-10-28",
+    "tag_kinds_total": 163,
+    "tag_kinds_mapped_m1": 85,
+    "tag_kinds_mapped_m2": 13,
+    "tag_kinds_mapped_m3": 44,
+    "tag_kinds_mapped_total": 142,
+    "tag_kinds_generic": 18,
+    "tag_kinds_future": 0,
+    "note": "163 类标签中 142+3=145 类已映射进词典，18 类泛化技能标签，0 类待处置"
+  }
+}

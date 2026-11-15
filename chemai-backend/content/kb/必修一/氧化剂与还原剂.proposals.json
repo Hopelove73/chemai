@@ -1,0 +1,12 @@
+{
+  "doc": "氧化剂与还原剂.md",
+  "kp": "M1-T2-KP07",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP06", "to_kp": "M1-T2-KP07",
+     "reason": "氧化剂/还原剂是氧化还原四组概念的落位，先有电子转移框架再谈常见物质清单"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP07", "substance": "锌", "formula": "Zn", "role": "常见还原剂"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP07", "substance": "氧化铜", "formula": "CuO", "role": "氧化剂实例"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP07", "substance": "一氧化碳", "formula": "CO", "role": "工业还原剂"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP07", "substance": "氯化铁", "formula": "FeCl3", "role": "高价态氧化剂"}
+  ]
+}

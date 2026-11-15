@@ -1,0 +1,31 @@
+{
+  "doc": "有机合成路线设计.md",
+  "kp": "M5-T2-KP10",
+  "edges": [
+    {
+      "edge_type": "prerequisite",
+      "from_kp": "M5-T2-KP05",
+      "to_kp": "M5-T2-KP10",
+      "reason": "醇是中枢官能团，消去与氧化都从这里出发"
+    },
+    {
+      "edge_type": "prerequisite",
+      "from_kp": "M5-T2-KP07",
+      "to_kp": "M5-T2-KP10",
+      "reason": "醛氧化成酸是纵向通道的关键一步"
+    },
+    {
+      "edge_type": "prerequisite",
+      "from_kp": "M5-T2-KP09",
+      "to_kp": "M5-T2-KP10",
+      "reason": "酯化收尾与水解开路都依赖酯化学"
+    },
+    {
+      "edge_type": "relates_to",
+      "kp": "M5-T2-KP10",
+      "substance": "乙酸乙酯",
+      "formula": "CH3COOC2H5",
+      "role": "经典路线终点"
+    }
+  ]
+}

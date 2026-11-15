@@ -1,0 +1,12 @@
+{
+  "doc": "实验方案设计与评价.md",
+  "kp": "M6-T1-KP02",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M6-T1-KP01", "to_kp": "M6-T1-KP02",
+     "reason": "设计与评价都要落到装置语言上，先通法后设计"},
+    {"edge_type": "relates_to", "kp": "M6-T1-KP02", "substance": "二氧化硫", "formula": "SO2", "role": "氧化性验证案例"},
+    {"edge_type": "relates_to", "kp": "M6-T1-KP02", "substance": "硫化氢", "formula": "H2S", "role": "氢硫酸沉硫案例"},
+    {"edge_type": "relates_to", "kp": "M6-T1-KP02", "substance": "次氯酸", "formula": "HClO", "role": "酸性比较设计案例"},
+    {"edge_type": "relates_to", "kp": "M6-T1-KP02", "substance": "碳酸钙", "formula": "CaCO3", "role": "产气原料（盐酸挥发干扰案例）"}
+  ]
+}

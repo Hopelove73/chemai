@@ -1,0 +1,13 @@
+{
+  "doc": "蛋白质与氨基酸深化.md",
+  "kp": "M5-T3-KP02",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP10", "to_kp": "M5-T3-KP02",
+     "reason": "两性与变性的必修初步在选必三深化为等电点与构型"},
+    {"edge_type": "prerequisite", "from_kp": "M5-T2-KP07", "to_kp": "M5-T3-KP02",
+     "reason": "肽键的酰胺结构与羰基化学同源"},
+    {"edge_type": "relates_to", "kp": "M5-T3-KP02", "substance": "甘氨酸", "formula": "C2H5NO2", "role": "最简氨基酸"},
+    {"edge_type": "relates_to", "kp": "M5-T3-KP02", "substance": "盐酸", "formula": "HCl", "role": "氨基成盐试剂"},
+    {"edge_type": "relates_to", "kp": "M5-T3-KP02", "substance": "氢氧化钠", "formula": "NaOH", "role": "羧基成盐试剂"}
+  ]
+}

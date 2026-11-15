@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjliMzAxYWEyLWUzMTktNDgzYy05ODgxLTdlYmVmNWZkNTA3YSIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjQ5NTEsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDEwMCwgXCJjb25maWRlbmNlXCI6IFwiaGlnaFwiLCBcInJhdGlvbmFsZVwiOiBcIuWIpOWumOWIpOWIhuS4juWtpueUn+etlOahiCBCIOS4gOiHtO+8jOS4lOm7hOmHkeWPguiAg+etlOahiOS4uiBC77yM5Yik5YiG5q2j56Gu77yb5pys6aKY5Li65Y2V6YCJ6aKY77yM5LiN5raJ5Y+K5aSa5q2l6YOo5YiG5YiG77yb5peg5ZCM57G75Z6L6ZSZ6K+v5omj5YiG5qCH5YeG5Yay56qB77yM5LiA6Ie05oCn5peg5byC5bi444CCXCIsIFwic2V2ZXJlX2ZsYWdzXCI6IFtdfSIsInJlYXNvbmluZ19jb250ZW50Ijoi5oiR5Lus6ZyA6KaB5Zue562U55So5oi344CC6ZyA6KaB5L2c5Li65Yik5a6Y57uZ5b6F6K+E6L6T5Ye65omT5YiG44CC6ZyA6KaB5Y+q6L6T5Ye6IEpTT04g5a+56LGh44CC6KaB6K+E5LywIENoZW1BSSDljJblrabmlZnogrIgYWdlbnQg5Yik5Y235peP44CC6L6T5YWl77ya6aKY55uu77ya5LiL5YiX5YWz5LqO55uQ57G75rC06Kej55qE6K+05rOV77yM5q2j56Gu55qE5piv44CC5b6F6K+E6L6T5Ye677ya5a2m55Sf562U5qGI77yaQu+8m+WIpOWumOWIpOWIhu+8mua7oeWIhuOAgum7hOmHkeWPguiAg+etlOahiO+8muWumOaWueetlOahiO+8mkLvvIjliKTliIbmraPnoa7vvInjgILpnIDopoHmjIkgcnVicmlj77yaY29ycmVjdG5lc3NfdnNfZ29sZGVuIOadg+mHjTAuNu+8muavj+mimOWIpOWIhuS4jum7hOmHkeetlOahiOS4gOiHtO+8m3BhcnRpYWxfY3JlZGl0IDAuMu+8m2NvbnNpc3RlbmN5IDAuMuOAgui/memHjOWIpOWumOWIpOWIhua7oeWIhu+8jOWtpueUn+etlOahiCBC77yM5a6Y5pa5562U5qGIIELvvIzliKTliIbmraPnoa7jgILmsqHmnInlpJrmraXpopjvvIxwYXJ0aWFsX2NyZWRpdCDlkIjnkIY/IOa7oeWIhuespuWQiOOAguS4gOiHtOaAp+aXoOWQjOexu+Wei+mUmeivr+avlOi+g++8jOWPr+iupOS4uuaXoOWGsueqgeOAguaJgOS7pSBzY29yZSAxMDA/IOWPr+iDvemcgOimgeWwj+W/g++8muW+heivhOi+k+WHuuWMheWQq+WtpueUn+etlOahiCBCIOWSjOWIpOWumOWIpOWIhua7oeWIhuOAgum7hOmHkeetlOahiCBC44CC5a6M5YWo5LiA6Ie044CC5Zug5q2kIDEwMOOAgmNvbmZpZGVuY2UgaGlnaD8g6aKY55uu5L+h5oGv5pyJ6ZmQ5L2G5piO56Gu44CC6L6T5Ye6IEpTT07jgIJzZXZlcmVfZmxhZ3MgW13jgIIgcmF0aW9uYWxlIOeugOi/sOOAguWPqui+k+WHuiBKU09O44CC56Gu5L+dIEpTT04g5ZCI5rOV44CCIHNjb3JlIOaVtOaVsCAxMDDjgIIgY29uZmlkZW5jZSBoaWdo44CCIHJhdGlvbmFsZSDkuK3mlofjgIIgIn0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6Mjc1LCJjb21wbGV0aW9uX3Rva2VucyI6MzEyLCJ0b3RhbF90b2tlbnMiOjU4NywicHJvbXB0X3Rva2Vuc19kZXRhaWxzIjp7ImNhY2hlZF90b2tlbnMiOjEyOH0sImNvbXBsZXRpb25fdG9rZW5zX2RldGFpbHMiOnsicmVhc29uaW5nX3Rva2VucyI6MjQxfSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjEyOCwicHJvbXB0X2NhY2hlX21pc3NfdG9rZW5zIjoxNDd9LCJzeXN0ZW1fZmluZ2VycHJpbnQiOiJhZWI1NjQwMWNhNzRlMTI3ODIxYzRmOTEyNmRjYjY2OSJ9",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "-ev_26nay5ngkhowJHApDVIkTzi_AgsLPdhA-PLX0pew5p8LZAXQwg==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "b897496443abafe1a01f3bc69fba3e04"
+   },
+   "recorded_at": "2026-09-27T16:02:33",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/380857fd7bd1bff3",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「判卷」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- correctness_vs_golden（权重 0.6）：判分正确性：每题判分与黄金答案一致\n- partial_credit（权重 0.2）：部分分：多步题的部分得分是否合理\n- consistency（权重 0.2）：一致性：同类型错误的扣分标准一致\n\n输入：题目：下列关于盐类水解的说法，正确的是\n待评输出：学生答案：B；判官判分：满分\n黄金参考答案：官方答案：B（判分正确）\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

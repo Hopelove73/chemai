@@ -1,0 +1,70 @@
+# Web Framework
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+python-multipart==0.0.9
+
+# Database
+sqlalchemy==2.0.25
+pymysql==1.1.0
+alembic==1.13.1
+
+# AI/ML
+# 本地 embedding（vector_search 用它替代 dashscope text-embedding-v3：没 key 时旧代码会
+# 静默退回哈希伪向量）。torch 走 CPU 版，模型目录由 HF_HOME 指到仓库外的盘。
+sentence-transformers==5.4.1
+chromadb==0.4.22
+# CI 的三个 job 都走 pip install -r requirements.txt（没有别的安装路径），这两个包必须钉住：
+numpy==1.26.4       # chromadb 0.4.22 求值 np.float_，numpy 2.0 已移除该别名 → 导入即 AttributeError
+torch==2.14.1+cpu   # PyPI 的 Linux torch 是 CUDA 版，会拉数 GB nvidia 包把 runner 盘撑爆
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+# Agent framework (LangChain 1.x / LangGraph)
+# D+ 换骨架（2026-10-24）：create_react_agent(deprecated) → create_agent + HITL 中间件。
+# langchain ≥1.3.10 + langgraph ≥1.2.6 是已知 ainvoke×HITL bug（langchain#34974）的
+# 不复现区；per_call 中断模式要求 langchain ≥1.4.6。langgraph 随 langchain 1.4.7
+# 升到 1.2.17，langgraph-checkpoint 由 pip 一并带到 4.3.0（sqlite saver 3.1.0 实测兼容）。
+langchain==1.4.7
+langgraph==1.2.17
+langgraph-checkpoint==4.3.0
+langgraph-checkpoint-sqlite==3.1.0
+langchain-core==1.7.0
+langchain-openai==1.4.2
+# 录放接缝照抄 openai 客户端的默认超时/连接上限/重定向（ADR-0023 决策 9），测试直接比它的 DEFAULT_TIMEOUT / DEFAULT_CONNECTION_LIMITS，所以显式钉住，别让它在 CI 里浮动。
+openai==2.53.0
+aiosqlite==0.22.1
+
+# Document & image processing
+PyMuPDF==1.27.2.3
+python-docx==1.1.0
+Pillow==12.2.0
+
+# Auth & config
+PyJWT==2.12.1
+PyYAML==6.0.2
+
+# OCR 本地引擎（PP-OCRv6，依赖 paddlepaddle，体积大；默认经惰性导入，未安装时自动降级 Provider OCR）
+# paddleocr
+
+# Utils
+pydantic==2.6.1
+pydantic-settings==2.1.0
+python-dotenv==1.0.1
+httpx==0.26.0
+requests==2.31.0
+apscheduler==3.10.4
+
+# Background jobs
+celery==5.6.3
+redis==7.4.0
+
+# Chemistry
+rdkit==2024.3.1  # 化学结构处理
+
+# Browser automation
+playwright>=1.40
+python-pptx==1.0.3  # 工件 .pptx 导出（能力升级 A5；大纲 deck）
+fsrs==6.3.2  # 记忆卡 FSRS 调度内核（能力升级批次 B；BSD-3，Anki 同款算法）
+
+# Testing
+pytest==8.0.0
+pytest-asyncio==0.23.4

@@ -1,0 +1,10 @@
+{
+  "doc": "有机物的分离提纯.md",
+  "kp": "M5-T1-KP02",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T1-KP01", "to_kp": "M5-T1-KP02",
+     "reason": "蒸馏、萃取、分液的操作通则在必修一已建立"},
+    {"edge_type": "relates_to", "kp": "M5-T1-KP02", "substance": "苯甲酸", "formula": "C7H6O2", "role": "重结晶示例"},
+    {"edge_type": "relates_to", "kp": "M5-T1-KP02", "substance": "四氯化碳", "formula": "CCl4", "role": "萃取剂示例"}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "doc": "有机高分子材料.md",
+  "kp": "M2-T4-KP11",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP04", "to_kp": "M2-T4-KP11",
+     "reason": "加聚反应的底物是烯烃，双键打开才能聚合"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP03", "to_kp": "M2-T4-KP11",
+     "reason": "碳链的增长与烷烃结构是理解高分子链的基础"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP11", "substance": "聚乙烯", "formula": "[-CH2-CH2-]n", "role": "乙烯加聚产物"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP11", "substance": "聚氯乙烯", "formula": "[-CH2-CHCl-]n", "role": "氯乙烯加聚产物"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP11", "substance": "聚丙烯", "formula": "[-CH2-CH(CH3)-]n", "role": "丙烯加聚产物"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP11", "substance": "乙烯", "formula": "C2H4", "role": "最重要的单体"}
+  ]
+}

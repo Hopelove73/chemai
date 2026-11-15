@@ -1,0 +1,10 @@
+{
+  "doc": "溶液中离子浓度大小比较.md",
+  "kp": "M3-T3-KP10",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T3-KP08", "to_kp": "M3-T3-KP10",
+     "reason": "水解决定各形态的相对多少，守恒给出精确关系"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP10", "substance": "醋酸钠", "formula": "CH3COONa", "role": "三守恒示例体系"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP10", "substance": "氯化铵", "formula": "NH4Cl", "role": "酸性体系对照"}
+  ]
+}

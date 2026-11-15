@@ -1,0 +1,14 @@
+{
+  "doc": "苯.md",
+  "kp": "M2-T4-KP05",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP03", "to_kp": "M2-T4-KP05",
+     "reason": "烷烃的取代反应是理解苯取代的参照"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP04", "to_kp": "M2-T4-KP05",
+     "reason": "烯烃易加成，与苯难加成形成对照，突出苯环的稳定性"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP05", "substance": "苯", "formula": "C6H6", "role": "本篇主角，平面正六边形"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP05", "substance": "溴苯", "formula": "C6H5Br", "role": "溴代产物"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP05", "substance": "硝基苯", "formula": "C6H5NO2", "role": "硝化产物"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP05", "substance": "环己烷", "formula": "C6H12", "role": "加氢产物"}
+  ]
+}

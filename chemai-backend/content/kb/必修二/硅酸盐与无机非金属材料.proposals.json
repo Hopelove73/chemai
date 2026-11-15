@@ -1,0 +1,13 @@
+{
+  "doc": "硅酸盐与无机非金属材料.md",
+  "kp": "M2-T2-KP12",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T2-KP11", "to_kp": "M2-T2-KP12",
+     "reason": "玻璃、水泥的反应都建立在 SiO2 的高温反应之上"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP12", "substance": "硅酸钠", "formula": "Na2SiO3", "role": "水玻璃主成分，黏合剂"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP12", "substance": "硅酸", "formula": "H2SiO3", "role": "硅酸盐与酸反应产物"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP12", "substance": "二氧化硅", "formula": "SiO2", "role": "玻璃的主要成分之一"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP12", "substance": "硅酸钙", "formula": "CaSiO3", "role": "玻璃/水泥成分"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP12", "substance": "碳酸钠", "formula": "Na2CO3", "role": "玻璃制造原料"}
+  ]
+}

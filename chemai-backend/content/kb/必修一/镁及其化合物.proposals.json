@@ -1,0 +1,14 @@
+{
+  "doc": "镁及其化合物.md",
+  "kp": "M1-T2-KP28",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP06", "to_kp": "M1-T2-KP28",
+     "reason": "镁在氮气/二氧化碳中燃烧的产物判断全部依赖氧化还原分析"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP14", "to_kp": "M1-T2-KP28",
+     "reason": "Mg₃N₂ 水解定量与电子守恒计算依赖物质的量"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP28", "substance": "镁", "formula": "Mg", "role": "本篇主角，活泼金属"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP28", "substance": "氧化镁", "formula": "MgO", "role": "燃烧产物，碱性氧化物"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP28", "substance": "氮化镁", "formula": "Mg3N2", "role": "与氮气燃烧产物，水解产 NH₃"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP28", "substance": "氯化镁", "formula": "MgCl2", "role": "海水资源，易潮解"}
+  ]
+}

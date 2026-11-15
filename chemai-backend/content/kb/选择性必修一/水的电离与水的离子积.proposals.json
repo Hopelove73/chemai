@@ -1,0 +1,10 @@
+{
+  "doc": "水的电离与水的离子积.md",
+  "kp": "M3-T3-KP03",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T3-KP01", "to_kp": "M3-T3-KP03",
+     "reason": "水是弱电解质，电离平衡语言直接迁移"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP03", "substance": "水", "formula": "H2O", "role": "本篇主角，极弱电解质"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP03", "substance": "盐酸", "formula": "HCl", "role": "抑制水的电离示例"}
+  ]
+}

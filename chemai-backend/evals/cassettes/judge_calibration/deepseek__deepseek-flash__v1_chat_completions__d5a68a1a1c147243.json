@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjkzNzZiYWU3LWMxNWQtNDc1OS1iMzBlLTg4NGI0YjkyMDMzYSIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjQ5NzIsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDEwMCwgXCJjb25maWRlbmNlXCI6IFwiaGlnaFwiLCBcInJhdGlvbmFsZVwiOiBcImNvcnJlY3RuZXNzX3ZzX2dvbGRlbu+8muWtpueUn+etlOahiOS4uiBD77yM5a6Y5pa5562U5qGI5Lmf5pivIEPvvIzliKTlrpjliKTmu6HliIbkuI7pu4Tph5Hlj4LogIPnrZTmoYjkuIDoh7TvvJtwYXJ0aWFsX2NyZWRpdO+8muacrOmimOS4uuWNlemAieWIpOaWre+8jOS4jeWtmOWcqOWkmuatpemDqOWIhuWIhu+8jOa7oeWIhuWQiOeQhu+8m2NvbnNpc3RlbmN577ya5Yik5YiG5qCH5YeG5LiO5a6Y5pa5562U5qGI5LiA6Ie077yM5peg5piO5pi+5LiN5LiA6Ie06Zeu6aKY44CCXCIsIFwic2V2ZXJlX2ZsYWdzXCI6IFtdfSIsInJlYXNvbmluZ19jb250ZW50Ijoi5oiR5Lus6ZyA6KaB5Zue562U55So5oi344CC6ZyA6KaB5Yik5YiG44CC6aKY55uu77ya5Y+v6YCG5Y+N5bqUMlNPMitPMuKHjDJTTzMgzpRIPDDvvIzkuIvliJfmjqrmlr3og73kvb/lubPooaHmraPlkJHnp7vliqjnmoTmmK/jgILlvoXor4TovpPlh7rvvJrlrabnlJ/nrZTmoYjvvJpD77yb5Yik5a6Y5Yik5YiG77ya5ruh5YiG44CC6buE6YeR5Y+C6ICD562U5qGI77ya5a6Y5pa5562U5qGI77yaQ++8iOWIpOWIhuato+ehru+8ieOAgumcgOimgeaMiSBydWJyaWMg5omT5YiG44CC6L+Z6YeM5L+h5oGv5pyJ6ZmQ77ya5Y+q57uZ5LqG5a2m55Sf562U5qGIIEPvvIzlrpjmlrnnrZTmoYggQ++8jOWIpOWIhuato+ehruOAguS9humimOebrue8uuWwkemAiemhuSBBL0IvQy9EIOWGheWuue+8n+W+heivhOi+k+WHuuWjsOensOWIpOWumOWIpOWIhua7oeWIhuOAgum7hOmHkeWPguiAg+etlOahiOivtOWumOaWueetlOahiCBD77yI5Yik5YiG5q2j56Gu77yJ44CC5Zug5q2k5Yik5YiG5q2j56Gu5oCn5LiA6Ie044CCcGFydGlhbF9jcmVkaXQg5LiN5raJ5Y+K5aSa5q2l6aKY77yf6L+Z6aKY5piv6YCJ5oup6aKY77yM5Y2V5q2l77yM5ruh5YiG5ZCI55CG44CCY29uc2lzdGVuY3kg5ZCM57G75Z6L6ZSZ6K+v5omj5YiG5qCH5YeG5peg5rOV6K+E5Lyw77yM5L2G5LiA6Ie044CC5pegIHNldmVyZV9mbGFnc+OAgue7memrmOWIhu+8jOWPr+iDvTEwMOOAgumcgOimgei+k+WHuiBKU09OIOWvueixoeOAguimgeehruS/neespuWQiOimgeaxguWPqui+k+WHuiBKU09O44CC5YiG5pWwIDAtMTAwIOaVtOaVsOOAgmNvbmZpZGVuY2UgaGlnaD8g5L+h5oGv6Laz5aSf5Yik5pat5LiO6buE6YeR5LiA6Ie044CCc2NvcmUgMTAwLiByYXRpb25hbGUg6YCQ57u05bqm566A6L+w44CCc2V2ZXJlX2ZsYWdzIFtd44CCXG5cbuazqOaEj++8mumimOS4rVwi5LiL5YiX5o6q5pa9XCLkvYbmsqHnu5npgInpobnvvIzml6Dms5Xpqozor4EgQyDlhbfkvZPmmK/ku4DkuYjvvIzkvYbpu4Tph5Hlj4LogIPnrZTmoYjmmI7noa7or7TlrpjmlrnnrZTmoYggQyDliKTliIbmraPnoa7jgILmiJHku6zmjInmj5Dkvpvkv6Hmga/or4TliKTjgILmiYDku6XliKTlrpjliKTliIbmu6HliIbkuI7pu4Tph5HkuIDoh7TjgIJzY29yZSAxMDAuIGNvbmZpZGVuY2UgaGlnaD8g5Y+v6IO95pyJ6YCJ6aG557y65aSx5a+86Ie0IG1lZGl1be+8n+S9hum7hOmHkeaYjuehruetlOahiCBDIOWIpOWIhuato+ehru+8jOW+heivhOi+k+WHuuWtpueUn+etlOahiCBD77yM5Yik5YiG5ruh5YiG77yM5a6M5YWo5LiA6Ie044CCY29uZmlkZW5jZSBoaWdo44CCXG5cbui+k+WHuiBKU09O77yM5LiN6KaBIG1hcmtkb3du44CCIn0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6MzAxLCJjb21wbGV0aW9uX3Rva2VucyI6NDA3LCJ0b3RhbF90b2tlbnMiOjcwOCwicHJvbXB0X3Rva2Vuc19kZXRhaWxzIjp7ImNhY2hlZF90b2tlbnMiOjEyOH0sImNvbXBsZXRpb25fdG9rZW5zX2RldGFpbHMiOnsicmVhc29uaW5nX3Rva2VucyI6MzIxfSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjEyOCwicHJvbXB0X2NhY2hlX21pc3NfdG9rZW5zIjoxNzN9LCJzeXN0ZW1fZmluZ2VycHJpbnQiOiJhZWI1NjQwMWNhNzRlMTI3ODIxYzRmOTEyNmRjYjY2OSJ9",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "FJ0poTizAPxaP8YwIWFeG74KNur-IxCrPxBw2E20mBT4VynVCWoUFA==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "308796aafdecf1fb299ab35001012566"
+   },
+   "recorded_at": "2026-09-27T16:02:55",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/d5a68a1a1c147243",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「判卷」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- correctness_vs_golden（权重 0.6）：判分正确性：每题判分与黄金答案一致\n- partial_credit（权重 0.2）：部分分：多步题的部分得分是否合理\n- consistency（权重 0.2）：一致性：同类型错误的扣分标准一致\n\n输入：题目：对于可逆反应2SO₂(g)+O₂(g)⇌2SO₃(g) ΔH<0，下列措施能使平衡正向移动的是\n待评输出：学生答案：C；判官判分：满分\n黄金参考答案：官方答案：C（判分正确）\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

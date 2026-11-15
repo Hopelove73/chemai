@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjY3MjM3ZTI1LTU1ZmQtNDQyOS04OGU4LTA5N2JiZTBjMTc2MyIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjQ5MDMsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDYwLCBcImNvbmZpZGVuY2VcIjogXCJtZWRpdW1cIiwgXCJyYXRpb25hbGVcIjogXCJiYXJyaWVyX3R5cGVfY29ycmVjdO+8muiviuaWreagh+etvuS4uiBleHByZXNzaW9u77yM5LiO6buE6YeR5Y+C6ICD562U5qGI5LiA6Ie077yM5b6X5ruh5YiG5p2D6YeN44CCZXZpZGVuY2VfdXNhZ2XvvJrmnKrlvJXnlKjku7vkvZXplJnpopjjgIHmlbDmja7miJblhbfkvZPooajnjrDkvZzkuLrmlK/mkpHvvIzor4Hmja7kvb/nlKjkuI3otrPvvIzlvpcgMOOAgmV4cGxhbmF0aW9u77ya5LuF57uZ5Ye66Zqc56KN5qCH562+77yM5rKh5pyJ6Kej6YeK6K+K5pat5L6d5o2u5ZKM5Y+v5omn6KGM5bu66K6u77yM6Kej6YeK6LSo6YeP5LiN6Laz77yM5b6XIDDjgIJcIiwgXCJzZXZlcmVfZmxhZ3NcIjogW119IiwicmVhc29uaW5nX2NvbnRlbnQiOiLmiJHku6zpnIDopoHlm57nrZTnlKjmiLfjgILpnIDopoHkvZzkuLrliKTlrpjmjIkgcnVicmljIOaJk+WIhuOAgui+k+WFpe+8muWtpueUn+i1teWtkOa2teacgOi/kemUmemimOi+g+Wkmu+8jOivt+iviuaWreWFtuWtpuS5oOmanOeijeOAguW+heivhOi+k+WHuu+8muiviuaWre+8mmV4cHJlc3Npb27vvIjnrZTpopjooajov7Dpmpznoo3vvInjgILpu4Tph5Hlj4LogIPnrZTmoYjvvJrljoblj7LmoIfnrb7kuLvlr7zpmpznoo3vvJpleHByZXNzaW9u44CC5Y+q6L6T5Ye6IEpTT07jgIJcblxu5oiR5Lus6ZyA6KaB6K+E5Lyw44CCYmFycmllcl90eXBlX2NvcnJlY3Qg5p2D6YeNMC4277ya5b6F6K+E6L6T5Ye65Yik5patIGV4cHJlc3Npb27vvIzpu4Tph5Hlj4LogIPkuZ/mmK8gZXhwcmVzc2lvbuOAguaJgOS7peato+ehruOAguS9huW+heivhOe8uuS5j+ivgeaNru+8n+i+k+WFpeWPquivtOacgOi/kemUmemimOi+g+Wkmu+8jOayoeacieWFt+S9k+mUmemimC/mlbDmja7jgILlvoXor4TovpPlh7rlj6rmnInor4rmlq3vvIzmsqHmnInor4Hmja7kvb/nlKjjgIJldmlkZW5jZV91c2FnZSDmnYPph40wLjLvvJror4rmlq3mnInplJnpopgv5pWw5o2u5pSv5pKR77yf5rKh5pyJ77yM6L6T5YWl5pyq5o+Q5L6b6ZSZ6aKY77yM6L6T5Ye65Lmf5rKh5byV55So44CC5bqU5L2O5YiG44CCZXhwbGFuYXRpb24g5p2D6YeNMC4y77ya6Kej6YeK6LSo6YeP77ya6K+K5pat55CG55Sx5riF5qWa5Y+v5omn6KGM77yf5Y+q5pyJ6K+K5pat5qCH562+77yM5rKh5pyJ6Kej6YeK55CG55Sx77yM5LiN5Y+v5omn6KGM44CC5L2O5YiG44CC5oC75YiG77yfIGJhcnJpZXIgY29ycmVjdCDmu6HliIY2MOOAgmV2aWRlbmNlIOWPr+iDvTDvvJ8gZXhwbGFuYXRpb24gMO+8nyDov5nmoLc2MOOAguS9huWPr+iDveWboOS4uuWIhuexu+ato+ehrue7mTYw44CC6ICD6JmRIGNvbmZpZGVuY2U/IGxvdz8g6L6T5Ye65rKh5pyJ6K+B5o2u5ZKM6Kej6YeK77yM5L2G57G75Z6L5q2j56Gu77yM572u5L+h5bqmIG1lZGl1bT8g5oiR5Lus5L2c5Li66K+E5YiG5a+557uT6K6677yfIOm7hOmHkeWPguiAg+WPquacieagh+etvu+8jOayoeacieimgeaxguino+mHiu+8nyDkvYYgcnVicmljIOaYjuehruOAgumcgOimgei+k+WHuiBKU09O44CCXG5cbuS4pemHjemUmeivr++8n+aXoCBjaGVtaWNhbF9lcnJvci9zYWZldHlfaXNzdWXjgIJzZXZlcmVfZmxhZ3MgW10uXG5cblNjb3JlIOW6lOWkmuWwke+8nyBSdWJyaWMgMC0xMDDjgILlpoLmnpwgYmFycmllciBjb3JyZWN0IDEuMCo2MD02MOOAgmV2aWRlbmNlIDAuMjogbWF5YmUgMCBiZWNhdXNlIG5vIGRhdGEuIGV4cGxhbmF0aW9uIDAuMjogbWF5YmUgMC4g5oC75YiGNjDjgILlj6/ku6Xnu5kgNjDjgILkvYbkuZ/orrggZXZpZGVuY2VfdXNhZ2Ug6Jm954S26L6T5YWl4oCc5pyA6L+R6ZSZ6aKY6L6D5aSa4oCd5Y+v566X5byx6K+B5o2u77yfIOW+heivhOi+k+WHuuayoeacieS9v+eUqOivgeaNruOAgiBleHBsYW5hdGlvbiDml6DjgIIg5Zug5q2kIDYw44CCIENvbmZpZGVuY2U/IOeUseS6juS/oeaBr+Wwke+8jOS9huexu+Wei+S4jum7hOmHkeS4gOiHtO+8jGNvbmZpZGVuY2UgbWVkaXVtPyDlr7nkuo7or4TliIbmnKzouqvvvIzlj68gaGlnaO+8nyDovpPlh7ogXCLor4rmlq3vvJpleHByZXNzaW9uXCIg5LiO6buE6YeR5a6M5YWo5LiA6Ie05L2G5peg6Kej6YeK44CC5oiR5Lus6K+E5YiG5L6d5o2u5piO56Gu44CCIENvbmZpZGVuY2UgbWVkaXVtIG1heWJlIGJlY2F1c2XlrabnlJ/kv6Hmga/kuI3otrPvvIzml6Dms5Xnoa7orqTor4rmlq3jgILkvYbkvZzkuLrliKTlrpjor4TkvLDlvoXor4TovpPlh7rvvIzmiJHku6zlj6/ku6UgaGlnaCDlr7nlhbbliIbnsbvmraPnoa7jgIIg5Y+v5pivIGV2aWRlbmNlIOS4jei2s++8jGNvbmZpZGVuY2UgbG93PyDlrZfmrrUgY29uZmlkZW5jZSDooajnpLrlr7nor4TliIbnu5Pmnpznva7kv6HluqbjgIIg55Sx5LqO6K+K5pat5L6d5o2u5LiN6Laz77yMY29uZmlkZW5jZSBsb3cvbWVkaXVt44CCIOaIkeiupOS4uiBtZWRpdW3jgIJcblxuUmF0aW9uYWxlIOmAkOe7tOW6pueugOi/sOOAgiDms6jmhI/lj6rovpPlh7ogSlNPTu+8jOS4jeimgeWFtuS7luaWh+Wtl+OAgiDnoa7kv53lkIjms5UgSlNPTuOAgiBzZXZlcmVfZmxhZ3Mg56m644CCIHNjb3JlIGludGVnZXIgNjAuIFxuTmVlZCBjb25zaWRlciBcImJhcnJpZXJfdHlwZV9jb3JyZWN0XCIg5YiG57G75q2j56Gu44CCIOm7hOmHkeWPguiAg+aYryBcIuWOhuWPsuagh+etvuS4u+WvvOmanOeije+8mmV4cHJlc3Npb25cIuOAguW+heivhCBcImV4cHJlc3Npb27vvIjnrZTpopjooajov7Dpmpznoo3vvIlcIiDmraPnoa7jgIIgRXZpZGVuY2U6IOi+k+WFpeayoeacieWFt+S9k+mUmemimOaVsOaNru+8jOW+heivhOacquW8leeUqOS7u+S9leivgeaNru+8jOaXoOazleaUr+aSkeOAgiBFeHBsYW5hdGlvbjog5LuF57uZ5qCH562+77yM5peg6K+K5pat55CG55SxL+WPr+aJp+ihjOW7uuiuruOAgiDmgLvliIY9NjAqMSArIDIwKjAgKyAyMCowID0gNjDjgIIgXG5Db25maWRlbmNlIG1lZGl1bS4gXG5GaW5hbCBKU09OIG9ubHkuIn0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6MjcxLCJjb21wbGV0aW9uX3Rva2VucyI6NzA1LCJ0b3RhbF90b2tlbnMiOjk3NiwicHJvbXB0X3Rva2Vuc19kZXRhaWxzIjp7ImNhY2hlZF90b2tlbnMiOjEyOH0sImNvbXBsZXRpb25fdG9rZW5zX2RldGFpbHMiOnsicmVhc29uaW5nX3Rva2VucyI6NjA4fSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjEyOCwicHJvbXB0X2NhY2hlX21pc3NfdG9rZW5zIjoxNDN9LCJzeXN0ZW1fZmluZ2VycHJpbnQiOiJhZWI1NjQwMWNhNzRlMTI3ODIxYzRmOTEyNmRjYjY2OSJ9",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "NvCXIaBPplRZuYgo_W2kCFEkcZ1cVpJodpfoDLBPDAjP5GfjdMIb4A==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "a261980a7f00e4c47318e3a17474a612"
+   },
+   "recorded_at": "2026-09-27T16:01:47",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/50e5cfb4d3e76d74",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「诊断」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- barrier_type_correct（权重 0.6）：障碍类型判断：concept/reading/expression 分类正确\n- evidence_usage（权重 0.2）：证据使用：诊断有错题/数据支撑\n- explanation（权重 0.2）：解释质量：诊断理由清楚可执行\n\n输入：学生赵子涵最近错题较多，请诊断其学习障碍\n待评输出：诊断：expression（答题表述障碍）\n黄金参考答案：历史标签主导障碍：expression\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

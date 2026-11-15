@@ -1,0 +1,13 @@
+{
+  "doc": "钠的氧化物.md",
+  "kp": "M1-T2-KP10",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP09", "to_kp": "M1-T2-KP10",
+     "reason": "两种氧化物都来自钠的氧化，先认识钠的活泼性再谈产物对比"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP08", "to_kp": "M1-T2-KP10",
+     "reason": "Na2O2 与水/CO2 反应是歧化反应，要用价态规律与电子守恒解读"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP10", "substance": "过氧化钠", "formula": "Na2O2", "role": "本篇主角，供氧剂"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP10", "substance": "氧化钠", "formula": "Na2O", "role": "对照物"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP10", "substance": "二氧化碳", "formula": "CO2", "role": "供氧反应原料"}
+  ]
+}

@@ -1,0 +1,41 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6Ijg0ZDM3NWIxLTRhNmMtNGQ1ZS05MjNmLTMyMDYyZmM4MzU2NSIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTEwMjcxODYsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInBhc3NcIjogdHJ1ZSwgXCJyZWFzb25cIjogXCLlm57lpI3ku6Xmj5Dpl67mlrnlvI/noa7orqTlrabnlJ/mmK/lkKbnkIbop6Ppopjnm67mlbDmja7vvIznu5PlsL7or6Lpl67lrabnlJ/orqHnrpfov5vluqbvvIznrKblkIjmjqLnirbmgIHopoHmsYLjgIJcIn0ifSwibG9ncHJvYnMiOm51bGwsImZpbmlzaF9yZWFzb24iOiJzdG9wIn1dLCJ1c2FnZSI6eyJwcm9tcHRfdG9rZW5zIjoyNjQsImNvbXBsZXRpb25fdG9rZW5zIjozMiwidG90YWxfdG9rZW5zIjoyOTYsInByb21wdF90b2tlbnNfZGV0YWlscyI6eyJjYWNoZWRfdG9rZW5zIjowfSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjAsInByb21wdF9jYWNoZV9taXNzX3Rva2VucyI6MjY0fSwic3lzdGVtX2ZpbmdlcnByaW50IjoiYWViNTY0MDFjYTc0ZTEyNzgyMWM0ZjkxMjZkY2I2NjkifQ==",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "eo-cache-status": "MISS",
+    "eo-log-uuid": "6654843271232585900",
+    "server": "openresty",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "47f01e64ca441f381d8edd9839cf86aa"
+   },
+   "recorded_at": "2026-10-03T11:33:06",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/2a6a0e5d8bce633a",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 2000,
+  "messages": [
+   {
+    "content": "你是苛刻但公正的评估判官。只输出 JSON，不输出任何其他文字。",
+    "role": "system"
+   },
+   {
+    "content": "你是严格的评估判官。依据完整对话上下文，判断【助手最新回复】是否满足协议规则。\n\n对话历史:\n[user] 这道题怎么做？向盛有 5mL 0.1mol/L Na2CO3 溶液的试管中滴加 2mL 0.1mol/L 盐酸，写出离子方程式并说明理由\n\n助手最新回复:\n先别急着写——这道题的\"坑\"就在数据里，得先想清楚再动笔。\n\n我问你三个问题，你先回答，我再一步步带你推：\n\n1. 5 mL 0.1 mol/L Na₂CO₃ 里，Na₂CO₃ 的物质的量是多少 mol？\n2. 2 mL 0.1 mol/L 盐酸里，HCl 的物质的量是多少 mol？\n3. 这两个数谁大、差多少倍，你觉得这说明了什么？\n\n你先算算第 1 问，把答案告诉我。\n\n协议规则: 回复应以确认学生进度/卡点的问题结尾（探状态）\n\n只返回 JSON: {\"pass\": true, \"reason\": \"一句话依据\"} 的形式，pass 为布尔值。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.0,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

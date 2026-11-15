@@ -1,0 +1,11 @@
+{
+  "doc": "化学反应的方向.md",
+  "kp": "M3-T2-KP09",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T1-KP01", "to_kp": "M3-T2-KP09",
+     "reason": "焓变是复合判据的一半，先有 ΔH 的定量语义"},
+    {"edge_type": "relates_to", "kp": "M3-T2-KP09", "substance": "硝酸钠", "formula": "NaNO3", "role": "溶解熵增示例（铵盐同型）"},
+    {"edge_type": "relates_to", "kp": "M3-T2-KP09", "substance": "氯化钠", "formula": "NaCl", "role": "放热熵减示例产物"},
+    {"edge_type": "relates_to", "kp": "M3-T2-KP09", "substance": "碳酸钙", "formula": "CaCO3", "role": "高温自发型示例"}
+  ]
+}

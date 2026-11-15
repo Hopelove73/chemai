@@ -1,0 +1,10 @@
+{
+  "doc": "转化率与平衡计算.md",
+  "kp": "M3-T2-KP05",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T2-KP04", "to_kp": "M3-T2-KP05",
+     "reason": "三段式的最后一行要代入 K 表达式，先会写 K"},
+    {"edge_type": "relates_to", "kp": "M3-T2-KP05", "substance": "氮气", "formula": "N2", "role": "三段式示例"},
+    {"edge_type": "relates_to", "kp": "M3-T2-KP05", "substance": "氨气", "formula": "NH3", "role": "三段式示例产物"}
+  ]
+}

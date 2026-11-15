@@ -1,0 +1,11 @@
+{
+  "doc": "离子反应.md",
+  "kp": "M1-T2-KP04",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP03", "to_kp": "M1-T2-KP04",
+     "reason": "离子反应的对象是电离出的离子，先解决谁电离、电离成什么离子"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP04", "substance": "盐酸", "formula": "HCl", "role": "中和反应实例"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP04", "substance": "碳酸钠", "formula": "Na2CO3", "role": "生成气体实例"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP04", "substance": "氯化银", "formula": "AgCl", "role": "生成沉淀实例"}
+  ]
+}

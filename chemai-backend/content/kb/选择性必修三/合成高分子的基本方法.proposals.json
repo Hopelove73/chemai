@@ -1,0 +1,13 @@
+{
+  "doc": "合成高分子的基本方法.md",
+  "kp": "M5-T3-KP04",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP11", "to_kp": "M5-T3-KP04",
+     "reason": "必修二的加聚与三大材料是深化基础"},
+    {"edge_type": "prerequisite", "from_kp": "M5-T2-KP09", "to_kp": "M5-T3-KP04",
+     "reason": "缩聚的成键脱小分子与酯化/水解同型"},
+    {"edge_type": "relates_to", "kp": "M5-T3-KP04", "substance": "聚乙烯", "formula": "[-CH2-CH2-]n", "role": "加聚代表"},
+    {"edge_type": "relates_to", "kp": "M5-T3-KP04", "substance": "涤纶", "formula": "聚酯", "role": "缩聚代表"},
+    {"edge_type": "relates_to", "kp": "M5-T3-KP04", "substance": "乙烯", "formula": "C2H4", "role": "加聚单体"}
+  ]
+}

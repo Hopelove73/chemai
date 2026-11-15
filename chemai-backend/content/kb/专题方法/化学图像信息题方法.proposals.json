@@ -1,0 +1,12 @@
+{
+  "doc": "化学图像信息题方法.md",
+  "kp": "M6-T3-KP02",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T3-KP09", "to_kp": "M6-T3-KP02",
+     "reason": "速率概念是 v-t 图像的化学含义来源"},
+    {"edge_type": "prerequisite", "from_kp": "M3-T2-KP03", "to_kp": "M6-T3-KP02",
+     "reason": "平衡移动决定转化率-温度/压强图像的走向"},
+    {"edge_type": "relates_to", "kp": "M6-T3-KP02", "substance": "醋酸", "formula": "CH3COOH", "role": "弱酸滴定曲线案例"},
+    {"edge_type": "relates_to", "kp": "M6-T3-KP02", "substance": "氢氧化钠", "formula": "NaOH", "role": "滴定剂"}
+  ]
+}

@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImVhOGQ3OGM3LTM1N2ItNDExYi1iYTljLTVmMDc0YmRjYWYwNSIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjUwMTUsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDEwMCwgXCJjb25maWRlbmNlXCI6IFwiaGlnaFwiLCBcInJhdGlvbmFsZVwiOiBcIuWIpOWIhuato+ehruaAp++8muWtpueUn+etlOahiCBCIOS4juWumOaWueetlOahiCBCIOS4gOiHtO+8jOWIpOWumOe7mea7oeWIhu+8jOS4jum7hOmHkeWPguiAg+etlOahiOWujOWFqOS4gOiHtOOAgumDqOWIhuWIhu+8muacrOmimOS4uumAieaLqemimO+8jOaXoOWkmuatpeW+l+WIhueCue+8jOe7mea7oeWIhuWQiOeQhuOAguS4gOiHtOaAp++8muWvueato+ehrumAiemhuee7mea7oeWIhuespuWQiOWQjOexu+WIpOWIhuagh+WHhuOAglwiLCBcInNldmVyZV9mbGFnc1wiOiBbXX0iLCJyZWFzb25pbmdfY29udGVudCI6IuaIkeS7rOmcgOimgeWbnuetlOeUqOaIt+OAgumcgOimgeaMiSBydWJyaWMg57uZ5b6F6K+E6L6T5Ye65omT5YiG44CC5oiR5Lus6ZyA6KaB5Y+q6L6T5Ye6IEpTT07jgILpnIDopoHnkIbop6Pku7vliqHvvJrnlKjmiLfmmK8gQ2hlbUFJIOWMluWtpuaVmeiCsiBhZ2VudCDnmoTliKTlrpjvvIzotJ/otKPliKTljbfml4/or4TkvLDjgILovpPlhaXvvJrpopjnm67vvJrlr7nkuo7lj43lupQgTjIrM0gy4oeMMk5IM++8jOW5s+ihoeaXtua1k+W6piBbTjJdPTIsIFtIMl09MywgW05IM109NO+8jOWImeW5s+ihoeW4uOaVsCBLIOS4uuOAguW+heivhOi+k+WHuu+8muWtpueUn+etlOahiO+8mkLvvJvliKTlrpjliKTliIbvvJrmu6HliIbjgILpu4Tph5Hlj4LogIPnrZTmoYjvvJrlrpjmlrnnrZTmoYjvvJpC77yI5Yik5YiG5q2j56Gu77yJ44CC6KaB5rGC5oyJIHJ1YnJpYyDmiZPliIYgMC0xMDDvvJpcbi0gY29ycmVjdG5lc3NfdnNfZ29sZGVuIOadg+mHjTAuNu+8muWIpOWIhuato+ehruaAp++8muavj+mimOWIpOWIhuS4jum7hOmHkeetlOahiOS4gOiHtFxuLSBwYXJ0aWFsX2NyZWRpdCDmnYPph40wLjLvvJrpg6jliIbliIbvvJrlpJrmraXpopjnmoTpg6jliIblvpfliIbmmK/lkKblkIjnkIZcbi0gY29uc2lzdGVuY3kg5p2D6YeNMC4y77ya5LiA6Ie05oCn77ya5ZCM57G75Z6L6ZSZ6K+v5omj5YiG5qCH5YeG5LiA6Ie0XG5cbumcgOimgei+k+WHuiBKU09OIOWMheaLrCBzY29yZSwgY29uZmlkZW5jZSwgcmF0aW9uYWxlLCBzZXZlcmVfZmxhZ3MuIOazqOaEj+W+heivhOi+k+WHuuaYr+KAnOWtpueUn+etlOahiO+8mkLvvJvliKTlrpjliKTliIbvvJrmu6HliIbigJ3jgILpu4Tph5HnrZTmoYjvvJrlrpjmlrnnrZTmoYggQu+8iOWIpOWIhuato+ehru+8ieOAguWboOatpOWIpOWumOWIpOWIhua7oeWIhuato+ehruOAguS9huaIkeS7rOmcgOimgeajgOafpemimOebruacrOi6q+acieayoeacieWMluWtpumUmeivr++8n+WPjeW6lOW5s+ihoeW4uOaVsCBLID0gW05IM11eMiAvIChbTjJdW0gyXV4zKSA9IDE2LygyKjI3KT0xNi81ND04LzI3IOKJiDAuMjk244CC6YCJ6aG5IEIg5piv77yf5oiR5Lus5LiN55+l6YGT6YCJ6aG544CC5a6Y5pa5562U5qGIIELjgILml6DljJblrabplJnor6/jgILliKTljbfmu6HliIbmraPnoa7jgILpg6jliIbliIbkuI3pgILnlKjvvIzlm6DkuLrmmK/pgInmi6npopjljZXmraXvvJ/lpoLmnpzlpJrmraXpopjvvIzliKTmu6HliIblkIjnkIbjgILkuIDoh7TmgKfkuZ/lkIjnkIbjgILmiYDku6XliIbmlbDlupTkuLoxMDDvvJ8gY29uZmlkZW5jZSBoaWdo44CCIHNldmVyZV9mbGFncyBbXeOAglxuXG7kvYbpnIDopoHlsI/lv4PvvJrlvoXor4TovpPlh7rljIXlkKvigJzliKTlrpjliKTliIbvvJrmu6HliIbigJ3vvIzpu4Tph5Hlj4LogIPnrZTmoYjor7TigJzlrpjmlrnnrZTmoYggQu+8iOWIpOWIhuato+ehru+8ieKAneOAguivtOaYjuWIpOWumOe7mea7oeWIhu+8jOS4juWtpueUn+etlOahiCBCIOS4gOiHtOOAguWboOatpCBjb3JyZWN0bmVzc192c19nb2xkZW49MeOAgiBwYXJ0aWFsX2NyZWRpdD0xPyDlr7nkuo7or6XpopjmsqHmnInpg6jliIbliIbvvIzliKTmu6HliIbnrKblkIjjgIIgY29uc2lzdGVuY3k9MeOAgiBzY29yZSAxMDDjgIIgY29uZmlkZW5jZSBoaWdo44CCIHJhdGlvbmFsZSDpgJDnu7TluqbnroDov7DjgIIgc2V2ZXJlX2ZsYWdzIFtdLlxuXG7pnIDlj6rovpPlh7ogSlNPTiDlr7nosaHjgILlj6/lhpkgcmF0aW9uYWxlIOS4reaWh+OAguehruS/nSBKU09OIOWQiOazleOAguayoeacieWkmuS9meaWh+Wtl+OAgiAifSwibG9ncHJvYnMiOm51bGwsImZpbmlzaF9yZWFzb24iOiJzdG9wIn1dLCJ1c2FnZSI6eyJwcm9tcHRfdG9rZW5zIjozMjYsImNvbXBsZXRpb25fdG9rZW5zIjo1NTIsInRvdGFsX3Rva2VucyI6ODc4LCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6MTI4fSwiY29tcGxldGlvbl90b2tlbnNfZGV0YWlscyI6eyJyZWFzb25pbmdfdG9rZW5zIjo0Njd9LCJwcm9tcHRfY2FjaGVfaGl0X3Rva2VucyI6MTI4LCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjE5OH0sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "hfLm2KUcxaIaeC0UulZwCU5sJHY1tgcwtQnP4CsH35k_n_rZLVe-Nw==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "81834f9a43ebd9b8e201b2cb5bad09e2"
+   },
+   "recorded_at": "2026-09-27T16:03:38",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/febddb2e886c0bfa",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「判卷」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- correctness_vs_golden（权重 0.6）：判分正确性：每题判分与黄金答案一致\n- partial_credit（权重 0.2）：部分分：多步题的部分得分是否合理\n- consistency（权重 0.2）：一致性：同类型错误的扣分标准一致\n\n输入：题目：对于反应N₂(g)+3H₂(g)⇌2NH₃(g)，在某温度下达到平衡时，[N₂]=2mol/L，[H₂]=3mol/L，[NH₃]=4mol/L，则该温度下的平衡常数K为\n待评输出：学生答案：B；判官判分：满分\n黄金参考答案：官方答案：B（判分正确）\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

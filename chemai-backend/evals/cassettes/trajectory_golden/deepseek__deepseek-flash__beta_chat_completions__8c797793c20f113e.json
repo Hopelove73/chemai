@@ -1,0 +1,43 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImYxM2ZkOTZkLTlmNGQtNGNkMi1iNTAyLWZmNWI2Mzg0ZTBiYyIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjU0OTEsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcbiAgXCJleHBlcmltZW50X25hbWVcIjogXCLphbjnorHkuK3lkozmu7TlrppcIixcbiAgXCJvYmplY3RpdmVzXCI6IFtcbiAgICBcIuaOjOaPoemFuOeiseS4reWSjOa7tOWumueahOWfuuacrOWOn+eQhuWSjOaTjeS9nOaWueazlVwiLFxuICAgIFwi5a2m5Lya5L2/55So6YW45byP5ru05a6a566h5ZKM56Kx5byP5ru05a6a566hXCIsXG4gICAgXCLlrabkvJrkvb/nlKjmjIfnpLrliYLliKTmlq3mu7Tlrprnu4jngrlcIixcbiAgICBcIumAmui/h+a7tOWumuWunumqjOa1i+Wumuacquefpea6tua2sueahOa1k+W6plwiXG4gIF0sXG4gIFwiZXF1aXBtZW50XCI6IFtcbiAgICBcIumFuOW8j+a7tOWumueuoe+8iDUwIG1M77yJXCIsXG4gICAgXCLnorHlvI/mu7TlrprnrqHvvIg1MCBtTO+8iVwiLFxuICAgIFwi6ZSl5b2i55O277yIMjUwIG1M77yJXCIsXG4gICAgXCLpk4Hmnrblj7BcIixcbiAgICBcIua7tOWumueuoeWkuVwiLFxuICAgIFwi54On5p2vXCIsXG4gICAgXCLnp7vmtrLnrqHvvIgyNSBtTO+8iVwiLFxuICAgIFwi5rSX55O2XCIsXG4gICAgXCLmoIflh4bnm5DphbjmurbmtrLvvIgwLjEwMDAgbW9sL0zvvIlcIixcbiAgICBcIuW+hea1i+awouawp+WMlumSoOa6tua2slwiLFxuICAgIFwi6YWa6YWe5oyH56S65YmCXCIsXG4gICAgXCLnlLLln7rmqZnmjIfnpLrliYJcIixcbiAgICBcIuiSuOmmj+awtFwiXG4gIF0sXG4gIFwic3RlcHNcIjogW1xuICAgIFwi5q2l6aqkMTog5qOA5p+l5ru05a6a566h5piv5ZCm5ryP5rC077yM55So6JK46aaP5rC05rSX5rak6YW45byP5ru05a6a566h5ZKM56Kx5byP5ru05a6a566h77yM5YaN55So5b6F6KOF5ray5ram5rSXMi0z5qyhXCIsXG4gICAgXCLmraXpqqQyOiDlsIbmoIflh4bnm5DphbjmurbmtrLoo4XlhaXphbjlvI/mu7TlrprnrqHvvIzmjpLlh7rlsJblmLTlpITnmoTmsJTms6HvvIzosIPoioLmtrLpnaLoh7Mw5Yi75bqm5oiWMOWIu+W6puS7peS4i++8jOiusOW9leWIneivu+aVsFwiLFxuICAgIFwi5q2l6aqkMzog55So56e75ray566h5YeG56Gu56e75Y+WMjUuMDAgbUzlvoXmtYvmsKLmsKfljJbpkqDmurbmtrLkuo4yNTAgbUzplKXlvaLnk7bkuK3vvIzliqDlhaUyLTPmu7TphZrphZ7mjIfnpLrliYLvvIzmurbmtrLlkYjnuqLoibJcIixcbiAgICBcIuatpemqpDQ6IOWwhumUpeW9oueTtue9ruS6jumFuOW8j+a7tOWumueuoeS4i+aWue+8jOW3puaJi+aOp+WItua7tOWumueuoea0u+Whnu+8jOWPs+aJi+aMr+iNoemUpeW9oueTtu+8jOmAkOa7tOWKoOWFpeebkOmFuO+8jOi+uea7tOi+ueaMr+iNoVwiLFxuICAgIFwi5q2l6aqkNTog5b2T5rq25ray6aKc6Imy55Sx57qi6Imy5Y+Y5Li65peg6Imy5LiU5Y2K5YiG6ZKf5YaF5LiN5oGi5aSN57qi6Imy5pe277yM6L6+5Yiw5ru05a6a57uI54K577yM6K6w5b2V5pyr6K+75pWwXCIsXG4gICAgXCLmraXpqqQ2OiDph43lpI3mu7TlrpoyLTPmrKHvvIzlj5blubPlnYflgLzorqHnrpflvoXmtYvmsKLmsKfljJbpkqDmurbmtrLnmoTmtZPluqZcIlxuICBdLFxuICBcImV4cGVjdGVkX3BoZW5vbWVuYVwiOiBbXG4gICAgXCLnjrDosaExOiDmu7TlrprliY3vvIzplKXlvaLnk7bkuK3msKLmsKfljJbpkqDmurbmtrLliqDlhaXphZrphZ7lkI7lkYjnuqLoibJcIixcbiAgICBcIueOsOixoTI6IOa7tOWumui/h+eoi+S4re+8jOmaj+edgOebkOmFuOeahOWKoOWFpe+8jOa6tua2sue6ouiJsumAkOa4kOWPmOa1hVwiLFxuICAgIFwi546w6LGhMzog5o6l6L+R57uI54K55pe277yM5ru05YWl5LiA5ru055uQ6YW477yM5rq25ray5bGA6YOo6KSq6Imy77yM5oyv6I2h5ZCO5oGi5aSN57qi6ImyXCIsXG4gICAgXCLnjrDosaE0OiDovr7liLDnu4jngrnml7bvvIzmurbmtrLnlLHnuqLoibLlj5jkuLrml6DoibLvvIzkuJTljYrliIbpkp/lhoXkuI3mgaLlpI3nuqLoibJcIlxuICBdLFxuICBcImVxdWF0aW9uc1wiOiBbXG4gICAgXCLljJblrabmlrnnqIvlvI86IEhDbCArIE5hT0gg4oaSIE5hQ2wgKyBIMk9cIixcbiAgICBcIuemu+WtkOaWueeoi+W8jzogSCsgKyBPSC0g4oaSIEgyT1wiXG4gIF0sXG4gIFwicHJpbmNpcGxlc1wiOiBbXG4gICAgXCLljp/nkIYxOiDphbjnorHkuK3lkozlj43lupTkuK3vvIzphbjlkoznorHmjInkuIDlrprnmoTnianotKjnmoTph4/kuYvmr5Tov5vooYzlj43lupTvvIzlr7nkuo7kuIDlhYPphbjlkozkuIDlhYPnorHvvIxuKEgrKSA9IG4oT0gtKVwiLFxuICAgIFwi5Y6f55CGMjog6YCa6L+H5bey55+l5rWT5bqm55qE5qCH5YeG6YW45rq25ray5ru05a6a5pyq55+l5rWT5bqm55qE56Kx5rq25ray77yM5qC55o2u5raI6ICX5qCH5YeG6YW455qE5L2T56ev5ZKM5YyW5a2m6K6h6YeP5YWz57O777yM6K6h566X5b6F5rWL56Kx5rq25ray55qE5rWT5bqmXCIsXG4gICAgXCLljp/nkIYzOiDliKnnlKjmjIfnpLrliYLlnKjljJblraborqHph4/ngrnpmYTov5HnmoTpopzoibLnqoHlj5jmnaXnoa7lrprmu7Tlrprnu4jngrlcIixcbiAgICBcIuWOn+eQhjQ6IOiuoeeul+WFrOW8j++8mmMoTmFPSCkgPSBjKEhDbCkgw5cgVihIQ2wpIC8gVihOYU9IKVwiXG4gIF0sXG4gIFwic2FmZXR5XCI6IFtcbiAgICBcIuWuieWFqOaPkOmGkjE6IOmFuOeisea6tua2suWFt+acieiFkOiagOaAp++8jOaTjeS9nOaXtuS9qeaItOaKpOebrumVnOWSjOWunumqjOacje+8jOmBv+WFjeearuiCpOebtOaOpeaOpeinplwiLFxuICAgIFwi5a6J5YWo5o+Q6YaSMjog5ru05a6a566h5L2/55So5YmN5b+F6aG75qOA5p+l5piv5ZCm5ryP5rC077yM6Ziy5q2i5rq25ray5rOE5ryPXCIsXG4gICAgXCLlronlhajmj5DphpIzOiDmu7Tlrprov4fnqIvkuK3opoHmjqfliLbmu7TlrprpgJ/luqbvvIzpgb/lhY3mu7Tlrprov4fph49cIixcbiAgICBcIuWuieWFqOaPkOmGkjQ6IOW6n+a2suW6lOWAkuWFpeW6n+a2sue8uO+8jOS4jeWPr+maj+aEj+WAkuWFpeS4i+awtOmBk1wiXG4gIF0sXG4gIFwiZXhhbV90aXBzXCI6IFtcbiAgICBcIumrmOiAg+iAg+eCuTE6IOa7tOWumueuoeeahOS9v+eUqOaWueazle+8iOmFuOW8j+a7tOWumueuoeS4jeiDveijheeiseaAp+a6tua2su+8jOeiseW8j+a7tOWumueuoeS4jeiDveijhemFuOaAp+a6tua2suWSjOawp+WMluaAp+a6tua2su+8iVwiLFxuICAgIFwi6auY6ICD6ICD54K5Mjog5oyH56S65YmC55qE6YCJ5oup77yI5by66YW45ru05a6a5by656Kx55So6YWa6YWe5oiW55Sy5Z+65qmZ77yb5by66YW45ru05a6a5byx56Kx55So55Sy5Z+65qmZ77yb5by656Kx5ru05a6a5byx6YW455So6YWa6YWe77yJXCIsXG4gICAgXCLpq5jogIPogIPngrkzOiDmu7Tlrprnu4jngrnnmoTliKTmlq3vvIjpopzoibLlj5jljJbkuJTljYrliIbpkp/lhoXkuI3mgaLlpI3vvIlcIixcbiAgICBcIumrmOiAg+iAg+eCuTQ6IOivr+W3ruWIhuaekO+8iOWmguacqua2pua0l+a7tOWumueuoeOAgeawlOazoeacquaOkuWHuuOAgea7tOWumui/h+mHj+etieWvuee7k+aenOeahOW9seWTje+8iVwiLFxuICAgIFwi6auY6ICD6ICD54K5NTog6K6h566X5b6F5rWL5ray5rWT5bqm55qE5YWs5byP5Y+K5pWw5o2u5aSE55CGXCJcbiAgXVxufSJ9LCJsb2dwcm9icyI6bnVsbCwiZmluaXNoX3JlYXNvbiI6InN0b3AifV0sInVzYWdlIjp7InByb21wdF90b2tlbnMiOjE2MCwiY29tcGxldGlvbl90b2tlbnMiOjkxMywidG90YWxfdG9rZW5zIjoxMDczLCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6MH0sInByb21wdF9jYWNoZV9oaXRfdG9rZW5zIjowLCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjE2MH0sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 47d1f5199074a6387aec46d021ce694c.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "D3pddd19zqQK5mD5eHRYzd9KLKytfNlru6QcG1TVs-YVI_plDE_acQ==",
+    "x-amz-cf-pop": "KUL50-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "6418429defed6e55efbe6f8e9ebfe812"
+   },
+   "recorded_at": "2026-09-27T16:11:35",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/beta:chat:completions/8c797793c20f113e",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 2048,
+  "messages": [
+   {
+    "content": "你是高中化学实验教学专家。为指定实验生成完整报告。\n\n返回JSON:\n{\n  \"experiment_name\": \"实验名称\",\n  \"objectives\": [\"实验目的1\", \"实验目的2\"],\n  \"equipment\": [\"仪器1\", \"药品1\"],\n  \"steps\": [\"步骤1: ...\", \"步骤2: ...\"],\n  \"expected_phenomena\": [\"现象1: ...\", \"现象2: ...\"],\n  \"equations\": [\"化学方程式1\", \"化学方程式2\"],\n  \"principles\": [\"原理1\", \"原理2\"],\n  \"safety\": [\"安全提醒1\", \"安全提醒2\"],\n  \"exam_tips\": [\"高考考点提示\"]\n}",
+    "role": "system"
+   },
+   {
+    "content": "请生成实验报告: 酸碱中和滴定",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.5,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/beta/chat/completions"
+}

@@ -1,0 +1,14 @@
+{
+  "doc": "环境保护与绿色化学.md",
+  "kp": "M2-T5-KP05",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T2-KP04", "to_kp": "M2-T5-KP05",
+     "reason": "硫酸型酸雨与脱硫原理来自硫的转化"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T2-KP06", "to_kp": "M2-T5-KP05",
+     "reason": "硝酸型酸雨与 NOx 尾气处理来自氮氧化物"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP05", "substance": "二氧化硫", "formula": "SO2", "role": "硫酸型酸雨主要来源"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP05", "substance": "氧化钙", "formula": "CaO", "role": "燃煤脱硫剂"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP05", "substance": "二氧化氮", "formula": "NO2", "role": "硝酸型酸雨与光化学烟雾"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP05", "substance": "氢氧化钠", "formula": "NaOH", "role": "尾气吸收剂"}
+  ]
+}

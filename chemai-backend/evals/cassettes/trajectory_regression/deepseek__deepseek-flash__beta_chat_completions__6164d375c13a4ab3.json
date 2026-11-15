@@ -1,0 +1,43 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImU4OTNjZTUzLTczMjYtNDE3NC04YjQ2LTIxNDQzYjkyNGRiMiIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjU2ODksIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IuWQjOWtpuS9oOWlve+8geawp+WMlui/mOWOn+WPjeW6lOaYr+mrmOS4reWMluWtpueahOaguOW/g+iAg+eCue+8jOmrmOiAg+WHoOS5juW5tOW5tOmDveiAg+OAguaIkeS7rOWFiOS4jeaApeedgOiDjOWumuS5ie+8jOaIkeaDs+WFiOmXrumXruS9oO+8mlxuXG4qKuS9oOacieayoeacieWQrOi/h+KAnOWMluWQiOS7t+WNh+mZjeKAneaIluiAheKAnOeUteWtkOi9rOenu+KAnei/meS4pOS4quivtOazle+8n+S9oOinieW+l+Wug+S7rOWSjOawp+WMlui/mOWOn+WPjeW6lOacieS7gOS5iOWFs+ezu++8nyoqXG5cbuWFiOivtOivtOS9oOeahOaDs+azle+8jOWTquaAleS4jeehruWumuS5n+ayoeWFs+ezu++8jOaIkeS7rOS4gOi1t+eQhuS4gOeQhuOAglxuXG7nu5nkvaDkuIDkuKrlsI/mj5DnpLrvvJrliJ3kuK3miJHku6zlrabov4fpk4HnlJ/plIjjgIHnh4Png6fov5nkupvlj43lupTvvIzlhbblrp7pg73lsZ7kuo7msKfljJbov5jljp/lj43lupTjgILkvaDog73mg7PliLDlroPku6zmnInku4DkuYjlhbHlkIzngrnlkJfvvJ9cblxu5L2g5YWI5oCd6ICD5LiA5LiL77yM5oiR5Lus5YaN5LiA5q2l5q2l5ouG6Kej44CC8J+YiiJ9LCJsb2dwcm9icyI6bnVsbCwiZmluaXNoX3JlYXNvbiI6InN0b3AifV0sInVzYWdlIjp7InByb21wdF90b2tlbnMiOjExMSwiY29tcGxldGlvbl90b2tlbnMiOjEwOSwidG90YWxfdG9rZW5zIjoyMjAsInByb21wdF90b2tlbnNfZGV0YWlscyI6eyJjYWNoZWRfdG9rZW5zIjowfSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjAsInByb21wdF9jYWNoZV9taXNzX3Rva2VucyI6MTExfSwic3lzdGVtX2ZpbmdlcnByaW50IjoiYWViNTY0MDFjYTc0ZTEyNzgyMWM0ZjkxMjZkY2I2NjkifQ==",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 d3c2b5cab7ef277bb226d8c787fb1156.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "CiM03qAB7hcvB9UU7LSb6tQSOTcGNVokDd2boCspa5TaaVP7w7OjXQ==",
+    "x-amz-cf-pop": "KUL51-P2",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "4683fa0a63f0bbdcf7b3f70d180107ee"
+   },
+   "recorded_at": "2026-09-27T16:14:51",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/beta:chat:completions/6164d375c13a4ab3",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 1024,
+  "messages": [
+   {
+    "content": "你是高中化学AI助教。学生水平: 中等。\n\n教学原则:\n1. 引导式教学: 不直接给答案，先问学生\"你是怎么想的\"\n2. 分步讲解: 复杂问题拆成2-3步，每步确认理解\n3. 联系考点: 提及高考中的常见题型\n4. 鼓励为主: 对正确思路给予肯定\n5. 单次回复不超过500字\n6. 不确定时诚实说不知道",
+    "role": "system"
+   },
+   {
+    "content": "什么是氧化还原反应",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.7,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/beta/chat/completions"
+}

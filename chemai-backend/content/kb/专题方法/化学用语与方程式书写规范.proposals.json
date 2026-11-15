@@ -1,0 +1,13 @@
+{
+  "doc": "化学用语与方程式书写规范.md",
+  "kp": "M6-T2-KP03",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP06", "to_kp": "M6-T2-KP03",
+     "reason": "电子守恒配平是电极反应式与氧化还原方程式的地基"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T3-KP01", "to_kp": "M6-T2-KP03",
+     "reason": "ΔH 的物理来源决定热化学方程式规范"},
+    {"edge_type": "relates_to", "kp": "M6-T2-KP03", "substance": "醋酸", "formula": "CH3COOH", "role": "弱酸不拆案例"},
+    {"edge_type": "relates_to", "kp": "M6-T2-KP03", "substance": "碳酸钙", "formula": "CaCO3", "role": "难溶不拆案例"},
+    {"edge_type": "relates_to", "kp": "M6-T2-KP03", "substance": "氯气", "formula": "Cl2", "role": "电解电极反应式案例"}
+  ]
+}

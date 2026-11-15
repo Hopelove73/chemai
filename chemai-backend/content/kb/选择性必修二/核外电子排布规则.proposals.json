@@ -1,0 +1,12 @@
+{
+  "doc": "核外电子排布规则.md",
+  "kp": "M4-T1-KP03",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M4-T1-KP02", "to_kp": "M4-T1-KP03",
+     "reason": "排布规则作用于轨道与自旋，先懂轨道图景"},
+    {"edge_type": "relates_to", "kp": "M4-T1-KP03", "substance": "氮", "formula": "N", "role": "洪特规则示例"},
+    {"edge_type": "relates_to", "kp": "M4-T1-KP03", "substance": "铬", "formula": "Cr", "role": "半满反常代表"},
+    {"edge_type": "relates_to", "kp": "M4-T1-KP03", "substance": "铜", "formula": "Cu", "role": "全满反常代表"},
+    {"edge_type": "relates_to", "kp": "M4-T1-KP03", "substance": "铁", "formula": "Fe", "role": "价电子与变价示例"}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "doc": "VSEPR与分子空间结构.md",
+  "kp": "M4-T2-KP03",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M4-T2-KP02", "to_kp": "M4-T2-KP03",
+     "reason": "键角是构型的数值体现，先有键角概念"},
+    {"edge_type": "relates_to", "kp": "M4-T2-KP03", "substance": "水", "formula": "H2O", "role": "V 形示例（两孤对）"},
+    {"edge_type": "relates_to", "kp": "M4-T2-KP03", "substance": "氨气", "formula": "NH3", "role": "三角锥示例（一孤对）"},
+    {"edge_type": "relates_to", "kp": "M4-T2-KP03", "substance": "二氧化碳", "formula": "CO2", "role": "直线形示例（无孤对）"}
+  ]
+}

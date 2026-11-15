@@ -1,0 +1,133 @@
+{
+  "version": "reviewed-1",
+  "note": "M6 标签映射（KB4a，2026-10-28）：M1 generic 桶（18 类泛化技能标签，沿用口径不建条目）中的 12 类转正——专题方法册建成后有了真实落点。转正后全题库 49630 题次的标签落点率 99.98%（仅剩 6 类长尾噪声 12 题次，见 future）。tag_count 为题库实例行计数（与 m1/m2 同口径）。",
+  "generated_at": "2026-10-28",
+  "mapped": {
+    "_comment": "confidence: high=同名或教科书级对应；medium=家族/泛化标签映射到主篇；low=判断性归并，老师终审重点过",
+    "化学实验": {
+      "kp": "M6-T1-KP01",
+      "confidence": "medium",
+      "tag_count": 3888,
+      "note": "题库最大泛化标签；实验综合题（仪器/装置/现象）落通法篇",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "实验设计": {
+      "kp": "M6-T1-KP02",
+      "confidence": "medium",
+      "tag_count": 844,
+      "note": "方案设计在设计与评价篇占主体",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "实验评价": {
+      "kp": "M6-T1-KP02",
+      "confidence": "medium",
+      "tag_count": 635,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "实验方案评价": {
+      "kp": "M6-T1-KP02",
+      "confidence": "high",
+      "tag_count": 165,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "化学计算": {
+      "kp": "M6-T2-KP01",
+      "confidence": "medium",
+      "tag_count": 2634,
+      "note": "家族标签，覆盖 KP01-KP02（讨论型计算归 KP02）；按族内首篇先例",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "多过程综合": {
+      "kp": "M6-T2-KP01",
+      "confidence": "low",
+      "tag_count": 133,
+      "note": "多步连续反应计算为主，用关系式法承接；流程型综合归 M2-T5-KP06",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "质量分数": {
+      "kp": "M6-T2-KP01",
+      "confidence": "low",
+      "tag_count": 2,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "化学方程式": {
+      "kp": "M6-T2-KP03",
+      "confidence": "medium",
+      "tag_count": 1871,
+      "note": "书写与配平规范落化学用语篇；具体反应用途随各册内容条目",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "化学用语": {
+      "kp": "M6-T2-KP03",
+      "confidence": "high",
+      "tag_count": 922,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "化学表述": {
+      "kp": "M6-T2-KP03",
+      "confidence": "low",
+      "tag_count": 2,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "陌生信息迁移": {
+      "kp": "M6-T3-KP01",
+      "confidence": "high",
+      "tag_count": 129,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "物质用途": {
+      "kp": "M1-T5-KP01",
+      "confidence": "medium",
+      "tag_count": 929,
+      "note": "性质决定用途类 STSE 题，M1 化学与可持续发展篇已有落点，不新建条目",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    }
+  },
+  "generic": {
+    "_comment": "原 generic 18 类中 12 类转正进 mapped；其余 6 类见 future",
+    "count": 0
+  },
+  "future": {
+    "_comment": "长尾噪声标签（合计 12 题次，占 0.02%）：泛指性过强或跨册无稳定落点，不建条目不值得；若后续某类题量增长再转正",
+    "长尾噪声": [
+      "物质的性质",
+      "物质性质",
+      "元素化合物",
+      "物质转化",
+      "水的作用",
+      "水的性质"
+    ]
+  },
+  "stats": {
+    "generated_at": "2026-10-28",
+    "mapped_tags": 12,
+    "mapped_question_tags": 12154,
+    "future_tags": 6,
+    "future_question_tags": 12,
+    "note": "落点率 (49630-12)/49630 = 99.98%。163 类标签处置终态：mapped 157 类（145 + 本册转正 12，含物质用途自 generic 转正）+ 长尾噪声 6 类（原 generic 18 - 12）。"
+  }
+}

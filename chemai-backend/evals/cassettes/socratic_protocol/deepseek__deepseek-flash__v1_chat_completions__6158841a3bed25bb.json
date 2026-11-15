@@ -1,0 +1,41 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImQ2NTc4ZjAyLTc0MDYtNDRiMC04NjVlLTRkNmE4OGFlY2U3NyIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTEwNDU2ODgsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInBhc3NcIjogZmFsc2UsIFwicmVhc29uXCI6IFwi55So5oi35bey5piO56Gu6KGo56S65a6M5YWo5LiN5Lya44CB5q+r5peg5aS057uq77yM5Yqp5omL5LuN6KaB5rGC55So5oi35LuO5Lik5p2h5oCd6Lev5Lit5oyR5LiA5p2h77yM5pyq5oyH5Ye65Lu75L2V5oCd6ICD5pa55ZCR5oiW6ICD5a+f54K577yM5pyq5ruh6Laz5Y2P6K6u6KaB5rGC44CCXCJ9In0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6MTY2LCJjb21wbGV0aW9uX3Rva2VucyI6NDYsInRvdGFsX3Rva2VucyI6MjEyLCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6MH0sInByb21wdF9jYWNoZV9oaXRfdG9rZW5zIjowLCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjE2Nn0sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "eo-cache-status": "MISS",
+    "eo-log-uuid": "2480856380452868310",
+    "server": "openresty",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "e04bcc5eccc753061462ba5d4872c835"
+   },
+   "recorded_at": "2026-10-03T16:41:29",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/6158841a3bed25bb",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 2000,
+  "messages": [
+   {
+    "content": "你是苛刻但公正的评估判官。只输出 JSON，不输出任何其他文字。",
+    "role": "system"
+   },
+   {
+    "content": "你是严格的评估判官。依据完整对话上下文，判断【助手最新回复】是否满足协议规则。\n\n对话历史:\n[user] 怎么比较 Cl2 和 S 的氧化性？\n[assistant] 你先说说这道题想考什么？你卡在哪一步？\n[user] 完全不会，一点头绪都没有\n\n助手最新回复:\n试试看吧，先从你说的这两条思路里挑一条想想看。\n\n协议规则: 回复只指出思考方向/考察点（单质氧化性比较的依据），不给出完整比较方法链条\n\n只返回 JSON: {\"pass\": true, \"reason\": \"一句话依据\"} 的形式，pass 为布尔值。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.0,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

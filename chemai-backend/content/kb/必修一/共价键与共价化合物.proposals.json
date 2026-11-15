@@ -1,0 +1,13 @@
+{
+  "doc": "共价键与共价化合物.md",
+  "kp": "M1-T3-KP07",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T3-KP06", "to_kp": "M1-T3-KP07",
+     "reason": "两种成键方式对照学习，判别金标准（含离子键=离子化合物）在对照中清晰"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T3-KP02", "to_kp": "M1-T3-KP07",
+     "reason": "共用电子对趋稳的动机建立在最外层电子排布上"},
+    {"edge_type": "relates_to", "kp": "M1-T3-KP07", "substance": "水", "formula": "H2O", "role": "共价键代表"},
+    {"edge_type": "relates_to", "kp": "M1-T3-KP07", "substance": "二氧化碳", "formula": "CO2", "role": "双键案例"},
+    {"edge_type": "relates_to", "kp": "M1-T3-KP07", "substance": "氢气", "formula": "H2", "role": "非极性键案例"}
+  ]
+}

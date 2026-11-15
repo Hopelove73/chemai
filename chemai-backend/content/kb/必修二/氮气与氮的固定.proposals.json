@@ -1,0 +1,14 @@
+{
+  "doc": "氮气与氮的固定.md",
+  "kp": "M2-T2-KP05",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP06", "to_kp": "M2-T2-KP05",
+     "reason": "N2 的 0 价既可升（生成 NO）又可降（生成 NH3），要靠价态分析理解"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T3-KP08", "to_kp": "M2-T2-KP05",
+     "reason": "合成氨是可逆反应，转化率有限，先有反应限度的概念"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP05", "substance": "氮气", "formula": "N2", "role": "本篇主角，三键稳定"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP05", "substance": "氨气", "formula": "NH3", "role": "人工固氮产物"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP05", "substance": "一氧化氮", "formula": "NO", "role": "雷电固氮产物"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP05", "substance": "氮化镁", "formula": "Mg3N2", "role": "与活泼金属反应的产物"}
+  ]
+}

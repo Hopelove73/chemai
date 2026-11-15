@@ -1,0 +1,12 @@
+{
+  "doc": "金属晶体与电子气理论.md",
+  "kp": "M4-T3-KP05",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M4-T3-KP01", "to_kp": "M4-T3-KP05",
+     "reason": "金属晶体是按维系力分类的第三类"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP17", "to_kp": "M4-T3-KP05",
+     "reason": "铁的物理性质（导电导热延展）是电子气理论的素材"},
+    {"edge_type": "relates_to", "kp": "M4-T3-KP05", "substance": "钠", "formula": "Na", "role": "低熔点金属键对照"},
+    {"edge_type": "relates_to", "kp": "M4-T3-KP05", "substance": "铝", "formula": "Al", "role": "延展性示例"}
+  ]
+}

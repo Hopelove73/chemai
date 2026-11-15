@@ -1,0 +1,15 @@
+{
+  "doc": "乙烯与烯烃.md",
+  "kp": "M2-T4-KP04",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP03", "to_kp": "M2-T4-KP04",
+     "reason": "先有饱和烃只发生取代的对照，才能理解不饱和烃的加成"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP01", "to_kp": "M2-T4-KP04",
+     "reason": "碳碳双键与平面结构是乙烯性质的结构基础"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP04", "substance": "乙烯", "formula": "C2H4", "role": "本篇主角，含双键"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP04", "substance": "溴", "formula": "Br2", "role": "加成试剂，检验双键"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP04", "substance": "乙烷", "formula": "C2H6", "role": "加氢产物"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP04", "substance": "氯乙烷", "formula": "C2H5Cl", "role": "与 HCl 加成产物"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP04", "substance": "聚乙烯", "formula": "[-CH2-CH2-]n", "role": "加聚产物"}
+  ]
+}

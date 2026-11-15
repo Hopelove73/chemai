@@ -1,0 +1,14 @@
+{
+  "doc": "金属矿物的开发利用.md",
+  "kp": "M2-T5-KP01",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP07", "to_kp": "M2-T5-KP01",
+     "reason": "冶炼方法的选择取决于还原剂强弱与金属活泼性"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP17", "to_kp": "M2-T5-KP01",
+     "reason": "高炉炼铁与铁的化学性质是本篇的核心案例"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP01", "substance": "氧化铁", "formula": "Fe2O3", "role": "炼铁原料，铝热反应氧化剂"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP01", "substance": "铝", "formula": "Al", "role": "铝热反应还原剂"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP01", "substance": "铁", "formula": "Fe", "role": "高炉/铝热产物"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP01", "substance": "氯化钠", "formula": "NaCl", "role": "电解法制钠原料"}
+  ]
+}

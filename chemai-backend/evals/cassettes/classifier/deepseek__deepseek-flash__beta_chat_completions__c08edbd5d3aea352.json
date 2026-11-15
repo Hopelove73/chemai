@@ -1,0 +1,39 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjAzY2MxYmNmLTI3NzctNDg4MS1hYmY5LTJmZWNkMGIyYjI0ZSIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjQ4NDgsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcbiAgXCJ0eXBlXCI6IFwiY2hhdFwiLFxuICBcInRvb2xzXCI6IFtcInNlYXJjaF9leGFtX2JhbmtcIl0sXG4gIFwicGFnZVwiOiBudWxsLFxuICBcInByb3ZpZGVyXCI6IFwiZGVlcHNlZWtcIlxufSJ9LCJsb2dwcm9icyI6bnVsbCwiZmluaXNoX3JlYXNvbiI6InN0b3AifV0sInVzYWdlIjp7InByb21wdF90b2tlbnMiOjY3NCwiY29tcGxldGlvbl90b2tlbnMiOjM0LCJ0b3RhbF90b2tlbnMiOjcwOCwicHJvbXB0X3Rva2Vuc19kZXRhaWxzIjp7ImNhY2hlZF90b2tlbnMiOjUxMn0sInByb21wdF9jYWNoZV9oaXRfdG9rZW5zIjo1MTIsInByb21wdF9jYWNoZV9taXNzX3Rva2VucyI6MTYyfSwic3lzdGVtX2ZpbmdlcnByaW50IjoiYWViNTY0MDFjYTc0ZTEyNzgyMWM0ZjkxMjZkY2I2NjkifQ==",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 a3b94ce1615696728b5a788ec3213be4.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "FS1h4cap_2KUp148GYEmNabksWAt3G7Nk-X798UMHTghaDO4NJl6vw==",
+    "x-amz-cf-pop": "KUL62-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "2ae18c8b5c4d913e2b0e4244667b9339"
+   },
+   "recorded_at": "2026-09-27T16:00:49",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/beta:chat:completions/c08edbd5d3aea352",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 512,
+  "messages": [
+   {
+    "content": "你是化学教研助手的意图分类器。回答两个问题：\n1. 用户消息是否需要调用工具？\n2. 如果不需要工具，目标页面是什么？\n\n分类规则：\n- **chat**: 需要调用工具完成任务（生成题目、诊断学情、查周报、搜索真题、答疑辅导、模拟实验、配平方程式、导入试卷等）。**不确定时一律走 chat**。\n- **navigate**: 纯页面跳转，不需要任何工具。**只有明确说\"打开XX页面\"\"跳转到XX\"的才走 navigate**。含\"看看\"\"查看\"等词的查询一律走 chat。\n\n返回 JSON（只返回 JSON，不要其他文字）：\n{\n  \"type\": \"chat\" | \"navigate\",\n  \"tools\": [],\n  \"page\": null | \"exam-v2\" | \"diagnosis\" | \"students\" | \"teacher\",\n  \"provider\": \"deepseek\" | \"mimo\"\n}\n\n页面映射（仅 navigate 时需要）：\n- \"打开考试工作台\" → exam-v2\n- \"打开诊断页面\" → diagnosis\n- \"打开学生管理\" → students\n- \"去首页/班级列表\" → teacher\n- 查询类（\"有哪些学生\"\"XX班的谁\"）一律走 chat，不走 navigate\n\n可用工具（仅 chat 时需要，最多3个，只从以下列表中选择）：\n- search_exam_bank: 搜索历年高考化学真题\n- web_search: 联网搜索最新化学资讯和高考动态\n- show_exam_workbench: 打开考试工作台面板\n- save_to_bank\n- list_banks: 列出所有题库文件夹\n- delete_bank: 删除题库文件夹\n- chemistry_tutor: 引导式化学辅导答疑\n- balance_equation: 审核化学方程式配平\n- show_diagnosis: 在聊天中展示诊断结果图表\n- show_students: 展示班级学生列表\n- diagnose_barrier: 诊断学生学习障碍类型\n- assign_adaptive_practice: 根据学生障碍布置自适应练习\n- query_assignment_progress\n- weekly_report: 生成学生本周化学学习周报\n- generate_learning_plan: 生成学生个性化学习计划\n- revise_learning_plan\n- send_learning_plan: 发送学习计划给学生\n- generate_parent_report: 生成发给家长的学习报告\n- send_report_to_parent: 推送学习报告给家长\n- query_ocr_progress\n- grade_answer_sheets\n- save_grading_results\n- query_batch_grades\n- query_grading_queue\n- confirm_exam_grades\n- list_teacher_exams\n- generate_questions: AI生成化学题目\n- memory_student_get: 获取学生长期学情记忆\n- memory_teacher_get\n- parse_chemistry_document\n- import_question_bank\n- check_parser_services\n- read\n- write\n- edit\n- find\n- grep\n- bash\n- plan_task\n\nProvider 选择：\n- 图片/拍照/OCR/识别/上传 → mimo\n- 其他 → deepseek\n\n\n用户消息：找2023年高考化学真题\n\nJSON：",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.1,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/beta/chat/completions"
+}

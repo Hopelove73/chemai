@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjQ5OTQ4N2M2LTY4NjYtNDU4Ni1iMDI0LTc3Nzg5MGIwZDY2MSIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjQ5ODQsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDEwMCwgXCJjb25maWRlbmNlXCI6IFwiaGlnaFwiLCBcInJhdGlvbmFsZVwiOiBcIuWtpueUn+etlOahiELkuI7lrpjmlrnpu4Tph5HnrZTmoYhC5a6M5YWo5LiA6Ie077yM5Yik5a6Y5Yik5ruh5YiG5q2j56Gu77yb5pys6aKY5Li65Y2V6YCJ6aKY77yM5LiN5raJ5Y+K5aSa5q2l6YOo5YiG5YiG77yb5ZCM57G75Z6L5Yik5YiG5qCH5YeG5LiA6Ie077yM5peg5omj5YiG5LiN5LiA6Ie06Zeu6aKY44CCXCIsIFwic2V2ZXJlX2ZsYWdzXCI6IFtdfSIsInJlYXNvbmluZ19jb250ZW50IjoiV2UgbmVlZCBhbnN3ZXIgb25seSBKU09OLiBOZWVkIGV2YWx1YXRlIGdpdmVuLiBXZSBuZWVkIHBhcnNlIHRhc2s6IFdlIGFyZSBqdWRnZSBmb3IgQ2hlbUFJIGNoZW1pY2FsIGVkdWNhdGlvbiBhZ2VudCwgXCLliKTljbdcIiBmYW1pbHkuIE5lZWQgc2NvcmUgMC0xMDAgcGVyIHJ1YnJpYyB3ZWlnaHRzOlxuLSBjb3JyZWN0bmVzc192c19nb2xkZW4gd2VpZ2h0IDAuNjogY29ycmVjdG5lc3Mgb2YgZ3JhZGluZzogZWFjaCBxdWVzdGlvbiBncmFkaW5nIGNvbnNpc3RlbnQgd2l0aCBnb2xkZW4gYW5zd2VyXG4tIHBhcnRpYWxfY3JlZGl0IHdlaWdodCAwLjI6IHBhcnRpYWwgY3JlZGl0IGZvciBtdWx0aS1zdGVwIHJlYXNvbmFibGVcbi0gY29uc2lzdGVuY3kgd2VpZ2h0IDAuMjogc2FtZSB0eXBlIGVycm9yIGRlZHVjdGlvbnMgY29uc2lzdGVudFxuXG5JbnB1dDog6aKY55uu77ya55+t5ZGo5pyf5YWD57SgWOOAgVnjgIFa55qE5Y6f5a2Q5bqP5pWw5L6d5qyh5aKe5aSn77yMWOWOn+WtkOeahOacgOWkluWxgueUteWtkOaVsOaYr+asoeWkluWxgueahDLlgI3vvIxZ55qE5rCn5YyW54mp5pyJ5Lik5oCn77yMWueahOWOn+WtkOWNiuW+hOWcqOWQjOWRqOacn+S4reacgOWwj+OAguS4i+WIl+ivtOazleato+ehrueahOaYr1xu5b6F6K+E6L6T5Ye677ya5a2m55Sf562U5qGI77yaQu+8m+WIpOWumOWIpOWIhu+8mua7oeWIhlxu6buE6YeR5Y+C6ICD562U5qGI77ya5a6Y5pa5562U5qGI77yaQu+8iOWIpOWIhuato+ehru+8iVxuXG5OZWVkIG91dHB1dCBKU09OIHNjb3JlLCBjb25maWRlbmNlLCByYXRpb25hbGUsIHNldmVyZV9mbGFncy5cblxuV2UgbmVlZCBkZXRlcm1pbmUgaWYganVkZ2UncyBncmFkaW5nIGlzIGNvcnJlY3QuIFN0dWRlbnQgYW5zd2VyIEIsIG9mZmljaWFsIGFuc3dlciBCLiBKdWRnZSBnaXZlcyBmdWxsIG1hcmtzLiBTbyBncmFkaW5nIGNvcnJlY3QuIE5vIG11bHRpLXN0ZXAgcGFydGlhbCBjcmVkaXQ/IFRoaXMgaXMgYSBzaW5nbGUgTUMgcXVlc3Rpb24sIG5vIHBhcnRpYWwuIENvbnNpc3RlbmN5IG5vdCBhcHBsaWNhYmxlLiBTaG91bGQgc2NvcmUgMTAwIGxpa2VseS4gQ29uZmlkZW5jZSBoaWdoPyBOZWVkIG1heWJlIFwiaGlnaFwiLiBSYXRpb25hbGU6IGNvcnJlY3RuZXNzIG1hdGNoZXMgZ29sZGVuOyBwYXJ0aWFsIGNyZWRpdCBub3QgYXBwbGljYWJsZSBidXQgZnVsbCBjcmVkaXQgYXBwcm9wcmlhdGU7IGNvbnNpc3RlbmN5IG5vIGlzc3VlLiBzZXZlcmVfZmxhZ3MgW10uXG5cbk5lZWQgb25seSBKU09OLiBFbnN1cmUgaW50ZWdlciAxMDAuIE5lZWQgbm8gbWFya2Rvd24uICJ9LCJsb2dwcm9icyI6bnVsbCwiZmluaXNoX3JlYXNvbiI6InN0b3AifV0sInVzYWdlIjp7InByb21wdF90b2tlbnMiOjMxMiwiY29tcGxldGlvbl90b2tlbnMiOjM1NywidG90YWxfdG9rZW5zIjo2NjksInByb21wdF90b2tlbnNfZGV0YWlscyI6eyJjYWNoZWRfdG9rZW5zIjoxMjh9LCJjb21wbGV0aW9uX3Rva2Vuc19kZXRhaWxzIjp7InJlYXNvbmluZ190b2tlbnMiOjI4OX0sInByb21wdF9jYWNoZV9oaXRfdG9rZW5zIjoxMjgsInByb21wdF9jYWNoZV9taXNzX3Rva2VucyI6MTg0fSwic3lzdGVtX2ZpbmdlcnByaW50IjoiYWViNTY0MDFjYTc0ZTEyNzgyMWM0ZjkxMjZkY2I2NjkifQ==",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "-0hYfWoPF9yXBPXNiohxoQ2puxZVpT67SdSCWHTDY4LDXpac63SJzQ==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "de4883c9a5a93763e6f4216cf6ba2185"
+   },
+   "recorded_at": "2026-09-27T16:03:07",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/d1eba39d178614da",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「判卷」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- correctness_vs_golden（权重 0.6）：判分正确性：每题判分与黄金答案一致\n- partial_credit（权重 0.2）：部分分：多步题的部分得分是否合理\n- consistency（权重 0.2）：一致性：同类型错误的扣分标准一致\n\n输入：题目：短周期元素X、Y、Z的原子序数依次增大，X原子的最外层电子数是次外层的2倍，Y的氧化物有两性，Z的原子半径在同周期中最小。下列说法正确的是\n待评输出：学生答案：B；判官判分：满分\n黄金参考答案：官方答案：B（判分正确）\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

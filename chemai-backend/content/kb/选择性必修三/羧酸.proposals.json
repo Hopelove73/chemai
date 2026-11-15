@@ -1,0 +1,13 @@
+{
+  "doc": "羧酸.md",
+  "kp": "M5-T2-KP08",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP07", "to_kp": "M5-T2-KP08",
+     "reason": "乙酸的羧基与酯化是羧酸家族的原型"},
+    {"edge_type": "prerequisite", "from_kp": "M5-T2-KP07", "to_kp": "M5-T2-KP08",
+     "reason": "甲酸的醛式氢要用醛的性质解释"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP08", "substance": "乙酸", "formula": "CH3COOH", "role": "饱和一元酸代表"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP08", "substance": "甲酸", "formula": "HCOOH", "role": "醛式氢双面分子"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP08", "substance": "草酸", "formula": "H2C2O4", "role": "二元酸代表"}
+  ]
+}

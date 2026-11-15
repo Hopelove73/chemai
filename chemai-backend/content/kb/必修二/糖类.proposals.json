@@ -1,0 +1,14 @@
+{
+  "doc": "糖类.md",
+  "kp": "M2-T4-KP09",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP06", "to_kp": "M2-T4-KP09",
+     "reason": "葡萄糖是多羟基醛，先有羟基官能团的认识"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP07", "to_kp": "M2-T4-KP09",
+     "reason": "糖类含羧基/醛基等官能团，先有含氧官能团基础"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP09", "substance": "葡萄糖", "formula": "C6H12O6", "role": "单糖代表，还原性糖"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP09", "substance": "蔗糖", "formula": "C12H22O11", "role": "二糖代表，非还原性糖"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP09", "substance": "淀粉", "formula": "(C6H10O5)n", "role": "多糖代表，遇碘变蓝"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP09", "substance": "纤维素", "formula": "(C6H10O5)n", "role": "多糖，人体不能消化"}
+  ]
+}

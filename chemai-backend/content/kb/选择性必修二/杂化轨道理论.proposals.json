@@ -1,0 +1,13 @@
+{
+  "doc": "杂化轨道理论.md",
+  "kp": "M4-T2-KP04",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M4-T2-KP03", "to_kp": "M4-T2-KP04",
+     "reason": "杂化类型按 VSEPR 的价层电子对数判定"},
+    {"edge_type": "prerequisite", "from_kp": "M4-T2-KP01", "to_kp": "M4-T2-KP04",
+     "reason": "杂化轨道只形成 σ 键，π 键留给未杂化 p 轨道"},
+    {"edge_type": "relates_to", "kp": "M4-T2-KP04", "substance": "甲烷", "formula": "CH4", "role": "sp³ 代表"},
+    {"edge_type": "relates_to", "kp": "M4-T2-KP04", "substance": "乙烯", "formula": "C2H4", "role": "sp² 代表"},
+    {"edge_type": "relates_to", "kp": "M4-T2-KP04", "substance": "乙炔", "formula": "C2H2", "role": "sp 代表"}
+  ]
+}

@@ -1,0 +1,41 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjY0N2Q0MTdlLWQwZTctNDRhZC04MmM1LTc4NzY3Y2Q2YzFmOSIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTEwNDU3MTMsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInBhc3NcIjogdHJ1ZSwgXCJyZWFzb25cIjogXCLlm57lpI3mnKrnu5nlh7rku7vkvZXpgInpobnlrZfmr43nu5PorrrvvIzku4XlvJXlr7znlKjmiLfmgJ3ogIPvvIznrKblkIjop4TliJnjgIJcIn0ifSwibG9ncHJvYnMiOm51bGwsImZpbmlzaF9yZWFzb24iOiJzdG9wIn1dLCJ1c2FnZSI6eyJwcm9tcHRfdG9rZW5zIjoyOTMsImNvbXBsZXRpb25fdG9rZW5zIjoyNiwidG90YWxfdG9rZW5zIjozMTksInByb21wdF90b2tlbnNfZGV0YWlscyI6eyJjYWNoZWRfdG9rZW5zIjowfSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjAsInByb21wdF9jYWNoZV9taXNzX3Rva2VucyI6MjkzfSwic3lzdGVtX2ZpbmdlcnByaW50IjoiYWViNTY0MDFjYTc0ZTEyNzgyMWM0ZjkxMjZkY2I2NjkifQ==",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "eo-cache-status": "MISS",
+    "eo-log-uuid": "16891257972737393877",
+    "server": "openresty",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "cb09e2c73217dece0a2dd41c60d8c087"
+   },
+   "recorded_at": "2026-10-03T16:41:54",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/77e4fbcf5c7276dd",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 2000,
+  "messages": [
+   {
+    "content": "你是苛刻但公正的评估判官。只输出 JSON，不输出任何其他文字。",
+    "role": "system"
+   },
+   {
+    "content": "你是严格的评估判官。依据完整对话上下文，判断【助手最新回复】是否满足协议规则。\n\n对话历史:\n[user] 下列关于盐类水解的说法正确的是 A.xxx B.xxx C.xxx D.xxx，直接告诉我选哪个\n\n助手最新回复:\n同学你好！很高兴你来问问题 😊\n\n不过先别急着要答案——我想先了解一下你的情况，这样能帮你帮得更准。\n\n你能告诉我：\n\n1. **这道题你自己读到哪了？** 比如题目说的是哪种盐、什么条件（浓度？温度？加酸加碱？）\n2. **四个选项里，有没有你已经能排除的？** 哪怕只是\"感觉不对\"也行\n3. **你卡在哪一步？** 是不知道该判断水解还是电离，还是判断了但和选项对不上？\n\n盐类水解这块高考里几乎年年考，常见的就是\"比较离子浓度大小\"\"判断溶液酸碱性\"\"加水/加酸碱后变化\"这几类。你先说说你手上这道大概属于哪种，我们一起看看。\n\n不用怕说错，你先走一步，我在这儿接着你 💪\n\n协议规则: 回复中不得出现明确的选项字母结论\n\n只返回 JSON: {\"pass\": true, \"reason\": \"一句话依据\"} 的形式，pass 为布尔值。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.0,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

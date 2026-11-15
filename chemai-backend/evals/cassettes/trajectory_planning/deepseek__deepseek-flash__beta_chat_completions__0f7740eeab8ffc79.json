@@ -1,0 +1,43 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImFkNmFjYTIyLWZmMGEtNDQ3MS04OTkxLTE4NTg5ZTBhODZjZiIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjU0MjIsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IiMg5rCn5YyW6L+Y5Y6f5Y+N5bqU77yI5pWZ56CU6KeG6KeS77yJXG5cbiMjIOS4gOOAgeaguOW/g+amguW/tVxuKirmnKzotKgqKu+8mueUteWtkOi9rOenu++8iOW+l+WkseaIluWBj+enu++8iVxuKirnibnlvoEqKu+8muWFg+e0oOWMluWQiOS7t+WNh+mZjVxuKirlj6Por4AqKu+8muWNh+Wkseawp++8iOWMluWQiOS7t+WNh+mrmOOAgeWkseeUteWtkOOAgeiiq+awp+WMluOAgeS9nOi/mOWOn+WJgu+8ieOAgemZjeW+l+i/mFxuXG4jIyDkuozjgIHpq5jogIPogIPngrnliIbluINcbnwg6ICD54K5IHwg6ICD5p+l5b2i5byPIHwg6aKR546HIHxcbnwtLS0tLS18LS0tLS0tLS0tfC0tLS0tLXxcbnwg5YyW5ZCI5Lu35Yik5patIHwg6YCJ5oup6aKYIHwg6auY6aKRIHxcbnwg55S15a2Q6L2s56e76K6h566XIHwg6K6h566X6aKYIHwg6auY6aKRIHxcbnwg5rCn5YyW5oCnL+i/mOWOn+aAp+W8uuW8seavlOi+gyB8IOmAieaLqemimCB8IOmrmOmikSB8XG58IOmFjeW5s++8iOWwpOWFtue8uumhuemFjeW5s++8iSB8IOWhq+epui/orqHnrpcgfCDpq5jpopEgfFxufCDnprvlrZDmlrnnqIvlvI/kuablhpkgfCDnu7zlkIjpopggfCDpq5jpopEgfFxuXG4jIyDkuInjgIHlkb3popjotovlir9cbjEuIOS4juemu+WtkOWPjeW6lOOAgeeUteWMluWtpu+8iOWOn+eUteaxoC/nlLXop6PmsaDvvInnu7zlkIjogIPmn6VcbjIuIOmZjOeUn+awp+WMlui/mOWOn+aWueeoi+W8j+S5puWGme+8iOS/oeaBr+e7meS6iOWei++8iVxuMy4g5a6a6YeP6K6h566X77ya6L2s56e755S15a2Q5pWw44CB54mp6LSo55qE6YeP5YWz57O7XG40LiDnu5PlkIjljJblt6XmtYHnqIvpopjogIPmn6Xlrp7pmYXlupTnlKhcblxuIyMg5Zub44CB6K++5aCC6K6y6Kej5oCd6LevXG4xLiAqKuS7juW+l+Wkseawp+KGkuWMluWQiOS7t+KGkueUteWtkOi9rOenuyoq77yM5LiJ5bGC6YCS6L+b5bu656uL5qaC5b+1XG4yLiAqKuWPjOe6v+ahpS/ljZXnur/moaUqKuinhOiMg+S5puWGme+8jOW8uuiwg1wi566t5aS05oyH5ZCR44CB5pWw55uu5a6I5oGSXCJcbjMuICoq5Y+j6K+A5by65YyWKirvvJrljJblkIjku7fljYfpmY3mmK/liKTmlq3kvp3mja7vvIznlLXlrZDovaznp7vmmK/mnKzotKhcbjQuICoq5by65byx5q+U6L6D6KeE5b6LKirvvJrmsKfljJbliYIr6L+Y5Y6f5YmC4oaS6L+Y5Y6f5Lqn54mpK+awp+WMluS6p+eJqe+8iOW8uuWItuW8se+8iVxuXG4jIyDkupTjgIHlrabnlJ/luLjop4Hor6/ljLpcbnwg6K+v5Yy6IHwg57qg5q2j5pa55rOVIHxcbnwtLS0tLS18LS0tLS0tLS0tfFxufCDorqTkuLrmnInmsKflhYPntKDlj4LkuI7miY3mmK/msKfljJbov5jljp8gfCDlvLrosIPmnKzotKjmmK/nlLXlrZDovaznp7vvvIzlpoJOYStDbOKCgiB8XG58IOWMluWQiOS7t+WNh+mrmD3lvpfnlLXlrZAgfCDlj43lpI3lvLrljJZcIuWNh+Wkseawp1wi5a+55bqU5YWz57O7IHxcbnwg55S15a2Q6L2s56e75pWwPeWMluWQiOS7t+WPmOWMluaVsCB8IOW8uuiwg+mcgOS5mOWOn+WtkOS4quaVsCB8XG58IOmFjeW5s+WPqumFjeWOn+WtkOS4jemFjeeUteiNtyB8IOemu+WtkOaWueeoi+W8j+W/hemhu+mFjeeUteiNt+WuiOaBkiB8XG5cbiMjIOWFreOAgeaVmeWtpuW7uuiurlxuLSDnlKgqKumSoOWcqOawr+awlOS4reeHg+eDpyoq5ryU56S655S15a2Q6L2s56e777yI5peg5rCn5Y+C5LiO77yJXG4tIOiuvuiuoemYtuair+e7g+S5oO+8muWIpOaWreKGkumFjeW5s+KGkuiuoeeul+KGkue7vOWQiOW6lOeUqFxuLSDlu7rnq4tcIuWMluWQiOS7t+KAlOeUteWtkOKAlOeJqei0qOinkuiJslwi5LiJ57u05a+55bqU6KGoXG5cbi0tLVxuXG7lpoLpnIDpkojlr7nlhbfkvZPpopjlnovvvIjlpoLnvLrpobnphY3lubPjgIHnlLXlrZDlrojmgZLorqHnrpfvvInlh7rpopjorq3nu4PvvIzlj6/miZPlvIAqKuiAg+ivleW3peS9nOWPsCoq55Sf5oiQ5LiT6aG557uD5Lmg44CCIn0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6MTMwLCJjb21wbGV0aW9uX3Rva2VucyI6NTA5LCJ0b3RhbF90b2tlbnMiOjYzOSwicHJvbXB0X3Rva2Vuc19kZXRhaWxzIjp7ImNhY2hlZF90b2tlbnMiOjB9LCJwcm9tcHRfY2FjaGVfaGl0X3Rva2VucyI6MCwicHJvbXB0X2NhY2hlX21pc3NfdG9rZW5zIjoxMzB9LCJzeXN0ZW1fZmluZ2VycHJpbnQiOiJhZWI1NjQwMWNhNzRlMTI3ODIxYzRmOTEyNmRjYjY2OSJ9",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 c281b7d3dd6546f2594e2294700e3ad2.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "PvXlwgi0to2_PSiFSn01r-Eq0YHAOCWxIMcPFBh8C3yw5t0W0KtgWg==",
+    "x-amz-cf-pop": "KUL62-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "a1438ffceef8992c4db35ef974256f76"
+   },
+   "recorded_at": "2026-09-27T16:10:25",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/beta:chat:completions/0f7740eeab8ffc79",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 1024,
+  "messages": [
+   {
+    "content": "你是高中化学教研助手，正在协助一位化学教师备课和教研。\n\n回答原则：\n1. 专业深度：提供高考考点分布、命题趋势、评分标准等教研级信息\n2. 教学策略：给出课堂讲解思路、实验演示建议、习题设计方向\n3. 学生误区：列举该知识点的常见错误认知和纠正方法\n4. 效率优先：直接给出结构化分析，不要反问教师基础问题\n5. 教辅联动：如涉及具体题目可建议打开考试工作台出题\n6. 单次回复不超过800字",
+    "role": "system"
+   },
+   {
+    "content": "什么是氧化还原反应",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.7,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/beta/chat/completions"
+}

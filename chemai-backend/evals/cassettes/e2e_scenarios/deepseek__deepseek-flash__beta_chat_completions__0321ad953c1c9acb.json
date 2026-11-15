@@ -1,0 +1,39 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjQyNGRhNGUwLWYzZGUtNDMzNC1hOGIyLWI2YzJkMGI2Yjk2MCIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjY0MjMsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcbiAgXCJnb2FsXCI6IFwi6K+K5pat5a2m55Sf5ZGo57+U55qE5YyW5a2m5a2m5Lmg6Zqc56KN77yM5bm25Z+65LqO6K+K5pat57uT5p6c5Li65ZGo57+U55Sf5oiQ5Liq5oCn5YyW5a2m5Lmg6K6h5YiSXCIsXG4gIFwic3RlcHNcIjogW1xuICAgIHtcbiAgICAgIFwic3RlcFwiOiAxLFxuICAgICAgXCJza2lsbFwiOiBcInNob3dfc3R1ZGVudHNcIixcbiAgICAgIFwiYXJnc1wiOiB7fSxcbiAgICAgIFwiZGVwZW5kc19vblwiOiBbXSxcbiAgICAgIFwiZGVzY3JpcHRpb25cIjogXCLmn6Xmib7lrabnlJ/lkajnv5TnmoTkv6Hmga/vvIznoa7orqTlhbblrablj7fnrYnouqvku73moIfor4ZcIlxuICAgIH0sXG4gICAge1xuICAgICAgXCJzdGVwXCI6IDIsXG4gICAgICBcInNraWxsXCI6IFwiZGlhZ25vc2VfYmFycmllclwiLFxuICAgICAgXCJhcmdzXCI6IHtcInN0dWRlbnRfaWRcIjogXCIke3N0ZXBfMS5zdHVkZW50X2lkfVwifSxcbiAgICAgIFwiZGVwZW5kc19vblwiOiBbMV0sXG4gICAgICBcImRlc2NyaXB0aW9uXCI6IFwi6K+K5pat5ZGo57+U55qE5YyW5a2m5a2m5Lmg6Zqc56KNXCJcbiAgICB9LFxuICAgIHtcbiAgICAgIFwic3RlcFwiOiAzLFxuICAgICAgXCJza2lsbFwiOiBcInNob3dfZGlhZ25vc2lzXCIsXG4gICAgICBcImFyZ3NcIjoge1wic3R1ZGVudF9pZFwiOiBcIiR7c3RlcF8xLnN0dWRlbnRfaWR9XCJ9LFxuICAgICAgXCJkZXBlbmRzX29uXCI6IFsyXSxcbiAgICAgIFwiZGVzY3JpcHRpb25cIjogXCLmn6XnnIvlkajnv5TnmoTljJblrablrabkuaDpmpznoo3or4rmlq3nu5PmnpxcIlxuICAgIH0sXG4gICAge1xuICAgICAgXCJzdGVwXCI6IDQsXG4gICAgICBcInNraWxsXCI6IFwiZ2VuZXJhdGVfbGVhcm5pbmdfcGxhblwiLFxuICAgICAgXCJhcmdzXCI6IHtcInN0dWRlbnRfaWRcIjogXCIke3N0ZXBfMS5zdHVkZW50X2lkfVwiLCBcImRpYWdub3Npc1wiOiBcIiR7c3RlcF8zLmRpYWdub3Npc31cIn0sXG4gICAgICBcImRlcGVuZHNfb25cIjogWzNdLFxuICAgICAgXCJkZXNjcmlwdGlvblwiOiBcIuWfuuS6juiviuaWree7k+aenOS4uuWRqOe/lOeUn+aIkOS4quaAp+WMluWtpuS5oOiuoeWIklwiXG4gICAgfVxuICBdXG59In0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6NjI4LCJjb21wbGV0aW9uX3Rva2VucyI6MjgzLCJ0b3RhbF90b2tlbnMiOjkxMSwicHJvbXB0X3Rva2Vuc19kZXRhaWxzIjp7ImNhY2hlZF90b2tlbnMiOjM4NH0sInByb21wdF9jYWNoZV9oaXRfdG9rZW5zIjozODQsInByb21wdF9jYWNoZV9taXNzX3Rva2VucyI6MjQ0fSwic3lzdGVtX2ZpbmdlcnByaW50IjoiYWViNTY0MDFjYTc0ZTEyNzgyMWM0ZjkxMjZkY2I2NjkifQ==",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 cc699d72e97d92a46e972aa4a992a736.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "Hc-zVzO1bOjXQiZ-OyffmZN1Uz4WPPHJ2Z-H3qUf9wNP3Q-dWno_Gw==",
+    "x-amz-cf-pop": "KUL50-P2",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "56c0e5fbd1b3394245536800c6c04bd3"
+   },
+   "recorded_at": "2026-09-27T16:27:04",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/beta:chat:completions/0321ad953c1c9acb",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 1024,
+  "messages": [
+   {
+    "content": "你是化学教研助手的目标拆解器。将用户的复杂目标拆解为结构化执行步骤。\n\n可用技能：\n  - assign_adaptive_practice\n  - balance_equation\n  - bash\n  - check_parser_services\n  - chemistry_tutor\n  - confirm_exam_grades\n  - delete_bank\n  - diagnose_barrier\n  - edit\n  - equilibrium_tutor\n  - find\n  - generate_learning_plan\n  - generate_parent_report\n  - generate_questions\n  - grade_answer_sheets\n  - grep\n  - import_question_bank\n  - ionic_equation_tutor\n  - list_banks\n  - list_teacher_exams\n  - memory_student_get\n  - memory_teacher_get\n  - organic_tutor\n  - parse_chemistry_document\n  - periodic_law_tutor\n  - plan_task\n  - query_assignment_progress\n  - query_batch_grades\n  - query_grading_queue\n  - query_ocr_progress\n  - read\n  - redox_tutor\n  - revise_learning_plan\n  - save_grading_results\n  - save_to_bank\n  - search_exam_bank\n  - send_learning_plan\n  - send_report_to_parent\n  - show_diagnosis\n  - show_exam_workbench\n  - show_students\n  - simulate_experiment\n  - stoichiometry_tutor\n  - web_search\n  - weekly_report\n  - write\n\n已知学生（学号 → 姓名）：\n（无）\n\n返回 JSON（只返回 JSON，不要其他文字）：\n{{\n  \"goal\": \"原始目标（复述）\",\n  \"steps\": [\n    {{\n      \"step\": 1,\n      \"skill\": \"技能名\",\n      \"args\": {{\"参数名\": \"参数值\"}},\n      \"depends_on\": [],\n      \"description\": \"中文步骤描述\"\n    }}\n  ]\n}}\n\n规则：\n- 最多 8 个步骤\n- 计划必须覆盖用户目标中的**全部**结果，不得遗漏：提到「家长/父母/同步/告知家长」\n  必须包含 generate_parent_report（生成家长报告）与 send_report_to_parent（发送给家长）步骤；\n  提到「发送给学生」必须包含 send_learning_plan 步骤\n- depends_on 引用前序步骤编号（如 [1, 2]）\n- 需要前序步骤输出时，使用 ${{step_N.field}} 引用（如 \"${{step_1.question_ids}}\"）\n- 禁止循环依赖\n- 如果不需要拆解，返回单步 Plan\n- 步骤描述用学生姓名（如「陈湘旻」），不要只写学号；名称未知时先安排查找学生的步骤\n\n用户目标: 诊断学生周翔的化学学习障碍，并基于诊断结果为周翔生成个性化学习计划\n\nJSON:",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.1,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/beta/chat/completions"
+}

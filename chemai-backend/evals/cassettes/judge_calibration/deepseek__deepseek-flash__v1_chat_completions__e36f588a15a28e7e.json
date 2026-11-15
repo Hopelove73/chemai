@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImVkMDQyN2ZhLThkYWItNGE3YS1hOTIyLTY0ZGZiNDlmODgxMCIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjUxMjgsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDEwLCBcImNvbmZpZGVuY2VcIjogXCJoaWdoXCIsIFwicmF0aW9uYWxlXCI6IFwiZml077ya5Yeg5LmO5LiN6YCC6YWN4oCU4oCU5a2m55Sf6Zqc56KN5piv6K+76aKY5ryP5p2h5Lu277yI6ZiF6K+7L+S/oeaBr+aPkOWPlumXrumimO+8ie+8jCflpJrlgZrpopjnm64n5pyq6ZKI5a+56K+l6Zqc56KN6K6+6K6h5Lu75L2V6ZiF6K+7562W55Wl5oiW5p2h5Lu25ZyI55S76K6t57uD77yM5LuF6Z2g6YeN5aSN5Yi36aKY5peg5rOV57qg5q2j5ryP6K+75Lmg5oOv77yM55Sa6Iez5Y+v6IO95Zu65YyW6ZSZ6K+v44CCZXhlY3V0YWJsZe+8muS4jeWPr+aJp+ihjOKAlOKAlOaXoOWFt+S9k+atpemqpOOAgeaXoOmimOmHjy/ml7bplb8v5p2Q5paZ44CB5peg5pON5L2c5rWB56iL5LiO5qOA6aqM5qCH5YeG77yM5a2m55Sf5ou/5Yiw5ZCO5LiN55+l5LuO5L2V5YGa6LW344CCcGVyc29uYWxpemVk77ya5a6M5YWo5qih5p2/5YyW4oCU4oCU5a+55Lu75L2V5a2m55Sf44CB5Lu75L2V5a2m56eR6YO96YCa55So55qE5LiA5Y+l6K+d77yM5pyq5raJ5Y+K6K+l55Sf5Yid5LqM5a2m5q6144CB5ryP5p2h5Lu255qE5YW35L2T6KGo546w5LiO5bey5pyJ5rC05bmz44CCXCIsIFwic2V2ZXJlX2ZsYWdzXCI6IFtdfSIsInJlYXNvbmluZ19jb250ZW50IjoiVGhlIHRhc2s6IGV2YWx1YXRlIGEgcGxhbiBcIuWkmuWBmumimOebrlwiIChkbyBtb3JlIHByb2JsZW1zKSBmb3IgYSBzdHVkZW50IHdpdGggcmVhZGluZyBkaWZmaWN1bHR5IChtaXNzaW5nIGNvbmRpdGlvbnMgd2hlbiByZWFkaW5nIHByb2JsZW1zKSwgZ3JhZGUgOCAo5Yid5LqMKS5cblxuU2NvcmU6IHZlcnkgcG9vci4gZml0OiBkb2Vzbid0IGFkZHJlc3MgcmVhZGluZyBkaXNhYmlsaXR5LCBqdXN0IGdlbmVyaWMgcHJhY3RpY2UuIGV4ZWN1dGFibGU6IGV4dHJlbWVseSB2YWd1ZSwgbm8gc3RlcHMuIHBlcnNvbmFsaXplZDogdG90YWxseSB0ZW1wbGF0ZSwgbm8gY3VzdG9taXphdGlvbi4gU2NvcmUgbWF5YmUgMTAtMTUuXG5cbkNvbmZpZGVuY2U6IGhpZ2g/IFRoZSBvdXRwdXQgaXMgc28gbWluaW1hbCB0aGF0IGFzc2Vzc21lbnQgaXMgY2xlYXIuIEknZCBzYXkgaGlnaC5cblxuc2V2ZXJlX2ZsYWdzOiBbXSAobm8gY2hlbWljYWwgZXJyb3IsIG5vIHNhZmV0eSBpc3N1ZSkuXG5cblNjb3JlOiAxMC5cblxuUmF0aW9uYWxlIGluIENoaW5lc2UsIGJyaWVmIHBlciBkaW1lbnNpb24uIn0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6MjQ4LCJjb21wbGV0aW9uX3Rva2VucyI6MjcwLCJ0b3RhbF90b2tlbnMiOjUxOCwicHJvbXB0X3Rva2Vuc19kZXRhaWxzIjp7ImNhY2hlZF90b2tlbnMiOjB9LCJjb21wbGV0aW9uX3Rva2Vuc19kZXRhaWxzIjp7InJlYXNvbmluZ190b2tlbnMiOjEyM30sInByb21wdF9jYWNoZV9oaXRfdG9rZW5zIjowLCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjI0OH0sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "2lhIRaPDbEN5k1loMfAsy3Hw6-9amwDZws4v7WMmGuyzuX9SV3j95Q==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "f8e349caa757544a12930e50f8911438"
+   },
+   "recorded_at": "2026-09-27T16:05:29",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/e36f588a15a28e7e",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「方案」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- fit（权重 0.4）：适配性：方案贴合学生障碍与当前水平\n- executable（权重 0.3）：可执行性：步骤具体、可落地\n- personalized（权重 0.3）：个性化：非模板化，针对该学生定制\n\n输入：学生 reading 障碍（读题漏条件），初二\n待评输出：计划：多做题目。\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

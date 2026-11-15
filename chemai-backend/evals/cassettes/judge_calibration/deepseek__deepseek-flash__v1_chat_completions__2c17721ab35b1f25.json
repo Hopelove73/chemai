@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjUxZGFmNjg0LTcwNWItNDY4ZC1iY2Y0LTM1YWYxMDQxNDMyNiIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjQ5NDcsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDEwMCwgXCJjb25maWRlbmNlXCI6IFwiaGlnaFwiLCBcInJhdGlvbmFsZVwiOiBcIuWIpOWIhuato+ehruaAp++8muWtpueUn+aWueeoi+W8j+mFjeW5s+S4juS6p+eJqeWdh+ato+ehru+8jOS7hee8uuawlOS9k+espuWPt+OAjuKGkeOAj++8jOWIpOWumOe7mSAzIOWIhu+8jOS4jum7hOmHkeWPguiAg+etlOahiO+8iOaJoyAxIOWIhiDihpIgMyDliIbvvInlrozlhajkuIDoh7TvvJvpg6jliIbliIbvvJo0IOWIhumimOS4reWNleS4gOespuWPt+e8uuWkseaJoyAxIOWIhu+8jOaJo+WIhuW5heW6puWQiOeQhu+8jOacqui/h+W6puaIluS4jei2s+aJo+WIhu+8m+S4gOiHtOaAp++8muWvueOAjuaWueeoi+W8j+ato+ehruS9hue8uuawlOS9ky/msonmt4DnrKblj7fjgI/ov5nnsbvmoLzlvI/mgKflsI/plJnnu5/kuIDmjInmiaMgMSDliIblpITnkIbvvIzmoIflh4bkuIDoh7TjgIJcIiwgXCJzZXZlcmVfZmxhZ3NcIjogW119IiwicmVhc29uaW5nX2NvbnRlbnQiOiJUaGUgdGFzazoganVkZ2UgdGhlIGp1ZGdlLiBUaGUgc3R1ZGVudCBhbnN3ZXI6IDJOYSArIDJIMk8gPSAyTmFPSCArIEgyIChubyBnYXMgc3ltYm9sKS4gSnVkZ2UgZ2F2ZSAzIHBvaW50cy4gR29sZGVuOiBlcXVhdGlvbiBjb3JyZWN0IGJ1dCBtaXNzaW5nIOKGkSwgZGVkdWN0IDEg4oaSIDMgcG9pbnRzLiBTbyB0aGUganVkZ2UgbWF0Y2hlcyBnb2xkZW4uIFNjb3JlIHNob3VsZCBiZSBoaWdoLlxuXG5DaGVjayBjb3JyZWN0bmVzczogMk5hICsgMkgyTyA9IDJOYU9IICsgSDLihpEgaXMgY29ycmVjdC4gTWlzc2luZyBnYXMgYXJyb3cgZGVkdWN0IDEuIEdvbGRlbiBzYXlzIDMuIEp1ZGdlIHNhaWQgMy4gTWF0Y2guIFBhcnRpYWwgY3JlZGl0OiA0LXBvaW50IHF1ZXN0aW9uLCBkZWR1Y3RlZCAxIGZvciBtaXNzaW5nIHN5bWJvbCDigJQgcmVhc29uYWJsZS4gQ29uc2lzdGVuY3k6IGNvbnNpc3RlbnQgc3RhbmRhcmQuXG5cblNjb3JlOiA5NS0xMDAuIENvbmZpZGVuY2UgaGlnaC4gTm8gc2V2ZXJlIGZsYWdzLlxuXG5PdXRwdXQgSlNPTi4ifSwibG9ncHJvYnMiOm51bGwsImZpbmlzaF9yZWFzb24iOiJzdG9wIn1dLCJ1c2FnZSI6eyJwcm9tcHRfdG9rZW5zIjozMDQsImNvbXBsZXRpb25fdG9rZW5zIjoyODAsInRvdGFsX3Rva2VucyI6NTg0LCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6MTI4fSwiY29tcGxldGlvbl90b2tlbnNfZGV0YWlscyI6eyJyZWFzb25pbmdfdG9rZW5zIjoxNDZ9LCJwcm9tcHRfY2FjaGVfaGl0X3Rva2VucyI6MTI4LCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjE3Nn0sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "76FK3YtWVwYrOEYU73SxQ4Erfw1NbIAap6C1gCS965hnm3sxjs0YLw==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "ec6cf6abbc2034df1255b89b9c1c5552"
+   },
+   "recorded_at": "2026-09-27T16:02:29",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/2c17721ab35b1f25",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「判卷」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- correctness_vs_golden（权重 0.6）：判分正确性：每题判分与黄金答案一致\n- partial_credit（权重 0.2）：部分分：多步题的部分得分是否合理\n- consistency（权重 0.2）：一致性：同类型错误的扣分标准一致\n\n输入：题目：写出钠与水反应的化学方程式（4分）\n待评输出：学生答案：2Na + 2H2O = 2NaOH + H2（未标气体符号）；判官判分：3\n黄金参考答案：方程式正确但缺 ↑，扣 1 分 → 3 分\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

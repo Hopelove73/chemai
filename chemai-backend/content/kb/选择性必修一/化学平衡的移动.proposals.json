@@ -1,0 +1,13 @@
+{
+  "doc": "化学平衡的移动.md",
+  "kp": "M3-T2-KP06",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T2-KP03", "to_kp": "M3-T2-KP06",
+     "reason": "移动的前提是知道平衡状态是什么"},
+    {"edge_type": "prerequisite", "from_kp": "M3-T2-KP04", "to_kp": "M3-T2-KP06",
+     "reason": "Qc 与 K 的比较是移动方向的定量判据"},
+    {"edge_type": "relates_to", "kp": "M3-T2-KP06", "substance": "二氧化氮", "formula": "NO2", "role": "颜色判移动的经典体系"},
+    {"edge_type": "relates_to", "kp": "M3-T2-KP06", "substance": "四氧化二氮", "formula": "N2O4", "role": "二聚体，无色"},
+    {"edge_type": "relates_to", "kp": "M3-T2-KP06", "substance": "氨气", "formula": "NH3", "role": "合成氨移动示例"}
+  ]
+}

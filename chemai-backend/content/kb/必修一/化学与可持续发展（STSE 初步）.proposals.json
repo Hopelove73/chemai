@@ -1,0 +1,10 @@
+{
+  "doc": "化学与可持续发展（STSE 初步）.md",
+  "kp": "M1-T5-KP01",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP01", "to_kp": "M1-T5-KP01",
+     "reason": "资源转化链的分类视角是 STSE 案例的组织框架"},
+    {"edge_type": "relates_to", "kp": "M1-T5-KP01", "substance": "二氧化硫", "formula": "SO2", "role": "酸雨成因案例"},
+    {"edge_type": "relates_to", "kp": "M1-T5-KP01", "substance": "铁", "formula": "Fe", "role": "矿物冶炼案例"}
+  ]
+}

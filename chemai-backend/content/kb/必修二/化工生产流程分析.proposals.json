@@ -1,0 +1,16 @@
+{
+  "doc": "化工生产流程分析.md",
+  "kp": "M2-T5-KP06",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T5-KP01", "to_kp": "M2-T5-KP06",
+     "reason": "金属冶炼流程是流程题的基本原型"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T5-KP02", "to_kp": "M2-T5-KP06",
+     "reason": "海水提镁/提溴提供富集—转化—分离的完整流程"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T3-KP04", "to_kp": "M2-T5-KP06",
+     "reason": "流程条件选择要综合速率、限度、成本与安全"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP06", "substance": "碳酸钙", "formula": "CaCO3", "role": "预处理焙烧原料"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP06", "substance": "氢氧化镁", "formula": "Mg(OH)2", "role": "沉淀转化中间体"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP06", "substance": "氯化镁", "formula": "MgCl2", "role": "电解原料"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP06", "substance": "氯气", "formula": "Cl2", "role": "可循环利用的副产物"}
+  ]
+}

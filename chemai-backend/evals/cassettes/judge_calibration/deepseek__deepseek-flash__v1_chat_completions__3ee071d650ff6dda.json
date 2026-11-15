@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImY0ODcxMTVhLTU3NGEtNDEzZi05ZWZjLWM4ZDk5NWMzMzZjMCIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjQ5NjQsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDAsIFwiY29uZmlkZW5jZVwiOiBcImhpZ2hcIiwgXCJyYXRpb25hbGVcIjogXCJjb3JyZWN0bmVzc192c19nb2xkZW7vvJrlrpjmlrnnrZTmoYjkuLogQ++8jOW6lOa7oeWIhu+8jOWIpOWumOWNtOWIpCAwIOWIhu+8jOS4jum7hOmHkeetlOahiOWujOWFqOS4jeS4gOiHtO+8jOW+lyAw44CCcGFydGlhbF9jcmVkaXTvvJrmnKzpopjkuLrpgInmi6npopjvvIzml6DlpJrmraXpg6jliIbliIbnqbrpl7TvvJvkuJTmraPnoa7nrZTmoYjooqvliKQgMO+8jOmDqOWIhuWIhuWkhOeQhuS4jeWQiOeQhuOAgmNvbnNpc3RlbmN577ya6K+l5Yik5YiG5LiO5q2j56Gu5qCH5YeG5piO5pi+55+b55u+77yM5LiU5a+86Ie05ZCM57G75Z6L5q2j56Gu5L2c562U6KKr6ZSZ6K+v5omj5YiG77yM5LiA6Ie05oCn5LiN6L6+5qCH44CCXCIsIFwic2V2ZXJlX2ZsYWdzXCI6IFtdfSIsInJlYXNvbmluZ19jb250ZW50Ijoi5oiR5Lus6ZyA6KaB5Zue562U55So5oi344CC6ZyA6KaB5oyJ6KaB5rGC5Y+q6L6T5Ye6IEpTT04g5a+56LGh44CC5oiR5Lus6ZyA6KaB6K+E5Lyw5b6F6K+E6L6T5Ye644CC6aKY55uu77ya5LiL5YiX56a75a2Q5pa556iL5byP5Lmm5YaZ5q2j56Gu55qE5piv44CC5b6F6K+E6L6T5Ye677ya5a2m55Sf562U5qGI77yaQ++8m+WIpOWumOWIpOWIhu+8mjAg5YiG44CC6buE6YeR5Y+C6ICD562U5qGI77ya5a6Y5pa5562U5qGI77yaQ++8iOW6lOa7oeWIhu+8jOWIpOWIhuWkseivr++8ieOAguaJgOS7peWIpOWumOWIpOWIhumUmeivr++8jOato+ehruetlOahiOS4uiBD77yM5L2G5YikIDDjgILpnIDopoHmjIkgcnVicmlj77yaY29ycmVjdG5lc3NfdnNfZ29sZGVuIOadg+mHjTAuNu+8jOWIpOWIhuato+ehruaAp++8muavj+mimOWIpOWIhuS4jum7hOmHkeetlOahiOS4gOiHtOOAgui/memHjOS4jeS4gOiHtO+8jOW6lOa7oeWIhuWNtOWIpDDvvIzmiYDku6UgY29ycmVjdG5lc3MgMOOAgnBhcnRpYWxfY3JlZGl077ya6YOo5YiG5YiG77ya5aSa5q2l6aKY6YOo5YiG5b6X5YiG5piv5ZCm5ZCI55CG44CC6L+Z5piv6YCJ5oup6aKY77yM5LiN5piv5aSa5q2l77yM5Y+v6IO95peg6YOo5YiG5YiG44CC5YikIDAg5LiN5ZCI55CG77yM5omA5LulIHBhcnRpYWxfY3JlZGl0IDAg5oiW5L2O44CCY29uc2lzdGVuY3nvvJrkuIDoh7TmgKfvvJrlkIznsbvlnovplJnor6/miaPliIbmoIflh4bkuIDoh7TjgILlj6rmnInkuIDkuKrliKTkvovvvIzml6Dms5XliKTmlq3kuIDoh7TmgKfvvIzkvYbliKTliIblpLHor6/mmI7mmL7jgILlj6/og73nu5nkvY7miJbkuK3mgKfjgILmgLvkvZMgc2NvcmUg5bqU6K+l5b6I5L2O77yM5Y+v6IO9IDAg5YiG44CC5Zug5Li65Yik5a6Y6L6T5Ye65a6M5YWo6ZSZ6K+v44CC5L2G5rOo5oSP6K+E5Lyw5a+56LGh5piv4oCc5b6F6K+E6L6T5Ye64oCd77yM5YyF5ZCr5a2m55Sf562U5qGI5ZKM5Yik5a6Y5Yik5YiG44CC6KaB5Yik4oCc5Yik5Y235peP6K+E5Lyw4oCd77yM57uZ5b6F6K+E6L6T5Ye65omT5YiG77yM5Y2z5Yik5a6Y5Yik5YiG6LSo6YeP44CC6buE6YeR5Y+C6ICD562U5qGI77ya5a6Y5pa5562U5qGIIEMg5bqU5ruh5YiG77yM5Yik5YiG5aSx6K+v44CC5omA5Lul5b6X5YiG5bqU6K+lIDDjgIJjb25maWRlbmNlIGhpZ2jjgIJzZXZlcmVfZmxhZ3Mg5peg5YyW5a2m6ZSZ6K+vL+WuieWFqO+8jOWPquaYr+WIpOWIhuWkseivr+OAgui+k+WHuiBKU09O44CC6ZyA6KaBIHJhdGlvbmFsZSDpgJDnu7TluqbnroDov7DjgIJzY29yZSAwLTEwMCDmlbTmlbDjgILlj6/ku6Xnu5kgMOOAgmNvbmZpZGVuY2UgaGlnaOOAgnNldmVyZV9mbGFncyBbXeOAguehruS/nSBKU09OIOWQiOazle+8jOaXoOmineWkluaWh+Wtl+OAgiAifSwibG9ncHJvYnMiOm51bGwsImZpbmlzaF9yZWFzb24iOiJzdG9wIn1dLCJ1c2FnZSI6eyJwcm9tcHRfdG9rZW5zIjoyNzgsImNvbXBsZXRpb25fdG9rZW5zIjo0NDksInRvdGFsX3Rva2VucyI6NzI3LCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6MTI4fSwiY29tcGxldGlvbl90b2tlbnNfZGV0YWlscyI6eyJyZWFzb25pbmdfdG9rZW5zIjozMzV9LCJwcm9tcHRfY2FjaGVfaGl0X3Rva2VucyI6MTI4LCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjE1MH0sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "EPwFzXTdCCJny3V5QllffbJcYr9EvZrW2oHOiS-P5QGMC-snCddHgw==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "2395d788238f2df6e00710094dba72b7"
+   },
+   "recorded_at": "2026-09-27T16:02:47",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/3ee071d650ff6dda",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「判卷」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- correctness_vs_golden（权重 0.6）：判分正确性：每题判分与黄金答案一致\n- partial_credit（权重 0.2）：部分分：多步题的部分得分是否合理\n- consistency（权重 0.2）：一致性：同类型错误的扣分标准一致\n\n输入：题目：下列离子方程式书写正确的是\n待评输出：学生答案：C；判官判分：0 分\n黄金参考答案：官方答案：C（应满分，判分失误）\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

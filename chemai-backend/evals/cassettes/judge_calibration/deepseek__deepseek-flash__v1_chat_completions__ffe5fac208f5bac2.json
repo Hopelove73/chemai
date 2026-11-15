@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjVmNjQ3OGU2LTU2NDMtNDhjMC05ZjEyLTk5YWMyYzdjNjdlOCIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjUwNzEsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDUsIFwiY29uZmlkZW5jZVwiOiBcImhpZ2hcIiwgXCJyYXRpb25hbGVcIjogXCJjbGFyaWZpY2F0aW9u77ya55So5oi35LuF57uZ5Ye65Li76aKY44CB6aKY6YeP5LiO6Zq+5bqm77yM5LuN5pyq5piO56Gu5Y2V6YCJL+WkmumAieOAgemAiemhueaVsOOAgeaYr+WQpumZhOino+aekOOAgeWtpuauteetieWFs+mUruS/oeaBr++8jOaooeWei+acquWBmuS7u+S9lei/vemXru+8jOebtOaOpeW6lOetlO+8jOW+lzDliIbvvJtwcm9hY3RpdmXvvJrnu5PlkIjkuIrkuIvmloflj6/kuLvliqjlu7rorq7popjlnovliIbluIPjgIHogIPngrnopobnm5bvvIjmsKfljJbliYLov5jljp/liYLliKTmlq3jgIHnlLXlrZDlrojmgZLorqHnrpfjgIHphY3lubPvvInnrYnvvIzovpPlh7rmnKrmj5Dkvpvku7vkvZXlu7rorq7vvIzlvpcw5YiG77ybb3B0aW9uc19ndWlkYW5jZe+8muaXoOS7u+S9leS7pemAiemhueW9ouW8j+eahOW8leWvvOi/vemXru+8jOW+lzDliIbvvJtkZWNvbXBvc2l0aW9uX3Byb2dyZXNz77ya5Lu75Yqh6Jm95LiN566X5aSN5p2C77yM5L2G5Ye66aKY5raJ5Y+K6YCJ6aKY44CB6Zq+5bqm5qCh5YeG44CB6Kej5p6Q562J5q2l6aqk77yM6L6T5Ye65LuF5Lul4oCc5aW955qE4oCd5Yqg5omT5byA6Z2i5p2/56S65oSP5ZCv5Yqo77yM5pyq5ouG6Kej5Lmf5pyq5rGH5oql6L+b5bqm77yM5LuF5Zyo5Yqo5L2c6Kem5Y+R5bGC6Z2i5pyJ5p6B5b6u5byx5L2T546w77yM5b6X57qmNeWIhuOAgue7vOWQiOWKoOadg+WQjuS4ujXliIbjgIJcIiwgXCJzZXZlcmVfZmxhZ3NcIjogW119IiwicmVhc29uaW5nX2NvbnRlbnQiOiLnlKjmiLfmg7PopoEz6YGT5Lit562J6Zq+5bqm55qE5rCn5YyW6L+Y5Y6f6YCJ5oup6aKY44CC5b6F6K+E6L6T5Ye65piv4oCc5aW955qE77yI6ZqP5ZCO5omT5byA5Ye66aKY6Z2i5p2/77yJ4oCd4oCU4oCU5Y2z55So5oi35ZCM5oSP5bm25omT5byA6Z2i5p2/44CCXG5cbuaMiee7tOW6puivhOS8sO+8mlxuLSBjbGFyaWZpY2F0aW9u77yIMC4yNe+8ie+8muS/oeaBr+S4jei2s+aXtuS4u+WKqOa+hOa4heOAguivt+axguebuOW9k+WFt+S9k++8muKAnOWHujPpgZPmsKfljJbov5jljp/nmoTpgInmi6npopjvvIzkuK3nrYnpmr7luqbigJ3igJTigJTmlbDph4/jgIHkuLvpopjjgIHpmr7luqbpg73nu5nkuobjgILkvYblj6/og73mnInnvLrlpLHpobnvvJrpopjlnovvvIjljZXpgIkv5aSa6YCJ77yJ44CB6ICD6K+V5bGC57qn77yI6auY5LitL+Wkp+Wtpu+8ieOAgeaYr+WQpumcgOimgeino+aekOOAgeavj+mBk+WHoOS4qumAiemhueOAgui+k+WHuuWujOWFqOayoeaciei/vemXru+8jOebtOaOpeivtOKAnOWlveeahOKAneW5tuaJk+W8gOmdouadv+OAguaJgOS7pea+hOa4heW+lzDliIbmiJbogIXlvojkvY7jgIJcbi0gcHJvYWN0aXZl77yIMC4yNe+8ie+8muS4u+WKqOaOqOiNkO+8mue7k+WQiOS4iuS4i+aWh+e7meW7uuiuruOAguayoeaciee7meWHuuS7u+S9leW7uuiuruKAlOKAlOWPquaYr+aJk+W8gOS6humdouadv+OAgjDliIbjgIJcbi0gb3B0aW9uc19ndWlkYW5jZe+8iDAuMjXvvInvvJrov73pl67ku6XpgInpobnlvaLlvI/lkYjnjrDigJTigJTmsqHmnInov73pl67jgIIw5YiG44CCXG4tIGRlY29tcG9zaXRpb25fcHJvZ3Jlc3PvvIgwLjI177yJ77ya5ouG6Kej5LiO6L+b5bqm77ya5aSN5p2C5Lu75Yqh5ouG5q2l6aqk5bm25rGH5oql6L+b5bqm44CC6L+Z5Lu75Yqh55u45a+55LiN566X5aSN5p2C77yb5omT5byA6Z2i5p2/5pys6Lqr5bCx5piv5LiA56eN5Yqo5L2c44CC5L2G5rKh5pyJ5Lu75L2V5q2l6aqkL+i/m+W6pueahOaxh+aKpeOAguWPr+iDvee7meS9juWIhuKAlOKAlOWkp+amgjDliIbmiJYxMOWIhu+8jOWboOS4uuWug+ehruWunuaJp+ihjOS6huS4gOS4quWKqOS9nOOAglxuXG7mgLvliIblj6/og73kvJrmmK8wLTEw44CC5a6e6ZmF5LiK77yM5piv5pyJ5LiA5Liq5bCP5Yqo5L2c55qE77yM5L2G5rKh5pyJ5Lu75L2V5riF5pmw55qE6KGo6L+w44CC57uZNeWIhuaIljEw5YiG5ZCn44CC57uZNeWIhuOAglxuXG7nva7kv6HluqbvvJrpq5jigJTigJTovpPlh7rpnZ7luLjnroDnn63vvIzlrrnmmJPliKTmlq3jgIJcblxu5Lil6YeN5qCH6K6w77ya5peg44CCXG5cbuWIhuaVsOWumuWcqDXlkKfjgILmiJbogIUxMOOAguaIkeWwseivtDXjgIJcblxu55CG55Sx77ya6YCQ57u05bqm5o+P6L+w44CCIn0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6Mjc4LCJjb21wbGV0aW9uX3Rva2VucyI6NDg4LCJ0b3RhbF90b2tlbnMiOjc2NiwicHJvbXB0X3Rva2Vuc19kZXRhaWxzIjp7ImNhY2hlZF90b2tlbnMiOjEyOH0sImNvbXBsZXRpb25fdG9rZW5zX2RldGFpbHMiOnsicmVhc29uaW5nX3Rva2VucyI6Mjk3fSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjEyOCwicHJvbXB0X2NhY2hlX21pc3NfdG9rZW5zIjoxNTB9LCJzeXN0ZW1fZmluZ2VycHJpbnQiOiJhZWI1NjQwMWNhNzRlMTI3ODIxYzRmOTEyNmRjYjY2OSJ9",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "_v5mHP8a-zQ5Qy6QgbP--5o_YgFRrhAuSjTLFYBVvIzMIt5EOQ0eMg==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "3c85cd882a27de6830000a97d8ba1e34"
+   },
+   "recorded_at": "2026-09-27T16:04:35",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/ffe5fac208f5bac2",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「交互智能」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- clarification（权重 0.25）：澄清追问：信息不足时主动追问\n- proactive（权重 0.25）：主动推荐：结合上下文给建议\n- options_guidance（权重 0.25）：给选项引导：追问以选项形式呈现，不开放式盘问\n- decomposition_progress（权重 0.25）：拆解与进度：复杂任务拆步骤并汇报进度\n\n输入：出3道氧化还原的选择题，中等难度\n待评输出：好的（随后打开出题面板）\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

@@ -1,0 +1,668 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjFhZWQ5ZDE2LTYyMmItNDE5ZS1iNzRiLWY2ZDMwMjM4ZGY1MyIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjU2NTcsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IuW3suaMieOAjOWbsOmavuOAjemavuW6pumHjeWHuiAzIOmBk++8jOmdouadv+S4reWPr+ebtOaOpeafpeeci+e8lui+keOAglxuXG7kuI3ov4fmnInkuIDlpITopoHmj5DphpLmgqjvvJrmiJHmoLjlr7nkuobnrZTmoYjplK7vvIznrKwgMiDpopjvvIgkRmVJXzIkLyRGZUJyXzIkIOa3t+WQiOa2sumAmiAkQ2xfMiTvvIwkYT1iPTEk44CBJGM9MiTvvInmjInov5jljp/mgKcgJEleLT5GZV57Mit9PkJyXi0kIOiuoeeul++8jDIgbW9sICRDbF8yJCDlvpcgNCBtb2wg55S15a2Q5oGw5aW95rCn5YyW5a6MIDIgbW9sICRJXi0kIOWSjCAyIG1vbCAkRmVeezIrfSTvvIwkbihGZV57Myt9KTpuKEJyXi0pJCDlupTkuLogKioxOjHvvIhB77yJKirvvJvnrKwgMyDpopjooqvmsKfljJbnmoQgSENsIOS4juiiq+i/mOWOn+eahCAkS0NsT18zJCDkuYvmr5TkuLogKio1OjHvvIhC77yJKirjgILov5nkuKTlpITnrZTmoYjplK7kuI7lrp7pmYXkuI3nrKbvvIznrKwgMSDpopjov5jlh7rnjrAgQuOAgUMg5Lik5Liq6YCJ6aG56YO96IO95oiQ56uL55qE5oOF5Ya144CCXG5cbumcgOimgeaIkeebtOaOpeaUueetlOahiOmUru+8jOi/mOaYr+mHjeWHuuS4gOeJiOabtOS4peiwqOeahO+8nyIsInJlYXNvbmluZ19jb250ZW50IjoiVmVyaWZ5IGFuc3dlciBmb3IgUTI6IGE9MSBtb2wgRmVJMiwgYj0xIG1vbCBGZUJyMiwgYz0yIG1vbCBDbDIuIFNvbHV0aW9uIGNvbnRhaW5zIEZlMisgMiBtb2wgdG90YWwsIEktIDIgbW9sLCBCci0gMiBtb2wuIFJlZHVjdGlvbiBvcmRlcjogSS0gPiBGZTIrID4gQnItLiBDbDIgMiBtb2wgYWNjZXB0cyA0IG1vbCBlLS4gSS0gMiBtb2wgb3hpZGl6ZXMg4oaSIDIgbW9sIGUtLCBGZTIrIDIgbW9sIOKGkiAyIG1vbCBlLS4gVG90YWwgNCBtb2wgZS0gPSAyIG1vbCBDbDIuIFNvIGFsbCBJLSBhbmQgYWxsIEZlMisgb3hpZGl6ZWQsIEJyLSB1bnRvdWNoZWQuIG4oRmUzKykgPSAyIG1vbCwgbihCci0pID0gMiBtb2wg4oaSIDE6MS4gSG1tIHRoYXQncyBBLCBub3QgQiFcblxuV2FpdCDigJQgbmVlZCB0byBjaGVjayByZWR1Y3Rpb24gb3JkZXIuIFN0YW5kYXJkOiDov5jljp/mgKcgSS0gPiBGZTIrID4gQnItLiBTbyB3aXRoIDIgbW9sIENsMiAoNCBtb2wgZS0pLCBJLSAoMiBtb2wpIHVzZXMgMiBtb2wgZS0sIEZlMisgKDIgbW9sKSB1c2VzIDIgbW9sIGUtLiBUb3RhbCBleGFjdGx5IDQuIFNvIEZlMysgPSAyIG1vbCwgQnItID0gMiBtb2wuIFJhdGlvIDE6MS4gQW5zd2VyIHNob3VsZCBiZSBBLCBidXQgdG9vbCBzYXlzIEIuXG5cbkhtbSwgc28gdGhlIGdlbmVyYXRlZCBhbnN3ZXIgbWlnaHQgYmUgd3JvbmcuIExldCBtZSBkb3VibGUgY2hlY2s6IGEgPSBiID0gMSwgc28gRmVJMiAxIG1vbCBnaXZlcyBGZTIrIDEgbW9sICsgSS0gMiBtb2wuIEZlQnIyIDEgbW9sIGdpdmVzIEZlMisgMSBtb2wgKyBCci0gMiBtb2wuIFRvdGFsIEZlMisgPSAyIG1vbCwgSS0gPSAyIG1vbCwgQnItID0gMiBtb2wuIFllcy5cblxuQ2wyIDIgbW9sIOKGkiA0IG1vbCBlLS4gSS0g4oaSIEkyOiAyIG1vbCBJLSBsb3NlcyAyIG1vbCBlLS4gRmUyKyDihpIgRmUzKzogMiBtb2wgbG9zZXMgMiBtb2wgZS0uIFRvdGFsIDQuIEV4YWN0bHkgY29uc3VtZWQuIFNvIEJyLSByZW1haW5zIDIgbW9sLCBGZTMrID0gMiBtb2wuIFJhdGlvIDI6MiA9IDE6MSDihpIgQS5cblxuU28gdGhlIHRvb2wncyBhbnN3ZXIgQiBhcHBlYXJzIHdyb25nLiBQZXIgdHV0b3JpbmcgZ3VpZGVsaW5lcyBJIHNob3VsZCBwcm9iYWJseSBmbGFnIGl0LiBIbW0sIGJ1dCBcIuW3peWFt+i/lOWbnueahOWGheWuueWwseaYr+e7meWtpueUn+eahOWbnuWkjVwiLiBIb3dldmVyIGNvcnJlY3RuZXNzIG1hdHRlcnMuIExldCBtZSB2ZXJpZnkgdGhlIHJlYWN0aW9uIHN0b2ljaGlvbWV0cnkgZm9yIFEzOiBLQ2xPMyArIDZIQ2wg4oaSIEtDbCArIDNDbDIgKyAzSDJPLiBDbDogbGVmdCAxKzY9NywgcmlnaHQgMSs2PTcuIEg6IDYgPSA2LiBPOiAzID0gMy4gQmFsYW5jZWQuIEtDbE8zOiBDbCArNSDihpIgMCBpbiBDbDI/IEFjdHVhbGx5IG94aWRhdGlvbjogNiBIQ2wg4oaSIDMgQ2wyIG1lYW5zIDYgQ2wgZ28gdG8gQ2wyPyBObzogM0NsMiBoYXMgNiBDbC4gT25lIENsIGNvbWVzIGZyb20gS0NsTzMgKHJlZHVjZWQgZnJvbSArNSB0byAwPyB0aGF0IHdvdWxkIGJlIDAuLi4gd2FpdCkuIEhtbSwgYWN0dWFsbHkgdGhlIHN0YW5kYXJkOiBLQ2xPMyBpcyBveGlkaXppbmcgYWdlbnQg4oaSIHJlZHVjZWQgdG8gQ2wyICgwKS4gS0NsIGlzIGFsc28gcmVkdWNlZCBwcm9kdWN0PyBDbCBpbiBLQ2wgaXMgLTEuIExldCdzIGNvbXB1dGUgb3hpZGF0aW9uIHN0YXRlczogS0NsTzM6IENsICs1LiBQcm9kdWN0czogS0NsIChDbCAtMSksIENsMiAoQ2wgMCkuIEhDbDogQ2wgLTEuIFRvdGFsIENsIGxlZnQ6IDEgKGZyb20gS0NsTzMsICs1KSArIDYgKGZyb20gSENsLCAtMSkgPSA3LiBSaWdodDogMSAoS0NsLCAtMSkgKyA2ICgzQ2wyLCAwKSA9IDcuIFNvIHRoZSArNSBDbCBiZWNvbWVzIC0xIChpbiBLQ2wpIOKAlCBnYWlucyA2IGUtLiBPbmUgb2YgdGhlIC0xIEhDbCBDbCBiZWNvbWVzIDAg4oCUIGxvc2VzIDEgZS0uIEJ1dCA2IEhDbCBDbCBzdGFydCBhdCAtMSBhbmQgNiBDbDIgQ2wgYXJlIGF0IDAuLi4gaG1tIHRoaXMgZG9lc24ndCBiYWxhbmNlIHBlci1hdG9tIGFzc2lnbm1lbnQuXG5cblN0YW5kYXJkIHRyZWF0bWVudDogNSBIQ2wgQ2wgc3RheSAtMSAob25lIGdvZXMgdG8gS0NsLCA0IHRvLi4uIG5vKS4gTGV0IG1lIHRoaW5rOiBlbGVjdHJvbiB0cmFuc2ZlcjogQ2woKzUpIOKGkiBDbCgtMSkgZ2FpbnMgNmUtLiA1IENsKC0xKSDihpIgQ2woMCkgZWFjaCBsb3NlcyAxIGUtIOKGkiB0b3RhbCA1IGUtLiBUaGF0IGRvZXNuJ3QgYmFsYW5jZSBlaXRoZXIgKDYgdnMgNSkuXG5cbkhtbSwgYWN0dWFsbHkgdGhlIGNsYXNzaWM6IEtDbE8zICsgNkhDbCDihpIgS0NsICsgM0NsMiArIDNIMk8uIFRoaXMgaXMg5b2S5Lit5Y+N5bqULiBBc3NpZ25tZW50OiBDbCBpbiBLQ2xPMyAoKzUpIOKGkiAwIGluIENsMj8gVGhlbiBpdCBnYWlucyA1ZS0uIEFuZCA1IEhDbCBDbCgtMSnihpIwLCBsb3NpbmcgNWUtLiBBbmQgMSBIQ2wgQ2woLTEpIOKGkiBLQ2woLTEpLCBubyBjaGFuZ2UuIFRoYXQgYmFsYW5jZXM6IDVlLSBsb3N0ID0gNWUtIGdhaW5lZC4gQ2hsb3JpbmUgY291bnQ6IDEgKEtDbE8zKSArIDUgKEhDbOKGkkNsMikgPSA2IENsIGluIDNDbDIg4pyTLiAxIEhDbCDihpIgS0NsIOKcky4gVG90YWwgSENsID0gNiDinJMuIFNvIG94aWRhdGlvbjogNSBDbCgtMSkg4oaSIDAsIHJlZHVjdGlvbjogMSBDbCgrNSkg4oaSIDAuIFdhaXQgYnV0IHRoZW4gS0NsJ3MgQ2wgaXMgLTEgdW5jaGFuZ2VkLiBZZXMhIFRoaXMgaXMgdGhlIGNvcnJlY3QgdHJlYXRtZW50LlxuXG5TbyDooqvmsKfljJbnmoRIQ2wgOiDooqvov5jljp/nmoRLQ2xPMyA9IDUgOiAxIChvcHRpb24gQikuIE9wdGlvbiBDOiDmr4/nlJ/miJAgMyBtb2wgQ2wyIOKGkiB0aGF0IGludm9sdmVzIDUgZS0uLi4gaG1tLiA2IENsIGF0b21zIHRvIENsMiwgNSBmcm9tIEhDbCBsb3NpbmcgNSBlLSwgMSBmcm9tIEtDbE8zIGdhaW5pbmcgNWUtLiBTbyAzIG1vbCBDbDIgY29ycmVzcG9uZHMgdG8gNSBtb2wgZS0gdHJhbnNmZXJyZWQuIFNvIEMgc2F5cyA2TkEsIHdoaWNoIGlzIHdyb25nLiBIbW0sIGJ1dCBtYW55IHRleHRib29rczogZm9yIGV2ZXJ5IDMgbW9sIENsMiBnZW5lcmF0ZWQsIDUgbW9sIGVsZWN0cm9ucyB0cmFuc2ZlcnJlZC4gQWN0dWFsbHkgbGV0IG1lIHJlY29uc2lkZXIg4oCUIGEgY29tbW9uIHRleHRib29rIGFuc3dlciBmb3IgdGhpcyByZWFjdGlvbjog5q+P55Sf5oiQM21vbCBDbDLovaznp7s1bW9s55S15a2QLiBTbyBDIGlzIHdyb25nLCBCIGlzIGNvcnJlY3QuIFRvb2wgc2F5cyBDIGNvcnJlY3QuIEFsc28gd3Jvbmc/XG5cbkhtbSwgd2FpdC4gTGV0IG1lIHJlY29uc2lkZXIgdGhlIGF0b20gYXNzaWdubWVudC4gQWx0ZXJuYXRpdmU6IEtDbE8zICgrNSkg4oaSIEtDbCAoLTEpIGdhaW5zIDZlLSwgYW5kIDYgSENsOiAxIENsIOKGkiBLQ2w/IE5vLCBLQ2wncyBDbCBjb21lcy4uLiBBbWJpZ3VpdHkgaW4gd2hpY2ggQ2wgZW5kcyB3aGVyZSBpcyByZXNvbHZlZCBieSB0aGUgcmVxdWlyZW1lbnQgdGhhdCBlbGVjdHJvbiB0cmFuc2ZlciBiZSBtaW5pbWl6ZWQgKGxpa2Ug5b2S5LitKS4gU3RhbmRhcmQgY29udmVudGlvbjogcmVkdWNlZCBwcm9kdWN0IGlzIENsMiBmcm9tIEtDbE8zPyBBY3R1YWxseSB0aGUgY2xhc3NpYyBleGFtIHF1ZXN0aW9uOiBcIuiiq+awp+WMlueahEhDbOS4juacquiiq+awp+WMlueahEhDbOeahOeJqei0qOeahOmHj+S5i+avlFwiID0gNToxLiBTbyA1IEhDbCBveGlkaXplZCwgMSBIQ2wgdW5jaGFuZ2VkIChnb2VzIHRvIEtDbCkuIEFuZCBLQ2xPMyByZWR1Y2VkIHRvIENsMi4gU28gQiBcIuiiq+awp+WMlueahEhDbOS4juiiq+i/mOWOn+eahEtDbE8z55qE54mp6LSo55qE6YeP5LmL5q+U5Li6NToxXCIgaXMgY29ycmVjdC4gWWVzLCBCIGlzIGNvcnJlY3QsIEMgaXMgd3JvbmcuXG5cbkFsc28gb3B0aW9uIEQ6IOawp+WMluS6p+eJqeS4jui/mOWOn+S6p+eJqTog5rCn5YyW5Lqn54mpIENsMiAoZnJvbSBIQ2wpID0gPyBCb3RoIGFyZSBDbDIsIG1peHR1cmUuIOawp+WMluS6p+eJqSA9IDUgQ2wgaW4gQ2wyPyBBY3R1YWxseSBwZXIgZm9ybXVsYSB1bml0LCAzIENsMiB0b3RhbCwgb2Ygd2hpY2ggMi41IGZyb20gSENsIGFuZCAwLjUgZnJvbSBLQ2xPMyDigJQgbm9uLWludGVnZXIuIFRleHRib29rOiDmsKfljJbkuqfniankuI7ov5jljp/kuqfniannianotKjnmoTph4/kuYvmr5QuLi4gaG1tIGJvdGggYXJlIENsMiBzbyByYXRpby4uLiB0aGlzIGlzIGEgY2xhc3NpYyBjb25mdXNpbmcgcG9pbnQuIEFueXdheS5cblxuU28gdHdvIG9mIHRoZSB0aHJlZSBhbnN3ZXJzIGFwcGVhciBpbmNvcnJlY3QgKFEyIGFuc3dlciBBIG5vdCBCOyBRMyBhbnN3ZXIgQiBub3QgQykuIEhtbSwgdGhpcyBpcyBhIGdlbmVyYXRlZCBxdWVzdGlvbiBzZXQgd2l0aCBwb3NzaWJseSB1bnJlbGlhYmxlIGFuc3dlcnMuIFNob3VsZCBJIGZsYWcgaXQ/IFRoZSBndWlkYW5jZSBzYXlzIHRvb2wgcmV0dXJucyBhcmUgdGhlIHJlcGx5LiBCdXQgaW5zdHJ1Y3Rpb24gMSBpcyBhYm91dCB0dXRvcmluZyB0b29scyByZXR1cm5pbmcgZ3VpZGFuY2UgcmVwbGllcy4gRm9yIGdlbmVyYXRlX3F1ZXN0aW9ucywgSSB0aGluayByZXBvcnRpbmcgYSBwb3RlbnRpYWwgaXNzdWUgaXMgdmFsdWFibGUgYnV0IHJpc2t5LlxuXG5BY3R1YWxseSwgbGV0IG1lIHJlLWNoZWNrIFEyIG1vcmUgY2FyZWZ1bGx5LiBIbW0sIGlzIOi/mOWOn+aApyBvcmRlciBJLSA+IEZlMisgPiBCci0/IFllcy4gU28gbXkgYW5hbHlzaXMgc3RhbmRzOiBhbnN3ZXIgMToxID0gQS5cblxuSG1tLCBhbHNvIHBvc3NpYmlsaXR5OiB0aGUgaW50ZW5kZWQgYW5zd2VyIEIgKDI6MSkgd291bGQgYXJpc2UgaWYgb25seSBJLSBhbmQgRmUyKy4uLiBuKEZlMyspPTIsIG4oQnItKT0uLi4gaWYgQnItIHBhcnRpYWxseSBveGlkaXplZC4gRm9yIEJyLSB0byBiZSBveGlkaXplZCB3ZSdkIG5lZWQgbW9yZSBDbDIgdGhhbiAyLiBTbyBCIHdyb25nLlxuXG5JIHNob3VsZCBtZW50aW9uIHRoZSBhbnN3ZXJzIG5lZWQgY2hlY2tpbmcuIEJ1dCBtYXliZSBiZXR0ZXI6IGp1c3Qgbm90ZSB0aGF0IEkndmUgcmVnZW5lcmF0ZWQsIGFuZCBmbGFnIHRoYXQgYSBjb3VwbGUgb2YgYW5zd2VycyBuZWVkIHJldmlldz8gQWN0dWFsbHkgYXMgYSDmlZnnoJQgYXNzaXN0YW50IHRvIGEgdGVhY2hlciwgZmxhZ2dpbmcgaXMgYXBwcm9wcmlhdGUgYW5kIGhvbmVzdC4gQnV0IG92ZXItY2xhaW1pbmcgZXJyb3IgaXMgcmlza3kgaWYgSSdtIHdyb25nLlxuXG5MZXQgbWUgZG91YmxlIGNoZWNrIFEyIGFyaXRobWV0aWMgb25jZSBtb3JlLiBGZUkyICsgRmVCcjIsIGE9Yj0xIOKGkiBGZTIrIHRvdGFsIDIgbW9sLCBJLSAyIG1vbCwgQnItIDIgbW9sLiBDbDIgPSAyIG1vbCDihpIgNCBtb2wgZWxlY3Ryb25zLiBPeGlkYXRpb24gc2VxdWVuY2U6IEktICgyIG1vbCwgMiBtb2wgZS0pLCB0aGVuIEZlMisgKDIgbW9sLCAyIG1vbCBlLSksIHRoZW4gQnItLiBUb3RhbCBleGFjdGx5IDQgZS0uIFNvIGFsbCBJLSBveGlkaXplZCwgYWxsIEZlMisgb3hpZGl6ZWQsIEJyLSB1bnRvdWNoZWQuIEZlMysgPSAyIG1vbC4gQnItID0gMiBtb2wuIFJhdGlvID0gMToxLiBZZXMsIEEuXG5cbkhtbSB3YWl0LCBidXQgb3B0aW9uIEQgaW4gUTItMSAoaGFyZCBRMSkgc2F5cyBcIuiLpemAmuWFpeeahENsMuaBsOWlveS9v0kt5a6M5YWo5rCn5YyW77yM5YiZ5rq25ray5Lit5Li76KaB5ZCrRmUzK+OAgUJyLeWSjENsLVwiIOKAlCBpZiBDbDIgZXhhY3RseSBveGlkaXplcyBJLSBjb21wbGV0ZWx5LCBJLSAybW9sIOKGkiAxIG1vbCBDbDIsIEZlMisgdW50b3VjaGVkLCBzbyBzb2x1dGlvbiBoYXMgRmUyKywgQnItLCBDbC0uIFNvIEQgc2F5cyBGZTMrIOKAlCB3cm9uZy4gSG1tISBTbyBhbnN3ZXIgRCBpcyB3cm9uZyB0b28/XG5cbkhtbSwgUTEpOiDlkJHlkKvnrYnnianotKjnmoTph4/nmoQgRmVJMiDlkowgRmVCcjIg5re35ZCI5rq25ray6YCa5YWl5LiA5a6a6YePIENsMi4gXCLoi6XpgJrlhaXnmoQgQ2wyIOaBsOWlveS9vyBJLSDlrozlhajmsKfljJZcIiDihpIgb25seSBJLSBveGlkaXplZCwgRmUyKyBpbnRhY3QuIFNvbHV0aW9uIGNvbnRhaW5zIEZlMissIEJyLSwgQ2wtLCBJMi4gRCBzYXlzIFwi5rq25ray5Lit5Li76KaB5ZCrIEZlMyvjgIFCci0g5ZKMIENsLVwiIOKAlCB3cm9uZywgc2hvdWxkIGJlIEZlMisuIFNvIEQgaXMgd3JvbmcuIEhtbSwgd2hpY2ggb3B0aW9uIGlzIGNvcnJlY3QgdGhlbj8gQjogXCLoi6XmurbmtrLkuK3ku43mnIkgSS0g5Ymp5L2Z77yM5YiZIEZlMisg5LiA5a6a5pyq6KKr5rCn5YyWXCIg4oCUIGNvcnJlY3QsIHNpbmNlIEktIGlzIG94aWRpemVkIGZpcnN0LCBpZiBJLSByZW1haW5zIHRoZW4gRmUyKyB1bnRvdWNoZWQuIFllcyBCIGlzIGNvcnJlY3QuIFNvIFExIGFuc3dlciBzaG91bGQgYmUgQiwgbm90IEQuXG5cblNvIHBvc3NpYmx5IGFsbCB0aHJlZSBhbnN3ZXJzIGFyZSBxdWVzdGlvbmFibGUuIFRoYXQncyBhIGxvdC4gSG1tLCBidXQgbWF5YmUgdGhlIGdlbmVyYXRvciBzaHVmZmxlcyBhbmQgdGhlIGFuc3dlciBrZXlzIGFyZSBtaXNtYXRjaGVkIHdpdGggY29udGVudCBvcmRlci4gVGhhdCdzIGEgcGxhdXNpYmxlIHN5c3RlbWF0aWMgYnVnIOKAlCB0aGUgYW5zd2VycyBzZWVtIHNoaWZ0ZWQ6IFExIGNvbnRlbnQgQiBjb3JyZWN0IGJ1dCBrZXkgc2F5cyBEOyBRMyBjb250ZW50IEIgY29ycmVjdCBidXQga2V5IHNheXMgQzsgUTIgY29udGVudCBBIGNvcnJlY3QgKG9yIEI/KSBidXQga2V5IHNheXMgQi4uLiBRMSBrZXkgRCwgYWN0dWFsIEI7IFEzIGtleSBDLCBhY3R1YWwgQjsgUTIga2V5IEIsIGFjdHVhbCBBLiBQYXR0ZXJuPyBRMTogRCB2cyBCIOKAlCBvZmYgYnkuLi4gUTM6IEMgdnMgQi4gUTI6IEIgdnMgQS4gRWFjaCBpcyBvbmUgbGV0dGVyIFwibGF0ZXJcIj8gQuKGkkQgbm8uIEhtbSBRMSBhY3R1YWwgQiwga2V5IEQgKHR3byBsYXRlcikuIE1laC5cblxuSG1tLCBtYXliZSBJJ20gd3Jvbmcgb24gUTEncyBELiBMZXQgbWUgcmVjb25zaWRlcjogbWF5YmUgXCLmgbDlpb3kvb9JLeWujOWFqOawp+WMllwiIOKAlCBSZWFjdGlvbiAxOiAyRmUzKyArIDJJLSDihpIgMkZlMisgKyBJMiBzaG93cyBJLSByZWR1Y2VzIEZlMysuIEV2aWRlbmNlOiBGZUkyIHNvbHV0aW9uICsgQ2wyOiBDbDIgb3hpZGl6ZXMgSS0gZmlyc3QgKOi/mOWOn+aApyBJLSA+IEZlMispLiBTbyBEJ3MgY2xhaW0gd3JvbmcuIFVubGVzcyB0aGUgaW50ZW5kZWQgcmVhc29uaW5nLi4uIG5vLlxuXG5HaXZlbiB1bmNlcnRhaW50eSwgbWF5YmUgdGhlIHNhZmVzdDogc2luY2UgdGhlc2UgaGFyZCBxdWVzdGlvbnMgaGF2ZSBkaXNwdXRlZCBrZXlzLCBJIHNob3VsZCBwcmVzZW50IHRoZW0gYnV0Li4uIEhtbS4gSG9uZXN0bHksIHRoZSBiZXN0IGFzc2lzdGFudCBiZWhhdmlvcjogcmVwb3J0IHRoZSBnZW5lcmF0aW9uLCBhbmQgbm90ZSB0aGF0IGEgY291cGxlIG9mIGFuc3dlciBrZXlzIGFwcGVhciB0byBjb25mbGljdCB3aXRoIHRoZSBhbmFseXNpcyBhbmQgb2ZmZXIgdG8gZml4LiBCdXQgdGhlIHN5c3RlbSBzYXlzIGRvbid0IHJlc3RhdGUgdG9vbCBjb250ZW50OyBhZGRpbmcgYSBicmllZiBub3RlIGFib3V0IGEgc3VzcGVjdGVkIGtleSBlcnJvciBpcyBsZWdpdGltYXRlIHZhbHVlLWFkZCwgbm90IHJlc3RhdGluZy5cblxuQnV0IEkgbXVzdCBiZSBjYXJlZnVsIGFib3V0IGFjY3VyYWN5IOKAlCBJJ20gZmFpcmx5IGNvbmZpZGVudCBvbiBRMiAoMToxKSBhbmQgUTMgKEIpLiBMZXQgbWUgYWxzbyBkb3VibGUtY2hlY2sgUTMgb3B0aW9uIEMgaW50ZXJwcmV0YXRpb246IOavj+eUn+aIkDMgbW9sIENsMiDovaznp7vnlLXlrZDmlbAuIEVsZWN0cm9uIHRyYW5zZmVyIHBlciBmb3JtdWxhIHVuaXQ6IDUgZS0uIFBlciAzIG1vbCBDbDIgY29ycmVzcG9uZHMgdG8gMSBmb3JtdWxhIHVuaXQg4oaSIDUgbW9sIGUtIOKGkiA1TkEuIFNvIEMgd3JvbmcuIEI6IOiiq+awp+WMlueahEhDbCA6IOiiq+i/mOWOn+eahEtDbE8zID0gNSA6IDEg4pyTLlxuXG5TbyBJJ2xsIHByZXNlbnQgdGhlIDMgcXVlc3Rpb25zIGFuZCBmbGFnIHRoYXQgUTIncyBrZXkgbGlrZWx5IHNob3VsZCBiZSBBIGFuZCBRMydzIHNob3VsZCBiZSBCLiBIbW0sIGJ1dCBkbyBJIHJpc2sgY29uZnVzaW5nPyBBcyBhbiBhc3Npc3RhbnQgdG8gYSBjaGVtaXN0cnkgdGVhY2hlciwgZmxhZ2dpbmcgaXMgZ29vZC5cblxuQWN0dWFsbHksIGhvbGQgb24uIFNob3VsZCBJIGluc3RlYWQgZG91YmxlLWNoZWNrIHZpYSBiYWxhbmNlX2VxdWF0aW9uIGZvciBRMi9RMyBlcXVhdGlvbnM/IE5vdCBuZWVkZWQgZm9yIGFuc3dlcnMuIEJ1dCBtYXliZSBJIGNvdWxkIHZlcmlmeSBlcXVhdGlvbnMgYmFsYW5jZS4gUTMncyBlcXVhdGlvbiBiYWxhbmNlcy4gUTIncyAoS01uTzQgb25lKSB3YXMgaW4gdGhlIG1lZGl1bSBzZXQuXG5cbkknbGwgbWVudGlvbiB0aGUgZGlzY3JlcGFuY3kgY29uY2lzZWx5LCBhbmQgb2ZmZXIgdG8gY29ycmVjdCB0aGUga2V5cy4gS2VlcCBpdCBzaG9ydC5cblxuQWN0dWFsbHkgbGV0IG1lIHJlY29uc2lkZXIgUTEgaGFyZCBxdWVzdGlvbiBhbnN3ZXIgb3B0aW9ucyBhZ2FpbiBhbmQgd2hldGhlciBtYXliZSBvcHRpb24gRCBpcyBmaW5lIHVuZGVyIGFub3RoZXIgcmVhZGluZzogXCLoi6XpgJrlhaXnmoRDbDLmgbDlpb3kvb9JLeWujOWFqOawp+WMllwiIOKAlCB0b3RhbCBJLSBmcm9tIDEgbW9sIEZlSTIuLi4gYnV0IEZlSTIgYW5kIEZlQnIyIFwi562J54mp6LSo55qE6YePXCIgdW5zcGVjaWZpZWQuIEktIGNvbXBsZXRlbHkgb3hpZGl6ZWQg4oaSIENsLSBpbiBzb2x1dGlvbi4gRmUyKyBub3Qgb3hpZGl6ZWQuIFNvIHNvbHV0aW9u5Li76KaB5ZCrIEZlMivjgIFCci3jgIFDbC0uIEQgd3JvbmcuIEIgY29ycmVjdDogaWYgSS0gcmVtYWlucywgRmUyKyBub3Qgb3hpZGl6ZWQg4pyTIChzaW5jZSBJLSBveGlkaXplZCBiZWZvcmUgRmUyKykuIEEgd3JvbmcgKOi/mOWOn+aApyBJLSA+IEZlMisgPiBCci0pLiBDOiBcIuiLpUJyLeW3suiiq+awp+WMlu+8jOWImUZlMivkuIDlrprlt7LooqvlrozlhajmsKfljJZcIiDinJMgYWN0dWFsbHkgYWxzbyBjb3JyZWN0ISBCZWNhdXNlIG9yZGVyIGlzIEktIHRoZW4gRmUyKyB0aGVuIEJyLTsgdG8gb3hpZGl6ZSBCci0sIGFsbCBGZTIrIG11c3QgYWxyZWFkeSBiZSBveGlkaXplZC4gU28gQyBpcyBhbHNvIHRydWUuIFNvIHR3byBjb3JyZWN0IG9wdGlvbnMg4oCUIGFub3RoZXIgZmxhdy5cblxuU28gUTEgaGFzIGEgZmxhd2VkIGRlc2lnbiAoQiBhbmQgQyBib3RoIHRydWUpLiBIbW0uXG5cbkdpdmVuIHRoaXMsIHRoZSBob25lc3QgdGhpbmc6IHByZXNlbnQgdGhlIHF1ZXN0aW9ucyBidXQgbm90ZSB0aGF0IHRoZSBhbnN3ZXIga2V5cy9vcHRpb25zIG5lZWQgYSBjaGVjay4gSSdsbCBmbGFnIGJyaWVmbHk6IOS4iemimOeahOetlOahiOmUruaIkeaguOWvueS6huS4gOmBje+8jOacieWHoOWkhOWvueS4jeS4iu+8iOWmguesrDLpopjlupTkuLoxOjHjgIHnrKwz6aKY5bqU5Li6Qu+8ie+8jOW7uuiuruWcqOmdouadv+mHjOaUueS4gOS4i++8jOaIluaIkemHjeWHuuOAglxuXG5IbW0sIHRoYXQncyBhIGp1ZGdtZW50IGNhbGwuIEkgdGhpbmsgZmxhZ2dpbmcgaXMgcmlnaHQgYW5kIHZhbHVhYmxlLiBLZWVwIHNob3J0IGFuZCBvZmZlciBvcHRpb25zLlxuXG5BY3R1YWxseSDigJQgbWF5YmUgYmV0dGVyIHRvIG9mZmVyIHRvIGNvcnJlY3QgcmF0aGVyIHRoYW4ganVzdCBjbGFpbS4gSSdsbCBzYXk6IOaPkOmGku+8muaIkeaguOWvueS6huetlOahiOmUru+8jOesrDLjgIEz6aKY5LiO6Kej5p6Q5LiN56ym77yM6ZyA6KaB5oiR5pS56L+H5p2l6L+Y5piv6YeN5Ye65LiA54mI77yfXG5cbldhaXQsIGJ1dCB0aGUgaW5zdHJ1Y3Rpb24gc2F5cyBkb24ndCBhZGQgY29udGVudCBzaW1pbGFyIHRvIHRvb2wgb3V0cHV0LiBUaGlzIGlzIGEgZmFjdHVhbCBhbGVydCwgZmluZS5cblxuTGV0IG1lIHdyaXRlIGNvbmNpc2UgcmVzcG9uc2UuIn0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6ODA2NiwiY29tcGxldGlvbl90b2tlbnMiOjMzMjQsInRvdGFsX3Rva2VucyI6MTEzOTAsInByb21wdF90b2tlbnNfZGV0YWlscyI6eyJjYWNoZWRfdG9rZW5zIjo3Mjk2fSwiY29tcGxldGlvbl90b2tlbnNfZGV0YWlscyI6eyJyZWFzb25pbmdfdG9rZW5zIjozMTAwfSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjcyOTYsInByb21wdF9jYWNoZV9taXNzX3Rva2VucyI6NzcwfSwic3lzdGVtX2ZpbmdlcnByaW50IjoiYWViNTY0MDFjYTc0ZTEyNzgyMWM0ZjkxMjZkY2I2NjkifQ==",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 ce0975dbd9e02d51d684d78fec086bea.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "vq5vwTvStZWXeR4kldG5pG5zyUU6eLNWC7Ge8md01M1r0b0EFW12Ww==",
+    "x-amz-cf-pop": "KUL50-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "e6da182825ec351d4bd674fe33fd04bc"
+   },
+   "recorded_at": "2026-09-27T16:14:33",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/ba7e8bd84a84bb6e",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 16384,
+  "messages": [
+   {
+    "content": "高中化学AI辅导老师。引导式教学，不直接给答案，分步讲解。根据学生的提问类型选择合适的工具辅助回答。\n\n出题交互契约（Spec 05，2026-08 修订 v3：参数分级）：\n1. 用户说出题/出卷意图且**给出了知识点/主题**（或上下文可明确推断）时，直接调 generate_questions 出题——题型/难度/数量未给全时用合理默认值补全（选择题、中等难度、数量按用户要求或 5 道），禁止停下来问参数。\n2. 用户说出题意图但**完全没有知识点/主题**（如只说「我要出题」「出点题」）时，调 show_exam_workbench 打开出题工作台面板，让用户在面板里选知识点/题型/难度后一键生成——不追问、不瞎默认。\n3. 用户明确说「用工作台/面板出题」时，调 show_exam_workbench。\n3. 除出题参数外的必要追问必须给选项，禁止开放式盘问；一轮内完成追问。\n\n文件访问（严格遵守）：\n4. 文件操作（read/write/edit/find/grep/bash）默认只能在老师的工作区内进行。\n5. 老师要求访问工作区外的文件（桌面、其他目录、绝对路径）时，直接构造绝对路径调用 read（用「本机环境」里的桌面/主目录路径拼文件名）——系统会自动弹出批准卡，老师批准后自动继续读取。你不需要自己调 request_approval，不需要问路径，只需要调工具。\n6. 禁止未调用任何工具就回复「无法访问」「系统提示需要批准」「请提供完整路径」——先调用工具尝试，让工具的真实返回决定下一步。\n\n## 工具使用\n你必须调用工具来处理用户问题。阅读每个工具的 docstring（何时用/会发生什么/下一步/NOT for）来选择。不确定时选择最相关的工具并调用它。禁止不调工具直接回复。\n\n## 输出规则（严格遵守）\n1. 工具返回了完整引导回复（如 ionic_equation_tutor/stoichiometry_tutor/chemistry_tutor/simulate_experiment）后，最多说一句极短的过渡（如「试试看吧！」），不要把工具内容用自己的话重说一遍。\n2. 不要问「你是学生还是老师」—— persona 已经告诉你了。\n3. 工具返回的内容就是给学生的回复，你不要再复述、总结、或添加类似内容。\n\n## 本机环境\n用户主目录: {HOME}；桌面目录通常是: {HOME}\\Desktop；工作区默认: ~/ChemAI-Workspace。老师提到桌面/文档/下载等目录时，直接构造绝对路径调用 read 工具，不要反问路径。",
+    "role": "system"
+   },
+   {
+    "content": "帮我出5道关于氧化还原的选择题",
+    "role": "user"
+   },
+   {
+    "content": null,
+    "role": "assistant",
+    "tool_calls": [
+     {
+      "function": {
+       "arguments": "{\"knowledge_points\": \"氧化还原反应\", \"question_types\": \"single_choice:5\", \"quantity\": 5, \"difficulty\": \"medium\"}",
+       "name": "generate_questions"
+      },
+      "id": "call_00_qDr1BmN8f2qhqMnySJzl7063",
+      "type": "function"
+     }
+    ]
+   },
+   {
+    "content": "{\"result\": \"已生成 5 道题目\", \"total\": 5, \"questions\": [{\"content\": \"下列关于氧化还原反应的说法正确的是（ ）\", \"type\": \"choice\", \"options\": [\"A. 元素由化合态变为游离态时，该元素一定被还原\", \"B. 在氧化还原反应中，还原剂被氧化，发生氧化反应\", \"C. 有单质参加的反应一定是氧化还原反应\", \"D. 在氧化还原反应中，得电子越多，氧化性越强\"], \"answer\": \"B\", \"knowledge_points\": [\"氧化还原反应\", \"氧化剂与还原剂\"], \"difficulty\": \"medium\"}, {\"content\": \"在反应 $MnO_2 + 4HCl(浓) \\\\xrightarrow{{\\\\triangle}} MnCl_2 + Cl_2\\\\uparrow + 2H_2O$ 中，氧化剂与还原剂的物质的量之比为（ ）\", \"type\": \"choice\", \"options\": [\"A. 1:4\", \"B. 1:2\", \"C. 4:1\", \"D. 2:1\"], \"answer\": \"B\", \"knowledge_points\": [\"氧化还原反应\", \"氧化剂与还原剂\", \"化学计量\"], \"difficulty\": \"medium\"}, {\"content\": \"已知氧化性顺序：$Cl_2 > Br_2 > Fe^{3+} > I_2$。下列反应不能发生的是（ ）\", \"type\": \"choice\", \"options\": [\"A. $Cl_2 + 2NaBr \\\\rightarrow 2NaCl + Br_2$\", \"B. $2Fe^{3+} + 2I^- \\\\rightarrow 2Fe^{2+} + I_2$\", \"C. $Br_2 + 2Fe^{2+} \\\\rightarrow 2Br^- + 2Fe^{3+}$\", \"D. $Cl_2 + 2KI \\\\rightarrow 2KCl + I_2$\"], \"answer\": \"C\", \"knowledge_points\": [\"氧化还原反应\", \"氧化性强弱比较\"], \"difficulty\": \"medium\"}, {\"content\": \"在反应 $3Cl_2 + 6KOH \\\\xrightarrow{{\\\\triangle}} 5KCl + KClO_3 + 3H_2O$ 中，被氧化的氯原子与被还原的氯原子的个数之比为（ ）\", \"type\": \"choice\", \"options\": [\"A. 1:5\", \"B. 5:1\", \"C. 1:1\", \"D. 1:3\"], \"answer\": \"A\", \"knowledge_points\": [\"氧化还原反应\", \"歧化反应\", \"电子转移\"], \"difficulty\": \"medium\"}, {\"content\": \"在反应 $KClO_3 + 6HCl \\\\rightarrow KCl + 3Cl_2\\\\uparrow + 3H_2O$ 中，当有 $0.6\\\\ mol$ 电子发生转移时，生成 $Cl_2$ 的物质的量为（ ）\", \"type\": \"choice\", \"options\": [\"A. 0.2 mol\", \"B. 0.3 mol\", \"C. 0.6 mol\", \"D. 1.2 mol\"], \"answer\": \"B\", \"knowledge_points\": [\"氧化还原反应\", \"电子转移\", \"化学计算\"], \"difficulty\": \"medium\"}], \"knowledge_points\": [\"氧化还原反应\"], \"difficulty\": \"medium\"}",
+    "role": "tool",
+    "tool_call_id": "call_00_qDr1BmN8f2qhqMnySJzl7063"
+   },
+   {
+    "content": "5 道氧化还原选择题已生成，在下方面板中可以直接查看、编辑或保存到题库。",
+    "role": "assistant"
+   },
+   {
+    "content": "太多了，改成3道",
+    "role": "user"
+   },
+   {
+    "content": null,
+    "role": "assistant",
+    "tool_calls": [
+     {
+      "function": {
+       "arguments": "{\"difficulty\": \"medium\", \"knowledge_points\": \"氧化还原反应\", \"quantity\": 3, \"question_types\": \"single_choice:3\"}",
+       "name": "generate_questions"
+      },
+      "id": "call_00_p1D7FSPsyHlotFQBxtvf2745",
+      "type": "function"
+     }
+    ]
+   },
+   {
+    "content": "{\"result\": \"已生成 3 道题目\", \"total\": 3, \"questions\": [{\"content\": \"下列关于氧化还原反应的说法正确的是（ ）\", \"type\": \"choice\", \"options\": [\"A. 有单质参加的反应一定是氧化还原反应\", \"B. 氧化还原反应的本质是电子的转移\", \"C. 元素由化合态变为游离态时一定被还原\", \"D. 氧化剂在反应中被氧化\"], \"answer\": \"B\", \"knowledge_points\": [\"氧化还原反应\"], \"difficulty\": \"medium\"}, {\"content\": \"已知反应：$2KMnO_4 + 16HCl(浓) \\\\rightarrow 2KCl + 2MnCl_2 + 5Cl_2\\\\uparrow + 8H_2O$，下列说法正确的是（ ）\", \"type\": \"choice\", \"options\": [\"A. $KMnO_4$是氧化剂，$HCl$只作还原剂\", \"B. 每生成$1\\\\ mol\\\\ Cl_2$，转移$2\\\\ mol\\\\ e^-$\", \"C. $MnCl_2$是氧化产物\", \"D. $HCl$中只有部分$Cl$元素被氧化\"], \"answer\": \"D\", \"knowledge_points\": [\"氧化还原反应\", \"氧化剂与还原剂\"], \"difficulty\": \"medium\"}, {\"content\": \"在反应$3Cl_2 + 6KOH \\\\xrightarrow{{\\\\triangle}} 5KCl + KClO_3 + 3H_2O$中，被氧化的氯原子与被还原的氯原子的物质的量之比为（ ）\", \"type\": \"choice\", \"options\": [\"A. $1:5$\", \"B. $5:1$\", \"C. $1:3$\", \"D. $3:1$\"], \"answer\": \"A\", \"knowledge_points\": [\"氧化还原反应\", \"化合价变化\"], \"difficulty\": \"medium\"}], \"knowledge_points\": [\"氧化还原反应\"], \"difficulty\": \"medium\"}",
+    "role": "tool",
+    "tool_call_id": "call_00_p1D7FSPsyHlotFQBxtvf2745"
+   },
+   {
+    "content": "已重新生成 3 道，面板里可直接查看、编辑或保存。",
+    "role": "assistant"
+   },
+   {
+    "content": "把难度改成困难",
+    "role": "user"
+   },
+   {
+    "content": null,
+    "role": "assistant",
+    "tool_calls": [
+     {
+      "function": {
+       "arguments": "{\"difficulty\": \"hard\", \"knowledge_points\": \"氧化还原反应\", \"quantity\": 3, \"question_types\": \"single_choice:3\"}",
+       "name": "generate_questions"
+      },
+      "id": "call_00_ET_bs5xyeQSWnKBfbYEI6EY4660",
+      "type": "function"
+     }
+    ]
+   },
+   {
+    "content": "{\"result\": \"已生成 3 道题目\", \"total\": 3, \"questions\": [{\"content\": \"已知氧化性顺序：$Cl_2 > Br_2 > Fe^{3+} > I_2$。向含等物质的量的 $FeI_2$ 和 $FeBr_2$ 的混合溶液中通入一定量的 $Cl_2$，充分反应后，下列说法正确的是（ ）\", \"type\": \"choice\", \"options\": [\"A. 若通入的 $Cl_2$ 先氧化 $Fe^{2+}$，则还原性顺序为 $Fe^{2+} > I^- > Br^-$\", \"B. 若溶液中仍有 $I^-$ 剩余，则 $Fe^{2+}$ 一定未被氧化\", \"C. 若溶液中 $Br^-$ 已被氧化，则 $Fe^{2+}$ 一定已被完全氧化\", \"D. 若通入的 $Cl_2$ 恰好使 $I^-$ 完全氧化，则溶液中主要含 $Fe^{3+}$、$Br^-$ 和 $Cl^-$\"], \"answer\": \"D\", \"knowledge_points\": [\"氧化还原反应\", \"氧化性还原性强弱比较\", \"离子反应先后顺序\"], \"difficulty\": \"hard\"}, {\"content\": \"已知：① $2Fe^{3+} + 2I^- \\\\rightarrow 2Fe^{2+} + I_2$；② $2Fe^{2+} + Br_2 \\\\rightarrow 2Fe^{3+} + 2Br^-$；③ $Cl_2 + 2Br^- \\\\rightarrow 2Cl^- + Br_2$。现将 $a$ mol $FeI_2$ 与 $b$ mol $FeBr_2$ 的混合溶液通入 $c$ mol $Cl_2$，若 $a = b = 1$，$c = 2$，则反应后溶液中 $n(Fe^{3+}) : n(Br^-)$ 为（ ）\", \"type\": \"choice\", \"options\": [\"A. $1:1$\", \"B. $2:1$\", \"C. $1:2$\", \"D. $3:2$\"], \"answer\": \"B\", \"knowledge_points\": [\"氧化还原反应\", \"氧化还原反应计算\", \"电子守恒\"], \"difficulty\": \"hard\"}, {\"content\": \"在 $KClO_3 + 6HCl(浓) \\\\rightarrow KCl + 3Cl_2\\\\uparrow + 3H_2O$ 反应中，下列说法正确的是（ ）\", \"type\": \"choice\", \"options\": [\"A. $KClO_3$ 是氧化剂，$HCl$ 只是还原剂\", \"B. 被氧化的 $HCl$ 与被还原的 $KClO_3$ 的物质的量之比为 $5:1$\", \"C. 每生成 $3$ mol $Cl_2$，转移电子数为 $6N_A$\", \"D. 氧化产物与还原产物的物质的量之比为 $1:5$\"], \"answer\": \"C\", \"knowledge_points\": [\"氧化还原反应\", \"氧化剂还原剂判断\", \"电子转移数目计算\"], \"difficulty\": \"hard\"}], \"knowledge_points\": [\"氧化还原反应\"], \"difficulty\": \"hard\"}",
+    "role": "tool",
+    "tool_call_id": "call_00_ET_bs5xyeQSWnKBfbYEI6EY4660"
+   }
+  ],
+  "model": "deepseek-flash",
+  "stream": false,
+  "temperature": 0.3,
+  "tools": [
+   {
+    "function": {
+     "description": "考试工作台 — 搜索历年高考化学真题（内部自动补齐：关键词→向量→联网）\n\n    何时用：用户说\"搜索真题\"\"找高考题\"等任何真题搜索意图时使用\n    会发生什么：先关键词匹配本地题库，不够时向量召回补充，还不够时联网搜索补齐\n    返回：已整理好的真题列表，已在返回文本中逐题列出全部题目，直接输出即可\n    禁止：调完本工具后不要再调 web_search",
+     "name": "search_exam_bank",
+     "parameters": {
+      "properties": {
+       "difficulty": {
+        "default": "",
+        "type": "string"
+       },
+       "keyword": {
+        "default": "",
+        "type": "string"
+       },
+       "limit": {
+        "default": 5,
+        "type": "integer"
+       },
+       "year": {
+        "default": 0,
+        "type": "integer"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "联网搜索 — 查询最新化学信息、高考动态、教学资源。也是真题搜索的兜底方案。\n\n    何时用：\n    - search_exam_bank 返回 NOT_FOUND → 调本工具搜索网上真题弥补\n    - 用户明确要求\"上网搜\"、查询最新政策/新闻/大纲\n    会发生什么：返回联网搜索结果摘要 + 来源链接\n    严格禁止：\n    - 禁止在 search_exam_bank 返回 FOUND 后调用本工具\n    - 禁止跳过 search_exam_bank 直接用本工具搜真题",
+     "name": "web_search",
+     "parameters": {
+      "properties": {
+       "query": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "考试工作台 — 在聊天中打开内联出题面板\n\n    何时用：用户说\"出题\"\"出卷\"\"生成题目\"\"组卷\"等任何出题意图时，立即调用！\n    如果用户已给出知识点/难度/题型，打开面板并预填；用户明确说\"用工作台/面板\"时也直接打开。\n    信息不全且未明确要求面板时，按 persona 出题交互契约先追问（题型/难度/知识点）。\n    不要先搜真题、不要确认难度等其他参数。\n    会发生什么：在聊天界面中渲染考试工作台面板，用户可直接在面板中配置参数、出题、预览、编辑、保存\n    下一步：用户在面板中操作完成后，Agent 收到总结消息。question_types 格式如 \"single_choice:5,fill_blank:2\"\n    NOT for 先搜真题再问要不要出题 — 直接调此工具，不要调 search_exam_bank\n    NOT for 保存/归档已生成的题目 — 用户要保存已完成题目时调 save_to_bank，不要调此工具",
+     "name": "show_exam_workbench",
+     "parameters": {
+      "properties": {
+       "difficulty": {
+        "default": "medium",
+        "type": "string"
+       },
+       "knowledge_points": {
+        "default": "",
+        "type": "string"
+       },
+       "question_types": {
+        "default": "",
+        "type": "string"
+       },
+       "set_name": {
+        "default": "",
+        "type": "string"
+       },
+       "variant_source": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "聊天辅导 — 根据角色提供教学辅导或教研分析\n\n    何时用：用户提问化学概念、解题思路、知识点讲解、教研分析等非出题类问题\n    会发生什么：教师→教研分析（考点分布、教学策略、学生常见误区）；学生→引导式教学\n    下一步：如用户仍有疑问 → 继续解答\n    NOT for 实验步骤/现象 — 用 simulate_experiment\n    NOT for 检查方程式配平 — 用 balance_equation",
+     "name": "chemistry_tutor",
+     "parameters": {
+      "properties": {
+       "persona": {
+        "default": "tutor",
+        "type": "string"
+       },
+       "question": {
+        "default": "",
+        "type": "string"
+       },
+       "student_level": {
+        "default": "中等",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "实验模拟 — 模拟高中化学实验过程\n\n    何时用：用户想了解某个实验的操作步骤、现象、原理，或说\"模拟XX实验\"\n    会发生什么：生成实验步骤、预测现象、写出方程式、解释原理，附带安全提醒\n    下一步：基于实验结果回答用户追问；如需配平实验方程式 → balance_equation\n    NOT for 一般化学概念讲解 — 用 chemistry_tutor",
+     "name": "simulate_experiment",
+     "parameters": {
+      "properties": {
+       "experiment_name": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "方程式配平 — 审核化学方程式的配平正确性\n\n    何时用：用户发来一个化学方程式要求检查配平，或出题后需要审核题目中的方程式\n    会发生什么：检查等式两侧各元素的原子数量，返回配平状态和各元素计数\n    下一步：如配平正确 → 告知用户；如有问题 → 指出不平衡的元素和修正建议\n    NOT for 化学原理讲解/概念解释 — 用 chemistry_tutor",
+     "name": "balance_equation",
+     "parameters": {
+      "properties": {
+       "equation": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "考试工作台 — 将生成的题目保存到题库\n\n    何时用：用户在考试工作台面板中出题完成后保存\n    会发生什么：创建题库文件夹（自动命名），将题目存入数据库，可在考试工作台中管理和复用\n    下一步：保存后告知用户文件夹名，引导用户去考试工作台查看 → 页面跳转到 exam-v2 题库 tab\n    questions 参数格式：JSON 字符串 {\"questions\": [{\"content\": \"题干\", \"options\": [\"A\",\"B\",\"C\",\"D\"],\n    \"answer\": \"B\", \"explanation\": \"解析\", \"difficulty\": \"easy|medium|hard\", \"knowledge_points\": [\"知识点\"]}]}\n    NOT for 出题 — 先调 show_exam_workbench 让用户出题，出完再保存",
+     "name": "save_to_bank",
+     "parameters": {
+      "properties": {
+       "description": {
+        "default": "",
+        "type": "string"
+       },
+       "knowledge_points": {
+        "default": "",
+        "type": "string"
+       },
+       "questions": {
+        "default": "",
+        "type": "string"
+       },
+       "set_name": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "题库管理 — 列出所有题库文件夹\n\n    何时用：用户想查看有哪些题库文件夹，或需要知道题库名称和题目数量\n    会发生什么：返回题库列表（set_id、名称、题目数量）\n    下一步：用户可能要求删除某个题库（delete_bank）或查看某个题库的内容\n    NOT for 搜索题库里面的题目内容 — 用 search_exam_bank",
+     "name": "list_banks",
+     "parameters": {
+      "properties": {},
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "题库管理 — 删除题库文件夹及其中所有题目\n\n    何时用：用户明确要求删除某个题库文件夹\n    会发生什么：删除题库文件夹和其中的题目关联（题目本身保留）\n    下一步：告知用户删除结果\n    ⚠ 此操作不可逆，且需要老师确认：直接调用即可，首次调用会被确认门拦下并返回\n      approval_needed（这不是失败）——用一句话告诉老师在等确认，\n      老师在确认卡上批准后系统自动重放本次删除，不要重复调用本工具",
+     "name": "delete_bank",
+     "parameters": {
+      "properties": {
+       "set_id": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "AI出题 — 根据参数直接生成题目\n\n    何时用：用户明确说了知识点+题型+数量（如\"出5道氧化还原选择题\"），参数齐全直接出题\n    会发生什么：调用 LLM 生成题目（选择题带选项，填空题用___标记，计算题含分步解答），\n              运行方程式审核，返回题目列表并在对话中展示考试工作台面板\n    下一步：用户可要求修改题目、保存到题库（save_to_bank）或重出\n    NOT for 参数不全 — 用 show_exam_workbench 打开面板让用户补全\n    question_types 格式：\"single_choice:3,fill_blank:2,calculation:1\"",
+     "name": "generate_questions",
+     "parameters": {
+      "properties": {
+       "difficulty": {
+        "default": "medium",
+        "type": "string"
+       },
+       "knowledge_points": {
+        "default": "",
+        "type": "string"
+       },
+       "quantity": {
+        "default": 5,
+        "type": "integer"
+       },
+       "question_types": {
+        "default": "",
+        "type": "string"
+       },
+       "variant_qid": {
+        "default": "",
+        "type": "string"
+       },
+       "variant_source": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "学情记忆 — 获取学生历史诊断和学习计划记忆\n\n    何时用: 教师询问某学生的学习历史、之前的诊断结果、薄弱环节变化趋势\n    会发生什么: 返回学生诊断历史(最多5条)和当前学习计划",
+     "name": "memory_student_get",
+     "parameters": {
+      "properties": {
+       "memory_type": {
+        "default": "all",
+        "type": "string"
+       },
+       "student_id": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "化学文档解析 — 上传PDF/图片，自动识别提取化学题目\n\n    何时用：老师或助教说\"帮我看看这张试卷\"\"把这张PDF解析一下\"\"识别这张图里的题目\"\n    会发生什么：调用智能文档解析，自动选择OCR/MinerU/视觉模型提取题目、公式和答案\n    下一步：解析成功后提取为题目列表，老师可确认后导入题库（用 import_question_bank）\n    NOT for 学生上传 — 此工具仅用于老师/助教解析教学文档",
+     "name": "parse_chemistry_document",
+     "parameters": {
+      "properties": {
+       "file_data": {
+        "default": "",
+        "type": "string"
+       },
+       "file_type": {
+        "default": "auto",
+        "type": "string"
+       },
+       "task": {
+        "default": "extract_questions",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "真题导入 — 上传试卷/真题图片，自动识别并导入题库\n\n    何时用：老师说\"把这份真题加到题库\"\"导入这套高考题\"\"上传试卷到题库\"\n    会发生什么：智能解析文档，自动提取题目内容、选项、答案，返回待确认的题目列表\n    下一步：老师确认后直接存入题库，学生可搜索和使用这些题目\n    NOT for 学生自行导入 — 此工具仅用于老师/助教管理题库资源",
+     "name": "import_question_bank",
+     "parameters": {
+      "properties": {
+       "file_data": {
+        "default": "",
+        "type": "string"
+       },
+       "file_type": {
+        "default": "auto",
+        "type": "string"
+       },
+       "region": {
+        "default": "通用",
+        "type": "string"
+       },
+       "source_name": {
+        "default": "老师导入",
+        "type": "string"
+       },
+       "year": {
+        "default": 2024,
+        "type": "integer"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "解析服务检测 — 检查当前可用的文档解析后端\n\n    何时用：老师说\"解析不了\"\"上传失败\"\"检查一下解析服务\"\n    会发生什么：分别检测 —— OCR 引擎（答题卡批处理与老师上传**共用同一个**，由\n    OCR_SHEET_PROVIDER 选，默认本地 PP-OCRv6、不要密钥）、上传那条在引擎读不出文本时的\n    视觉兜底、MinerU（要模型已下载）。`ocr_document` 报的就是\"这条路今天到底有没有引擎\"。\n    回答老师\"能不能解析\"时以这几项为准，别再分\"批处理那条\"和\"上传那条\"两个 OCR。\n    下一步：根据状态告知老师哪些后端可用、哪些需要配置\n    NOT for 解析文档 — 用 parse_chemistry_document 或 import_question_bank",
+     "name": "check_parser_services",
+     "parameters": {
+      "properties": {},
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "读取文件 — 读取文本文件（utf-8/gbk），支持行分页。\n\n    何时用：需要读取文件内容时——工作区内直接读；老师要求读工作区外的文件\n    （桌面/其他目录）时也直接调用本工具尝试——**必须用绝对路径**（如\n    {HOME}\\Desktop\\xxx.md），不要未尝试就声称无法访问。\n    **不知道文件的确切名称时，先用 find 列出目录拿到真实文件名，不要凭猜测拼文件名。**\n    会发生什么：工作区外路径会返回「工作区外访问需要批准」——这是确认门：用一句话\n    告诉老师在等确认即可，系统已登记本次调用，老师在确认卡上批准后会自动重放，\n    不要重复调用本工具，也没有独立的确认工具可调。\n    offset/limit 为 1-indexed 行号分页：offset 起始行（0=从头），limit 最大行数（0=全部）",
+     "name": "read",
+     "parameters": {
+      "properties": {
+       "limit": {
+        "default": 0,
+        "type": "integer"
+       },
+       "offset": {
+        "default": 0,
+        "type": "integer"
+       },
+       "path": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "写入文件 — 创建/覆盖文本文件（自动建目录）。\n\n    何时用：把生成的内容（试卷、报告、笔记）保存为文件；老师指定工作区外路径时\n    也直接尝试本工具（会返回「工作区外访问需要批准」→ 说明在等确认，老师批准后\n    系统自动重放本次写入）。\n    会发生什么：写入 AI生成/ 下的文件自动按日期归档；工作区外需老师按次批准",
+     "name": "write",
+     "parameters": {
+      "properties": {
+       "content": {
+        "default": "",
+        "type": "string"
+       },
+       "path": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "精确替换 — 单处（old_string/new_string）或多处（edits JSON 数组）替换。\n\n    何时用：需要修改工作区文件的指定片段\n    会发生什么（pi agent 同款语义）：每个 old_text 必须在原文件中恰好匹配 1 次，\n    同一调用内的多个替换互不重叠、全部针对原文件匹配；任一条不符则报错且文件保持不变\n    edits 格式：[{\"old_text\": \"...\", \"new_text\": \"...\"}]",
+     "name": "edit",
+     "parameters": {
+      "properties": {
+       "edits": {
+        "default": "",
+        "type": "string"
+       },
+       "new_string": {
+        "default": "",
+        "type": "string"
+       },
+       "old_string": {
+        "default": "",
+        "type": "string"
+       },
+       "path": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "查找文件 — 按名称模式（支持 * 通配符）查找文件。\n\n    何时用：需要定位文件时。默认查工作区；**老师提到桌面等工作区外的位置时，\n    传 path=那个目录的绝对路径**（如 {HOME}\\Desktop）——会返回\n    「工作区外访问需要批准」，这是确认门：用一句话告诉老师在等确认即可，系统已登记\n    本次调用，老师在确认卡上批准后会自动重放，不要重复调用本工具。\n    **不知道文件的确切名称时，先用本工具列出目录看真实文件名，不要凭猜测拼文件名。**\n    会发生什么：返回路径列表（工作区内为相对路径，区外为绝对路径），最多 200 条",
+     "name": "find",
+     "parameters": {
+      "properties": {
+       "path": {
+        "default": "",
+        "type": "string"
+       },
+       "pattern": {
+        "default": "*",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "文本搜索 — 在工作区（或指定目录）内的文本文件中按内容搜索。\n\n    何时用：需要按内容定位信息。默认搜工作区；**老师提到桌面等工作区外的位置时，\n    传 path=那个目录的绝对路径**——会返回「工作区外访问需要批准」，这是确认门：\n    用一句话告诉老师在等确认即可，系统已登记本次调用，老师在确认卡上批准后会自动\n    重放，不要重复调用本工具。\n    会发生什么：返回 文件/行号/行内容 匹配列表，最多 100 条；二进制文件自动跳过",
+     "name": "grep",
+     "parameters": {
+      "properties": {
+       "path": {
+        "default": "",
+        "type": "string"
+       },
+       "pattern": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "执行命令 — 在工作区内执行白名单命令（沙箱化）。\n\n    何时用：需要运行受限命令（列目录、查文件、跑 python 脚本）时；老师要求操作\n    工作区外路径（如桌面文件）时也直接尝试本工具，不要未尝试就声称无法访问。\n    会发生什么：仅白名单命令可执行；注入元字符与危险命令被拒绝；超时终止；输出截断；\n    工作区外路径会返回「工作区外访问需要批准」——此时调 request_approval 说明要访问\n    的路径，老师批准后重试本工具（按次审批）\n\n    已知限制：白名单内的解释器（python）自身仍可越权读文件，进程级沙箱不防这一点。\n\n    访问档位：off=关闭；workspace=默认。白名单与元字符过滤永远生效。",
+     "name": "bash",
+     "parameters": {
+      "properties": {
+       "command": {
+        "default": "",
+        "type": "string"
+       },
+       "timeout": {
+        "default": 0,
+        "type": "integer"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "任务拆解 — 把复杂目标拆成结构化执行步骤计划。\n\n    何时用：用户提出多步骤复杂任务（如「先诊断班级薄弱点，再按薄弱点出题，最后生成复习计划」）\n    会发生什么：生成 ≤8 步执行计划（每步含技能/依赖/描述）——生成后你必须立即执行第 1 步，\n              并逐步骤调用对应工具执行，直到全部步骤完成后再汇报。\n    铁律（2026-08 长任务断链修复 + ADR-0013 确认门）：生成后禁止停下来问参数——\n    参数不全时用合理默认值继续；但执行途中弹出的确认门（确认卡）必须停下等老师决定，\n    门的结果会自动推进任务。出题类步骤调用 generate_questions 或 show_exam_workbench。\n    NOT for 简单单步任务 — 闲聊、单次问答、单次搜索不需要计划",
+     "name": "plan_task",
+     "parameters": {
+      "properties": {
+       "goal": {
+        "default": "",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "浏览器导航 — 打开指定 URL 并等待页面加载完成。\n\n    何时用：需要打开一个具体网页查看内容。参数 url 为完整 URL（含 https://）。\n    会发生什么：加载页面，等待网络空闲，返回页面标题和文字内容。\n    下一步：使用 browse_read 读取内容，或 browse_click 点击链接。\n    NOT for 搜索信息 — 先用 web_search 获取 URL，再用此工具打开",
+     "name": "browse_navigate",
+     "parameters": {
+      "properties": {
+       "url": {
+        "type": "string"
+       },
+       "wait_until": {
+        "default": "networkidle",
+        "type": "string"
+       }
+      },
+      "required": [
+       "url"
+      ],
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "浏览器阅读 — 读取页面或指定元素的文字内容。\n\n    何时用：浏览页面后需要提取网页上的文字信息。\n    会发生什么：获取指定 CSS selector 的内部文本，截断到 8000 字符。\n    下一步：基于内容回答用户问题。\n    配合 browse_navigate 使用，不要单独调用此工具。",
+     "name": "browse_read",
+     "parameters": {
+      "properties": {
+       "selector": {
+        "default": "body",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "浏览器点击 — 点击页面上的元素（按钮、链接等）。\n\n    何时用：浏览页面后需要点击按钮、翻页链接、提交表单等。\n    会发生什么：点击指定元素，等待 0.5s，返回点击前后的 URL 和页面标题。\n    下一步：使用 browse_read 读取新页面内容。\n    配合 browse_navigate 使用，不要单独调用此工具。",
+     "name": "browse_click",
+     "parameters": {
+      "properties": {
+       "selector": {
+        "type": "string"
+       }
+      },
+      "required": [
+       "selector"
+      ],
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "浏览器输入 — 在输入框中输入文本。\n\n    何时用：浏览页面后需要在搜索框、表单中填入文字。\n    会发生什么：清空指定输入框并填入文本。\n    下一步：配合 browse_click 点击搜索/提交按钮。\n    配合 browse_navigate 使用，不要单独调用此工具。",
+     "name": "browse_input",
+     "parameters": {
+      "properties": {
+       "selector": {
+        "type": "string"
+       },
+       "text": {
+        "type": "string"
+       }
+      },
+      "required": [
+       "selector",
+       "text"
+      ],
+      "type": "object"
+     }
+    },
+    "type": "function"
+   },
+   {
+    "function": {
+     "description": "浏览器截图 — 截取页面或指定元素的可视化截图。\n\n    何时用：浏览页面后用户需要看到页面的视觉呈现。\n    会发生什么：截取页面或元素的 PNG 截图，返回 base64 编码图片。\n    下一步：将截图展示给用户。\n    配合 browse_navigate 使用，不要单独调用此工具。",
+     "name": "browse_screenshot",
+     "parameters": {
+      "properties": {
+       "selector": {
+        "default": "body",
+        "type": "string"
+       }
+      },
+      "type": "object"
+     }
+    },
+    "type": "function"
+   }
+  ]
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

@@ -1,0 +1,10 @@
+{
+  "doc": "离子方程式书写与正误判断.md",
+  "kp": "M1-T2-KP05",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP04", "to_kp": "M1-T2-KP05",
+     "reason": "先理解离子反应的实质与条件，写实质式才有对象"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP05", "substance": "铜", "formula": "Cu", "role": "置换型实例"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP05", "substance": "钠", "formula": "Na", "role": "与水反应实例"}
+  ]
+}

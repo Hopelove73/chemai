@@ -1,0 +1,14 @@
+{
+  "doc": "醇.md",
+  "kp": "M5-T2-KP05",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP06", "to_kp": "M5-T2-KP05",
+     "reason": "乙醇的羟基性质是醇类的原型"},
+    {"edge_type": "prerequisite", "from_kp": "M5-T2-KP04", "to_kp": "M5-T2-KP05",
+     "reason": "卤代烃水解生成醇，两篇构成官能团转换对"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP05", "substance": "乙醇", "formula": "C2H5OH", "role": "一元醇代表"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP05", "substance": "乙醛", "formula": "CH3CHO", "role": "催化氧化产物"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP05", "substance": "乙醚", "formula": "C2H5OC2H5", "role": "140 ℃ 分子间脱水产物"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP05", "substance": "丙三醇", "formula": "C3H8O3", "role": "多元醇代表（甘油）"}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "doc": "有机化合物与碳原子的成键特点.md",
+  "kp": "M2-T4-KP01",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T3-KP07", "to_kp": "M2-T4-KP01",
+     "reason": "碳四价与结构式建立在共价键、共用电子对的概念上"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP01", "to_kp": "M2-T4-KP01",
+     "reason": "有机物的界定依赖物质分类方法与例外（CO2、碳酸盐）"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP01", "substance": "甲烷", "formula": "CH4", "role": "最简单的有机物，正四面体"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP01", "substance": "乙烯", "formula": "C2H4", "role": "含碳碳双键的代表"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP01", "substance": "苯", "formula": "C6H6", "role": "含苯环的代表"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP01", "substance": "乙醇", "formula": "C2H5OH", "role": "含氧有机物，与水互溶的反例"}
+  ]
+}

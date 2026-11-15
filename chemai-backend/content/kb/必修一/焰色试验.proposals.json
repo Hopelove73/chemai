@@ -1,0 +1,10 @@
+{
+  "doc": "焰色试验.md",
+  "kp": "M1-T1-KP06",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T1-KP02", "to_kp": "M1-T1-KP06",
+     "reason": "灼烧/洗涤等基本操作规范是焰色试验四步的前提"},
+    {"edge_type": "relates_to", "kp": "M1-T1-KP06", "substance": "氯化钠", "formula": "NaCl", "role": "黄色焰色来源"},
+    {"edge_type": "relates_to", "kp": "M1-T1-KP06", "substance": "氯化钾", "formula": "KCl", "role": "紫色焰色需钴玻璃"}
+  ]
+}

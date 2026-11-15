@@ -1,0 +1,13 @@
+{
+  "doc": "糖类深化.md",
+  "kp": "M5-T3-KP01",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP09", "to_kp": "M5-T3-KP01",
+     "reason": "单糖二糖多糖的分类是深化对象"},
+    {"edge_type": "prerequisite", "from_kp": "M5-T2-KP07", "to_kp": "M5-T3-KP01",
+     "reason": "葡萄糖的还原性检验即醛基检验"},
+    {"edge_type": "relates_to", "kp": "M5-T3-KP01", "substance": "葡萄糖", "formula": "C6H12O6", "role": "多羟基醛代表"},
+    {"edge_type": "relates_to", "kp": "M5-T3-KP01", "substance": "淀粉", "formula": "(C6H10O5)n", "role": "多糖代表"},
+    {"edge_type": "relates_to", "kp": "M5-T3-KP01", "substance": "蔗糖", "formula": "C12H22O11", "role": "非还原性二糖"}
+  ]
+}

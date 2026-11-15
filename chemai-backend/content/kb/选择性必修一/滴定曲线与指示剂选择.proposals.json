@@ -1,0 +1,13 @@
+{
+  "doc": "滴定曲线与指示剂选择.md",
+  "kp": "M3-T3-KP07",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T3-KP05", "to_kp": "M3-T3-KP07",
+     "reason": "曲线上每个点的 pH 都靠 pH 计算得出"},
+    {"edge_type": "prerequisite", "from_kp": "M3-T3-KP06", "to_kp": "M3-T3-KP07",
+     "reason": "滴定操作是曲线的实验来源，先会做再看图"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP07", "substance": "醋酸", "formula": "CH3COOH", "role": "弱酸滴定示例"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP07", "substance": "酚酞", "formula": "C20H14O4", "role": "弱酸滴定的正确选择"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP07", "substance": "甲基橙", "formula": "C14H14N3NaO3S", "role": "强酸强碱滴定的备选"}
+  ]
+}

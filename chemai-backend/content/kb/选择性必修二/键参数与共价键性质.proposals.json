@@ -1,0 +1,10 @@
+{
+  "doc": "键参数与共价键性质.md",
+  "kp": "M4-T2-KP02",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M4-T2-KP01", "to_kp": "M4-T2-KP02",
+     "reason": "键能键长键角是对 σ/π 键的量化描述"},
+    {"edge_type": "relates_to", "kp": "M4-T2-KP02", "substance": "氮气", "formula": "N2", "role": "键能极大示例"},
+    {"edge_type": "relates_to", "kp": "M4-T2-KP02", "substance": "一氧化碳", "formula": "CO", "role": "等电子体示例"}
+  ]
+}

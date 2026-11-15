@@ -1,0 +1,17 @@
+{
+  "doc": "物质的检验与鉴别.md",
+  "kp": "M2-T1-KP02",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T1-KP03", "to_kp": "M2-T1-KP02",
+     "reason": "先掌握单个离子的特征反应，才能组合成排除干扰的检验流程"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T2-KP03", "to_kp": "M2-T1-KP02",
+     "reason": "SO4^2- 检验的盐酸酸化操作与干扰排除来自硫酸一节"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T2-KP08", "to_kp": "M2-T1-KP02",
+     "reason": "NH4+ 检验依赖铵盐与碱共热放氨的反应"},
+    {"edge_type": "relates_to", "kp": "M2-T1-KP02", "substance": "硫酸钡", "formula": "BaSO4", "role": "SO4^2- 检验的特征沉淀"},
+    {"edge_type": "relates_to", "kp": "M2-T1-KP02", "substance": "氯化银", "formula": "AgCl", "role": "Cl- 检验的特征沉淀"},
+    {"edge_type": "relates_to", "kp": "M2-T1-KP02", "substance": "硫氰化铁", "formula": "Fe(SCN)3", "role": "Fe3+ 检验的血红色配合物"},
+    {"edge_type": "relates_to", "kp": "M2-T1-KP02", "substance": "氨气", "formula": "NH3", "role": "NH4+ 检验的指示气体"},
+    {"edge_type": "relates_to", "kp": "M2-T1-KP02", "substance": "二氧化硫", "formula": "SO2", "role": "与 CO2 鉴别的关键物质"}
+  ]
+}

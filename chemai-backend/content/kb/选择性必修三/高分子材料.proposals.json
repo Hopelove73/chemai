@@ -1,0 +1,12 @@
+{
+  "doc": "高分子材料.md",
+  "kp": "M5-T3-KP05",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M5-T3-KP04", "to_kp": "M5-T3-KP05",
+     "reason": "材料的性能由合成方法决定的链结构而来"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP11", "to_kp": "M5-T3-KP05",
+     "reason": "三大材料的初步分类在必修二已建立"},
+    {"edge_type": "relates_to", "kp": "M5-T3-KP05", "substance": "聚氯乙烯", "formula": "[-CH2-CHCl-]n", "role": "热塑性塑料代表"},
+    {"edge_type": "relates_to", "kp": "M5-T3-KP05", "substance": "聚乳酸", "formula": "聚酯", "role": "可降解材料代表"}
+  ]
+}

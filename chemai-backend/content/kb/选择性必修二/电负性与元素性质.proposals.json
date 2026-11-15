@@ -1,0 +1,12 @@
+{
+  "doc": "电负性与元素性质.md",
+  "kp": "M4-T1-KP05",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M4-T1-KP03", "to_kp": "M4-T1-KP05",
+     "reason": "电负性的周期性根源在排布与半径"},
+    {"edge_type": "relates_to", "kp": "M4-T1-KP05", "substance": "氟", "formula": "F", "role": "电负性标度顶点"},
+    {"edge_type": "relates_to", "kp": "M4-T1-KP05", "substance": "氯化钠", "formula": "NaCl", "role": "离子键端示例"},
+    {"edge_type": "relates_to", "kp": "M4-T1-KP05", "substance": "氯化氢", "formula": "HCl", "role": "极性共价键示例"},
+    {"edge_type": "relates_to", "kp": "M4-T1-KP05", "substance": "氯气", "formula": "Cl2", "role": "非极性共价键示例"}
+  ]
+}

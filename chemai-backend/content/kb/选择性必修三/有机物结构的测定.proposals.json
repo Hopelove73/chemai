@@ -1,0 +1,10 @@
+{
+  "doc": "有机物结构的测定.md",
+  "kp": "M5-T1-KP03",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M5-T1-KP02", "to_kp": "M5-T1-KP03",
+     "reason": "波谱测定要求样品纯净，先会分离提纯"},
+    {"edge_type": "relates_to", "kp": "M5-T1-KP03", "substance": "乙醇", "formula": "C2H5OH", "role": "氢谱三组峰示例"},
+    {"edge_type": "relates_to", "kp": "M5-T1-KP03", "substance": "乙酸", "formula": "CH3COOH", "role": "分子式推定示例"}
+  ]
+}

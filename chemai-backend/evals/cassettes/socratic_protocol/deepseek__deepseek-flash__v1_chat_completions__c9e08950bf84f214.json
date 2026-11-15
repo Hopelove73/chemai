@@ -1,0 +1,41 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjVkMGUzODI3LWM1OTAtNDg0ZS05OGM4LTUwZDMzNzNiMmIwMyIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTEwMjcyMTcsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInBhc3NcIjogZmFsc2UsIFwicmVhc29uXCI6IFwi5Yqp5omL5pyq56Gu6K6k56iA56Gr6YW45q2j56Gu77yM5Lmf5pyq6Kej6YeK6Zi056a75a2Q6YCJ5oup5Y6f5Zug77yM5LuF5byV5a+855So5oi357un57ut5oCd6ICD77yM5pyq5ruh6Laz5Y2P6K6u6KaB5rGC44CCXCJ9In0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6MTYxLCJjb21wbGV0aW9uX3Rva2VucyI6MzUsInRvdGFsX3Rva2VucyI6MTk2LCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6MH0sInByb21wdF9jYWNoZV9oaXRfdG9rZW5zIjowLCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjE2MX0sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "eo-cache-status": "MISS",
+    "eo-log-uuid": "10115274176582125721",
+    "server": "openresty",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "86a93b27fe5c82ae17d1413cd7b13a06"
+   },
+   "recorded_at": "2026-10-03T11:33:37",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/c9e08950bf84f214",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 2000,
+  "messages": [
+   {
+    "content": "你是苛刻但公正的评估判官。只输出 JSON，不输出任何其他文字。",
+    "role": "system"
+   },
+   {
+    "content": "你是严格的评估判官。依据完整对话上下文，判断【助手最新回复】是否满足协议规则。\n\n对话历史:\n[user] 配制 FeSO4 溶液要加铁粉防止氧化，还要加酸抑制水解，对吗？\n[assistant] 两条都对！那加酸应该加什么酸、为什么不能加别的？\n[user] 加稀硫酸？\n\n助手最新回复:\n顺着这个方向想想，说说你的判断～\n\n协议规则: 确认稀硫酸正确并解释阴离子选择原因（不引入新杂质）\n\n只返回 JSON: {\"pass\": true, \"reason\": \"一句话依据\"} 的形式，pass 为布尔值。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.0,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

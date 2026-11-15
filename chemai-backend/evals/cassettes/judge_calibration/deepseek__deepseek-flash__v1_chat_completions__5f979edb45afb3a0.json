@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImFhZThjN2Q2LTFmNWMtNGJlZi05MjM4LTZkMTk0NWI0NmYwZSIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjQ5NjcsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6MTAwLFwiY29uZmlkZW5jZVwiOlwiaGlnaFwiLFwicmF0aW9uYWxlXCI6XCLliKTlrpjliKTlrprlrabnlJ/nrZTmoYhC5Li65ruh5YiG77yM5LiO6buE6YeR5Y+C6ICD562U5qGI5a6Y5pa5562U5qGIQu+8iOWIpOWIhuato+ehru+8ieWujOWFqOS4gOiHtO+8m+WNlemAiemimOaXoOmDqOWIhue7meWIhumXrumimO+8m+WQjOexu+WIpOWIhuagh+WHhuS4gOiHtO+8jOaXoOaJo+WIhuS+neaNruOAglwiLFwic2V2ZXJlX2ZsYWdzXCI6W119IiwicmVhc29uaW5nX2NvbnRlbnQiOiJXZSBuZWVkIGFuc3dlciBvbmx5IEpTT04uIE5lZWQgZXZhbHVhdGUuIFdlIGhhdmUgcHJvbXB0OiBDaGVtQUkganVkZ2UgZm9yIGdyYWRpbmcgZmFtaWx5LiBOZWVkIHNjb3JlIDAtMTAwIHVzaW5nIHJ1YnJpYzpcbi0gY29ycmVjdG5lc3NfdnNfZ29sZGVuIHdlaWdodCAwLjY6IGdyYWRpbmcgY29ycmVjdG5lc3M6IGVhY2ggcXVlc3Rpb24gZ3JhZGluZyBtYXRjaGVzIGdvbGRlbi5cbi0gcGFydGlhbF9jcmVkaXQgd2VpZ2h0IDAuMjogcGFydGlhbCBjcmVkaXQgbXVsdGktc3RlcCByZWFzb25hYmxlXG4tIGNvbnNpc3RlbmN5IHdlaWdodCAwLjI6IHNhbWUgdHlwZSBlcnJvciBkZWR1Y3Rpb24gc3RhbmRhcmQgY29uc2lzdGVudFxuXG5JbnB1dDog6aKY55uu77ya5Zyo5Y+N5bqUMktNbk/igoQrMTZIQ2w9MktDbCsyTW5DbOKCgis1Q2zigoLihpErOEjigoJP5Lit77yM6KKr5rCn5YyW55qESENs5LiO5pyq6KKr5rCn5YyW55qESENs55qE54mp6LSo55qE6YeP5LmL5q+U5Li6XG7lvoXor4TovpPlh7rvvJrlrabnlJ/nrZTmoYjvvJpC77yb5Yik5a6Y5Yik5YiG77ya5ruh5YiGXG7pu4Tph5Hlj4LogIPnrZTmoYjvvJrlrpjmlrnnrZTmoYjvvJpC77yI5Yik5YiG5q2j56Gu77yJXG5cbk5lZWQgb3V0cHV0IEpTT04uIE5lZWQganVkZ2UgZ2l2ZW7lvoXor4TovpPlh7ogaW5jbHVkZXMgZ3JhZGVyIHNheXMgZnVsbCBzY29yZS4gR29sZGVuIHNheXMgb2ZmaWNpYWwgYW5zd2VyIEIgKGdyYWRpbmcgY29ycmVjdCkuIFdlIG5lZWQgYXNzZXNzPyBJdCBzZWVtc+W+heivhOi+k+WHuiBpcyBhIGdyYWRpbmcgcmVzdWx0OiBzdHVkZW50IGFuc3dlciBCOyBqdWRnZSBmdWxsIHNjb3JlLiBHb2xkZW4gcmVmZXJlbmNlOiBvZmZpY2lhbCBhbnN3ZXIgQiAo5Yik5YiG5q2j56GuKS4gVGhlcmVmb3JlIGdyYWRpbmcgbWF0Y2hlcyBnb2xkZW4sIGZ1bGwgc2NvcmUgY29ycmVjdC4gTmVlZCBzY29yZSBsaWtlbHkgMTAwPyBOZWVkIGNvbnNpZGVyIHJ1YnJpYy4gU2luY2Ugb25seSBvbmUgcXVlc3Rpb24sIG5vIHBhcnRpYWwgY3JlZGl0LiBDb25zaXN0ZW5jeSBtYXliZSBub3QgYXBwbGljYWJsZSBidXQgb2theS4gU2NvcmUgMTAwLiBDb25maWRlbmNlIGhpZ2guIHNldmVyZV9mbGFncyBbXS5cblxuTmVlZCBvbmx5IEpTT04gb2JqZWN0LiBFbnN1cmUgQ2hpbmVzZSByYXRpb25hbGUgY29uY2lzZS4gRmluYWwgb25seS4ifSwibG9ncHJvYnMiOm51bGwsImZpbmlzaF9yZWFzb24iOiJzdG9wIn1dLCJ1c2FnZSI6eyJwcm9tcHRfdG9rZW5zIjozMTMsImNvbXBsZXRpb25fdG9rZW5zIjozNDIsInRvdGFsX3Rva2VucyI6NjU1LCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6MTI4fSwiY29tcGxldGlvbl90b2tlbnNfZGV0YWlscyI6eyJyZWFzb25pbmdfdG9rZW5zIjoyODB9LCJwcm9tcHRfY2FjaGVfaGl0X3Rva2VucyI6MTI4LCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjE4NX0sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "D5YjI2hWK9Hw7HxupMminiJxAiVMWl7p9zIICMw1un-5XRNY4LcmHA==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "6c9fd0091fbd46e83f3c473ee88a905a"
+   },
+   "recorded_at": "2026-09-27T16:02:49",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/5f979edb45afb3a0",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「判卷」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- correctness_vs_golden（权重 0.6）：判分正确性：每题判分与黄金答案一致\n- partial_credit（权重 0.2）：部分分：多步题的部分得分是否合理\n- consistency（权重 0.2）：一致性：同类型错误的扣分标准一致\n\n输入：题目：在反应2KMnO₄+16HCl=2KCl+2MnCl₂+5Cl₂↑+8H₂O中，被氧化的HCl与未被氧化的HCl的物质的量之比为\n待评输出：学生答案：B；判官判分：满分\n黄金参考答案：官方答案：B（判分正确）\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

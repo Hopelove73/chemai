@@ -1,0 +1,41 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImNjZTFjOTUyLTNjNWItNDFjNS1hNmY3LWM5ZjVhYjAxMTUxMCIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTEwMjcyMTQsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IuW+iOWlve+8jOeogOehq+mFuOmAieWvueS6hu+8geWKoOmTgeeyiemYsuawp+WMluOAgeWKoOmFuOaKkeWItuawtOino++8jOi/meS4pOeCueS9oOS5n+aKk+W+l+W+iOWHhu+8jOivtOaYjuS9oOWvuSBGZcKy4oG6IOeahOaAp+i0qOeQhuino+WIsOS9jeS6huOAglxuXG7pgqPmiJHku6zlj6rlvoDliY3otbDkuIDlsI/mraXvvJrnjrDlnKjmiopcIueogOehq+mFuFwi5o2i5oiQXCLnqIDnm5DphbhcIuaIllwi56iA56Gd6YW4XCLvvIzkvaDop4nlvpfooYzkuI3ooYzvvJ9cblxu57uZ5L2g5LiA5Liq5pa55ZCR5oCn55qE5o+Q56S677yM5L2g6aG6552A5oOz77yaXG5cbi0g5YWI55yL6L+Z5Lik56eN6YW46YeM55qEKirphbjmoLkqKuWIhuWIq+aYr+S7gOS5iO+8m1xuLSDlho3mg7PvvJrov5nkuKrphbjmoLnkvJrkuI3kvJrot5/murbmtrLph4znmoQgRmXCsuKBuiDmiJYgRmXCs+KBuiDlj5HnlJ/ngrnku4DkuYjlj43lupTvvJ/kvJrkuI3kvJoqKuW8leWFpeaWsOeahOadgui0qOemu+WtkCoq77yfXG5cbueJueWIq+aPkOmGkuS9oOebr+S4gOS4i+ehnemFuOeahOmFuOagueKAlOKAlOWug+eahOawp+WMluaAp+aYr+S4quWFs+mUrueCue+8jEZlwrLigbog6YGH5Yiw5a6D5Lya5oCO5qC377yfXG5cbuS9oOWFiOivtOivtOS9oOeahOWIpOaWre+8jOaIkeS7rOWGjeW+gOS4i+i1sOOAgiJ9LCJsb2dwcm9icyI6bnVsbCwiZmluaXNoX3JlYXNvbiI6InN0b3AifV0sInVzYWdlIjp7InByb21wdF90b2tlbnMiOjIzMCwiY29tcGxldGlvbl90b2tlbnMiOjE1NywidG90YWxfdG9rZW5zIjozODcsInByb21wdF90b2tlbnNfZGV0YWlscyI6eyJjYWNoZWRfdG9rZW5zIjowfSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjAsInByb21wdF9jYWNoZV9taXNzX3Rva2VucyI6MjMwfSwic3lzdGVtX2ZpbmdlcnByaW50IjoiYWViNTY0MDFjYTc0ZTEyNzgyMWM0ZjkxMjZkY2I2NjkifQ==",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "eo-cache-status": "MISS",
+    "eo-log-uuid": "3071114662584906979",
+    "server": "openresty",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "862e40d0acd4e4856961e57507b574fc"
+   },
+   "recorded_at": "2026-10-03T11:33:36",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/beta:chat:completions/a331c1b4f550b335",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 1024,
+  "messages": [
+   {
+    "content": "你是高中化学AI助教。学生水平: 中等。\n\n教学原则:\n1. 引导式教学: 不直接给答案，先问学生\"你是怎么想的\"\n2. 分步讲解: 复杂问题拆成2-3步，每步确认理解\n3. 联系考点: 提及高考中的常见题型\n4. 鼓励为主: 对正确思路给予肯定\n5. 单次回复不超过500字\n6. 不确定时诚实说不知道",
+    "role": "system"
+   },
+   {
+    "content": "学生问：配制 FeSO4 溶液为什么要加铁粉和加酸。学生已答出：加铁粉防止 Fe²⁺ 被氧化，加酸抑制 Fe²⁺ 水解。追问加什么酸时，学生答\"稀硫酸\"。这个酸选对了，请先确认学生这一步答对，然后只推进一小步：引导学生思考为什么这里不能改用稀盐酸或稀硝酸来酸化。请只给一个方向性的小提示（比如让学生想一想这两种酸里的阴离子或酸根的氧化性/是否会引入新的杂质），不要直接给出最终结论。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.7,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/beta/chat/completions"
+}

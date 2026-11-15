@@ -1,0 +1,13 @@
+{
+  "doc": "酯与油脂深化.md",
+  "kp": "M5-T2-KP09",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP08", "to_kp": "M5-T2-KP09",
+     "reason": "酯化与水解的必修框架在选必三深化"},
+    {"edge_type": "prerequisite", "from_kp": "M5-T2-KP08", "to_kp": "M5-T2-KP09",
+     "reason": "水解产物羧酸的性质决定皂化走向"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP09", "substance": "乙酸乙酯", "formula": "CH3COOC2H5", "role": "水解计量代表"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP09", "substance": "油酸甘油酯", "formula": "C57H104O6", "role": "氢化代表"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP09", "substance": "硬脂酸钠", "formula": "C17H35COONa", "role": "肥皂成分"}
+  ]
+}

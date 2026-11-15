@@ -1,0 +1,13 @@
+{
+  "doc": "铁单质.md",
+  "kp": "M1-T2-KP17",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP07", "to_kp": "M1-T2-KP17",
+     "reason": "强氧化剂到高价、弱氧化剂到低价的规矩来自常见氧化剂还原剂清单"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP08", "to_kp": "M1-T2-KP17",
+     "reason": "Fe3O4 混合价态分析需要价态规律"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP17", "substance": "铁", "formula": "Fe", "role": "本篇主角"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP17", "substance": "四氧化三铁", "formula": "Fe3O4", "role": "与水蒸气反应产物"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP17", "substance": "氯化铁", "formula": "FeCl3", "role": "强氧化剂产物案例"}
+  ]
+}

@@ -1,0 +1,41 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImZjYzEyMjVlLWNlMjItNDNlMC1iYzUxLWRlN2M4ZGE0ZGRmMCIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTEwMjcxOTksIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInBhc3NcIjogdHJ1ZSwgXCJyZWFzb25cIjogXCLlm57lpI3ku4Xmj5DnpLrku47lhYPntKDlkajmnJ/ooajkvY3nva7lhbPns7vlhaXmiYvvvIzmnKrnu5nlh7rlrozmlbTmr5TovoPmlrnms5Xpk77mnaHvvIznrKblkIjlj6rmjIflh7rmgJ3ogIPmlrnlkJHnmoTop4TliJnjgIJcIn0ifSwibG9ncHJvYnMiOm51bGwsImZpbmlzaF9yZWFzb24iOiJzdG9wIn1dLCJ1c2FnZSI6eyJwcm9tcHRfdG9rZW5zIjoyMDMsImNvbXBsZXRpb25fdG9rZW5zIjozNSwidG90YWxfdG9rZW5zIjoyMzgsInByb21wdF90b2tlbnNfZGV0YWlscyI6eyJjYWNoZWRfdG9rZW5zIjowfSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjAsInByb21wdF9jYWNoZV9taXNzX3Rva2VucyI6MjAzfSwic3lzdGVtX2ZpbmdlcnByaW50IjoiYWViNTY0MDFjYTc0ZTEyNzgyMWM0ZjkxMjZkY2I2NjkifQ==",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "eo-cache-status": "MISS",
+    "eo-log-uuid": "14560114038532685254",
+    "server": "openresty",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "9be893e1ed935d796149bcf5d31a9383"
+   },
+   "recorded_at": "2026-10-03T11:33:19",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/90cf1b3578703d11",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 2000,
+  "messages": [
+   {
+    "content": "你是苛刻但公正的评估判官。只输出 JSON，不输出任何其他文字。",
+    "role": "system"
+   },
+   {
+    "content": "你是严格的评估判官。依据完整对话上下文，判断【助手最新回复】是否满足协议规则。\n\n对话历史:\n[user] 怎么比较 Cl2 和 S 的氧化性？\n[assistant] 你先说说这道题想考什么？你卡在哪一步？\n[user] 完全不会，一点头绪都没有\n\n助手最新回复:\n先别急，这类\"比较氧化性\"的题，其实有一个固定的突破口。\n\n你看看 Cl 和 S 在元素周期表里处于什么位置关系（同一周期？还是同一族？）——先把这个定位清楚，我们再往下走。\n\n协议规则: 回复只指出思考方向/考察点（单质氧化性比较的依据），不给出完整比较方法链条\n\n只返回 JSON: {\"pass\": true, \"reason\": \"一句话依据\"} 的形式，pass 为布尔值。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.0,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

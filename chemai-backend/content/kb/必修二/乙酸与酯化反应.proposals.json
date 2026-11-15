@@ -1,0 +1,13 @@
+{
+  "doc": "乙酸与酯化反应.md",
+  "kp": "M2-T4-KP07",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP06", "to_kp": "M2-T4-KP07",
+     "reason": "酯化反应的另一反应物是乙醇，先认识羟基"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP07", "substance": "乙酸", "formula": "CH3COOH", "role": "本篇主角，含羧基"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP07", "substance": "乙酸乙酯", "formula": "CH3COOC2H5", "role": "酯化产物"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP07", "substance": "乙醇", "formula": "C2H5OH", "role": "酯化反应另一反应物"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP07", "substance": "碳酸钠", "formula": "Na2CO3", "role": "证明乙酸酸性强于碳酸"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP07", "substance": "碳酸氢钠", "formula": "NaHCO3", "role": "区分乙酸与乙醇的试剂"}
+  ]
+}

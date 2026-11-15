@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjM4ZmNhZGUxLWYzODctNDM5Ny04NGNhLTVmOWJkOGMyYjQwMyIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjUxNDMsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDgsIFwiY29uZmlkZW5jZVwiOiBcImhpZ2hcIiwgXCJyYXRpb25hbGVcIjogXCLpgILphY3mgKfvvJrmnKrpkojlr7nlvKDmtanlrofnmoTnrZTpopjooajov7Dpmpznoo3vvIzkuZ/mnKrogIPomZHpq5jkuIDmsLTlubPvvIzku4Xms5vms5vopoHmsYLliLfpopjvvIzlj6/og73ml6DmlYjnlJroh7PliqDph43mjKvotKXmhJ/vvJvlj6/miafooYzmgKfvvJrmsqHmnInku7vkvZXlhbfkvZPmraXpqqTjgIHmlrnms5XjgIHml7bpl7TlronmjpLmiJblj43ppojmnLrliLbvvJvkuKrmgKfljJbvvJrlrozlhajmqKHmnb/ljJbvvIzmnKrliKnnlKjmr4/lkagz5bCP5pe244CB6KGo6L+w6Zqc56KN562J5a2m55Sf5L+h5oGv44CCXCIsIFwic2V2ZXJlX2ZsYWdzXCI6IFtdfSIsInJlYXNvbmluZ19jb250ZW50IjoiV2UgbmVlZCBhbnN3ZXIgSlNPTiBvbmx5LiBOZWVkIGV2YWx1YXRlIFwi5aSa5YGa6aKY55uu5bCx6KGM44CCXCIgZm9yIHN0dWRlbnQgWmhhbmcgSGFveXUsIGV4cHJlc3Npb24vYW5zd2VyaW5n6KGo6L+w6Zqc56KNLCBoaWdoIHNjaG9vbCB5ZWFyIDEsIDNoL3dlZWsuIFJ1YnJpYyBmaXQgMC40LCBleGVjdXRhYmxlIDAuMywgcGVyc29uYWxpemVkIDAuMy4gTmVlZCBzY29yZSAwLTEwMCwgY29uZmlkZW5jZSwgcmF0aW9uYWxlLCBzZXZlcmUgZmxhZ3MuXG5cbk5lZWQgdGhpbmsgY2FyZWZ1bGx5LiBUaGUgb3V0cHV0IGlzIGV4dHJlbWVseSBnZW5lcmljIFwi5aSa5YGa6aKY55uu5bCx6KGM44CCXCIgRG9lcyBub3QgYWRkcmVzc+ihqOi/sOmanOeijS4gTm90IHRhaWxvcmVkIHRvIHdlZWtseSAzIGhvdXJzLiBOb3QgZXhlY3V0YWJsZS4gRml0IGxvdy4gRXhlY3V0YWJsZSBsb3cgYmVjYXVzZSBubyBzdGVwcy4gUGVyc29uYWxpemVkIGxvdy4gTWF5YmUgc2NvcmUgbWF5YmUgNS0xMC4gTm8gY2hlbWljYWwgZXJyb3Ivc2FmZXR5LiBDb25maWRlbmNlIGhpZ2g/IFNpbmNlIG9idmlvdXMuIE5lZWQgSlNPTi5cblxuTmVlZCBlbnN1cmUgSlNPTiBvbmx5LiBzY29yZSBpbnRlZ2VyLiByYXRpb25hbGUgQ2hpbmVzZSBjb25jaXNlLiBzZXZlcmVfZmxhZ3MgW10uXG5cbk5lZWQgbWF5YmUgbWVudGlvbiBsYWNrc+aWueahiC4gU2NvcmUgbWF5YmUgMTAuIFNpbmNlIGZpdCAwLCBleGVjdXRhYmxlIDAsIHBlcnNvbmFsaXplZCAwIGJ1dCBtYXliZSBtaW5pbWFsIHJlbGV2YW5jZSAxMC4gTGV0J3MgZGVjaWRlIHNjb3JlIDUgb3IgMTAuIFRoZSBydWJyaWM6IDAtMTAwLiBBIHNlbnRlbmNlIFwi5aSa5YGa6aKY55uu5bCx6KGMXCIgbWF5YmUgbm90IHVzZWZ1bC4gQ291bGQgYmUgOC4gTmVlZCBjb25maWRlbmNlIGhpZ2guIFJhdGlvbmFsZTogZml0OiDmnKrpkojlr7nooajov7Dpmpznoo3vvIzlj43ogIzlj6/og73liqDph43lm7Dpmr7vvJtleGVjdXRhYmxlOiDml6DlhbfkvZPmraXpqqTjgIHmnZDmlpnjgIHml7bpl7TlronmjpLvvJtwZXJzb25hbGl6ZWQ6IOWujOWFqOaooeadv+WMlu+8jOacquWIqeeUqDPlsI/ml7Yv6auY5LiAL+manOeijeS/oeaBry4gc2V2ZXJlX2ZsYWdzIG5vbmUuXG5cbkZpbmFsIEpTT04uIn0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6MjU0LCJjb21wbGV0aW9uX3Rva2VucyI6MzczLCJ0b3RhbF90b2tlbnMiOjYyNywicHJvbXB0X3Rva2Vuc19kZXRhaWxzIjp7ImNhY2hlZF90b2tlbnMiOjB9LCJjb21wbGV0aW9uX3Rva2Vuc19kZXRhaWxzIjp7InJlYXNvbmluZ190b2tlbnMiOjI3OX0sInByb21wdF9jYWNoZV9oaXRfdG9rZW5zIjowLCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjI1NH0sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "lz996REjPaZpjnWlTeW9sh39Mfu4jy5iyeJBL3HTnQc_r-1ly04u8Q==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "bdd8bcee689a67ef6d419fe786347123"
+   },
+   "recorded_at": "2026-09-27T16:05:45",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/eaf9db832f1f63d0",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「方案」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- fit（权重 0.4）：适配性：方案贴合学生障碍与当前水平\n- executable（权重 0.3）：可执行性：步骤具体、可落地\n- personalized（权重 0.3）：个性化：非模板化，针对该学生定制\n\n输入：学生张浩宇，答题表述障碍，高一，每周可投入 3 小时\n待评输出：多做题目就行。\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

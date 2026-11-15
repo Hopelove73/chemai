@@ -1,0 +1,10 @@
+{
+  "doc": "化学反应速率.md",
+  "kp": "M1-T3-KP09",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T3-KP08", "to_kp": "M1-T3-KP09",
+     "reason": "速率与限度互为表里：限度管到达哪里、速率管多快到达"},
+    {"edge_type": "relates_to", "kp": "M1-T3-KP09", "substance": "过氧化氢", "formula": "H2O2", "role": "MnO2 催化分解对比实验"},
+    {"edge_type": "relates_to", "kp": "M1-T3-KP09", "substance": "二氧化锰", "formula": "MnO2", "role": "催化剂代表"}
+  ]
+}

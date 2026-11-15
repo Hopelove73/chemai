@@ -1,0 +1,43 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjlmZmM4NjAwLWNiYTUtNGI1OC1hNTZjLTQyZjIxZDE4MDdjZCIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjU1NDAsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IuWRqOe/lOWutumVv+aCqOWlve+8geacrOWRqOWtqeWtkOayoeacieWPguWKoOivvuWggue7g+S5oO+8jOaJgOS7peaaguaXtueci+S4jeWIsOi/meWRqOeahOWFt+S9k+i/m+atpeaVsOaNru+8jOWFiOi3n+aCqOivtOaYjuS4gOS4i+OAglxuXG7ku47lubPml7bnmoTlrabkuaDnibnngrnnnIvvvIzlkajnv5TlnKjnkIbop6PljJblrabmpoLlv7XkuIrooajnjrDnm7jlr7nkuI3plJnvvIzog73mipPkvY/nn6Xor4bnmoTmoLjlv4PmhI/mgJ3vvIzov5nmmK/lvojlpb3nmoTln7rnoYDjgILkuI3ov4flnKjpmIXor7vpopjnm67lkozmloflrZfooajovr7mlrnpnaLov5jmnInmj5DljYfnqbrpl7TvvIzmnInml7blgJnlj6/og73nnIvpopjkuI3lpJ/ku5Tnu4bvvIzmiJbogIXlv4Pph4zmmI7nmb3kvYblhpnkuI3lh7rmnaXjgIJcblxu5bu66K6u5oKo5pys5ZGo5oq956m65ZKM5a2p5a2Q6IGK6IGK77ya5LiA5piv6Zeu6Zeu5LuW5YyW5a2m6K++5pyJ5rKh5pyJ6KeJ5b6X6Zq+5oeC55qE5Zyw5pa577yb5LqM5piv6byT5Yqx5LuW5oqK5YGa6L+H55qE6aKY6K+75Ye65aOw5p2l77yM6K+75a6M5YaN5Yqo56yU77yb5LiJ5piv6K6p5LuW6K+V552A55So6Ieq5bex55qE6K+d57uZ5oKo6K6y5LiA6YGT6aKY77yM6K6y5riF5qWa5bCx5piv55yf5oeC5LqG44CCXG5cbuWIq+edgOaApe+8jOWtqeWtkOW6leWtkOS4jeW3ru+8jOWkmue7g+ihqOi+vuWSjOWuoemimO+8jOaFouaFouWwseS8muabtOeos+OAguS4i+WRqOiusOW+l+WPguWKoOe7g+S5oO+8jOaIkeS7rOWwseiDveeci+WIsOabtOWFt+S9k+eahOi/m+atpeWVpu+8gSJ9LCJsb2dwcm9icyI6bnVsbCwiZmluaXNoX3JlYXNvbiI6InN0b3AifV0sInVzYWdlIjp7InByb21wdF90b2tlbnMiOjEyMywiY29tcGxldGlvbl90b2tlbnMiOjE2MywidG90YWxfdG9rZW5zIjoyODYsInByb21wdF90b2tlbnNfZGV0YWlscyI6eyJjYWNoZWRfdG9rZW5zIjowfSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjAsInByb21wdF9jYWNoZV9taXNzX3Rva2VucyI6MTIzfSwic3lzdGVtX2ZpbmdlcnByaW50IjoiYWViNTY0MDFjYTc0ZTEyNzgyMWM0ZjkxMjZkY2I2NjkifQ==",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 47d1f5199074a6387aec46d021ce694c.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "OAzBY-A44cr6m-Lzk50AQ5iatfyepkoBbc5H95aNyrtqJIHmUVpDjw==",
+    "x-amz-cf-pop": "KUL50-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "42fde62f0b602c69a228e44b5f1db080"
+   },
+   "recorded_at": "2026-09-27T16:12:22",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/beta:chat:completions/3f23cc961dcebd18",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 512,
+  "messages": [
+   {
+    "content": "你是ChemAI家长助手。生成学生本周学习报告。\n\n原则:\n- 鼓励为主，先肯定进步\n- 用通俗语言，不用教育学术语\n- 给出家长可操作的建议\n- 不制造焦虑",
+    "role": "system"
+   },
+   {
+    "content": "请为 周翔 生成本周化学学习报告:\n\n学习数据:\n- 本周参加了 0 次课堂练习\n- 学习特点: {\"concept\": 0.57, \"reading\": 0.23, \"expression\": 0.2}\n\n请生成200字以内的报告，直接回复文本，不要JSON.",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.7,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/beta/chat/completions"
+}

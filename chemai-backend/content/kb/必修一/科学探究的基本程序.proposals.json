@@ -1,0 +1,10 @@
+{
+  "doc": "科学探究的基本程序.md",
+  "kp": "M1-T1-KP05",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T1-KP02", "to_kp": "M1-T1-KP05",
+     "reason": "探究的执行以实验操作规范为底座"},
+    {"edge_type": "relates_to", "kp": "M1-T1-KP05", "substance": "铁", "formula": "Fe", "role": "与水蒸气探究案例"},
+    {"edge_type": "relates_to", "kp": "M1-T1-KP05", "substance": "氯气", "formula": "Cl2", "role": "氯水成分探究案例"}
+  ]
+}

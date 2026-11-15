@@ -1,0 +1,39 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImIxNGI2NTNjLTZhMGQtNDQ5NC05ZGU4LTIxOTdmZGI3YmFkYyIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjQ4NDYsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcbiAgXCJ0eXBlXCI6IFwiY2hhdFwiLFxuICBcInRvb2xzXCI6IFtcImJhbGFuY2VfZXF1YXRpb25cIl0sXG4gIFwicGFnZVwiOiBudWxsLFxuICBcInByb3ZpZGVyXCI6IFwiZGVlcHNlZWtcIlxufSJ9LCJsb2dwcm9icyI6bnVsbCwiZmluaXNoX3JlYXNvbiI6InN0b3AifV0sInVzYWdlIjp7InByb21wdF90b2tlbnMiOjUyMCwiY29tcGxldGlvbl90b2tlbnMiOjMyLCJ0b3RhbF90b2tlbnMiOjU1MiwicHJvbXB0X3Rva2Vuc19kZXRhaWxzIjp7ImNhY2hlZF90b2tlbnMiOjM4NH0sInByb21wdF9jYWNoZV9oaXRfdG9rZW5zIjozODQsInByb21wdF9jYWNoZV9taXNzX3Rva2VucyI6MTM2fSwic3lzdGVtX2ZpbmdlcnByaW50IjoiYWViNTY0MDFjYTc0ZTEyNzgyMWM0ZjkxMjZkY2I2NjkifQ==",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 a3b94ce1615696728b5a788ec3213be4.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "lX2y7NzzlKyAflUhcyn8eCGsNMDl1hMGaatw1UeShHq5mizljPKbAQ==",
+    "x-amz-cf-pop": "KUL62-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "98da8023e9bbafacc0cd1aec988cd649"
+   },
+   "recorded_at": "2026-09-27T16:00:46",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/beta:chat:completions/fbf274a999be6f54",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 512,
+  "messages": [
+   {
+    "content": "你是化学教研助手的意图分类器。回答两个问题：\n1. 用户消息是否需要调用工具？\n2. 如果不需要工具，目标页面是什么？\n\n分类规则：\n- **chat**: 需要调用工具完成任务（生成题目、诊断学情、查周报、搜索真题、答疑辅导、模拟实验、配平方程式、导入试卷等）。**不确定时一律走 chat**。\n- **navigate**: 纯页面跳转，不需要任何工具。**只有明确说\"打开XX页面\"\"跳转到XX\"的才走 navigate**。含\"看看\"\"查看\"等词的查询一律走 chat。\n\n返回 JSON（只返回 JSON，不要其他文字）：\n{\n  \"type\": \"chat\" | \"navigate\",\n  \"tools\": [],\n  \"page\": null | \"exam-v2\" | \"diagnosis\" | \"students\" | \"teacher\",\n  \"provider\": \"deepseek\" | \"mimo\"\n}\n\n页面映射（仅 navigate 时需要）：\n- \"打开考试工作台\" → exam-v2\n- \"打开诊断页面\" → diagnosis\n- \"打开学生管理\" → students\n- \"去首页/班级列表\" → teacher\n- 查询类（\"有哪些学生\"\"XX班的谁\"）一律走 chat，不走 navigate\n\n可用工具（仅 chat 时需要，最多3个，只从以下列表中选择）：\n- chemistry_tutor: 引导式化学辅导答疑\n- search_exam_bank: 搜索历年高考化学真题\n- web_search: 联网搜索最新化学资讯和高考动态\n- show_exam_workbench: 打开考试工作台面板\n- simulate_experiment: 模拟化学实验，生成实验报告\n- balance_equation: 审核化学方程式配平\n- save_to_bank\n- list_banks: 列出所有题库文件夹\n- delete_bank: 删除题库文件夹\n- generate_questions: AI生成化学题目\n- memory_student_get: 获取学生长期学情记忆\n- parse_chemistry_document\n- import_question_bank\n- check_parser_services\n- read\n- write\n- edit\n- find\n- grep\n- bash\n- plan_task\n\nProvider 选择：\n- 图片/拍照/OCR/识别/上传 → mimo\n- 其他 → deepseek\n\n\n用户消息：配平这个方程式 KMnO4 + HCl = KCl + MnCl2 + Cl2 + H2O\n\nJSON：",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.1,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/beta/chat/completions"
+}

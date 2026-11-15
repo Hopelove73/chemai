@@ -1,0 +1,12 @@
+{
+  "doc": "钠单质.md",
+  "kp": "M1-T2-KP09",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP06", "to_kp": "M1-T2-KP09",
+     "reason": "钠的活泼性要用氧化剂/还原剂与电子转移解读，先有氧还框架"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP09", "substance": "钠", "formula": "Na", "role": "本篇主角，强还原剂"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP09", "substance": "氧化钠", "formula": "Na2O", "role": "常温氧化产物"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP09", "substance": "过氧化钠", "formula": "Na2O2", "role": "点燃产物"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP09", "substance": "氢氧化钠", "formula": "NaOH", "role": "与水反应产物"}
+  ]
+}

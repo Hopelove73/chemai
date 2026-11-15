@@ -1,0 +1,35 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImY1YzdmYjA1LTc0MDctNGYzNy1hYzdiLWYwNDZiZTBlOWMwYSIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTA1MjQ5MTAsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInNjb3JlXCI6IDYwLCBcImNvbmZpZGVuY2VcIjogXCJoaWdoXCIsIFwicmF0aW9uYWxlXCI6IFwiYmFycmllcl90eXBlX2NvcnJlY3TvvJrmraPnoa7liKTmlq3kuLogY29uY2VwdO+8iOamguW/teeQhuino+manOeije+8ie+8jOS4jum7hOmHkeetlOahiOS4gOiHtO+8jOW+l+a7oeWIhuadg+mHje+8m2V2aWRlbmNlX3VzYWdl77ya5pyq5byV55So5YW35L2T6ZSZ6aKY5oiW5pWw5o2u5L2c5Li66K+K5pat5L6d5o2u77yM5LuF5Yet5rOb5YyW5o+P6L+w77yM6K+B5o2u5LiN6Laz77ybZXhwbGFuYXRpb27vvJrku4Xnu5nlh7rmoIfnrb7vvIzmnKrop6Pph4rliKTmlq3nkIbnlLHmiJblkI7nu63lj6/miafooYzlu7rorq7vvIzop6Pph4rotKjph4/kvY7jgIJcIiwgXCJzZXZlcmVfZmxhZ3NcIjogW119IiwicmVhc29uaW5nX2NvbnRlbnQiOiJXZSBuZWVkIGFuc3dlciBvbmx5IEpTT04uIE5lZWQgZXZhbHVhdGUuIFdlIGhhdmUgaW5wdXQ6IHN0dWRlbnQgSHVhbmcgSnVuamllIHJlY2VudCBtYW55IHdyb25nIHF1ZXN0aW9ucywgZGlhZ25vc2UgbGVhcm5pbmcgYmFycmllci4gQ2FuZGlkYXRlIG91dHB1dDogXCLor4rmlq3vvJpjb25jZXB077yI5qaC5b+155CG6Kej6Zqc56KN77yJXCIgR29sZGVuOiBcIuWOhuWPsuagh+etvuS4u+WvvOmanOeije+8mmNvbmNlcHRcIi4gTmVlZCBzY29yZSB1c2luZyBydWJyaWMuXG5cbldlIG5lZWQgaW5mZXIgYmFycmllcl90eXBlX2NvcnJlY3Qgd2VpZ2h0IDAuNjogb3V0cHV0IHNheXMgY29uY2VwdC4gR29sZGVuIHNheXMgY29uY2VwdC4gQ29ycmVjdC4gZXZpZGVuY2VfdXNhZ2UgMC4yOiBkaWFnbm9zaXMgaGFzIG5vIHdyb25nIHByb2JsZW0vZGF0YSBzdXBwb3J0LCBqdXN0IGNvbmNlcHQuIEhvd2V2ZXIgaW5wdXQgc2F5cyByZWNlbnQgbWFueSB3cm9uZyBxdWVzdGlvbnMsIGJ1dCBubyBzcGVjaWZpYyBldmlkZW5jZS4gR29sZGVuIGFsc28ganVzdCBzYXlzIGhpc3RvcmljYWwgbGFiZWwgZG9taW5hbnQgYmFycmllciBjb25jZXB0PyBJdCdzIG1pbmltYWwuIEV2aWRlbmNlIHVzYWdlIGxpa2VseSB3ZWFrLiBFeHBsYW5hdGlvbiAwLjI6IFwiY29uY2VwdO+8iOamguW/teeQhuino+manOeije+8iVwiIG9ubHkgbGFiZWwsIG5vIGRpYWdub3N0aWMgcmF0aW9uYWxlL2V4ZWN1dGFibGUuIFdlYWsuIFNvIHNjb3JlIG1heWJlIGFyb3VuZCA2MD8gTGV0J3MgY29tcHV0ZTogYmFycmllciBjb3JyZWN0IDYwLzYwLCBldmlkZW5jZSBtYXliZSAwPyBObyBldmlkZW5jZSBzdXBwb3J0LiBFeHBsYW5hdGlvbiBtYXliZSAwPyBCdXQgYXQgbGVhc3QgbGFiZWwuIENvdWxkIHNjb3JlIDYwLiBDb25maWRlbmNlIGhpZ2g/IE5lZWQgb3V0cHV0IEpTT04uIHNldmVyZV9mbGFncyBlbXB0eS4gTmVlZCByYXRpb25hbGUgY29uY2lzZS4gRW5zdXJlIHZhbGlkIEpTT04uIE1heWJlIHNjb3JlIDYwLiBCdXQgaWYgZXZpZGVuY2VfdXNhZ2U6IGlucHV0IGluY2x1ZGVzIFwi6ZSZ6aKY6L6D5aSaXCIgYnV0IG5vdCBzcGVjaWZpYzsgb3V0cHV0IGRvZXNuJ3QgY2l0ZSBhbnkuIEV4cGxhbmF0aW9uIG5vIHJlYXNvbi4gU28gNjAuIENvbmZpZGVuY2UgaGlnaD8gRm9yIHNjb3JlIG1heWJlIGhpZ2guIENvdWxkIGJlIG1lZGl1bSBiZWNhdXNlIGxpbWl0ZWQuIE5lZWQgb25seSBKU09OLlxuXG5MZXQncyBjcmFmdC4ifSwibG9ncHJvYnMiOm51bGwsImZpbmlzaF9yZWFzb24iOiJzdG9wIn1dLCJ1c2FnZSI6eyJwcm9tcHRfdG9rZW5zIjoyNzMsImNvbXBsZXRpb25fdG9rZW5zIjozNzMsInRvdGFsX3Rva2VucyI6NjQ2LCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6MTI4fSwiY29tcGxldGlvbl90b2tlbnNfZGV0YWlscyI6eyJyZWFzb25pbmdfdG9rZW5zIjoyNzd9LCJwcm9tcHRfY2FjaGVfaGl0X3Rva2VucyI6MTI4LCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjE0NX0sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "server": "elb",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "via": "1.1 b556fe5c240a1963a5562b88dc4ffd7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-id": "ckxzVEEJKXW1IoNLAIIxAppvOGguSGZfCA5BSdBh-wveEWS3cuSgew==",
+    "x-amz-cf-pop": "KUL51-P1",
+    "x-cache": "Miss from cloudfront",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "b8b08bebf6e9bda6363e0d48410cedc1"
+   },
+   "recorded_at": "2026-09-27T16:01:52",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/f0640eaf338d84fc",
+ "model": "deepseek-flash",
+ "normalized": {
+  "messages": [
+   {
+    "content": "你是 ChemAI 化学教育 agent 的判官，负责「诊断」族评估。\n按以下 rubric 给待评输出打 0-100 分：\n- barrier_type_correct（权重 0.6）：障碍类型判断：concept/reading/expression 分类正确\n- evidence_usage（权重 0.2）：证据使用：诊断有错题/数据支撑\n- explanation（权重 0.2）：解释质量：诊断理由清楚可执行\n\n输入：学生黄俊杰最近错题较多，请诊断其学习障碍\n待评输出：诊断：concept（概念理解障碍）\n黄金参考答案：历史标签主导障碍：concept\n\n只输出一个 JSON 对象，不要任何其他文字：\n{\"score\": 0到100的整数, \"confidence\": \"low|medium|high\", \"rationale\": \"逐维度简述打分理由\", \"severe_flags\": [\"chemical_error\"/\"safety_issue\" 等，无则为 []]}\n严重错误说明：出题族出现化学错误 → severe_flags=[\"chemical_error\"]；安全问题 → [\"safety_issue\"]；其余族通常为空数组。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

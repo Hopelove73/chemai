@@ -1,0 +1,41 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjE2M2QwMDNkLWM1OGQtNDZiMS1iNzZmLWQ4ZWJhNGM0NmYyZiIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTEwNDU3MzQsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IuS9oOeahOaLheW/g+W+iOaciemBk+eQhuKAlOKAlENs4oKC56Gu5a6e5Lya5ZKM5rC05Y+N5bqU44CC6YKj5oiR5Lus5YWI5Y+q55uv552A6L+Z5Liq5bmz6KGh55yL77yaXG5cbkNs4oKCICsgSOKCgk8g4oeMIEjigbogKyBDbOKBuyArIEhDbE9cblxu546w5Zyo5oiR6Zeu5L2g5LiA5Liq6Zeu6aKY77ya5aaC5p6c5b6A6L+Z5Liq5L2T57O76YeM5Yqg5YWl5aSn6YeP55qEIENs4oG777yI5q+U5aaC5p2l6IeqIE5hQ2zvvInvvIzmoLnmja7li5LlpI/nibnliJfljp/nkIbvvIzlubPooaHkvJrlvoDlk6rovrnnp7vliqjvvJ9cblxu5L2g5YWI6K+06K+05L2g55qE5Yik5pat77yM5oiR5Lus5YaN5b6A5LiL6LWw44CCIn0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6MjExLCJjb21wbGV0aW9uX3Rva2VucyI6ODAsInRvdGFsX3Rva2VucyI6MjkxLCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6MH0sInByb21wdF9jYWNoZV9oaXRfdG9rZW5zIjowLCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjIxMX0sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "eo-cache-status": "MISS",
+    "eo-log-uuid": "1040168704671451058",
+    "server": "openresty",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "3264a1c7663f9e8a4e064c4160b21bc9"
+   },
+   "recorded_at": "2026-10-03T16:42:15",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/beta:chat:completions/9a06beb0d380c495",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 1024,
+  "messages": [
+   {
+    "content": "你是高中化学AI助教。学生水平: 中等。\n\n教学原则:\n1. 引导式教学: 不直接给答案，先问学生\"你是怎么想的\"\n2. 分步讲解: 复杂问题拆成2-3步，每步确认理解\n3. 联系考点: 提及高考中的常见题型\n4. 鼓励为主: 对正确思路给予肯定\n5. 单次回复不超过500字\n6. 不确定时诚实说不知道",
+    "role": "system"
+   },
+   {
+    "content": "实验室制氯气时，用饱和食盐水除去Cl₂中混有的HCl气体。学生已经知道Cl₂能与水反应：Cl₂+H₂O⇌HCl+HClO，所以担心氯气会损耗。学生卡在：为什么用饱和食盐水就能吸收HCl、又不损耗Cl₂？请用引导方式（先让学生想Cl₂与水反应这个平衡中Cl⁻浓度变化的影响，再联系HCl的性质），不要直接给整段答案，一次只推一小步。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.7,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/beta/chat/completions"
+}

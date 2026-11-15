@@ -1,0 +1,10 @@
+{
+  "doc": "影响化学反应速率的因素（深化）.md",
+  "kp": "M3-T2-KP02",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T2-KP01", "to_kp": "M3-T2-KP02",
+     "reason": "先有速率的定量定义，才能讨论它为什么变化"},
+    {"edge_type": "relates_to", "kp": "M3-T2-KP02", "substance": "过氧化氢", "formula": "H2O2", "role": "催化剂示例反应物"},
+    {"edge_type": "relates_to", "kp": "M3-T2-KP02", "substance": "二氧化锰", "formula": "MnO2", "role": "催化剂，降低活化能"}
+  ]
+}

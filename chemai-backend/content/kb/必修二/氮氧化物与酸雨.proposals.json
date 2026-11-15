@@ -1,0 +1,15 @@
+{
+  "doc": "氮氧化物与酸雨.md",
+  "kp": "M2-T2-KP06",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T2-KP05", "to_kp": "M2-T2-KP06",
+     "reason": "NO 来自 N2 的放电氧化或氨的催化氧化，先有氮的固定与氮气性质"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP06", "to_kp": "M2-T2-KP06",
+     "reason": "NO2 与水的歧化、NO 的氧化都要用价态升降判断"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP06", "substance": "一氧化氮", "formula": "NO", "role": "+2 价，易被氧化"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP06", "substance": "二氧化氮", "formula": "NO2", "role": "+4 价，红棕色，与水歧化"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP06", "substance": "四氧化二氮", "formula": "N2O4", "role": "与 NO2 共存的双聚体"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP06", "substance": "硝酸", "formula": "HNO3", "role": "NO2 与水反应的产物"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP06", "substance": "氢氧化钠", "formula": "NaOH", "role": "尾气吸收剂"}
+  ]
+}

@@ -1,0 +1,41 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImRjODMzNTMyLWEwM2YtNGRlOS05MWIyLWU0MDU2ODI0YzhmYyIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTEwNDU3MTEsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IuWQjOWtpuS9oOWlve+8geW+iOmrmOWFtOS9oOadpemXrumXrumimCDwn5iKXG5cbuS4jei/h+WFiOWIq+aApeedgOimgeetlOahiOKAlOKAlOaIkeaDs+WFiOS6huino+S4gOS4i+S9oOeahOaDheWGte+8jOi/meagt+iDveW4ruS9oOW4ruW+l+abtOWHhuOAglxuXG7kvaDog73lkYror4nmiJHvvJpcblxuMS4gKirov5npgZPpopjkvaDoh6rlt7Hor7vliLDlk6rkuobvvJ8qKiDmr5TlpoLpopjnm67or7TnmoTmmK/lk6rnp43nm5DjgIHku4DkuYjmnaHku7bvvIjmtZPluqbvvJ/muKnluqbvvJ/liqDphbjliqDnorHvvJ/vvIlcbjIuICoq5Zub5Liq6YCJ6aG56YeM77yM5pyJ5rKh5pyJ5L2g5bey57uP6IO95o6S6Zmk55qE77yfKiog5ZOq5oCV5Y+q5pivXCLmhJ/op4nkuI3lr7lcIuS5n+ihjFxuMy4gKirkvaDljaHlnKjlk6rkuIDmraXvvJ8qKiDmmK/kuI3nn6XpgZPor6XliKTmlq3msLTop6Pov5jmmK/nlLXnprvvvIzov5jmmK/liKTmlq3kuobkvYblkozpgInpobnlr7nkuI3kuIrvvJ9cblxu55uQ57G75rC06Kej6L+Z5Z2X77yM6auY6ICD6YeM5Yeg5LmO5bm05bm06ICD77yM5bi46KeB55qE5bCx5pivXCLmr5TovoPnprvlrZDmtZPluqblpKflsI9cIlwi5Yik5pat5rq25ray6YW456Kx5oCnXCJcIuWKoOawtC/liqDphbjnorHlkI7lj5jljJZcIui/meWHoOexu+OAguS9oOWFiOivtOivtOS9oOaJi+S4iui/memBk+Wkp+amguWxnuS6juWTquenje+8jOaIkeS7rOS4gOi1t+eci+eci+OAglxuXG7kuI3nlKjmgJXor7TplJnvvIzkvaDlhYjotbDkuIDmraXvvIzmiJHlnKjov5nlhL/mjqXnnYDkvaAg8J+SqiJ9LCJsb2dwcm9icyI6bnVsbCwiZmluaXNoX3JlYXNvbiI6InN0b3AifV0sInVzYWdlIjp7InByb21wdF90b2tlbnMiOjE4OSwiY29tcGxldGlvbl90b2tlbnMiOjE3NCwidG90YWxfdG9rZW5zIjozNjMsInByb21wdF90b2tlbnNfZGV0YWlscyI6eyJjYWNoZWRfdG9rZW5zIjowfSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjAsInByb21wdF9jYWNoZV9taXNzX3Rva2VucyI6MTg5fSwic3lzdGVtX2ZpbmdlcnByaW50IjoiYWViNTY0MDFjYTc0ZTEyNzgyMWM0ZjkxMjZkY2I2NjkifQ==",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "eo-cache-status": "MISS",
+    "eo-log-uuid": "12002117098905554520",
+    "server": "openresty",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "e1fdad1ca2cce34cf8d1f95bc29c8575"
+   },
+   "recorded_at": "2026-10-03T16:41:52",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/beta:chat:completions/93553f623410283d",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 1024,
+  "messages": [
+   {
+    "content": "你是高中化学AI助教。学生水平: 中等。\n\n教学原则:\n1. 引导式教学: 不直接给答案，先问学生\"你是怎么想的\"\n2. 分步讲解: 复杂问题拆成2-3步，每步确认理解\n3. 联系考点: 提及高考中的常见题型\n4. 鼓励为主: 对正确思路给予肯定\n5. 单次回复不超过500字\n6. 不确定时诚实说不知道",
+    "role": "system"
+   },
+   {
+    "content": "学生贴出一道关于\"盐类水解\"的选择题（选项内容为xxx，未具体给出），并直接要求\"告诉我选哪个\"。请按苏格拉底三层协议处理：这是解题类问题的第一回合，不要讲解、不要给答案、不要提示方法，只需先做状态探测，引导学生说出自己做到哪一步、卡在哪里。语气亲切，鼓励学生先自己走一步。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.7,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/beta/chat/completions"
+}

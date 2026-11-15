@@ -1,0 +1,16 @@
+{
+  "doc": "实验方案的设计与评价.md",
+  "kp": "M2-T1-KP04",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T1-KP05", "to_kp": "M2-T1-KP04",
+     "reason": "方案设计沿用科学探究的基本程序与假设—证据框架"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T1-KP01", "to_kp": "M2-T1-KP04",
+     "reason": "装置选择、收集与尾气处理是方案可行性的判断依据"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T1-KP02", "to_kp": "M2-T1-KP04",
+     "reason": "检验与鉴别提供特征现象与干扰排除，是方案科学性的核心"},
+    {"edge_type": "relates_to", "kp": "M2-T1-KP04", "substance": "过氧化氢", "formula": "H2O2", "role": "控制变量实验的常用反应物"},
+    {"edge_type": "relates_to", "kp": "M2-T1-KP04", "substance": "二氧化锰", "formula": "MnO2", "role": "催化剂对照组"},
+    {"edge_type": "relates_to", "kp": "M2-T1-KP04", "substance": "二氧化碳", "formula": "CO2", "role": "制备与检验的对象"},
+    {"edge_type": "relates_to", "kp": "M2-T1-KP04", "substance": "氢氧化钙", "formula": "Ca(OH)2", "role": "CO2 检验试剂"}
+  ]
+}

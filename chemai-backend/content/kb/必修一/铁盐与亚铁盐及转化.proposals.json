@@ -1,0 +1,13 @@
+{
+  "doc": "铁盐与亚铁盐及转化.md",
+  "kp": "M1-T2-KP19",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP18", "to_kp": "M1-T2-KP19",
+     "reason": "颜色体系（白色/灰绿/红褐）与检验现象一脉相承"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP07", "to_kp": "M1-T2-KP19",
+     "reason": "转化方向由氧化剂还原剂强弱决定（Cl2 升价、Fe 降价）"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP19", "substance": "氯化铁", "formula": "FeCl3", "role": "铁三角顶点"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP19", "substance": "氯化亚铁", "formula": "FeCl2", "role": "铁三角底点"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP19", "substance": "铜", "formula": "Cu", "role": "蚀刻应用还原剂"}
+  ]
+}

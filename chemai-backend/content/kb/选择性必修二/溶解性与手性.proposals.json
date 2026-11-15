@@ -1,0 +1,12 @@
+{
+  "doc": "溶解性与手性.md",
+  "kp": "M4-T2-KP07",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M4-T2-KP05", "to_kp": "M4-T2-KP07",
+     "reason": "相似相溶的『相似』由极性与氢键能力定义"},
+    {"edge_type": "prerequisite", "from_kp": "M4-T2-KP06", "to_kp": "M4-T2-KP07",
+     "reason": "氢键是水溶性的关键推动力"},
+    {"edge_type": "relates_to", "kp": "M4-T2-KP07", "substance": "乙醇", "formula": "C2H5OH", "role": "氢键互溶代表"},
+    {"edge_type": "relates_to", "kp": "M4-T2-KP07", "substance": "乳酸", "formula": "C3H6O3", "role": "手性分子示例"}
+  ]
+}

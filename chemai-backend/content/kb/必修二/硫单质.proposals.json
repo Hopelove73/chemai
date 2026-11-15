@@ -1,0 +1,15 @@
+{
+  "doc": "硫单质.md",
+  "kp": "M2-T2-KP01",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP06", "to_kp": "M2-T2-KP01",
+     "reason": "硫的四类反应全部是价态变化，不认识氧化还原就分不清氧化剂与还原剂"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP07", "to_kp": "M2-T2-KP01",
+     "reason": "硫的氧化性弱于氯，产物价态要靠氧化剂强弱判断"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP01", "substance": "硫", "formula": "S", "role": "本篇主角，0 价居中"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP01", "substance": "硫化亚铁", "formula": "FeS", "role": "与铁反应产物，证明只到 +2"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP01", "substance": "硫化亚铜", "formula": "Cu2S", "role": "与铜反应产物，证明只到 +1"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP01", "substance": "二氧化硫", "formula": "SO2", "role": "燃烧产物，硫被氧化到 +4"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP01", "substance": "硫化氢", "formula": "H2S", "role": "与氢化合产物，硫表现氧化性"}
+  ]
+}

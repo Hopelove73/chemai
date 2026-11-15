@@ -1,0 +1,41 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImNkM2VkOTM2LTE1YTYtNGYzOS05Mjc3LTkxZTM4ZTg0MDhhNiIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTEwNDU3MjYsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IuWQjOWtpuS9oOWlve+8geivvuacrOWumuS5ieehruWunuacieeCuee7le+8jOWSseS7rOS4jeiDjOWug++8jOWFiOS7juS4gOS4qumXrumimOW8gOWni+aDs++8mlxuXG4qKuebkOa6tuS6juawtOWQju+8jOmCo+S6m+emu+WtkOWOu+WTquWEv+S6hu+8nyoqXG5cbuS7pSBcXChcXG1hdGhybXtDSF8zQ09PTmF9XFwpIOS4uuS+i++8jOWug+a6tuS6juawtOWQjuWPmOaIkO+8mlxuXFxbXFxtYXRocm17Q0hfM0NPT14tICsgTmFeK31cXF1cblxu57qv5rC06YeM5pys5p2l5bCx5pyJ5b6u5byx55qE55S156a777yaXG5cXFtcXG1hdGhybXtIXzJPIFxccmlnaHRsZWZ0aGFycG9vbnMgSF4rICsgT0heLX1cXF1cblxu546w5Zyo5rC06YeM5pyJIFxcKFxcbWF0aHJte0heK31cXCnjgIFcXChcXG1hdGhybXtPSF4tfVxcKeOAgVxcKFxcbWF0aHJte05hXit9XFwp44CBXFwoXFxtYXRocm17Q0hfM0NPT14tfVxcKSDlm5vnp43nprvlrZDjgILkvaDop4nlvpfvvIxcXChcXG1hdGhybXtDSF8zQ09PXi19XFwpIOS8muS4jeS8muWSjOWFtuS4reafkOS4quemu+WtkFwi5LqS55u45ZC45byV44CB57uT5ZCI5oiQ5paw54mp6LSoXCLvvJ9cblxu5o+Q56S677yaXFwoXFxtYXRocm17Q0hfM0NPT0h9XFwpIOaYr+S4gOenjeW8semFuO+8jOW8semFuOaEj+WRs+edgOWug+S4jeWkquaEv+aEj+eUteemu+OAgeabtOaEv+aEj+S7peWIhuWtkOW9ouW8j+WtmOWcqOOAglxuXG4tLS1cblxuKirlhYjlm57nrZTmiJHkuKTkuKrlsI/pl67popjvvIzmiJHku6zlho3lvoDkuIvotbDvvJoqKlxuXG4xLiDkuIrpnaLlm5vnp43nprvlrZDkuK3vvIxcXChcXG1hdGhybXtDSF8zQ09PXi19XFwpIOacgOWPr+iDveWSjOiwgee7k+WQiO+8n+e7k+WQiOWQjueUn+aIkOS7gOS5iO+8n1xuMi4g5aaC5p6c6L+Z5Liq57uT5ZCI55yf55qE5Y+R55Sf5LqG77yM5rq25ray6YeM55qEIFxcKFxcbWF0aHJte0heK31cXCkg5piv5Y+Y5aSa6L+Y5piv5Y+Y5bCR77yf6YKjIFxcKFxcbWF0aHJte09IXi19XFwpIOWRou+8n1xuXG7kvaDlhYjor7Tor7Tmg7Pms5XvvIzmiJHnnIvnnIvkvaDmg7PliLDlk6rkuIDmraXkuoYg8J+YilxuXG7vvIjov5nmmK/pq5jogIPpq5jpopHogIPngrnvvIzliKTmlq3nm5DmurbmtrLphbjnorHmgKflh6DkuY7lubTlubTogIPvvIzlkrHku6zmiorlroPlkIPpgI/jgILvvIkifSwibG9ncHJvYnMiOm51bGwsImZpbmlzaF9yZWFzb24iOiJzdG9wIn1dLCJ1c2FnZSI6eyJwcm9tcHRfdG9rZW5zIjoxODksImNvbXBsZXRpb25fdG9rZW5zIjozMDEsInRvdGFsX3Rva2VucyI6NDkwLCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6MH0sInByb21wdF9jYWNoZV9oaXRfdG9rZW5zIjowLCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjE4OX0sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "eo-cache-status": "MISS",
+    "eo-log-uuid": "4512228850345098824",
+    "server": "openresty",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "0a69eaac273c5a442805eda5f20f7de0"
+   },
+   "recorded_at": "2026-10-03T16:42:07",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/beta:chat:completions/acb03601e25b1783",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 1024,
+  "messages": [
+   {
+    "content": "你是高中化学AI助教。学生水平: 中等。\n\n教学原则:\n1. 引导式教学: 不直接给答案，先问学生\"你是怎么想的\"\n2. 分步讲解: 复杂问题拆成2-3步，每步确认理解\n3. 联系考点: 提及高考中的常见题型\n4. 鼓励为主: 对正确思路给予肯定\n5. 单次回复不超过500字\n6. 不确定时诚实说不知道",
+    "role": "system"
+   },
+   {
+    "content": "学生问：什么是盐类水解？课本上的定义看不懂。请用引导式方式帮学生理解盐类水解的本质（不要直接给定义背诵），从\"盐溶于水后离子去哪儿、水的电离平衡怎么被打破\"这个角度一步步引导，配一个常见例子（如CH3COONa或NH4Cl）让学生自己判断溶液酸碱性。化学式用LaTeX。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.7,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/beta/chat/completions"
+}

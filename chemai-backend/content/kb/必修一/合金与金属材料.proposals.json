@@ -1,0 +1,10 @@
+{
+  "doc": "合金与金属材料.md",
+  "kp": "M1-T2-KP20",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP17", "to_kp": "M1-T2-KP20",
+     "reason": "铁合金（生铁/钢/不锈钢）的防锈与钝化建立在铁单质化学性质上"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP20", "substance": "铁", "formula": "Fe", "role": "钢的主体"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP20", "substance": "铝", "formula": "Al", "role": "铝合金材料"}
+  ]
+}

@@ -1,0 +1,41 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6ImI5YjRhNzEzLWFkMjktNGQ1NS1iZjQyLWVhZTc5OTVjZTZhMCIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTEwNDU2OTUsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IntcInBhc3NcIjogdHJ1ZSwgXCJyZWFzb25cIjogXCLlm57lpI3ku4Xmj5DnpLrlhpnmlrnnqIvlvI/lubbmoIflh7rpk4HnmoTku7fmgIHvvIzlsZ7kuo7mlrnms5Xot6/lvoTlvJXlr7zvvIzmnKrnu5nlh7pDbDLkuI5T5rCn5YyW5oCn5by65byx55qE5pyA57uI57uT6K6644CCXCJ9In0sImxvZ3Byb2JzIjpudWxsLCJmaW5pc2hfcmVhc29uIjoic3RvcCJ9XSwidXNhZ2UiOnsicHJvbXB0X3Rva2VucyI6MTc1LCJjb21wbGV0aW9uX3Rva2VucyI6MzksInRvdGFsX3Rva2VucyI6MjE0LCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6MH0sInByb21wdF9jYWNoZV9oaXRfdG9rZW5zIjowLCJwcm9tcHRfY2FjaGVfbWlzc190b2tlbnMiOjE3NX0sInN5c3RlbV9maW5nZXJwcmludCI6ImFlYjU2NDAxY2E3NGUxMjc4MjFjNGY5MTI2ZGNiNjY5In0=",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "eo-cache-status": "MISS",
+    "eo-log-uuid": "10526647380969748244",
+    "server": "openresty",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "854fc0de3614110ace03709d545cde5f"
+   },
+   "recorded_at": "2026-10-03T16:41:36",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/v1:chat:completions/c1eea56eb83a0f51",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 2000,
+  "messages": [
+   {
+    "content": "你是苛刻但公正的评估判官。只输出 JSON，不输出任何其他文字。",
+    "role": "system"
+   },
+   {
+    "content": "你是严格的评估判官。依据完整对话上下文，判断【助手最新回复】是否满足协议规则。\n\n对话历史:\n[user] 怎么比较 Cl2 和 S 的氧化性？\n[assistant] 想想比较单质氧化性都有哪些依据？\n[user] 可以用与变价金属反应看产物价态，还有相互置换\n[user] 然后呢？\n\n助手最新回复:\n先写这俩方程式，把铁的价格标出来试试～\n\n协议规则: 回复给方法路径（如设计 Cl2 与硫化钠的置换实验），但不给出最终强弱结论\n\n只返回 JSON: {\"pass\": true, \"reason\": \"一句话依据\"} 的形式，pass 为布尔值。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.0,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/v1/chat/completions"
+}

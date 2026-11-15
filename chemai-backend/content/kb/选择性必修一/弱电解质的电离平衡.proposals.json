@@ -1,0 +1,12 @@
+{
+  "doc": "弱电解质的电离平衡.md",
+  "kp": "M3-T3-KP01",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP03", "to_kp": "M3-T3-KP01",
+     "reason": "强弱电解质的分类是电离平衡讨论的对象库"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T3-KP08", "to_kp": "M3-T3-KP01",
+     "reason": "电离平衡是可逆反应框架在水溶液中的应用"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP01", "substance": "醋酸", "formula": "CH3COOH", "role": "弱酸代表"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP01", "substance": "一水合氨", "formula": "NH3·H2O", "role": "弱碱代表"}
+  ]
+}

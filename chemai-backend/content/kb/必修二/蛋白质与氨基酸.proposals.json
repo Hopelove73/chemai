@@ -1,0 +1,14 @@
+{
+  "doc": "蛋白质与氨基酸.md",
+  "kp": "M2-T4-KP10",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP07", "to_kp": "M2-T4-KP10",
+     "reason": "氨基酸的羧基与乙酸的羧基同源，先认识羧基的酸性"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP08", "to_kp": "M2-T4-KP10",
+     "reason": "肽键水解与酯基水解同属官能团水解，先有水解的对照"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP10", "substance": "甘氨酸", "formula": "H2NCH2COOH", "role": "最简单的氨基酸，两性代表"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP10", "substance": "二肽", "formula": "H2NCH2CONHCH2COOH", "role": "肽键水解样本"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP10", "substance": "盐酸", "formula": "HCl", "role": "与氨基成盐的酸"},
+    {"edge_type": "relates_to", "kp": "M2-T4-KP10", "substance": "氢氧化钠", "formula": "NaOH", "role": "与羧基成盐的碱"}
+  ]
+}

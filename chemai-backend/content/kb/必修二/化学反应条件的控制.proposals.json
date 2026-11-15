@@ -1,0 +1,15 @@
+{
+  "doc": "化学反应条件的控制.md",
+  "kp": "M2-T3-KP04",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T3-KP08", "to_kp": "M2-T3-KP04",
+     "reason": "限度与平衡移动是判断温度、压强选择的第一依据"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T3-KP09", "to_kp": "M2-T3-KP04",
+     "reason": "速率与影响因素是条件选择的另一半依据"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T3-KP01", "to_kp": "M2-T3-KP04",
+     "reason": "放热/吸热决定升温对平衡的方向性影响"},
+    {"edge_type": "relates_to", "kp": "M2-T3-KP04", "substance": "氨气", "formula": "NH3", "role": "合成氨目标产物"},
+    {"edge_type": "relates_to", "kp": "M2-T3-KP04", "substance": "三氧化硫", "formula": "SO3", "role": "接触法制硫酸中间产物"},
+    {"edge_type": "relates_to", "kp": "M2-T3-KP04", "substance": "二氧化碳", "formula": "CO2", "role": "燃料充分燃烧产物"}
+  ]
+}

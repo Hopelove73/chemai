@@ -1,0 +1,41 @@
+{
+ "entries": [
+  {
+   "body_b64": "eyJpZCI6IjYzOWU5Njk3LWE3ZWYtNDZkZi04MTdjLWY4NmRkMjQ0YmY5YiIsIm9iamVjdCI6ImNoYXQuY29tcGxldGlvbiIsImNyZWF0ZWQiOjE3OTEwMjcyMDMsIm1vZGVsIjoiZGVlcHNlZWstZmxhc2giLCJjaG9pY2VzIjpbeyJpbmRleCI6MCwibWVzc2FnZSI6eyJyb2xlIjoiYXNzaXN0YW50IiwiY29udGVudCI6IuS9oOeahOS4pOS4quaAnei3r+mDveaKk+W+l+W+iOWHhu+8jOi/meato+aYr+WIpOaWreawp+WMluaAp+W8uuW8seacgOW4uOeUqOeahOaWueazleKAlOKAlOivtOaYjuS9oOW3sue7j+eQhuino+S6hlwi5rCn5YyW5oCnXCLnmoTmnKzotKjmmK/mr5TovoPlvpfnlLXlrZDog73lipvjgIJcblxu546w5Zyo6K+35L2g5Yqo5omL5oqK5oCd6Lev6JC95Zyw77yM5Lu76YCJ5LiA5Liq5p2l6K+V77yaXG5cbioq5oCd6Lev77yIMe+8ieiQveWcsCoq77ya6K6pIENs4oKCIOWSjCBTIOWIhuWIq+WOu+WSjOWQjOS4gOenjeWPmOS7t+mHkeWxnuWPjeW6lO+8jOavlOWmgiBGZeOAglxuLSBGZSArIENs4oKCIOKGkiDvvJ9cbi0gRmUgKyBTIOKGkiDvvJ9cblxu6K+35YaZ5Ye66L+Z5Lik5Liq5Y+N5bqU55qE5Lqn54mp77yM5bm25qCH5Ye6IEZlIOeahOWMluWQiOS7t+OAguWGmeWujOWQjuaDs+S4gOaDs++8mkZlIOWcqOWTquS4quWPjeW6lOmHjOiiq1wi5rCn5YyW5b6X5pu05b275bqVXCLvvJ/ov5nog73or7TmmI7ku4DkuYjvvJ9cblxuKirmgJ3ot6/vvIgy77yJ6JC95ZywKirvvJrorqkgQ2zigoIg5ZKMIFMg5LmL6Ze05Y+R55Sf572u5o2i77yM5q+U5aaC77yaXG4tIENs4oKCICsgSOKCglMg4oaSIO+8n++8iOaPkOekuu+8muaDs+aDsyBDbOKCgiDog73kuI3og73mioogUyDku47lroPnmoTljJblkIjnianph4xcIuaMpFwi5Ye65p2l77yJXG5cbuS9oOWFiOWGmeWFtuS4reS4gOS4qu+8jOWGmeWHuuS6p+eJqeWSjOeOsOixoe+8jOaIkeS7rOWGjeS4gOi1t+WIhuaekOOAguWTquS4quWPjeW6lOS9oOabtOacieaKiuaPoe+8nyJ9LCJsb2dwcm9icyI6bnVsbCwiZmluaXNoX3JlYXNvbiI6InN0b3AifV0sInVzYWdlIjp7InByb21wdF90b2tlbnMiOjIyOCwiY29tcGxldGlvbl90b2tlbnMiOjE5MiwidG90YWxfdG9rZW5zIjo0MjAsInByb21wdF90b2tlbnNfZGV0YWlscyI6eyJjYWNoZWRfdG9rZW5zIjowfSwicHJvbXB0X2NhY2hlX2hpdF90b2tlbnMiOjAsInByb21wdF9jYWNoZV9taXNzX3Rva2VucyI6MjI4fSwic3lzdGVtX2ZpbmdlcnByaW50IjoiYWViNTY0MDFjYTc0ZTEyNzgyMWM0ZjkxMjZkY2I2NjkifQ==",
+   "headers": {
+    "access-control-allow-credentials": "true",
+    "content-type": "application/json",
+    "eo-cache-status": "MISS",
+    "eo-log-uuid": "6669613669550203906",
+    "server": "openresty",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "origin, access-control-request-method, access-control-request-headers",
+    "x-content-type-options": "nosniff",
+    "x-ds-trace-id": "f123ca67bbbdd325a7a1dee35a8ea9be"
+   },
+   "recorded_at": "2026-10-03T11:33:24",
+   "status": 200
+  }
+ ],
+ "key": "deepseek/deepseek-flash/beta:chat:completions/b45461d36b739246",
+ "model": "deepseek-flash",
+ "normalized": {
+  "max_tokens": 1024,
+  "messages": [
+   {
+    "content": "你是高中化学AI助教。学生水平: 中等。\n\n教学原则:\n1. 引导式教学: 不直接给答案，先问学生\"你是怎么想的\"\n2. 分步讲解: 复杂问题拆成2-3步，每步确认理解\n3. 联系考点: 提及高考中的常见题型\n4. 鼓励为主: 对正确思路给予肯定\n5. 单次回复不超过500字\n6. 不确定时诚实说不知道",
+    "role": "system"
+   },
+   {
+    "content": "学生问：怎么比较 Cl2 和 S 的氧化性？学生已经自己给出两个思路：（1）与变价金属反应看产物价态；（2）相互置换。学生问\"然后呢？\"。请按照苏格拉底引导，先肯定学生给出的思路，然后只推进一小步——引导学生把这两个思路具体应用到 Cl2 和 S 上，让学生自己回忆/写出具体反应事实（如 Fe 与 Cl2、Fe 与 S 的产物，或 Cl2 与 H2S 的置换反应），不要直接给结论。",
+    "role": "user"
+   }
+  ],
+  "model": "deepseek-flash",
+  "temperature": 0.7,
+  "thinking": {
+   "type": "disabled"
+  }
+ },
+ "url": "https://api.deepseek.com/beta/chat/completions"
+}

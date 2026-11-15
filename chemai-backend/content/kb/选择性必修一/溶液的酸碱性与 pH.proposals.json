@@ -1,0 +1,10 @@
+{
+  "doc": "溶液的酸碱性与 pH.md",
+  "kp": "M3-T3-KP04",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M3-T3-KP03", "to_kp": "M3-T3-KP04",
+     "reason": "pH 标尺建立在 Kw 之上，先懂水的电离"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP04", "substance": "酚酞", "formula": "C20H14O4", "role": "指示剂，酸无色碱红"},
+    {"edge_type": "relates_to", "kp": "M3-T3-KP04", "substance": "甲基橙", "formula": "C14H14N3NaO3S", "role": "指示剂，酸红碱黄"}
+  ]
+}

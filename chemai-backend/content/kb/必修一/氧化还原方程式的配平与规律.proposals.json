@@ -1,0 +1,13 @@
+{
+  "doc": "氧化还原方程式的配平与规律.md",
+  "kp": "M1-T2-KP08",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP06", "to_kp": "M1-T2-KP08",
+     "reason": "电子守恒配平与价态规律建立在四组概念与双线桥之上"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP07", "to_kp": "M1-T2-KP08",
+     "reason": "价态规律的氧化性/还原性判断依赖常见氧化剂还原剂清单"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP08", "substance": "高锰酸钾", "formula": "KMnO4", "role": "配平实例氧化剂"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP08", "substance": "氯气", "formula": "Cl2", "role": "歧化实例"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP08", "substance": "硫", "formula": "S", "role": "歧化实例"}
+  ]
+}

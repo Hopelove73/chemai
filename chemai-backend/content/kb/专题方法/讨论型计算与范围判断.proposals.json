@@ -1,0 +1,12 @@
+{
+  "doc": "讨论型计算与范围判断.md",
+  "kp": "M6-T2-KP02",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M6-T2-KP01", "to_kp": "M6-T2-KP02",
+     "reason": "守恒联立是每个讨论区间内的计算引擎"},
+    {"edge_type": "relates_to", "kp": "M6-T2-KP02", "substance": "二氧化碳", "formula": "CO2", "role": "分段讨论主案例"},
+    {"edge_type": "relates_to", "kp": "M6-T2-KP02", "substance": "氢氧化钠", "formula": "NaOH", "role": "碱过量段"},
+    {"edge_type": "relates_to", "kp": "M6-T2-KP02", "substance": "碳酸钠", "formula": "Na2CO3", "role": "过渡带产物之一"},
+    {"edge_type": "relates_to", "kp": "M6-T2-KP02", "substance": "碳酸氢钠", "formula": "NaHCO3", "role": "过渡带产物之一"}
+  ]
+}

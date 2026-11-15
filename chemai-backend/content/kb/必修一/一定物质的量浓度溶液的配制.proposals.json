@@ -1,0 +1,12 @@
+{
+  "doc": "一定物质的量浓度溶液的配制.md",
+  "kp": "M1-T1-KP07",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP16", "to_kp": "M1-T1-KP07",
+     "reason": "配制的目标浓度 c=n/V，误差分析公式源于定义式"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T1-KP02", "to_kp": "M1-T1-KP07",
+     "reason": "天平/玻璃棒/胶头滴管等基本操作规范是流程的前提"},
+    {"edge_type": "relates_to", "kp": "M1-T1-KP07", "substance": "碳酸钠", "formula": "Na2CO3", "role": "配制示例溶质"},
+    {"edge_type": "relates_to", "kp": "M1-T1-KP07", "substance": "氢氧化钠", "formula": "NaOH", "role": "特殊称量案例"}
+  ]
+}

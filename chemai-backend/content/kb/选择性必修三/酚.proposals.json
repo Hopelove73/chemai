@@ -1,0 +1,13 @@
+{
+  "doc": "酚.md",
+  "kp": "M5-T2-KP06",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP05", "to_kp": "M5-T2-KP06",
+     "reason": "苯环的取代与稳定性是理解酚的骨架"},
+    {"edge_type": "prerequisite", "from_kp": "M5-T2-KP05", "to_kp": "M5-T2-KP06",
+     "reason": "醇羟基与酚羟基对照才能理解酸性差异"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP06", "substance": "苯酚", "formula": "C6H5OH", "role": "本篇主角"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP06", "substance": "三溴苯酚", "formula": "C6H2Br3OH", "role": "白色沉淀检验产物"},
+    {"edge_type": "relates_to", "kp": "M5-T2-KP06", "substance": "二氧化碳", "formula": "CO2", "role": "顶析苯酚的酸"}
+  ]
+}

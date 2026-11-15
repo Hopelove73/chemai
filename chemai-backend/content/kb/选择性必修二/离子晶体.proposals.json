@@ -1,0 +1,13 @@
+{
+  "doc": "离子晶体.md",
+  "kp": "M4-T3-KP06",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M4-T3-KP02", "to_kp": "M4-T3-KP06",
+     "reason": "NaCl/CsCl 晶胞分析依赖均摊法"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T3-KP06", "to_kp": "M4-T3-KP06",
+     "reason": "离子键的静电作用是离子晶体的维系力"},
+    {"edge_type": "relates_to", "kp": "M4-T3-KP06", "substance": "氯化钠", "formula": "NaCl", "role": "六配位代表"},
+    {"edge_type": "relates_to", "kp": "M4-T3-KP06", "substance": "氯化铯", "formula": "CsCl", "role": "八配位对照"},
+    {"edge_type": "relates_to", "kp": "M4-T3-KP06", "substance": "氧化镁", "formula": "MgO", "role": "高熔点示例"}
+  ]
+}

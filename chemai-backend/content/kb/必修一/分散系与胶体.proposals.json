@@ -1,0 +1,10 @@
+{
+  "doc": "分散系与胶体.md",
+  "kp": "M1-T2-KP02",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP01", "to_kp": "M1-T2-KP02",
+     "reason": "分散系三分类是物质分类思想在混合物上的直接应用，先有分类框架才能理解按粒径再分类"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP02", "substance": "氢氧化铁", "formula": "Fe(OH)3", "role": "胶体制备实例"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP02", "substance": "氯化铁", "formula": "FeCl3", "role": "胶体制备原料"}
+  ]
+}

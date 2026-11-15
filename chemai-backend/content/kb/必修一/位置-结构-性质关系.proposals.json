@@ -1,0 +1,14 @@
+{
+  "doc": "位置-结构-性质关系.md",
+  "kp": "M1-T3-KP05",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T3-KP04", "to_kp": "M1-T3-KP05",
+     "reason": "性质递变方向是位构性预测链的第三环"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T3-KP03", "to_kp": "M1-T3-KP05",
+     "reason": "位置规则（周期=层数、族=最外层）是反推结构的依据"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T3-KP02", "to_kp": "M1-T3-KP05",
+     "reason": "结构（层数与最外层电子数）是三者的因"},
+    {"edge_type": "relates_to", "kp": "M1-T3-KP05", "substance": "硫", "formula": "S", "role": "预测实例"},
+    {"edge_type": "relates_to", "kp": "M1-T3-KP05", "substance": "镓", "formula": "Ga", "role": "门捷列夫预测案例"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "doc": "铵盐.md",
+  "kp": "M2-T2-KP08",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T2-KP07", "to_kp": "M2-T2-KP08",
+     "reason": "铵盐的性质建立在 NH3 与 NH3·H2O 之上，先认识氨"},
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP04", "to_kp": "M2-T2-KP08",
+     "reason": "铵盐与碱反应本质是 NH4+ 与 OH- 的离子反应"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP08", "substance": "氯化铵", "formula": "NH4Cl", "role": "受热分解的典型铵盐"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP08", "substance": "碳酸氢铵", "formula": "NH4HCO3", "role": "氮肥，受热放出三种物质"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP08", "substance": "硝酸铵", "formula": "NH4NO3", "role": "氮肥，与碱共热放氨"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP08", "substance": "氢氧化钠", "formula": "NaOH", "role": "检验 NH4+ 所用强碱"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP08", "substance": "硫酸铵", "formula": "(NH4)2SO4", "role": "硫铵氮肥"}
+  ]
+}

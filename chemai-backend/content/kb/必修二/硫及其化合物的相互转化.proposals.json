@@ -1,0 +1,16 @@
+{
+  "doc": "硫及其化合物的相互转化.md",
+  "kp": "M2-T2-KP04",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T2-KP01", "to_kp": "M2-T2-KP04",
+     "reason": "价态网络的 0 价节点就是硫单质，先认识硫才能连网络"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T2-KP02", "to_kp": "M2-T2-KP04",
+     "reason": "SO2 是 +4 价枢纽，归中与催化氧化都以它为中心"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T2-KP03", "to_kp": "M2-T2-KP04",
+     "reason": "浓硫酸是 +6 价端，归中反应与工业制硫酸都要用它"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP04", "substance": "硫化氢", "formula": "H2S", "role": "-2 价端，归中反应的低价原料"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP04", "substance": "二氧化硫", "formula": "SO2", "role": "+4 价枢纽"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP04", "substance": "三氧化硫", "formula": "SO3", "role": "+6 价中间体"},
+    {"edge_type": "relates_to", "kp": "M2-T2-KP04", "substance": "硫酸", "formula": "H2SO4", "role": "转化网络终点，工业产品"}
+  ]
+}

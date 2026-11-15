@@ -1,0 +1,11 @@
+{
+  "doc": "电解质与非电解质.md",
+  "kp": "M1-T2-KP03",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M1-T2-KP01", "to_kp": "M1-T2-KP03",
+     "reason": "电解质是对化合物（酸碱盐等类别）的再分类，需要先有酸碱盐氧化物框架"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP03", "substance": "氯化钠", "formula": "NaCl", "role": "强电解质代表"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP03", "substance": "氯化氢", "formula": "HCl", "role": "强电解质代表"},
+    {"edge_type": "relates_to", "kp": "M1-T2-KP03", "substance": "二氧化碳", "formula": "CO2", "role": "非电解质易错案例"}
+  ]
+}

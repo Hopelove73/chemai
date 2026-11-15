@@ -1,0 +1,14 @@
+{
+  "doc": "化学品的合理使用.md",
+  "kp": "M2-T5-KP04",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M2-T2-KP08", "to_kp": "M2-T5-KP04",
+     "reason": "氮肥的保存与施用禁忌是合理使用化肥的直接依据"},
+    {"edge_type": "prerequisite", "from_kp": "M2-T4-KP09", "to_kp": "M2-T5-KP04",
+     "reason": "食品添加剂与营养知识建立在糖类等营养物质之上"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP04", "substance": "碳酸氢铵", "formula": "NH4HCO3", "role": "氮肥代表，受热易分解"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP04", "substance": "硫酸铜", "formula": "CuSO4", "role": "波尔多液原料"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP04", "substance": "氢氧化钙", "formula": "Ca(OH)2", "role": "波尔多液原料"},
+    {"edge_type": "relates_to", "kp": "M2-T5-KP04", "substance": "碳酸氢钠", "formula": "NaHCO3", "role": "抗酸药代表"}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "doc": "陌生信息迁移与新情境题.md",
+  "kp": "M6-T3-KP01",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M6-T2-KP03", "to_kp": "M6-T3-KP01",
+     "reason": "信息型方程式书写与三守恒自查是本篇的落点工具"},
+    {"edge_type": "relates_to", "kp": "M6-T3-KP01", "substance": "二氧化钛", "formula": "TiO2", "role": "克劳尔法原料"},
+    {"edge_type": "relates_to", "kp": "M6-T3-KP01", "substance": "四氯化钛", "formula": "TiCl4", "role": "氯化中间产物"},
+    {"edge_type": "relates_to", "kp": "M6-T3-KP01", "substance": "镁", "formula": "Mg", "role": "镁热还原剂（氩气氛围案例）"},
+    {"edge_type": "relates_to", "kp": "M6-T3-KP01", "substance": "氯化亚铜", "formula": "CuCl", "role": "信息指定产物案例"}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "doc": "范德华力与氢键.md",
+  "kp": "M4-T2-KP06",
+  "edges": [
+    {"edge_type": "prerequisite", "from_kp": "M4-T2-KP05", "to_kp": "M4-T2-KP06",
+     "reason": "分子间作用力建立在分子的电性分布（极性）之上"},
+    {"edge_type": "relates_to", "kp": "M4-T2-KP06", "substance": "水", "formula": "H2O", "role": "氢键反常代表"},
+    {"edge_type": "relates_to", "kp": "M4-T2-KP06", "substance": "氟化氢", "formula": "HF", "role": "氢键代表"},
+    {"edge_type": "relates_to", "kp": "M4-T2-KP06", "substance": "碘", "formula": "I2", "role": "范德华力递变末端"}
+  ]
+}

@@ -1,0 +1,850 @@
+{
+  "version": "accepted-1",
+  "note": "T2 标签映射草案：题库 163 种标签 → 必修一词典 40 条。三类：mapped=映射进词典（出题/归档用）；generic=考核技能/泛化标签，不映射单一知识点（出题时作题型维度保留）；future=必修二及选择性必修内容，对应词典建成后回补。注意：tag_count 是该标签在题库中的出现次数——一题可带多个标签，跨类求和会重复计入；去重后的题目数见 stats。",
+  "generated_at": "2026-10-27",
+  "mapped": {
+    "_comment": "confidence: high=同名或教科书级对应；medium=家族标签映射到主知识点；low=判断性归并，老师重点过",
+    "氧化还原反应": {
+      "kp": "M1-T2-KP06",
+      "confidence": "high",
+      "tag_count": 2478,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "物质的量": {
+      "kp": "M1-T2-KP14",
+      "confidence": "high",
+      "tag_count": 1854,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "元素周期律": {
+      "kp": "M1-T3-KP04",
+      "confidence": "high",
+      "tag_count": 1721,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "化学反应速率": {
+      "kp": "M1-T3-KP09",
+      "confidence": "high",
+      "tag_count": 979,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "物质的量浓度": {
+      "kp": "M1-T2-KP16",
+      "confidence": "high",
+      "tag_count": 663,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "原子结构": {
+      "kp": "M1-T3-KP01",
+      "confidence": "high",
+      "tag_count": 262,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "氧化剂与还原剂": {
+      "kp": "M1-T2-KP07",
+      "confidence": "high",
+      "tag_count": 15,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "离子反应": {
+      "kp": "M1-T2-KP04",
+      "confidence": "high",
+      "tag_count": 3,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "物质的分离与提纯": {
+      "kp": "M1-T1-KP01",
+      "confidence": "high",
+      "tag_count": 2,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "一定物质的量浓度溶液的配制": {
+      "kp": "M1-T1-KP07",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "氯及其化合物": {
+      "kp": "M1-T2-KP12",
+      "confidence": "medium",
+      "tag_count": 1081,
+      "note": "家族标签，覆盖 KP12/KP13",
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "钠及其化合物": {
+      "kp": "M1-T2-KP09",
+      "confidence": "medium",
+      "tag_count": 705,
+      "note": "家族标签，覆盖 KP09-KP11",
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "铁及其化合物": {
+      "kp": "M1-T2-KP17",
+      "confidence": "medium",
+      "tag_count": 589,
+      "note": "家族标签，覆盖 KP17-KP19",
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "离子方程式": {
+      "kp": "M1-T2-KP05",
+      "confidence": "high",
+      "tag_count": 1326,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "离子共存": {
+      "kp": "M1-T2-KP23",
+      "confidence": "high",
+      "tag_count": 582,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "离子检验": {
+      "kp": "M1-T1-KP03",
+      "confidence": "high",
+      "tag_count": 501,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "气体制备": {
+      "kp": "M1-T1-KP04",
+      "confidence": "high",
+      "tag_count": 479,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "物质分离提纯": {
+      "kp": "M1-T1-KP01",
+      "confidence": "high",
+      "tag_count": 353,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "仪器使用": {
+      "kp": "M1-T1-KP02",
+      "confidence": "medium",
+      "tag_count": 570,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "实验基本操作": {
+      "kp": "M1-T1-KP02",
+      "confidence": "high",
+      "tag_count": 227,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "物质分类": {
+      "kp": "M1-T2-KP01",
+      "confidence": "high",
+      "tag_count": 200,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "分散系": {
+      "kp": "M1-T2-KP02",
+      "confidence": "high",
+      "tag_count": 2,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "胶体": {
+      "kp": "M1-T2-KP02",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "电解质": {
+      "kp": "M1-T2-KP03",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "非电解质": {
+      "kp": "M1-T2-KP03",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "阿伏加德罗常数": {
+      "kp": "M1-T2-KP14",
+      "confidence": "high",
+      "tag_count": 221,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "摩尔": {
+      "kp": "M1-T2-KP14",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "化学与STSE": {
+      "kp": "M1-T5-KP01",
+      "confidence": "medium",
+      "tag_count": 749,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "传统文化": {
+      "kp": "M1-T5-KP01",
+      "confidence": "low",
+      "tag_count": 217,
+      "note": "传统文化情境题多跨知识点，作 STSE 弱归并",
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "绿色化学": {
+      "kp": "M1-T5-KP01",
+      "confidence": "medium",
+      "tag_count": 110,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "钠与水的反应": {
+      "kp": "M1-T2-KP09",
+      "confidence": "high",
+      "tag_count": 4,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "钠的化合物": {
+      "kp": "M1-T2-KP10",
+      "confidence": "medium",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "铁的化学性质": {
+      "kp": "M1-T2-KP17",
+      "confidence": "high",
+      "tag_count": 2,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "氧化剂还原剂": {
+      "kp": "M1-T2-KP07",
+      "confidence": "high",
+      "tag_count": 2,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "氧化剂还原剂判断": {
+      "kp": "M1-T2-KP07",
+      "confidence": "high",
+      "tag_count": 7,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "氧化剂与还原剂判断": {
+      "kp": "M1-T2-KP07",
+      "confidence": "high",
+      "tag_count": 6,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "还原剂判断": {
+      "kp": "M1-T2-KP07",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "还原剂": {
+      "kp": "M1-T2-KP07",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "氧化性强弱": {
+      "kp": "M1-T2-KP07",
+      "confidence": "high",
+      "tag_count": 2,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "氧化性还原性强弱": {
+      "kp": "M1-T2-KP07",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "氧化性还原性强弱比较": {
+      "kp": "M1-T2-KP07",
+      "confidence": "high",
+      "tag_count": 4,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "氧化性强弱比较": {
+      "kp": "M1-T2-KP07",
+      "confidence": "high",
+      "tag_count": 11,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "氧化还原": {
+      "kp": "M1-T2-KP06",
+      "confidence": "high",
+      "tag_count": 5,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "氧化还原反应的基本规律": {
+      "kp": "M1-T2-KP08",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "氧化还原反应中的基本概念": {
+      "kp": "M1-T2-KP06",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "氧化还原反应基本概念": {
+      "kp": "M1-T2-KP06",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "氧化还原反应的判断": {
+      "kp": "M1-T2-KP06",
+      "confidence": "high",
+      "tag_count": 3,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "氧化剂与还原剂的判断": {
+      "kp": "M1-T2-KP07",
+      "confidence": "high",
+      "tag_count": 3,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "双线桥": {
+      "kp": "M1-T2-KP06",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "电子转移": {
+      "kp": "M1-T2-KP27",
+      "confidence": "high",
+      "tag_count": 6,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28",
+      "note": "KB4b 改道：电子转移数目/电子守恒计算类题目归入新细目 M1-T2-KP27（原折入 KP06 概念条，错误率无法定位）"
+    },
+    "电子转移数目": {
+      "kp": "M1-T2-KP08",
+      "confidence": "medium",
+      "tag_count": 5,
+      "note": "数目计算偏守恒配平",
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "电子转移的方向与数目": {
+      "kp": "M1-T2-KP06",
+      "confidence": "high",
+      "tag_count": 2,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "电子转移计算": {
+      "kp": "M1-T2-KP08",
+      "confidence": "high",
+      "tag_count": 3,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "电子转移与计量": {
+      "kp": "M1-T2-KP08",
+      "confidence": "high",
+      "tag_count": 3,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "电子守恒": {
+      "kp": "M1-T2-KP08",
+      "confidence": "high",
+      "tag_count": 5,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "电子守恒计算": {
+      "kp": "M1-T2-KP08",
+      "confidence": "high",
+      "tag_count": 2,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "氧化还原计算": {
+      "kp": "M1-T2-KP08",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "氧化还原反应计算": {
+      "kp": "M1-T2-KP08",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "氧化还原方程式配平": {
+      "kp": "M1-T2-KP08",
+      "confidence": "high",
+      "tag_count": 3,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "配平": {
+      "kp": "M1-T2-KP08",
+      "confidence": "high",
+      "tag_count": 2,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "配平与计算": {
+      "kp": "M1-T2-KP08",
+      "confidence": "high",
+      "tag_count": 3,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "歧化反应": {
+      "kp": "M1-T2-KP08",
+      "confidence": "high",
+      "tag_count": 2,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "部分氧化": {
+      "kp": "M1-T2-KP08",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "化合价变化": {
+      "kp": "M1-T2-KP06",
+      "confidence": "high",
+      "tag_count": 2,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "化合价升降": {
+      "kp": "M1-T2-KP06",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "化合价升降与电子转移": {
+      "kp": "M1-T2-KP06",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "化合价升降与氧化还原的关系": {
+      "kp": "M1-T2-KP06",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "化合价计算": {
+      "kp": "M1-T2-KP06",
+      "confidence": "medium",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "气体的除杂": {
+      "kp": "M1-T1-KP04",
+      "confidence": "medium",
+      "tag_count": 2,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "气体的净化与除杂": {
+      "kp": "M1-T1-KP04",
+      "confidence": "medium",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "气体的除杂与干燥": {
+      "kp": "M1-T1-KP04",
+      "confidence": "medium",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "物质的量之比": {
+      "kp": "M1-T2-KP24",
+      "confidence": "medium",
+      "tag_count": 2,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "化学计量": {
+      "kp": "M1-T2-KP24",
+      "confidence": "low",
+      "tag_count": 2,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "过量计算": {
+      "kp": "M1-T2-KP24",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "守恒计算": {
+      "kp": "M1-T2-KP24",
+      "confidence": "low",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "氧化还原反应电子转移": {
+      "kp": "M1-T2-KP06",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "化学实验基础": {
+      "kp": "M1-T1-KP02",
+      "confidence": "low",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "离子反应顺序": {
+      "kp": "M1-T2-KP04",
+      "confidence": "low",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "离子方程式书写": {
+      "kp": "M1-T2-KP05",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "氧化性还原性比较": {
+      "kp": "M1-T2-KP07",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "氧化性与还原性强弱": {
+      "kp": "M1-T2-KP07",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "速率比较": {
+      "kp": "M1-T3-KP09",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "影响反应速率的因素": {
+      "kp": "M1-T3-KP09",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "化学反应速率的影响因素": {
+      "kp": "M1-T3-KP09",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "化学反应速率的定量表示方法": {
+      "kp": "M1-T3-KP09",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "accepted",
+      "accepted_by": "teacher:zhou",
+      "accepted_at": "2026-10-27"
+    },
+    "铝及其化合物": {
+      "kp": "M1-T2-KP25",
+      "confidence": "medium",
+      "tag_count": 694,
+      "note": "家族标签，覆盖铝单质/氧化物/氢氧化物/铝盐（2026-10-28 补漏转正）",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "铝的化合物": {
+      "kp": "M1-T2-KP25",
+      "confidence": "high",
+      "tag_count": 1,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "过氧化氢": {
+      "kp": "M1-T2-KP26",
+      "confidence": "high",
+      "tag_count": 2,
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "铁盐与亚铁盐": {
+      "kp": "M1-T2-KP19",
+      "confidence": "high",
+      "tag_count": 0,
+      "note": "KB4c 批三转正：铁盐与亚铁盐的检验/转化/保存题此前由家族标签铁及其化合物折算到铁单质条目，本标签落点至 M1-T2-KP19 专条",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    },
+    "镁及其化合物": {
+      "kp": "M1-T2-KP28",
+      "confidence": "high",
+      "tag_count": 0,
+      "note": "KB4c-A 转正：374 清单覆盖度审计 gap 家族落点",
+      "status": "reviewed",
+      "accepted_by": "LLM教研审校",
+      "accepted_at": "2026-10-28"
+    }
+  },
+  "generic": {
+    "_comment": "考核技能/泛化标签：描述出题形式而非知识点，不映射单一 KP；出题引擎可作题型维度使用",
+    "化学实验": 3697,
+    "化学计算": 2497,
+    "化学方程式": 1778,
+    "物质用途": 886,
+    "化学用语": 876,
+    "实验设计": 805,
+    "实验评价": 611,
+    "实验方案评价": 151,
+    "陌生信息迁移": 124,
+    "多过程综合": 124,
+    "元素化合物": 2,
+    "物质性质": 3,
+    "物质转化": 1,
+    "化学表述": 1,
+    "质量分数": 2,
+    "水的作用": 1,
+    "水的性质": 1,
+    "物质的性质": 3
+  },
+  "future": {
+    "_comment": "必修二/选择性必修内容：对应词典（M2/M3）建成后回补映射；本轮不动",
+    "化学平衡类": [
+      "化学平衡",
+      "平衡图像",
+      "平衡常数",
+      "勒夏特列原理",
+      "等效平衡",
+      "平衡常数计算",
+      "化学平衡常数计算",
+      "化学平衡常数",
+      "平衡移动",
+      "化学平衡移动",
+      "压强对化学平衡的影响",
+      "浓度对化学平衡的影响",
+      "恒温恒压条件下化学平衡移动",
+      "平衡状态判断",
+      "平衡状态的判断",
+      "合成氨",
+      "优先反应",
+      "反应方向判断",
+      "化学平衡状态的判断"
+    ],
+    "离子平衡类": [
+      "盐类水解",
+      "沉淀溶解平衡",
+      "水的电离",
+      "水溶液中的离子平衡",
+      "弱电解质电离",
+      "弱电解质稀释",
+      "电离平衡",
+      "电离平衡移动",
+      "电离常数",
+      "同离子效应",
+      "滴定",
+      "离子浓度比较",
+      "离子浓度",
+      "弱电解质的电离平衡"
+    ],
+    "电化学类": [
+      "原电池",
+      "电解池",
+      "电化学",
+      "二次电池",
+      "电极反应式",
+      "电化学计算",
+      "电极反应式书写",
+      "离子迁移",
+      "铁的腐蚀"
+    ],
+    "反应热类": [
+      "化学反应热",
+      "盖斯定律"
+    ],
+    "有机类": [
+      "有机化合物",
+      "官能团",
+      "同分异构体",
+      "有机推断",
+      "酯的水解",
+      "苯的结构与性质"
+    ],
+    "非金属与其它元素类": [
+      "硅及其化合物",
+      "硫及其化合物",
+      "氮及其化合物",
+      "硝酸的性质",
+      "氨的性质",
+      "铝及其化合物",
+      "铝的化合物",
+      "过氧化氢"
+    ],
+    "工艺类": [
+      "化学工艺",
+      "溶度积"
+    ]
+  },
+  "stats": {
+    "generated_at": "2026-10-27",
+    "tag_kinds_total": 163,
+    "tag_kinds_mapped": 89,
+    "tag_kinds_generic": 17,
+    "tag_kinds_future": 57,
+    "questions_with_tags_total": 30920,
+    "questions_by_bucket_dedup": {
+      "mapped": 15045,
+      "generic": 9989,
+      "future": 14431
+    },
+    "questions_in_multiple_buckets": 8417,
+    "note": "按桶去重计数：一题命中多桶（如带『化学实验』+『氧化还原反应』）会在两个桶各计一次，跨桶题 8417 题；2026-10-28 补漏：铝×2、过氧化氢转正（M1 补 M1-T2-KP25/26）"
+  }
+}
